@@ -1,0 +1,5 @@
+google-generativeai
+qdrant-client
+neo4j
+python-dotenv
+tqdm
