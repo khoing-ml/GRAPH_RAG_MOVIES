@@ -43,57 +43,249 @@ def render_movie_detail(detail):
         st.write(detail)
 
 
-def inject_chat_styles():
-    dark = st.session_state.get('dark_mode', False)
-    # Colors
-    bg = '#0f172a' if dark else '#f7f7f8'
-    page_bg = '#020617' if dark else '#ffffff'
-    assistant_bg = '#374151' if dark else '#eef2ff'
-    user_bg = '#111827' if dark else '#111827'
-    text_color = '#e6eef8' if dark else '#111827'
+def inject_gemini_styles():
+    """Inject Gemini-inspired CSS for a clean, centered chat UI."""
+    dark = st.session_state.get('dark_mode', True)
+    
+    # Gemini-like color scheme
+    if dark:
+        page_bg = '#141414'
+        chat_bg = '#1e1e1e'
+        assistant_bg = '#262626'
+        user_bg = '#1e40af'  # Blue from Gemini
+        text_color = '#ffffff'
+        text_secondary = '#e0e0e0'
+    else:
+        page_bg = '#ffffff'
+        chat_bg = '#f5f5f5'
+        assistant_bg = '#f0f0f0'
+        user_bg = '#1e40af'
+        text_color = '#000000'
+        text_secondary = '#666666'
 
     css = f"""
     <style>
-    :root {{ --page-bg: {page_bg}; --chat-bg: {bg}; --assistant-bg: {assistant_bg}; --user-bg: {user_bg}; --text-color: {text_color}; }}
-    .stApp {{ background: var(--page-bg); }}
-    .chat-container{{max-height:65vh;overflow:auto;padding:12px;border-radius:12px;background:var(--chat-bg);box-shadow: 0 2px 8px rgba(0,0,0,0.06)}}
-    .message{{display:flex;margin:10px 0;align-items:flex-end}}
-    .message.assistant{{justify-content:flex-start}}
-    .message.user{{justify-content:flex-end}}
-    .avatar{{width:40px;height:40px;border-radius:50%;display:inline-block;margin:0 8px;flex:0 0 40px}}
-    .bubble{{max-width:78%;padding:12px 16px;border-radius:16px;line-height:1.45;color:var(--text-color);font-family:Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial}}
-    .assistant .bubble{{background:var(--assistant-bg);color:var(--text-color);border-bottom-left-radius:6px}}
-    .user .bubble{{background:var(--user-bg);color:white;border-bottom-right-radius:6px}}
-    .meta{{font-size:11px;color:rgba(0,0,0,0.45);margin-top:6px}}
-    .assistant .meta{{color:rgba(255,255,255,0.6)}}
-    /* scrollbar */
-    .chat-container::-webkit-scrollbar {{ width:8px }}
-    .chat-container::-webkit-scrollbar-thumb {{ background: rgba(0,0,0,0.12); border-radius:8px }}
+    :root {{
+        --page-bg: {page_bg};
+        --chat-bg: {chat_bg};
+        --assistant-bg: {assistant_bg};
+        --user-bg: {user_bg};
+        --text-color: {text_color};
+        --text-secondary: {text_secondary};
+    }}
+    
+    * {{
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }}
+    
+    .stApp {{
+        background-color: var(--page-bg);
+        color: var(--text-color);
+    }}
+    
+    /* Remove top padding and default streamlit styling */
+    .main {{
+        padding-top: 2rem !important;
+    }}
+    
+    /* Chat container styling */
+    .chat-wrapper {{
+        display: block;
+        margin-bottom: 180px;
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0 20px;
+    }}
+    
+    .chat-scroll {{
+        height: auto;
+        overflow: visible;
+        padding: 20px 0;
+        background: transparent;
+    }}
+    
+    /* Message bubbles */
+    .message {{
+        display: flex;
+        margin: 16px 0;
+        align-items: flex-end;
+        animation: fadeIn 0.3s ease-in;
+    }}
+    
+    @keyframes fadeIn {{
+        from {{
+            opacity: 0;
+            transform: translateY(10px);
+        }}
+        to {{
+            opacity: 1;
+            transform: translateY(0);
+        }}
+    }}
+    
+    .message.assistant {{
+        justify-content: flex-start;
+    }}
+    
+    .message.user {{
+        justify-content: flex-end;
+    }}
+    
+    .avatar {{
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+        flex: 0 0 32px;
+        font-size: 18px;
+        background: rgba(255,255,255,0.1);
+    }}
+    
+    .bubble {{
+        max-width: 75%;
+        padding: 12px 16px;
+        border-radius: 18px;
+        line-height: 1.5;
+        word-wrap: break-word;
+        font-size: 15px;
+    }}
+    
+    .message.assistant .bubble {{
+        background-color: var(--assistant-bg);
+        color: var(--text-color);
+        border-radius: 18px 18px 18px 4px;
+    }}
+    
+    .message.user .bubble {{
+        background-color: var(--user-bg);
+        color: white;
+        border-radius: 18px 18px 4px 18px;
+    }}
+    
+    /* Form styling */
+    form.stForm {{
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        max-width: 800px;
+        z-index: 100;
+        background: transparent;
+        border: none;
+        padding: 0;
+    }}
+    
+    form.stForm > div {{
+        background: transparent !important;
+        border: none !important;
+    }}
+    
+    .stTextArea {{
+        width: 100% !important;
+    }}
+    
+    textarea[role='textbox'] {{
+        background-color: var(--chat-bg) !important;
+        color: var(--text-color) !important;
+        border: 1px solid rgba(255,255,255,0.2) !important;
+        border-radius: 24px !important;
+        padding: 12px 16px !important;
+        font-size: 15px !important;
+        resize: none !important;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+        transition: all 0.2s ease !important;
+    }}
+    
+    textarea[role='textbox']:focus {{
+        outline: none !important;
+        border-color: var(--user-bg) !important;
+        box-shadow: 0 4px 12px rgba(30,64,175,0.3) !important;
+    }}
+    
+    button[kind='primary'] {{
+        background-color: var(--user-bg) !important;
+        color: white !important;
+        border: none !important;
+        border-radius: 50% !important;
+        width: 40px !important;
+        height: 40px !important;
+        padding: 0 !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.2s ease !important;
+    }}
+    
+    button[kind='primary']:hover {{
+        background-color: #1e3a8a !important;
+        box-shadow: 0 4px 12px rgba(30,64,175,0.4) !important;
+    }}
+    
+    /* Hide default Streamlit elements */
+    .stDeployButton {{
+        visibility: hidden;
+    }}
+    
+    #MainMenu {{
+        visibility: hidden;
+    }}
+    
+    footer {{
+        visibility: hidden;
+    }}
+    
+    /* Scrollbar styling */
+    ::-webkit-scrollbar {{
+        width: 8px;
+    }}
+    
+    ::-webkit-scrollbar-track {{
+        background: transparent;
+    }}
+    
+    ::-webkit-scrollbar-thumb {{
+        background: rgba(255,255,255,0.2);
+        border-radius: 4px;
+    }}
+    
+    ::-webkit-scrollbar-thumb:hover {{
+        background: rgba(255,255,255,0.3);
+    }}
     </style>
     """
     st.markdown(css, unsafe_allow_html=True)
 
 
 def render_chat_messages(messages):
-    """Render chat messages list using simple HTML bubbles."""
-    inject_chat_styles()
+    """Render chat messages in Gemini-style bubbles."""
+    inject_gemini_styles()
+    
     if not messages:
-        st.markdown("<div class='chat-container'>No messages yet.</div>", unsafe_allow_html=True)
         return
-    html = ["<div class='chat-container'>"]
+    
+    html = ["<div class='chat-wrapper'><div class='chat-scroll'>"]
+    
     for m in messages:
         role = m.get('role', 'assistant')
         content = m.get('content', '')
-        time_str = m.get('time', '')
-        # basic newline -> <br>
-        content_html = str(content).replace('\n', '<br>')
+        
+        # Escape HTML and convert newlines
+        content_html = str(content).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('\n', '<br>')
+        
         if role == 'user':
             html.append(
-                "<div class='message user'><div class='bubble'>{content}</div></div>".format(content=content_html)
+                f"<div class='message user'><div class='bubble'>{content_html}</div></div>"
             )
         else:
             html.append(
-                "<div class='message assistant'><div class='avatar'>🤖</div><div class='bubble'>{content}</div></div>".format(content=content_html)
+                f"<div class='message assistant'><div class='avatar'>🤖</div><div class='bubble'>{content_html}</div></div>"
             )
-    html.append("</div>")
+    
+    html.append("</div></div>")
     st.markdown('\n'.join(html), unsafe_allow_html=True)

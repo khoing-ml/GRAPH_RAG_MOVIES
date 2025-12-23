@@ -59,39 +59,59 @@ class Neo4jService:
             )
 
     def get_graph_context(self, movie_ids):
-        # Query movie nodes and expand context via director/actors and similar movies
+        # Retrieve enriched context with director, cast, genres, synopsis, and related works
         query = """
         MATCH (m:Movie) WHERE m.id IN $movie_ids
         OPTIONAL MATCH (m)-[:BELONGS_TO]->(g:Genre)
         OPTIONAL MATCH (d:Person)-[:DIRECTED]->(m)
         OPTIONAL MATCH (p:Person)-[:ACTED_IN]->(m)
 
-        // find other movies by same director (limit 3)
+        // Find other movies by same director (for thematic context)
         OPTIONAL MATCH (d)-[:DIRECTED]->(other:Movie)
         WHERE other.id <> m.id
 
+        // Find co-stars for casting context
+        OPTIONAL MATCH (p)-[:ACTED_IN]->(otherFilm:Movie)
+        WHERE otherFilm.id <> m.id
+
         RETURN m.title as Title,
                m.year as Year,
+               m.overview as Overview,
                d.name as Director,
                collect(DISTINCT g.name) as Genres,
-               collect(DISTINCT p.name)[..6] as Cast,
-               collect(DISTINCT other.title)[..3] as OtherMovies
+               collect(DISTINCT p.name)[..8] as Cast,
+               collect(DISTINCT other.title)[..4] as DirectorWorks
+        ORDER BY m.year DESC
         """
 
         results = []
         with self.driver.session() as session:
             data = session.run(query, movie_ids=movie_ids)
             for record in data:
-                info = f"- Movie: '{record['Title']}' ({record['Year']})\n"
+                # Build rich context with multiple details
+                info = f"**{record['Title']}** ({record['Year']})\n"
+                
+                if record['Overview'] and len(record['Overview'].strip()) > 10:
+                    # Include brief synopsis
+                    overview = record['Overview'].strip()
+                    if len(overview) > 200:
+                        overview = overview[:200] + "..."
+                    info += f"About: {overview}\n"
+                
                 if record['Director']:
-                    info += f"  Director: {record['Director']}\n"
+                    info += f"Director: {record['Director']}\n"
+                    director_works = record['DirectorWorks']
+                    if director_works:
+                        info += f"Director's other works: {', '.join(director_works[:3])}\n"
+                
                 if record['Genres']:
-                    info += f"  Genres: {', '.join(record['Genres'])}\n"
+                    info += f"Genres: {', '.join(record['Genres'])}\n"
+                
                 if record['Cast']:
-                    info += f"  Cast: {', '.join(record['Cast'])}\n"
-                others = record['OtherMovies']
-                if others:
-                    info += f"  -> Director also made: {', '.join(others)}.\n"
+                    # Show notable cast
+                    top_cast = record['Cast'][:5]
+                    info += f"Starring: {', '.join(top_cast)}\n"
+                
                 results.append(info)
 
-        return "\n\n".join(results)
+        return "\n".join(results)
