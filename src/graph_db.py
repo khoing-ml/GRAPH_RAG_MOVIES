@@ -11,68 +11,87 @@ class Neo4jService:
     def close(self):
         self.driver.close()
 
-    def add_book_data(self, book):
-        # Query tạo nút Sách, Tác giả, Thể loại và nối chúng lại
+    def add_movie_data(self, movie):
+        # Create Movie node, Person nodes (director/actors) and Genre relationships
         query = """
-        MERGE (b:Book {id: $id})
-        SET b.title = $title, 
-            b.language = $language, 
-            b.year = $year,
-            b.summary = $summary
-        
-        MERGE (a:Author {name: $author})
-        MERGE (g:Genre {name: $genre})
-        
-        MERGE (b)-[:WROTE_BY]->(a)
-        MERGE (b)-[:BELONGS_TO]->(g)
+        MERGE (m:Movie {id: $id})
+        SET m.title = $title,
+            m.year = $year,
+            m.overview = $overview
+
+        // Genres
+        WITH m
+        UNWIND $genres AS g_name
+        MERGE (g:Genre {name: g_name})
+        MERGE (m)-[:BELONGS_TO]->(g)
+
+        // Cast
+        WITH m
+        UNWIND $cast AS actor_name
+        MERGE (p:Person {name: actor_name})
+        MERGE (p)-[:ACTED_IN]->(m)
+
+        // Director
+        WITH m
+        WITH m, $director AS director_name
+        CALL {
+            WITH director_name, m
+            WHERE director_name IS NOT NULL
+            MERGE (d:Person {name: director_name})
+            MERGE (d)-[:DIRECTED]->(m)
+            RETURN d
+        }
+        RETURN m
         """
-        
-        # Xử lý năm xuất bản (lấy 4 số đầu)
-        year_str = book.get("published_date", "")
-        year = year_str[:4] if year_str and len(year_str) >= 4 else "Unknown"
+
+        year_str = movie.get("release_date", "")
+        year = year_str[:4] if year_str and len(year_str) >= 4 else movie.get('year', 'Unknown')
 
         with self.driver.session() as session:
-            session.run(query, 
-                        id=book["id"], 
-                        title=book["title"], 
-                        author=book["author"], 
-                        genre=book["genre"],
-                        language=book.get("language", "en"),
-                        summary=book.get("summary", "")[:200] + "...", # Chỉ lưu đoạn ngắn vào Graph để tham khảo
-                        year=year
+            session.run(query,
+                        id=movie.get("tmdb_id") or movie.get("id"),
+                        title=movie.get("title", "Untitled"),
+                        year=year,
+                        overview=movie.get("overview", ""),
+                        genres=movie.get("genres", []),
+                        cast=movie.get("cast", []),
+                        director=movie.get("director")
             )
 
-    def get_graph_context(self, book_ids):
-        # Query lấy thông tin sách và mở rộng (expansion) sang sách cùng tác giả
+    def get_graph_context(self, movie_ids):
+        # Query movie nodes and expand context via director/actors and similar movies
         query = """
-        MATCH (b:Book) WHERE b.id IN $book_ids
-        MATCH (b)-[:WROTE_BY]->(a:Author)
-        MATCH (b)-[:BELONGS_TO]->(g:Genre)
-        
-        // Tìm sách khác của cùng tác giả (giới hạn 3 cuốn để không bị quá tải context)
-        OPTIONAL MATCH (a)<-[:WROTE_BY]-(other:Book) 
-        WHERE other.id <> b.id
-        
-        RETURN b.title as Title, 
-               b.language as Lang,
-               b.year as Year,
-               a.name as Author, 
-               g.name as Genre, 
-               collect(other.title)[..3] as OtherBooks
+        MATCH (m:Movie) WHERE m.id IN $movie_ids
+        OPTIONAL MATCH (m)-[:BELONGS_TO]->(g:Genre)
+        OPTIONAL MATCH (d:Person)-[:DIRECTED]->(m)
+        OPTIONAL MATCH (p:Person)-[:ACTED_IN]->(m)
+
+        // find other movies by same director (limit 3)
+        OPTIONAL MATCH (d)-[:DIRECTED]->(other:Movie)
+        WHERE other.id <> m.id
+
+        RETURN m.title as Title,
+               m.year as Year,
+               d.name as Director,
+               collect(DISTINCT g.name) as Genres,
+               collect(DISTINCT p.name)[..6] as Cast,
+               collect(DISTINCT other.title)[..3] as OtherMovies
         """
+
         results = []
         with self.driver.session() as session:
-            data = session.run(query, book_ids=book_ids)
+            data = session.run(query, movie_ids=movie_ids)
             for record in data:
-                lang_display = "Vietnamese" if record['Lang'] == 'vi' else "English"
-                
-                info = f"- Book: '{record['Title']}' ({record['Year']}, {lang_display})\n" \
-                       f"  Author: {record['Author']} | Genre: {record['Genre']}"
-                
-                others = record['OtherBooks']
+                info = f"- Movie: '{record['Title']}' ({record['Year']})\n"
+                if record['Director']:
+                    info += f"  Director: {record['Director']}\n"
+                if record['Genres']:
+                    info += f"  Genres: {', '.join(record['Genres'])}\n"
+                if record['Cast']:
+                    info += f"  Cast: {', '.join(record['Cast'])}\n"
+                others = record['OtherMovies']
                 if others:
-                    info += f"\n  -> Author also wrote: {', '.join(others)}."
-                
+                    info += f"  -> Director also made: {', '.join(others)}.\n"
                 results.append(info)
-        
+
         return "\n\n".join(results)

@@ -34,19 +34,56 @@ class GeminiService:
         print("❌ Đã thử nhiều lần nhưng thất bại.")
         return None
 
-    def generate_answer(self, context, question):
+    def generate_answer(self, context, question, context_provided=True, ask_followups=False):
         # Cũng thêm retry cho phần chat
         for _ in range(3):
             try:
+                # Build a clearer prompt that discourages echoing raw DB records
+                if context_provided and context:
+                    context_block = f"Context (short):\n{context}\n"
+                    context_note = (
+                        "Use the database context only to support your concise answer. "
+                        "Do NOT repeat DB entries verbatim or preface the answer with long DB quotes."
+                    )
+                else:
+                    context_block = ""
+                    context_note = (
+                        "The database did not return relevant results. Answer from your general film knowledge; "
+                        "be concise and natural."
+                    )
+
+                # small few-shot example to set tone
+                example = (
+                    "Example:\nQuestion: 'Gợi ý phim siêu anh hùng gần đây, phù hợp cho gia đình'\n"
+                    "Answer: 'Spider-Man: No Way Home (2021) — Hài hước, cảm động; phù hợp cho gia đình.\n"
+                    "- Vì có yếu tố hành động và hài nhẹ; đạo diễn: Jon Watts.\n'\n\n"
+                )
+
                 prompt = f"""
-                Bạn là một trợ lý thư viện thông thái.
-                Hãy trả lời câu hỏi dựa trên ngữ cảnh sau:
-                {context}
-                
-                Câu hỏi: {question}
-                """
+You are a helpful, concise Vietnamese-speaking film assistant. Be natural, direct, and prioritize useful information.
+
+{context_block}
+User question: {question}
+
+Instructions:
+- Start with one short sentence recommendation or answer (no preface).
+- Then give 1–3 brief bullets explaining why (use DB facts if available).
+- Optionally list up to 3 related films (title + 1 short reason each).
+- If the DB had no matches, answer from general knowledge and do not say long apologetic DB messages.
+- Do NOT echo entire database records or say things like "Dựa trên cơ sở dữ liệu..." before your answer; instead integrate facts naturally.
+- Keep it concise (<=250 words) and conversational.
+
+{context_note}
+
+{example}
+"""
+                # If follow-up questions are requested, instruct the model to add them
+                if ask_followups:
+                    prompt += (
+                        "\nCâu hỏi làm rõ:\n- (Hỏi 1–2 câu ngắn, tập trung vào sở thích hoặc yêu cầu cụ thể của người dùng)"
+                    )
                 response = self.model.generate_content(prompt)
-                return response.text
+                return response.text.strip()
             except Exception as e:
                 print(f"⚠️ Lỗi khi chat: {e}. Đợi 5s...")
                 time.sleep(5)

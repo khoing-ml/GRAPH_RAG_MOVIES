@@ -1,88 +1,108 @@
 import streamlit as st
-from src.rag_pipeline import GraphRAG
 import time
-from streamlit.runtime.scriptrunner import get_script_run_ctx
+from src.rag_pipeline import GraphRAG
+from src import ingest
+from src.ui_helpers import render_search_results, render_movie_detail, render_chat_messages
+from datetime import datetime
 
-# Hàm khởi tạo và lưu trữ GraphRAG vào session state
+
 @st.cache_resource
 def initialize_graph_rag():
-    """Khởi tạo GraphRAG service và cache nó."""
     try:
-        rag_service = GraphRAG()
-        return rag_service
+        return GraphRAG()
     except Exception as e:
-        # Nếu database chưa bật hoặc key sai
         st.error(f"❌ Lỗi khởi tạo hệ thống: {e}")
         st.stop()
 
-# --- CẤU HÌNH GIAO DIỆN STREAMLIT ---
-st.set_page_config(
-    page_title="Book GraphRAG Advisor",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
 
-st.title("📚 Book Recommender (GraphRAG + Gemini)")
-st.subheader("Tìm kiếm ngữ nghĩa và quan hệ giữa sách")
+st.set_page_config(page_title="Movie GraphRAG", layout="wide")
 
-# Khởi tạo dịch vụ chỉ một lần
+st.title("🎬 Movie GraphRAG")
+st.write("Tìm kiếm ngữ nghĩa và mở rộng ngữ cảnh bằng Graph + Vector + Gemini")
+
 rag = initialize_graph_rag()
 
-# --- Xử lý Lịch sử Chat ---
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-    st.session_state.messages.append({
-        "role": "assistant", 
-        "content": "Chào bạn! Bạn muốn tìm sách về chủ đề gì, hoặc muốn tìm sách cùng tác giả nào?"
-    })
+# Chat history initialization
+if 'chat_messages' not in st.session_state:
+    st.session_state['chat_messages'] = [
+        {"role": "assistant", "content": "Chào bạn! Tôi có thể giúp tìm phim, gợi ý hoặc trả lời câu hỏi về điện ảnh.", "time": datetime.now().isoformat()}
+    ]
 
-# Hiển thị lịch sử chat
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+# Ensure dark_mode key exists before any widget creates it
+if 'dark_mode' not in st.session_state:
+    st.session_state['dark_mode'] = False
 
-# --- Xử lý Input của Người dùng ---
-if prompt := st.chat_input("Nhập câu hỏi của bạn..."):
-    # 1. Thêm câu hỏi người dùng vào lịch sử
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
 
-    # 2. Sinh câu trả lời và hiển thị
-    with st.chat_message("assistant"):
-        message_placeholder = st.empty()
-        full_response = ""
-        
-        # Gọi hàm query từ service GraphRAG
-        try:
-            with st.spinner("🤖 Đang suy luận bằng GraphRAG..."):
-                start_time = time.time()
-                
-                # Hàm query của chúng ta đã được thiết kế để trả về chuỗi cuối cùng
-                ai_response = rag.query(prompt)
-                
-                end_time = time.time()
-                latency = end_time - start_time
-
-                # Hiển thị kết quả dưới dạng stream (giả lập)
-                # Hoặc chỉ hiển thị một lần nếu Gemini trả về nhanh
-                full_response = ai_response + f"\n\n---\n*Phản hồi trong: {latency:.2f}s*"
-                
-                message_placeholder.markdown(full_response)
-
-        except Exception as e:
-            full_response = f"❌ Xin lỗi, có lỗi hệ thống xảy ra: {e}"
-            message_placeholder.markdown(full_response)
-
-    # 3. Lưu câu trả lời của trợ lý vào lịch sử
-    st.session_state.messages.append({"role": "assistant", "content": full_response})
-
-# --- Sidebar Thông tin ---
 with st.sidebar:
-    st.header("Thông tin Dự án")
-    st.write("Kiến trúc: Hybrid RAG (Retrieval-Augmented Generation)")
-    st.write(f"LLM: Gemini-2.5-Flash (via `src/llm_service.py`)")
-    st.write(f"Vector DB: Qdrant (Cổng 6333)")
-    st.write(f"Graph DB: Neo4j (Cổng 7687)")
-    
-    st.button("Xóa Lịch sử Chat", on_click=lambda: st.session_state.messages.clear())
+    st.header("Actions")
+    # Dark mode toggle (widget binds directly to `st.session_state['dark_mode']`)
+    st.checkbox("Dark mode", value=st.session_state.get('dark_mode', False), key='dark_mode')
+    if st.button("Run Ingestion"):
+        with st.spinner("Running ingestion..."):
+            try:
+                ingest.run_ingestion()
+                st.success("Ingestion finished (check logs)")
+            except Exception as e:
+                st.error(f"Ingestion error: {e}")
+
+    if st.button("Fix Vector Dimension"):
+        with st.spinner("Checking collection..."):
+            try:
+                from fix_vector_dimension import fix_dimension
+                fix_dimension()
+            except Exception as e:
+                st.error(f"Error: {e}")
+
+    st.markdown("---")
+    st.header("Info")
+    st.write("LLM: Gemini (via `src/llm_service.py`)")
+    st.write("Vector DB: Qdrant")
+    st.write("Graph DB: Neo4j")
+    st.markdown("---")
+    st.write("Tip: Use the chat input to ask for movie recommendations or details.")
+
+
+# Main layout: center chat + right panels
+left_col, center_col, right_col = st.columns([1, 3, 1])
+
+with center_col:
+    st.markdown("### Chat")
+    # render messages
+    render_chat_messages(st.session_state['chat_messages'])
+
+    # Input form at bottom
+    with st.form(key='chat_form', clear_on_submit=True):
+        user_input = st.text_area("Message", label_visibility='collapsed', placeholder="Hỏi về phim, ví dụ: 'Phim hành động siêu anh hùng hay nào?'", key='chat_input', height=80)
+        submitted = st.form_submit_button("Send")
+
+    if submitted and user_input and user_input.strip():
+        # append user message
+        usr_msg = {"role": "user", "content": user_input.strip(), "time": datetime.now().isoformat()}
+        st.session_state['chat_messages'].append(usr_msg)
+        # rerender quickly
+        render_chat_messages(st.session_state['chat_messages'])
+
+        # get assistant response (blocking for now)
+        with st.spinner("Đang suy luận..."):
+            try:
+                answer = rag.query(user_input.strip())
+            except Exception as e:
+                answer = f"Lỗi khi truy vấn: {e}"
+
+        assistant_msg = {"role": "assistant", "content": answer, "time": datetime.now().isoformat()}
+        st.session_state['chat_messages'].append(assistant_msg)
+        render_chat_messages(st.session_state['chat_messages'])
+
+with right_col:
+    st.subheader("Quick Actions")
+    st.write("Bạn có thể: tìm kiếm, xem kết quả, hoặc chọn film để xem chi tiết.")
+    if 'last_results' in st.session_state:
+        st.markdown("**Last results**")
+        _ = render_search_results(st.session_state['last_results'])
+    if 'selected_id' in st.session_state:
+        st.markdown("**Selected**")
+        try:
+            ctx = rag.graphdb.get_graph_context([st.session_state['selected_id']])
+            render_movie_detail({'title': f"Movie {st.session_state['selected_id']}", 'overview': ctx})
+        except Exception:
+            st.write("Không thể lấy chi tiết.")

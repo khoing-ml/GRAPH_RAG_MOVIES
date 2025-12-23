@@ -12,14 +12,14 @@ def main():
     # Chế độ mặc định: Chat
     rag = GraphRAG()
     print("\n" + "="*50)
-    print("📚 BOOK RECOMMENDER SYSTEM (GraphRAG + Gemini)")
+    print("MOVIE RECOMMENDER SYSTEM (GraphRAG + Gemini)")
     print("Using: Neo4j (Graph) + Qdrant (Vector)")
     print("="*50)
     print("Gõ 'exit', 'quit' hoặc 'bye' để thoát.\n")
     
     try:
         while True:
-            user_input = input("👤 Bạn (Hỏi về sách): ")
+            user_input = input("Bạn (Hỏi về phim): ")
             
             if user_input.lower() in ["exit", "quit", "bye"]:
                 print("👋 Tạm biệt!")

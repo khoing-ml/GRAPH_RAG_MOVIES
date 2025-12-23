@@ -4,9 +4,17 @@ from .config import Config
 
 class QdrantService:
     def __init__(self):
-        # Kết nối tới Qdrant
-        self.client = QdrantClient(url=Config.QDRANT_URL)
-        self.collection_name = "books_collection"
+        # Kết nối tới Qdrant (Cloud or Local)
+        if Config.QDRANT_API_KEY:
+            # Cloud configuration with API key
+            self.client = QdrantClient(
+                url=Config.QDRANT_URL,
+                api_key=Config.QDRANT_API_KEY
+            )
+        else:
+            # Local configuration without API key
+            self.client = QdrantClient(url=Config.QDRANT_URL)
+        self.collection_name = Config.QDRANT_COLLECTION
         self._create_collection_if_not_exists()
 
     def _create_collection_if_not_exists(self):
