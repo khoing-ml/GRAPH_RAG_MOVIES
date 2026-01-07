@@ -1,0 +1,726 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/75qZEe83YLt06ARmRp6KS47huyD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 637663,
+    "imdb_id": "tt11229556",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "DC Showcase: Death",
+    "overview": "Vincent, an artist with unresolved inner demons, meets a mysterious girl who helps him come to terms with his creative legacy… and eventual death.",
+    "popularity": 0.665,
+    "poster_path": "/4Ni5u7VMFbw4kIpqx5wKqjlFVwA.jpg",
+    "production_companies": [
+      {
+        "id": 2785,
+        "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+        "name": "Warner Bros. Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 9993,
+        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+        "name": "DC Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-10-22",
+    "revenue": 0,
+    "runtime": 19,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "DC Showcase: Death",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 147
+  },
+  "credits": {
+    "id": 637663,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78324,
+        "known_for_department": "Acting",
+        "name": "Jamie Chung",
+        "original_name": "Jamie Chung",
+        "popularity": 4.0197,
+        "profile_path": "/5KS919slWvKwK2fcE3jpkEodlxs.jpg",
+        "cast_id": 1,
+        "character": "Death (voice)",
+        "credit_id": "5d9ba56d336e0100312835ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24200,
+        "known_for_department": "Acting",
+        "name": "Leonardo Nam",
+        "original_name": "Leonardo Nam",
+        "popularity": 1.1625,
+        "profile_path": "/yKL70EoAdjJV2JI2CN1Dr5qzAlJ.jpg",
+        "cast_id": 2,
+        "character": "Vincent Omata (voice)",
+        "credit_id": "5d9ba58635a61e0013236bcb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352628,
+        "known_for_department": "Acting",
+        "name": "Darin De Paul",
+        "original_name": "Darin De Paul",
+        "popularity": 0.6982,
+        "profile_path": "/vGzewVsLWtXyEU7X3iNdjWEd6y9.jpg",
+        "cast_id": 7,
+        "character": "Professor (voice)",
+        "credit_id": "5db6335d0f2fbd0011701c1e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87957,
+        "known_for_department": "Acting",
+        "name": "Keith Szarabajka",
+        "original_name": "Keith Szarabajka",
+        "popularity": 2.2898,
+        "profile_path": "/z45Goe7lfBvs3cBP5igsCE8ISWG.jpg",
+        "cast_id": 8,
+        "character": "Supervisor (voice)",
+        "credit_id": "5db633723faba0001935f243",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116315,
+        "known_for_department": "Acting",
+        "name": "Kari Wahlgren",
+        "original_name": "Kari Wahlgren",
+        "popularity": 1.9022,
+        "profile_path": "/zOr1RedcTfmntJO0gXxFkyxNBkE.jpg",
+        "cast_id": 9,
+        "character": "Charlotte (voice)",
+        "credit_id": "5db633830f2fbd0014702b99",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90367,
+        "known_for_department": "Directing",
+        "name": "Sam Liu",
+        "original_name": "Sam Liu",
+        "popularity": 0.8456,
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "credit_id": "5d9ba5a3eb14fa0022d1e082",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90367,
+        "known_for_department": "Directing",
+        "name": "Sam Liu",
+        "original_name": "Sam Liu",
+        "popularity": 0.8456,
+        "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+        "credit_id": "5d9ba598eb14fa618fd181cc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23446,
+        "known_for_department": "Writing",
+        "name": "Neil Gaiman",
+        "original_name": "Neil Gaiman",
+        "popularity": 1.1224,
+        "profile_path": "/wXPREg2zhD9gsycde7AoMebVyfA.jpg",
+        "credit_id": "5d9ba5ac15c636001220eb5a",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220917,
+        "known_for_department": "Writing",
+        "name": "J. M. DeMatteis",
+        "original_name": "J. M. DeMatteis",
+        "popularity": 0.5097,
+        "profile_path": "/cYtMwZr5TXF1FCTtLM8IK4EPKQf.jpg",
+        "credit_id": "5d9ba5bdeb14fa618fd18227",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512020,
+        "known_for_department": "Writing",
+        "name": "Mike Dringenberg",
+        "original_name": "Mike Dringenberg",
+        "popularity": 0.2815,
+        "profile_path": null,
+        "credit_id": "5db633943faba0001635f615",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 0.4816,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "5db634840792e1001341fce6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1964180,
+        "known_for_department": "Production",
+        "name": "Amy McKenna",
+        "original_name": "Amy McKenna",
+        "popularity": 0.2427,
+        "profile_path": null,
+        "credit_id": "5db634a00f2fbd0014702ce2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2169044,
+        "known_for_department": "Production",
+        "name": "Matthew Mahoney",
+        "original_name": "Matthew Mahoney",
+        "popularity": 0.6605,
+        "profile_path": "/zrIJDfMD755hZq6qC9yHoVy7j45.jpg",
+        "credit_id": "5db633abd2c0c1001b148ca6",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033619,
+        "known_for_department": "Editing",
+        "name": "Christopher D. Lozinski",
+        "original_name": "Christopher D. Lozinski",
+        "popularity": 0.1157,
+        "profile_path": null,
+        "credit_id": "5db635140f2fbd0014702df0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1641642,
+        "known_for_department": "Production",
+        "name": "Wes Gleason",
+        "original_name": "Wes Gleason",
+        "popularity": 0.3708,
+        "profile_path": null,
+        "credit_id": "5db6353fd1857200118c3e5b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427762,
+        "known_for_department": "Production",
+        "name": "Melissa Lohman",
+        "original_name": "Melissa Lohman",
+        "popularity": 0.1978,
+        "profile_path": null,
+        "credit_id": "5db633b9d2c0c1001b148cf8",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544355,
+        "known_for_department": "Sound",
+        "name": "Frederik Wiedmann",
+        "original_name": "Frederik Wiedmann",
+        "popularity": 0.3753,
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "credit_id": "5db635220792e10015415f7d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209181,
+        "known_for_department": "Directing",
+        "name": "Christopher Berkeley",
+        "original_name": "Christopher Berkeley",
+        "popularity": 0.5965,
+        "profile_path": "/emLQWuFQDHeT8TkwFedyte4ACEv.jpg",
+        "credit_id": "5db633edd1857200138c4bab",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 0.6417,
+        "profile_path": null,
+        "credit_id": "5db6346a0f2fbd0011701f5e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141618,
+        "known_for_department": "Sound",
+        "name": "Devon Bowman",
+        "original_name": "Devon Bowman",
+        "popularity": 0.1519,
+        "profile_path": null,
+        "credit_id": "68ed007d533b0da534a21667",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 637663,
+    "keywords": [
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 298607,
+        "name": "supernatural drama"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1041356,
+        "original_language": "en",
+        "original_title": "Fused",
+        "overview": "A place where minds don't matter",
+        "popularity": 0.1805,
+        "poster_path": "/7n1BRpwPr1opixLGweJB7YhroZE.jpg",
+        "release_date": "",
+        "title": "Fused",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t8syvbUv3ipI46fCIY6Cr0421IA.jpg",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 643847,
+        "original_language": "en",
+        "original_title": "Boiling Point",
+        "overview": "During the busy run-up to Christmas, a single-take snapshot of the immense stress and skills of a talented head chef reveals that things are about to burst behind the restaurant's flash façade.",
+        "popularity": 0.4516,
+        "poster_path": "/mfzH3Zqm3QGK6SsdyCBPoB0NgPF.jpg",
+        "release_date": "2019-03-13",
+        "title": "Boiling Point",
+        "video": false,
+        "vote_average": 7.31,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 455982,
+        "original_language": "en",
+        "original_title": "Savage",
+        "overview": "On a summer day in the 1950s, a native girl watches the countryside go by from the backseat of a car. A woman at her kitchen table sings a lullaby in her Cree language. When the girl arrives at her destination, she undergoes a transformation that will turn the woman’s gentle voice into a howl of anger and pain.",
+        "popularity": 0.2995,
+        "poster_path": "/ajxfrfYX4HdYbwPh25fRiSBCoZ3.jpg",
+        "release_date": "2009-10-17",
+        "title": "Savage",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pLQ8mBKbysi8AiQvaJVQnXEcUeF.jpg",
+        "genre_ids": [
+          16,
+          99
+        ],
+        "id": 456054,
+        "original_language": "en",
+        "original_title": "Isabella",
+        "overview": "This film aims to capture the stories of the aging Isabella, but also captures her condition and loss of cohesiveness as she loses herself into dementia and Parkinson's. It is also a very personal film since the subject is the grandmother of one of the co- directors. The idea is interesting as it links one strong clear memory, told several times, to other fragments and truths of her condition. Animation is sparingly but cleverly used to complement the delivery and avoid it just being a talking head.",
+        "popularity": 0.9337,
+        "poster_path": "/s9ssZ5cZ77XmNdGycIP1FnO7xXT.jpg",
+        "release_date": "2015-01-01",
+        "title": "Isabella",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 456055,
+        "original_language": "da",
+        "original_title": "Brainy",
+        "overview": "11 years old Brian is an imaginative boy who is dealing with the loss of his grandfather by constructing a fantastic series of rituals...",
+        "popularity": 2.0035,
+        "poster_path": "/1MT3r834nTHl1jvj3Mf4Zk6WFPZ.jpg",
+        "release_date": "2011-01-01",
+        "title": "Brainy",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 456061,
+        "original_language": "fr",
+        "original_title": "Candidature",
+        "overview": "Jean, a young Parisian philosopher, travels to Angoulême to take part in a recruitment competition for the National Education. On the bus, he meets two other candidates, Pauline, an unscrupulous young woman, and Luc Dunoyer, a brilliant specialist of Descartes. The presence of the latter, who has never failed an exam, makes Jean lose all his means. But Dunoyer has fallen asleep on the bus.",
+        "popularity": 0.6142,
+        "poster_path": "/gNJW4NNTBPflDcUFgFdaEwyL8Ch.jpg",
+        "release_date": "2001-10-31",
+        "title": "Candidature",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gmYSDwXjMMOQb2fV9kRvCwtnbiw.jpg",
+        "genre_ids": [
+          14,
+          10402
+        ],
+        "id": 1429090,
+        "original_language": "en",
+        "original_title": "Monomyth - Patsy",
+        "overview": "A very unusual wedding unfolds in front of a woman.",
+        "popularity": 1.394,
+        "poster_path": "/9voZXhtsZp52LCEgjo37pspLhz0.jpg",
+        "release_date": "2014-06-12",
+        "title": "Monomyth - Patsy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6I74sRJzRYzzbURNZ8GX4CMwmqZ.jpg",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "id": 1232454,
+        "original_language": "en",
+        "original_title": "I'm With You",
+        "overview": "A mute nurse cares deeply for the dying woman she lives with, but after a miscommunication with her client, she's forced to decide if she should break the one forbidden rule of the job - going outside.",
+        "popularity": 0.1607,
+        "poster_path": "/mFiziAXS9ULau4kvooESebjjfF9.jpg",
+        "release_date": "2023-11-05",
+        "title": "I'm With You",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          12,
+          18,
+          878
+        ],
+        "id": 1041557,
+        "original_language": "ja",
+        "original_title": "ウルトラマン コネクションPresents TAMASHII NATIONSスペシャル配信：ウルトラマントリガー編",
+        "overview": "Ultraman Connection Presents: Tamashii Nations Special Streaming featuring Ultraman Trigger is a special filmed stage show based on various Ultraman characters and released on YouTube as a part of the eponymous stream.",
+        "popularity": 0.2402,
+        "poster_path": "/3s0aPnfgHmeYm6qpM7M2S47LEDL.jpg",
+        "release_date": "2022-10-19",
+        "title": "Ultraman Connection Presents: Tamashii Nations Special Streaming featuring Ultraman Trigger",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1232520,
+        "original_language": "hi",
+        "original_title": "अनार दाना",
+        "overview": "Guddal, a free-spirited five year old, loves eating the sour sweeties called Anaar Daana. Her antics with her brother Laddoo often land her in trouble. One day, a sad incident in the house causes a shift in her idyllic world.",
+        "popularity": 0.1102,
+        "poster_path": "/epTPcjQvkxpq8YebmyL0xvwB7lV.jpg",
+        "release_date": "2024-02-20",
+        "title": "Sour Candy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          14
+        ],
+        "id": 1232559,
+        "original_language": "de",
+        "original_title": "Monte Adrion",
+        "overview": "The mythical mountain of Monte Adrion (Biokovo) shows us pictures from your life.",
+        "popularity": 0.1667,
+        "poster_path": "/4ZhU5jtPSJgK1zGeeYhclk9Jx1w.jpg",
+        "release_date": "2018-06-09",
+        "title": "Monte Adrion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6JfNYGSLJuHgohvIEJ1EWziCIrr.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 152921,
+        "original_language": "en",
+        "original_title": "removed",
+        "overview": "Starting with a piece of vintage porn, filmmaker Naomi Uman painstakingly removed each female figure from the footage using nail polish remover, leaving a striking absence where there's usually a fleshy presence. Uman's celebrated film is a smart retort to pornography's obsessive gaze at the female body.",
+        "popularity": 1.4733,
+        "poster_path": "/2x8Uye7iEisokq7fIsWWnYmpZM9.jpg",
+        "release_date": "1999-12-17",
+        "title": "removed",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3VeNFWlxgCJd7Oq8EvoSv50N5Jv.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10770
+        ],
+        "id": 779611,
+        "original_language": "en",
+        "original_title": "Zog and the Flying Doctors",
+        "overview": "Pearl and Gadabout are now a flying doctor trio, caring for creatures including a mermaid, a unicorn and a sneezy lion. However when bad weather forces them to land at the palace, Pearl is locked up by her uncle, the king.",
+        "popularity": 1.1965,
+        "poster_path": "/aow2SrU1nKY1onSTjHhhLW8Ndd6.jpg",
+        "release_date": "2021-04-16",
+        "title": "Zog and the Flying Doctors",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/koQi9BuqdnBIwgBRjLuRcPsC1QT.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14,
+          12
+        ],
+        "id": 779632,
+        "original_language": "en",
+        "original_title": "Clown",
+        "overview": "Follow a little toy clown, thrown away with a load of old discarded toys, as he goes on a journey to find a new loving home for himself and his friends.",
+        "popularity": 1.0192,
+        "poster_path": "/utPCwCOscbbVSQTovFvhAc7o0eb.jpg",
+        "release_date": "2020-12-25",
+        "title": "Clown",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9T80wXX9AMyYsgp1zYRTLKX9Xol.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 396958,
+        "original_language": "fr",
+        "original_title": "En moi",
+        "overview": "A movie director goes to the Paris Opera to shoot his new film. Lacking inspiration, he looks for ways out of his solitude and fear of failure. With each step forward, his imagination reveals itself to him, and mysterious characters lead him towards his desire to create and love.",
+        "popularity": 0.1961,
+        "poster_path": "/twzLgjCngp2ERRifDj4HYhjWAVh.jpg",
+        "release_date": "2016-05-20",
+        "title": "En moi",
+        "video": false,
+        "vote_average": 2.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ddU8oINM61po4Xo5aVQv0wgOAu9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1555582,
+        "original_language": "ro",
+        "original_title": "Doina",
+        "overview": "Doina, a shepherd’s wife in ancient Romania, turns her daily routine into ritual. When nature foretells his death, her journey through grief blends realism, myth, and magic, where despair meets imagination.",
+        "popularity": 0.1463,
+        "poster_path": "/ldoDnuNrnFzMUT7fmrkC8xQ7klP.jpg",
+        "release_date": "2025-10-01",
+        "title": "Doina",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/srVMuGfz4TRDQMBU3I193pv9Wrb.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 587319,
+        "original_language": "fr",
+        "original_title": "Hors piste",
+        "overview": "The two best rescue workers in the region take off for their umpteenth mission. Professionalism and efficiency all around, but things don't really go as planned.",
+        "popularity": 0.227,
+        "poster_path": "/8mRZkyWmR0nvPKbwCbLI0725xzI.jpg",
+        "release_date": "2018-09-11",
+        "title": "Off-Piste",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s3g1phjNy2hmtOHuUeYWi8EC9t1.jpg",
+        "genre_ids": [
+          16,
+          27
+        ],
+        "id": 396524,
+        "original_language": "en",
+        "original_title": "Dead Ahead",
+        "overview": "In a 3D isometric view, a car journeys from one nightmare scenario to the next. A tribute to classic horror movies.",
+        "popularity": 0.4772,
+        "poster_path": "/ei87ssXE06LWxPavdNmjNHjdC4T.jpg",
+        "release_date": "2016-04-29",
+        "title": "Dead Ahead",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dtM2KlgOF6JBcEVOoJ87qdV5Dzb.jpg",
+        "genre_ids": [
+          16,
+          28
+        ],
+        "id": 396538,
+        "original_language": "uk",
+        "original_title": "Бій",
+        "overview": "A man kills a toy designer and steals his latest product. The product, a mini-army complete with weapons, then wages war on the killer.\r The first Ukrainian screen adaptation of Stephen King's story.",
+        "popularity": 0.4235,
+        "poster_path": "/efPncfi6qMaW0TIBOD08mye7SuH.jpg",
+        "release_date": "1986-01-01",
+        "title": "Battle",
+        "video": false,
+        "vote_average": 5.909,
+        "vote_count": 11
+      }
+    ],
+    "total_pages": 18874,
+    "total_results": 377466
+  }
+}

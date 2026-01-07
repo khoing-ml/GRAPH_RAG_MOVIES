@@ -1,0 +1,582 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/fQq1FWp1rC89xDrRMuyFJdFUdMd.jpg",
+    "belongs_to_collection": {
+      "id": 729322,
+      "name": "Gabriel's Inferno Collection",
+      "poster_path": "/LdSn17U6ybhtPJT3S6fTNRni5Y.jpg",
+      "backdrop_path": "/hXF55codODfnzTZDExbUbfFmA9y.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 761053,
+    "imdb_id": "tt13535456",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gabriel's Inferno: Part III",
+    "overview": "The final part of the film adaption of the erotic romance novel Gabriel's Inferno written by an anonymous Canadian author under the pen name Sylvain Reynard.",
+    "popularity": 3.1314,
+    "poster_path": "/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+    "production_companies": [
+      {
+        "id": 92153,
+        "logo_path": "/psjvYkjjgAPtS8utnFYDM8t8yi7.png",
+        "name": "PassionFlix",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-11-19",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gabriel's Inferno: Part III",
+    "video": false,
+    "vote_average": 8.36,
+    "vote_count": 1072
+  },
+  "credits": {
+    "id": 761053,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1312450,
+        "known_for_department": "Acting",
+        "name": "Melanie Zanetti",
+        "original_name": "Melanie Zanetti",
+        "popularity": 2.1721,
+        "profile_path": "/lbUQ7ilvBtWMU23reKsHg3jRmsf.jpg",
+        "cast_id": 3,
+        "character": "Julia Mitchell",
+        "credit_id": "5fdad9fa29c62600401f7a01",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544002,
+        "known_for_department": "Acting",
+        "name": "Giulio Berruti",
+        "original_name": "Giulio Berruti",
+        "popularity": 3.2215,
+        "profile_path": "/cCOWVvjQ1TblPvM7TgMBqMczkOX.jpg",
+        "cast_id": 1,
+        "character": "Gabriel Emerson",
+        "credit_id": "5fdad9cfeda4b70041400df3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1844204,
+        "known_for_department": "Acting",
+        "name": "Rhett Wellington Ramirez",
+        "original_name": "Rhett Wellington Ramirez",
+        "popularity": 5.0069,
+        "profile_path": "/3WWleE8I95hzi3VxH6TunlfyT7j.jpg",
+        "cast_id": 11,
+        "character": "Simon Talbot",
+        "credit_id": "60c3f572a76ac5006d9d0839",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2345991,
+        "known_for_department": "Acting",
+        "name": "James Andrew Fraser",
+        "original_name": "James Andrew Fraser",
+        "popularity": 1.705,
+        "profile_path": "/bMHD0ezBKKNRLr8fLkWgIWpkqNs.jpg",
+        "cast_id": 4,
+        "character": "Paul Norris",
+        "credit_id": "5fe93b4da3d027003faa6f2c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2595115,
+        "known_for_department": "Acting",
+        "name": "Margaux Brooke",
+        "original_name": "Margaux Brooke",
+        "popularity": 0.8455,
+        "profile_path": "/leLl5l6KnjMdg5O48FhDfB7GquI.jpg",
+        "cast_id": 5,
+        "character": "Christa Peterson",
+        "credit_id": "5fe93e65df857c003f382118",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139749,
+        "known_for_department": "Acting",
+        "name": "Pat Asanti",
+        "original_name": "Pat Asanti",
+        "popularity": 1.3752,
+        "profile_path": "/5K00dIzaB8RDsdIyV9KnSHtxVfa.jpg",
+        "cast_id": 7,
+        "character": "Antonio",
+        "credit_id": "5fe93e95c9054f003c3b5676",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2913395,
+        "known_for_department": "Acting",
+        "name": "Julia Barrett-Mitchell",
+        "original_name": "Julia Barrett-Mitchell",
+        "popularity": 1.6198,
+        "profile_path": "/4xaYpRltvVMyF9rPQhirhQK5MXj.jpg",
+        "cast_id": 8,
+        "character": "Rachel Clark",
+        "credit_id": "5fe93eb215959f003e9e04cf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73659,
+        "known_for_department": "Acting",
+        "name": "Kurt McKinney",
+        "original_name": "Kurt McKinney",
+        "popularity": 1.6403,
+        "profile_path": "/setj0mgP81HdUdBiXF4SU5Gs1Dx.jpg",
+        "cast_id": 18,
+        "character": "Tom Mitchell",
+        "credit_id": "6911990a2f9649b50a4c85a1",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680443,
+        "known_for_department": "Sound",
+        "name": "Ben Collier",
+        "original_name": "Ben Collier",
+        "popularity": 0.4648,
+        "profile_path": null,
+        "credit_id": "63118780be55b70083c68b31",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1412043,
+        "known_for_department": "Art",
+        "name": "Traci Hays",
+        "original_name": "Traci Hays",
+        "popularity": 1.3247,
+        "profile_path": "/8d1L4MQUvirdq285vYmosa07YAD.jpg",
+        "credit_id": "63118b8a564ec7007a8e2095",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3156541,
+        "known_for_department": "Production",
+        "name": "Lino Ruggiero",
+        "original_name": "Lino Ruggiero",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "63118770cb80280082cb23dd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972687,
+        "known_for_department": "Writing",
+        "name": "Mary Pocrnic",
+        "original_name": "Mary Pocrnic",
+        "popularity": 0.5007,
+        "profile_path": null,
+        "credit_id": "63118763e63571007ddf735a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935563,
+        "known_for_department": "Production",
+        "name": "Tosca Musk",
+        "original_name": "Tosca Musk",
+        "popularity": 1.4955,
+        "profile_path": "/1tWccsh9uR9mK3Q0e4PZKe0e6eB.jpg",
+        "credit_id": "631187788c7b0f007d1d636f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2693030,
+        "known_for_department": "Writing",
+        "name": "Sylvain Reynard",
+        "original_name": "Sylvain Reynard",
+        "popularity": 1.1901,
+        "profile_path": null,
+        "credit_id": "619eee1f8de0ae008da0fef3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935563,
+        "known_for_department": "Production",
+        "name": "Tosca Musk",
+        "original_name": "Tosca Musk",
+        "popularity": 1.4955,
+        "profile_path": "/1tWccsh9uR9mK3Q0e4PZKe0e6eB.jpg",
+        "credit_id": "5fe93eff1511aa003ef14242",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1845009,
+        "known_for_department": "Production",
+        "name": "Michael Buttiglieri",
+        "original_name": "Michael Buttiglieri",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "5fe93fb507a808003e8d5815",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 761053,
+    "keywords": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yfiJyg8QhlPXdhPFieKZqp1171v.jpg",
+        "genre_ids": [
+          18,
+          28,
+          10749
+        ],
+        "id": 1429244,
+        "original_language": "si",
+        "original_title": "සූර්යා",
+        "overview": "A heartwarming tale about a young man,rediscovering and reinventing himself embarking on a fulfilling journey of life.",
+        "popularity": 1.9807,
+        "poster_path": "/wfVbGA7Q7FiCyZVs8mSxhrhUhZr.jpg",
+        "release_date": "2025-07-12",
+        "title": "Soorya",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ynlUKNQsTpBZCHWmzy7WTuGkG83.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1429266,
+        "original_language": "en",
+        "original_title": "Lights Off",
+        "overview": "A mafia family is forced to play a twisted game, leading to unfortunate outcomes for each member.",
+        "popularity": 0.1482,
+        "poster_path": "/zj4Lc7c2gp85jnioY2z2gVlW1vu.jpg",
+        "release_date": "2024-12-13",
+        "title": "Lights Off",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qBKrj7WOBo5A4vX4cB4zU5cO5ca.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1429299,
+        "original_language": "es",
+        "original_title": "Contigo en el futuro",
+        "overview": "Carlos and Elena are about to sign a divorce when they receive an unexpected gift that will allow them to travel back in time. Back in the '90s, that nostalgic era of leather jackets, rowdy hairstyles and pop-rock, they will seek to change their destiny.",
+        "popularity": 1.0981,
+        "poster_path": "/94UuKFxMiEwTjdwBMhm1y3jKKKF.jpg",
+        "release_date": "2025-02-06",
+        "title": "With You in the Future",
+        "video": false,
+        "vote_average": 8.123,
+        "vote_count": 53
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/khgUrxxkQ9zIgMOvuQq8JOSmBEN.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1429311,
+        "original_language": "ml",
+        "original_title": "പൊങ്കാല",
+        "overview": "After being released from prison for a murder he did not commit, a man quickly learns that crime and injustice are still rife in his hometown.",
+        "popularity": 0.1457,
+        "poster_path": "/gsXz7wmbqQ8ywNjJhlpOkxMtOZ4.jpg",
+        "release_date": "2025-12-05",
+        "title": "Pongala",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          28
+        ],
+        "id": 1429331,
+        "original_language": "en",
+        "original_title": "Sacred Mask",
+        "overview": "A young man who comes from a luchador family but has forsaken the family name and mask tries to follow his own dreams only to be brought back into the fold by a dark and mysterious shadow who hurts everyone close to him to get what he wants.",
+        "popularity": 4.6135,
+        "poster_path": "/8tAgZXC2vvLHiIz6WkwPFSKiwXt.jpg",
+        "release_date": "2023-07-12",
+        "title": "Sacred Mask",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749,
+          27
+        ],
+        "id": 644283,
+        "original_language": "ko",
+        "original_title": "로미오: 눈을 가진 죄",
+        "overview": "\"I can't reach you, So-jung.“  The movie starts with a desire to see what we all of us want to see.  Love too ...",
+        "popularity": 0.2856,
+        "poster_path": "/r7NaZfuUSoXivxyARK8WlWrYLOj.jpg",
+        "release_date": "2019-08-22",
+        "title": "ROMEO",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 644289,
+        "original_language": "en",
+        "original_title": "He Watches Over Me",
+        "overview": "After a vicious assault, a woman holds the fate of her attacker in her hands.",
+        "popularity": 0.1556,
+        "poster_path": "/3zJ0TtZhQNMmBtLdqMsbF3LFRGI.jpg",
+        "release_date": "2018-10-29",
+        "title": "He Watches Over Me",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kfqMt3ClfHQhxmtTDUNmHaVh7Vj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 644293,
+        "original_language": "en",
+        "original_title": "Closer to Home",
+        "overview": "When a social worker named (FAITH) begins to investigate a series of in depth cases,she begins to become emotionally involved. Which is breaking the number one Cardinal rule of her job. This pandora box of emotions begins to unravel & pull back the layers on FAITHS own past. Leading her down a path of discovery,that no one is expecting.",
+        "popularity": 0.5298,
+        "poster_path": "/lBoSAc8uICJiJgA7NKFLiUImhFT.jpg",
+        "release_date": "2016-04-21",
+        "title": "Closer to Home",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bU2G6jcZDXKT3hg6u4My4b9B083.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          10770
+        ],
+        "id": 644296,
+        "original_language": "fr",
+        "original_title": "Coup de foudre à Saint-Petersbourg",
+        "overview": "Marie is a sweet and lively single mother who gets a Christmas Day surprise - she’s inherited an estate in Saint Petersburg!",
+        "popularity": 0.9527,
+        "poster_path": "/grUzcyZujxhB0ooWFuwOozjIO0y.jpg",
+        "release_date": "2019-11-14",
+        "title": "Love In St. Petersburg",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uite3yTpDmuCequtjPKA1R8zONw.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 644301,
+        "original_language": "ja",
+        "original_title": "エリザベート",
+        "overview": "Takarazuka Revue Star Troupe 1996-1997 production of the Viennese musical 'Elisabeth'",
+        "popularity": 0.2249,
+        "poster_path": "/mearoht3fXHjE1m1KcYA2M4RTnm.jpg",
+        "release_date": "1997-03-31",
+        "title": "Elisabeth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j35u2ZrFVFlB9ZKvGjlf3QOzgvo.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 644313,
+        "original_language": "pt",
+        "original_title": "Frei Bonifácio",
+        "overview": "To shorten the way, Bonifácio Mendes a small-minded muleteer decides to cross the Mafra cover.",
+        "popularity": 0.1848,
+        "poster_path": "/iSJOv6KyNn9EGES4TrhidmJWhDz.jpg",
+        "release_date": "1918-10-04",
+        "title": "Frei Bonifácio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/goL6SSpFDkxveXTnEvP76sGQQOz.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 644318,
+        "original_language": "en",
+        "original_title": "Man from Beirut",
+        "overview": "Out of the dark - this is true for this film both on the story level and in terms of production. A hard-boiled thriller with a high-concept twist set in Berlin, Man from Beirut follows a blind hitman, Momo, as he tries to survive after his emotions have compromised the outcome of his latest „cleaning job“: He encounters a young girl in the wrong place at the wrong moment, but can’t pull the trigger this time - and finds himself on the run alongside fellow hitman Kadir. To make it out of the Berlin night alive, the killer has to turn against an army of former friends and new foes.",
+        "popularity": 0.2393,
+        "poster_path": "/gnmKy5JzXeGCOgEP3zZCD0QRdrv.jpg",
+        "release_date": "2019-11-25",
+        "title": "Man from Beirut",
+        "video": false,
+        "vote_average": 4.778,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdCD0gPVbeWcakwLbBnxlgYbH51.jpg",
+        "genre_ids": [
+          10770,
+          10749,
+          35
+        ],
+        "id": 644325,
+        "original_language": "en",
+        "original_title": "Romance Retreat",
+        "overview": "After a breakup, an ambitious journalist on vacation runs into a tech guru at the center of a breaking scandal. As she falls for him, she has to choose between her career or her heart.",
+        "popularity": 2.8287,
+        "poster_path": "/gU6KqU683MAzVLz90s3X3Vt3Hh1.jpg",
+        "release_date": "2019-08-24",
+        "title": "Romance Retreat",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 644331,
+        "original_language": "zh",
+        "original_title": "精忠報國",
+        "overview": "The film depicts how the young Yue Fei learned martial arts, got his mighty weapon, and romanced his wife. Later he entered the national contest of martial arts, and had to fight his way out of a legion of challengers.",
+        "popularity": 0.1876,
+        "poster_path": "/vK13TZzX7vrEfsF0sIrVvKBZeTL.jpg",
+        "release_date": "1971-03-10",
+        "title": "The Decisive Battle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 644340,
+        "original_language": "ja",
+        "original_title": "夢子惨死",
+        "overview": "The first 16mm film to depict the terrorism and betrayal of a public security spy, set against a backdrop of internal strife. One of the origins of Nagasaki's work.",
+        "popularity": 0.1223,
+        "poster_path": null,
+        "release_date": "1977-06-29",
+        "title": "Yumeko's Death",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 15337,
+    "total_results": 306732
+  }
+}

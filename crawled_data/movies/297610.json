@@ -1,0 +1,570 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "",
+    "id": 297610,
+    "imdb_id": "tt2396396",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Abraham Lincoln Vampire Hunter: The Great Calamity",
+    "overview": "A motion comic follow-up to a chapter from Abraham Lincoln Vampire Hunter novel where Abe's friend, Edgar Allan Poe, tells him the tale of historical Hungarian countess Elizabeth Bathory, often tied to vampire legends due to her brutality.",
+    "popularity": 0.6101,
+    "poster_path": "/9kD8bohNKE1truudhmeOtOjfNeH.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2012-10-23",
+    "revenue": 0,
+    "runtime": 7,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Abraham Lincoln Vampire Hunter: The Great Calamity",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 212
+  },
+  "credits": {
+    "id": 297610,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239996,
+        "known_for_department": "Acting",
+        "name": "Benjamin Walker",
+        "original_name": "Benjamin Walker",
+        "popularity": 2.3157,
+        "profile_path": "/xFsDf4v6WYtz07huJvIwJVD05t6.jpg",
+        "cast_id": 0,
+        "character": "Abraham Lincoln",
+        "credit_id": "543eb9b9c3a368251f002957",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5365,
+        "known_for_department": "Acting",
+        "name": "Clifton Collins Jr.",
+        "original_name": "Clifton Collins Jr.",
+        "popularity": 1.5585,
+        "profile_path": "/iUQGHVSAA48q1QMnj7hnBFVq3jK.jpg",
+        "cast_id": 1,
+        "character": "Edgar Allan Poe",
+        "credit_id": "543eb9c60e0a266f810029c9",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935910,
+        "known_for_department": "Directing",
+        "name": "Javier Soto",
+        "original_name": "Javier Soto",
+        "popularity": 0.6323,
+        "profile_path": null,
+        "credit_id": "543eb9dac3a3682517002983",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935910,
+        "known_for_department": "Directing",
+        "name": "Javier Soto",
+        "original_name": "Javier Soto",
+        "popularity": 0.6323,
+        "profile_path": null,
+        "credit_id": "543eb9ebc3a368250d0027f9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565491,
+        "known_for_department": "Writing",
+        "name": "Seth Grahame-Smith",
+        "original_name": "Seth Grahame-Smith",
+        "popularity": 0.5021,
+        "profile_path": "/pCLgf514yTf3aDDOZ2Zb0yjwoZ5.jpg",
+        "credit_id": "543eba000e0a266f84002ac3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935910,
+        "known_for_department": "Directing",
+        "name": "Javier Soto",
+        "original_name": "Javier Soto",
+        "popularity": 0.6323,
+        "profile_path": null,
+        "credit_id": "543eba1a0e0a266f770029ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113050,
+        "known_for_department": "Sound",
+        "name": "Christopher Drake",
+        "original_name": "Christopher Drake",
+        "popularity": 0.2489,
+        "profile_path": null,
+        "credit_id": "543eba2e0e0a266f7a002b00",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8027,
+        "known_for_department": "Visual Effects",
+        "name": "Ricardo Curtis",
+        "original_name": "Ricardo Curtis",
+        "popularity": 0.9054,
+        "profile_path": null,
+        "credit_id": "68b09e41464e89be9eb37a71",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 297610,
+    "keywords": [
+      {
+        "id": 3133,
+        "name": "vampire"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
+        "genre_ids": [
+          27,
+          14,
+          10749
+        ],
+        "id": 138,
+        "original_language": "en",
+        "original_title": "Dracula",
+        "overview": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.",
+        "popularity": 3.7726,
+        "poster_path": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+        "release_date": "1931-02-12",
+        "title": "Dracula",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1329
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/53s2amxPNZBdWAX0l66kC0Rd7MM.jpg",
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 647537,
+        "original_language": "ja",
+        "original_title": "Vamp",
+        "overview": "A troubled teenager who is about to kill herself has a life changing encounter with a female vampire.",
+        "popularity": 3.8917,
+        "poster_path": "/rMGkP4P8rJZHGqTEnqOhZqqZXta.jpg",
+        "release_date": "2019-03-09",
+        "title": "Vamp",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 647932,
+        "original_language": "en",
+        "original_title": "Bloodstone",
+        "overview": "When a farmer's daughter is brutally killed by vampires, he enlists the help of expert hunter Derrick McGregor and his team to track and kill the blood-sucking brood.",
+        "popularity": 0.1692,
+        "poster_path": "/RivWEFtffz4qNNqksktlqkfAiT.jpg",
+        "release_date": "2009-05-20",
+        "title": "Bloodstone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 647935,
+        "original_language": "en",
+        "original_title": "Bloodstone II",
+        "overview": "Derrick McGregor returns to slay the ultimate master vampire Quintana with the help of long-time friends Joe Lassader and Dr. Xavier Burns.",
+        "popularity": 0.2291,
+        "poster_path": "/xRgSMOiwRiOdyn1bW71YlEIlyKZ.jpg",
+        "release_date": "2011-08-06",
+        "title": "Bloodstone II",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bBScaJIqFGjgYPbPMClJJzAAbe1.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 10838,
+        "original_language": "en",
+        "original_title": "Dracula 3000",
+        "overview": "In the year 3000, the deep space salvage ship Mother III locates the vanished starship Demeter in the Carpathian System. Captain Abraham Van Helsing and his crew composed of the blonde assistant Aurora Ash; the crippled navigator Arthur \"The Professor\" Holmwood, who believes that he is a genius; the strong and dumb Humvee; the intern Mina Murry; and the drug addicted 187, decide to claim the possession of Demeter. While exploring the spacecraft, they see a tape of fifty years ago of Captain Varna telling that he was locked in his cabin since his crew was acting weird after getting a cargo of coffins in Transylvania station. When 187 decides to search in the coffins for some possible hidden dope, he cuts his hand and his blood awakes Count Orlock, a.k.a. Count Dracula. When Aurora discloses who Dracula is, the survivors try to find a way to destroy the vampire.",
+        "popularity": 3.5077,
+        "poster_path": "/ucrvSJIoxw1D2SZ2p6J9EIHzFPg.jpg",
+        "release_date": "2004-08-09",
+        "title": "Dracula 3000",
+        "video": false,
+        "vote_average": 2.7,
+        "vote_count": 147
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lpByVKyDvEaMJAFn7cADocSZJ7c.jpg",
+        "genre_ids": [
+          28,
+          27
+        ],
+        "id": 462036,
+        "original_language": "en",
+        "original_title": "The Monster Project",
+        "overview": "When aspiring horror filmmakers post an online casting call looking for \"real life\" monsters to interview for their upcoming documentary called, The Monster Project, they find three individuals claiming to be a skin-walker, a vampire, and a demon. Meeting these monsters at a remote mansion in the woods on the night of a total lunar eclipse, the filmmakers invite the three subjects to share their haunting, personal experiences. Working on the crew is a recovering drug addict who suffers withdrawal and paranoia. As a person of faith, he fears his friends underestimate the dark powers they are summoning. When the interviews turn deadly, he must battle the demons, inside and out, to escape the house and defeat the rise of evil incarnate.",
+        "popularity": 0.5269,
+        "poster_path": "/1E0JW9zqFwOO7w0HiuEPo6N7HBl.jpg",
+        "release_date": "2017-08-18",
+        "title": "The Monster Project",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 154
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/RUyWTa6i8Sw9NUXK0gEE3zwrws.jpg",
+        "genre_ids": [
+          35,
+          27,
+          80,
+          14
+        ],
+        "id": 7091,
+        "original_language": "en",
+        "original_title": "Vampire's Kiss",
+        "overview": "A publishing executive is visited and bitten by a vampire and starts exhibiting erratic behavior. He pushes his secretary to extremes as he tries to come to terms with his affliction.",
+        "popularity": 2.8927,
+        "poster_path": "/bEwvlXvvrVLPFwCOND5E38qly01.jpg",
+        "release_date": "1989-06-02",
+        "title": "Vampire's Kiss",
+        "video": false,
+        "vote_average": 5.913,
+        "vote_count": 466
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+        "genre_ids": [
+          27,
+          12,
+          28
+        ],
+        "id": 7131,
+        "original_language": "en",
+        "original_title": "Van Helsing",
+        "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+        "popularity": 10.7052,
+        "poster_path": "/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+        "release_date": "2004-05-03",
+        "title": "Van Helsing",
+        "video": false,
+        "vote_average": 6.385,
+        "vote_count": 6374
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/88S6EYQBVyQktDfSqsB33I169jN.jpg",
+        "genre_ids": [
+          10749,
+          27
+        ],
+        "id": 6114,
+        "original_language": "en",
+        "original_title": "Bram Stoker's Dracula",
+        "overview": "Centuries-old vampire Count Dracula travels to Victorian London, where he becomes obsessed with Mina Murray—the fiancée of his solicitor, Jonathan Harker—believing her to be the reincarnation of his long-lost love.",
+        "popularity": 10.2435,
+        "poster_path": "/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+        "release_date": "1992-11-13",
+        "title": "Bram Stoker's Dracula",
+        "video": false,
+        "vote_average": 7.444,
+        "vote_count": 5580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4DZ9rYfdLvoehzGZ7wSjMfp3Uy2.jpg",
+        "genre_ids": [
+          14,
+          27,
+          18
+        ],
+        "id": 1047223,
+        "original_language": "fr",
+        "original_title": "Le Vourdalak",
+        "overview": "The Marquis d’Urfé finds refuge in the home of a strange family after becoming lost in a hostile forest while working as an emissary for the King of France.",
+        "popularity": 0.9376,
+        "poster_path": "/sNyfKJUgabNcKSOw7C7hag4ANiU.jpg",
+        "release_date": "2023-10-25",
+        "title": "The Vourdalak",
+        "video": false,
+        "vote_average": 6.366,
+        "vote_count": 71
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uHudMff1vp2GDXqHD8QOA78QpNW.jpg",
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 6404,
+        "original_language": "de",
+        "original_title": "Nosferatu - Phantom der Nacht",
+        "overview": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
+        "popularity": 2.2723,
+        "poster_path": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+        "release_date": "1979-01-17",
+        "title": "Nosferatu the Vampyre",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 1042
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rKY8SodMU6NnTVPSrxIBhzBJDPn.jpg",
+        "genre_ids": [
+          14,
+          10749,
+          53
+        ],
+        "id": 1448,
+        "original_language": "en",
+        "original_title": "The Wisdom of Crocodiles",
+        "overview": "A vampire in London is searching for the ideal woman to 'redeem' him.",
+        "popularity": 0.7964,
+        "poster_path": "/rMxdX8QXWjIZDsZthsN8axFR4ws.jpg",
+        "release_date": "1998-11-27",
+        "title": "Immortality",
+        "video": false,
+        "vote_average": 5.74,
+        "vote_count": 102
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ryBUkjVLKjSJOTgBfxHrdu7rxG0.jpg",
+        "genre_ids": [
+          28,
+          12,
+          27,
+          878,
+          53
+        ],
+        "id": 1450,
+        "original_language": "en",
+        "original_title": "Blood: The Last Vampire",
+        "overview": "On the surface, Saya is a stunning 16-year-old, but that youthful exterior hides the tormented soul of a 400-year-old \"halfling\". Born to a human father and a vampire mother, she has for centuries been a loner obsessed with using her samurai skills to rid the world of vampires, all the while knowing that she herself can survive only on blood like those she hunts.",
+        "popularity": 1.0182,
+        "poster_path": "/uzuYpbdFkNYqnBdOvhWqZxhHa5C.jpg",
+        "release_date": "2009-04-02",
+        "title": "Blood: The Last Vampire",
+        "video": false,
+        "vote_average": 5.85,
+        "vote_count": 406
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+        "genre_ids": [
+          27,
+          35,
+          53,
+          18,
+          10749
+        ],
+        "id": 1547,
+        "original_language": "en",
+        "original_title": "The Lost Boys",
+        "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+        "popularity": 4.196,
+        "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+        "release_date": "1987-07-31",
+        "title": "The Lost Boys",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 2213
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 458013,
+        "original_language": "en",
+        "original_title": "My Ambition",
+        "overview": "Jules Walters' unhealthy obsession with vampires leads to his dismissal from school. But when he steals a bat from the local zoo, his obsession may lead to his demise.",
+        "popularity": 0.4035,
+        "poster_path": "/zMnmWT9oA2twVfH2NLMwmdtM6XR.jpg",
+        "release_date": "2006-05-14",
+        "title": "My Ambition",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hwl1k1VL7RRQV3ZPj6YvVQclC3k.jpg",
+        "genre_ids": [
+          35,
+          27,
+          10770
+        ],
+        "id": 843291,
+        "original_language": "en",
+        "original_title": "The League of Gentlemen's Christmas Special: Yule Never Leave!",
+        "overview": "Royston Vasey's miserable vicar, the Reverend Bernice Woodall, is in a typically un-festive mood, haunted by a terrible Christmas memory, when three visitors appear at her church, each with their own chilling tale to recall.",
+        "popularity": 0.2313,
+        "poster_path": "/p6gtwj1wngGVtk0zwvq4nPI5Wtd.jpg",
+        "release_date": "2000-12-27",
+        "title": "The League of Gentlemen's Christmas Special: Yule Never Leave!",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e0Rnf6YM1drFPqoQ8rvA3bPVOqj.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 4229,
+        "original_language": "en",
+        "original_title": "The Scary Movie",
+        "overview": "Martina and Sonja, cross-dress in vampire capes and werewolf claws, re-enacting familiar horror tropes. A corresponding soundtrack of stock screams and \"scary\" music suggests that the girls' toying with gender roles and power dynamics may have dire consequences.",
+        "popularity": 0.6317,
+        "poster_path": "/zIVlMOEnCQWlUHwMuKnBQKHyc3T.jpg",
+        "release_date": "1993-01-01",
+        "title": "The Scary Movie",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/255fuSu5ExomYMjU0sVvHHN7IVR.jpg",
+        "genre_ids": [
+          35,
+          27
+        ],
+        "id": 4240,
+        "original_language": "en",
+        "original_title": "Titanic 2000",
+        "overview": "The luxury liner Titanic 2000 has set sail on its maiden voyage, and one of the passengers is the vampire Vladamina. Vladamina is searching for a woman she can turn into a vampire queen, and frustrated rock groupie Shari looks to be a perfect target. As various people get seduced and/or killed as the liner continues on its doomed voyage, Shari must chose between eternity as a living dead sex slave or a frigid grave at the bottom of the ocean.",
+        "popularity": 2.3008,
+        "poster_path": "/91p8xU2nykmw8psADIJOlBLdlXK.jpg",
+        "release_date": "1999-01-01",
+        "title": "Titanic 2000",
+        "video": false,
+        "vote_average": 2.9,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+        "genre_ids": [
+          35,
+          14,
+          27
+        ],
+        "id": 649609,
+        "original_language": "en",
+        "original_title": "Renfield",
+        "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+        "popularity": 4.815,
+        "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+        "release_date": "2023-04-07",
+        "title": "Renfield",
+        "video": false,
+        "vote_average": 6.461,
+        "vote_count": 2024
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fObpJ78ll3Evldux1xwechygKga.jpg",
+        "genre_ids": [
+          10402,
+          14
+        ],
+        "id": 844490,
+        "original_language": "ja",
+        "original_title": "Vampire Succession",
+        "overview": "Alucard, a vampire resurrected in present-day New York, has achieved a “degenerative evolution” over the past 700 years. He no longer attacks people for blood, and is no longer afraid of crosses. He spends his days with his friend, Helsing XVI, a descendant of vampire researchers. Acting as Helsing’s ghost writer, he writes a fantasy romance novel about the events he witnessed in his past. One day, Alucard is dressed as a “vampire” at a Halloween costume party celebrating the publication of his book. There, he meets Lucy, a university student who dreams of becoming a dentist. As he gradually becomes more attracted to Lucy, his desire to become human grows. For a vampire with the gift of immortality, it is the equivalent of suicide.",
+        "popularity": 2.4223,
+        "poster_path": "/rSZixuiTmr3rPViqzKzqW50kKYQ.jpg",
+        "release_date": "2016-05-03",
+        "title": "Vampire Succession",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 7770,
+    "total_results": 155385
+  }
+}

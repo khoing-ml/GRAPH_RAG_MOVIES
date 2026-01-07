@@ -1,0 +1,1271 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "",
+    "id": 1196573,
+    "imdb_id": "tt27986457",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "She Rides Shotgun",
+    "overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
+    "popularity": 24.4062,
+    "poster_path": "/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
+    "production_companies": [
+      {
+        "id": 181874,
+        "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+        "name": "Fifth Season",
+        "origin_country": "US"
+      },
+      {
+        "id": 106839,
+        "logo_path": "/uUIoRabgmUH5VYSXs02bgjO92no.png",
+        "name": "Makeready",
+        "origin_country": "US"
+      },
+      {
+        "id": 133908,
+        "logo_path": "/6kofNnLeex4wLR5oW3Cgf74hgu6.png",
+        "name": "Super Frog",
+        "origin_country": "US"
+      },
+      {
+        "id": 22842,
+        "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+        "name": "Waypoint Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22146,
+        "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+        "name": "Black Bear Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-07-31",
+    "revenue": 23443,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Irish",
+        "iso_639_1": "ga",
+        "name": "Gaeilge"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "All a father needs is a fighting chance.",
+    "title": "She Rides Shotgun",
+    "video": false,
+    "vote_average": 7.068,
+    "vote_count": 191
+  },
+  "credits": {
+    "id": 1196573,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303037,
+        "known_for_department": "Acting",
+        "name": "Taron Egerton",
+        "original_name": "Taron Egerton",
+        "popularity": 7.2217,
+        "profile_path": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg",
+        "cast_id": 1,
+        "character": "Nathan Mcclusky",
+        "credit_id": "653ab51b719aeb00ab2a1e0a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1977937,
+        "known_for_department": "Acting",
+        "name": "Ana Sophia Heger",
+        "original_name": "Ana Sophia Heger",
+        "popularity": 5.7694,
+        "profile_path": "/d7hzHAFcEkg6zvUL5IU0i9kUlXE.jpg",
+        "cast_id": 6,
+        "character": "Polly Huff",
+        "credit_id": "65c60071dbcade017b7056ab",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972166,
+        "known_for_department": "Acting",
+        "name": "Odessa A'zion",
+        "original_name": "Odessa A'zion",
+        "popularity": 9.8154,
+        "profile_path": "/hfezuHgGQOJVkTj1KwION8WEWsk.jpg",
+        "cast_id": 9,
+        "character": "Charlotte",
+        "credit_id": "65c6009c8e20c50164332e29",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3911,
+        "known_for_department": "Acting",
+        "name": "John Carroll Lynch",
+        "original_name": "John Carroll Lynch",
+        "popularity": 2.5778,
+        "profile_path": "/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg",
+        "cast_id": 8,
+        "character": "Houser",
+        "credit_id": "65c6008baa659e017deead6a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76941,
+        "known_for_department": "Acting",
+        "name": "David Lyons",
+        "original_name": "David Lyons",
+        "popularity": 2.3683,
+        "profile_path": "/6Op16GnrpkS5YcIDF9YV2vgGA5p.jpg",
+        "cast_id": 10,
+        "character": "Jimmy",
+        "credit_id": "65c600aa1b70ae0184a35962",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 207389,
+        "known_for_department": "Acting",
+        "name": "Rob Yang",
+        "original_name": "Rob Yang",
+        "popularity": 2.3356,
+        "profile_path": "/fKNbgGoJguxiXeaQbVEHNwSYZQg.jpg",
+        "cast_id": 7,
+        "character": "John Park",
+        "credit_id": "65c6007d8e20c5017d33be14",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78890,
+        "known_for_department": "Acting",
+        "name": "Keith Jardine",
+        "original_name": "Keith Jardine",
+        "popularity": 0.7007,
+        "profile_path": "/emN5dXAoqW9Naab4g3yOwxSfkvh.jpg",
+        "cast_id": 36,
+        "character": "Magic",
+        "credit_id": "686648421103bda4f27bf7a3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 138860,
+        "known_for_department": "Acting",
+        "name": "Jamie Bernadette",
+        "original_name": "Jamie Bernadette",
+        "popularity": 0.7953,
+        "profile_path": "/gkoux4Og026DMq9EZBI9t4qGGpw.jpg",
+        "cast_id": 39,
+        "character": "Mom at School",
+        "credit_id": "689003196fd7bd326cf3e5f0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5605242,
+        "known_for_department": "Acting",
+        "name": "Goldie Tom",
+        "original_name": "Goldie Tom",
+        "popularity": 0.3597,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "School Teacher",
+        "credit_id": "6890035317ad5cc979a46954",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1740855,
+        "known_for_department": "Acting",
+        "name": "Kiko Sanchez",
+        "original_name": "Kiko Sanchez",
+        "popularity": 0.3814,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Motel Man No. 1",
+        "credit_id": "68900384a3a4424a8ab7f29e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2014424,
+        "known_for_department": "Acting",
+        "name": "Loren Anthony",
+        "original_name": "Loren Anthony",
+        "popularity": 0.282,
+        "profile_path": "/xWE8IC9MU6RcWsdkastxjkWJFJg.jpg",
+        "cast_id": 42,
+        "character": "Motel Man No. 2",
+        "credit_id": "689003982da5aef65fb7f569",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128560,
+        "known_for_department": "Acting",
+        "name": "Travis Hammer",
+        "original_name": "Travis Hammer",
+        "popularity": 1.8271,
+        "profile_path": "/oiYzy7turdp3GICqprkIBOwaNg.jpg",
+        "cast_id": 43,
+        "character": "Felix",
+        "credit_id": "689003bca68de2d06b261c83",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1985837,
+        "known_for_department": "Art",
+        "name": "Rebecca Hill Casey",
+        "original_name": "Rebecca Hill Casey",
+        "popularity": 0.1918,
+        "profile_path": "/whBRR6gUHyU4C3YSZ83BHWzoCZ6.jpg",
+        "cast_id": 44,
+        "character": "Cashier",
+        "credit_id": "689003ca72165d6b0ef3e663",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2604561,
+        "known_for_department": "Acting",
+        "name": "Conrad R. Padilla",
+        "original_name": "Conrad R. Padilla",
+        "popularity": 0.3062,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Good Samaritan",
+        "credit_id": "689003d66fd7bd326cf3e60c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2454775,
+        "known_for_department": "Acting",
+        "name": "Edgar Damatian",
+        "original_name": "Edgar Damatian",
+        "popularity": 0.443,
+        "profile_path": "/tncHhqf3fupYp5qNqg04S6xYh9j.jpg",
+        "cast_id": 46,
+        "character": "Truck Stop Cop",
+        "credit_id": "689003e145ce31100a11dc03",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2986571,
+        "known_for_department": "Acting",
+        "name": "Matt Roszak",
+        "original_name": "Matt Roszak",
+        "popularity": 1.1566,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "A-Rod",
+        "credit_id": "689004069cf7ff713bb7f209",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629275,
+        "known_for_department": "Acting",
+        "name": "Santiago Segura",
+        "original_name": "Santiago Segura",
+        "popularity": 0.6,
+        "profile_path": "/kloQysq2NeSmVCIW31q5lO07YOp.jpg",
+        "cast_id": 48,
+        "character": "Luis",
+        "credit_id": "68900445d04dc0e29ea46783",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900981,
+        "known_for_department": "Acting",
+        "name": "Ryan de Quintal",
+        "original_name": "Ryan de Quintal",
+        "popularity": 1.3896,
+        "profile_path": "/6t61TP6IQuvPnC1OSQNvkOcXD0d.jpg",
+        "cast_id": 49,
+        "character": "Slab Man #1",
+        "credit_id": "6890045717ad5cc979a46968",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3247586,
+        "known_for_department": "Acting",
+        "name": "Andy Kastelic",
+        "original_name": "Andy Kastelic",
+        "popularity": 0.4447,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Slab Man #2",
+        "credit_id": "68900466dca636492a7cf863",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4431437,
+        "known_for_department": "Acting",
+        "name": "Freddy Martinez",
+        "original_name": "Freddy Martinez",
+        "popularity": 0.2178,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Slabtown Cop",
+        "credit_id": "68900487dd344df8c661f147",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424325,
+        "known_for_department": "Acting",
+        "name": "Esodie Geiger",
+        "original_name": "Esodie Geiger",
+        "popularity": 1.3024,
+        "profile_path": "/y69RN0Mwb7K4bj1ZGuRNpNneeob.jpg",
+        "cast_id": 52,
+        "character": "Maya",
+        "credit_id": "68900498ef31e50002b7f51d",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5605262,
+        "known_for_department": "Acting",
+        "name": "Audrey Pazienza",
+        "original_name": "Audrey Pazienza",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Dancing Girl",
+        "credit_id": "689004b072165d6b0ef3e672",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239997,
+        "known_for_department": "Acting",
+        "name": "Debrianna Mansini",
+        "original_name": "Debrianna Mansini",
+        "popularity": 1.1208,
+        "profile_path": "/xG3T8QWMmEgD47tyWGOy4NibYMN.jpg",
+        "cast_id": 54,
+        "character": "School Counselor (uncredited)",
+        "credit_id": "689004bda68de2d06b261c89",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5460192,
+        "known_for_department": "Acting",
+        "name": "McKenzie Scott",
+        "original_name": "McKenzie Scott",
+        "popularity": 0.2698,
+        "profile_path": "/lbV047tMkz1CeZvt8WsWhJDkOs0.jpg",
+        "cast_id": 55,
+        "character": "Avis (uncredited)",
+        "credit_id": "689004d1ca4fecfe53b2316c",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264777,
+        "known_for_department": "Directing",
+        "name": "Nick Rowland",
+        "original_name": "Nick Rowland",
+        "popularity": 2.0793,
+        "profile_path": "/xxuOneUAFj4uVGlv9ogLG2XgKo0.jpg",
+        "credit_id": "653ab533564ec700e5f9aa57",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024274,
+        "known_for_department": "Production",
+        "name": "Ken Kao",
+        "original_name": "Ken Kao",
+        "popularity": 0.9637,
+        "profile_path": "/2u0LA8H2AIEwtDvyg5hGq4JjMk3.jpg",
+        "credit_id": "66bae2a1fb59e7425053b8f4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1775004,
+        "known_for_department": "Production",
+        "name": "Josh Rosenbaum",
+        "original_name": "Josh Rosenbaum",
+        "popularity": 2.5528,
+        "profile_path": "/vgAPUVkgJEOqyXSXKGhVhrpYTWS.jpg",
+        "credit_id": "66bae61babccf76c2aaafb0b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9558,
+        "known_for_department": "Crew",
+        "name": "Joey Box",
+        "original_name": "Joey Box",
+        "popularity": 0.9501,
+        "profile_path": "/q7XY8ZqhBoBfOb7RwpyrN0tM6TK.jpg",
+        "credit_id": "66d5df917be184cfaa45b604",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1444239,
+        "known_for_department": "Crew",
+        "name": "Robert Alonzo",
+        "original_name": "Robert Alonzo",
+        "popularity": 0.8355,
+        "profile_path": "/7OoQpZ0wdwo8G2zrzNiHhbdfalW.jpg",
+        "credit_id": "66fc45b8f17b887599d64fa8",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2193668,
+        "known_for_department": "Production",
+        "name": "Nate Matteson",
+        "original_name": "Nate Matteson",
+        "popularity": 0.4714,
+        "profile_path": "/irSPuydqIsBfoGRmOxYKQckh2Ci.jpg",
+        "credit_id": "67879c6efe294a0b474ea656",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1444239,
+        "known_for_department": "Crew",
+        "name": "Robert Alonzo",
+        "original_name": "Robert Alonzo",
+        "popularity": 0.8355,
+        "profile_path": "/7OoQpZ0wdwo8G2zrzNiHhbdfalW.jpg",
+        "credit_id": "6812459b95f15e8102a0ec1c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1199903,
+        "known_for_department": "Directing",
+        "name": "Hiro Murai",
+        "original_name": "Hiro Murai",
+        "popularity": 0.5981,
+        "profile_path": "/dPUxYrlMqemvQQxGEQlCLGF04wy.jpg",
+        "credit_id": "684335297139528434ad97d5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2241707,
+        "known_for_department": "Production",
+        "name": "Collin Creighton",
+        "original_name": "Collin Creighton",
+        "popularity": 0.1916,
+        "profile_path": null,
+        "credit_id": "6843353cd36911e2007f59dc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15756,
+        "known_for_department": "Production",
+        "name": "Brad Weston",
+        "original_name": "Brad Weston",
+        "popularity": 0.2304,
+        "profile_path": null,
+        "credit_id": "6843354e9cdba097ad456917",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320139,
+        "known_for_department": "Writing",
+        "name": "Jordan Harper",
+        "original_name": "Jordan Harper",
+        "popularity": 0.3597,
+        "profile_path": null,
+        "credit_id": "68435128beffee178b53490c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1617960,
+        "known_for_department": "Writing",
+        "name": "Ben Collins",
+        "original_name": "Ben Collins",
+        "popularity": 0.2255,
+        "profile_path": "/7YYYzTuEs86IW8AbqhYZb4H4JxV.jpg",
+        "credit_id": "68435135d2ebc9fc244dd994",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447237,
+        "known_for_department": "Writing",
+        "name": "Luke Piotrowski",
+        "original_name": "Luke Piotrowski",
+        "popularity": 1.6098,
+        "profile_path": "/7kgV6W2rfjzXCvYhD0sfIfuPjJU.jpg",
+        "credit_id": "6843513b825a212c115348b0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320139,
+        "known_for_department": "Writing",
+        "name": "Jordan Harper",
+        "original_name": "Jordan Harper",
+        "popularity": 0.3597,
+        "profile_path": null,
+        "credit_id": "68435151f539e888f0073d0e",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080589,
+        "known_for_department": "Production",
+        "name": "Teddy Schwarzman",
+        "original_name": "Teddy Schwarzman",
+        "popularity": 0.5564,
+        "profile_path": "/vXNHIXv451QY3oapPpDe7FahqtS.jpg",
+        "credit_id": "6843523f09b87b7018ce2926",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1533678,
+        "known_for_department": "Production",
+        "name": "John Friedberg",
+        "original_name": "John Friedberg",
+        "popularity": 0.5659,
+        "profile_path": null,
+        "credit_id": "684352484cb0d26e484dda45",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2212,
+        "known_for_department": "Production",
+        "name": "Walter F. Parkes",
+        "original_name": "Walter F. Parkes",
+        "popularity": 1.3449,
+        "profile_path": "/voOB5IhqOMvaweh44mfNnAYJBrq.jpg",
+        "credit_id": "684352551ff29d1b097c3af5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8701,
+        "known_for_department": "Production",
+        "name": "Laurie MacDonald",
+        "original_name": "Laurie MacDonald",
+        "popularity": 1.6537,
+        "profile_path": "/qmshY2CdaZKjl6s7K0fVWVFeO7p.jpg",
+        "credit_id": "68435261ef0891afef5348ea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451950,
+        "known_for_department": "Production",
+        "name": "Alexis Garcia",
+        "original_name": "Alexis Garcia",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "6843527bcbee0774f67c3ad6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4805312,
+        "known_for_department": "Production",
+        "name": "Chris Rice",
+        "original_name": "Chris Rice",
+        "popularity": 0.4076,
+        "profile_path": null,
+        "credit_id": "6843529118f423dd0e7c3afb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4971106,
+        "known_for_department": "Production",
+        "name": "Christopher Slager",
+        "original_name": "Christopher Slager",
+        "popularity": 0.1393,
+        "profile_path": null,
+        "credit_id": "6843529c850de3cedf1432f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5294724,
+        "known_for_department": "Production",
+        "name": "Graham Taylor",
+        "original_name": "Graham Taylor",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "684352a96c346c82a74dd9a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2397345,
+        "known_for_department": "Sound",
+        "name": "Benjamin John Power",
+        "original_name": "Benjamin John Power",
+        "popularity": 0.5033,
+        "profile_path": null,
+        "credit_id": "684353131117a960ba96c8ee",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3621245,
+        "known_for_department": "Crew",
+        "name": "Lexi Dali",
+        "original_name": "Lexi Dali",
+        "popularity": 0.1855,
+        "profile_path": "/fFCB7P4URSGV8En7hUpjlcaZ8eq.jpg",
+        "credit_id": "686176dbc17d29a3dbfdcad0",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303037,
+        "known_for_department": "Acting",
+        "name": "Taron Egerton",
+        "original_name": "Taron Egerton",
+        "popularity": 7.2217,
+        "profile_path": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg",
+        "credit_id": "686648b3e57959d4b431fa37",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149910,
+        "known_for_department": "Camera",
+        "name": "Wyatt Garfield",
+        "original_name": "Wyatt Garfield",
+        "popularity": 1.218,
+        "profile_path": null,
+        "credit_id": "689002ed3d2e6e8393de6cc9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2604561,
+        "known_for_department": "Acting",
+        "name": "Conrad R. Padilla",
+        "original_name": "Conrad R. Padilla",
+        "popularity": 0.3062,
+        "profile_path": null,
+        "credit_id": "68b4ae365f164ef3d6397dd1",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409856,
+        "known_for_department": "Editing",
+        "name": "Nat Jencks",
+        "original_name": "Nat Jencks",
+        "popularity": 0.2539,
+        "profile_path": "/qzakTjWqhIpevOuDyhG2hzGCoHR.jpg",
+        "credit_id": "691c227bb8c0eb9c8752ef2a",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1196573,
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 10562,
+        "name": "on the run"
+      },
+      {
+        "id": 202371,
+        "name": "aggressive"
+      },
+      {
+        "id": 227474,
+        "name": "estranged daughter"
+      },
+      {
+        "id": 240303,
+        "name": "father daughter relationship"
+      },
+      {
+        "id": 251667,
+        "name": "anxious"
+      },
+      {
+        "id": 260730,
+        "name": "prison gang"
+      },
+      {
+        "id": 282133,
+        "name": "father and daughter"
+      },
+      {
+        "id": 295124,
+        "name": "young girl"
+      },
+      {
+        "id": 323114,
+        "name": "crime"
+      },
+      {
+        "id": 325430,
+        "name": "criminal father"
+      },
+      {
+        "id": 325779,
+        "name": "brisk"
+      },
+      {
+        "id": 325816,
+        "name": "forceful"
+      },
+      {
+        "id": 325854,
+        "name": "tragic"
+      },
+      {
+        "id": 325855,
+        "name": "urgent"
+      },
+      {
+        "id": 359931,
+        "name": "loss of a parent"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tB9L7FmEeWiWWjCUjKW1Zu7IfQD.jpg",
+        "genre_ids": [
+          9648,
+          53,
+          80
+        ],
+        "id": 468202,
+        "original_language": "it",
+        "original_title": "La ragazza nella nebbia",
+        "overview": "A gripping and chilling thriller that brings us to a hazy mountain village where an enigmatic detective is investigating the sudden disappearance of fifteen-year-old girl.",
+        "popularity": 1.7291,
+        "poster_path": "/fuJApAPgHrur08y6icGB5k5Umzo.jpg",
+        "release_date": "2017-10-26",
+        "title": "The Girl in the Fog",
+        "video": false,
+        "vote_average": 6.771,
+        "vote_count": 1053
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "genre_ids": [
+          53,
+          80,
+          28
+        ],
+        "id": 1054867,
+        "original_language": "en",
+        "original_title": "One Battle After Another",
+        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+        "popularity": 89.2504,
+        "poster_path": "/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "release_date": "2025-09-23",
+        "title": "One Battle After Another",
+        "video": false,
+        "vote_average": 7.461,
+        "vote_count": 2248
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          27
+        ],
+        "id": 290588,
+        "original_language": "es",
+        "original_title": "La Dama de la Muerte",
+        "overview": "A young man loses all his money by gambling and decides to commit suicide, but is interrupted by a mysterious man who invites him to join a suicide club, where, through letters, it is drawn who is going to die.",
+        "popularity": 0.2198,
+        "poster_path": "/vUZ4f6x6G6o8OVN98eQO9hTzL6V.jpg",
+        "release_date": "1946-06-04",
+        "title": "The Lady of Death",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uEPLeurEn2dp54f5owtMC3PeiPN.jpg",
+        "genre_ids": [
+          80,
+          28,
+          12
+        ],
+        "id": 290606,
+        "original_language": "en",
+        "original_title": "Eye of the Widow",
+        "overview": "A new international terrorist group attack the castle of an Austrian prince during his party, but one of the guests, a contractor, deals with them. The CIA then hires him to find the men behind the attack and take them out. This big budget film with many 'A' stars was barely released. In fact, despite being a U.S. production filmed in Europe, it was never widely screened theatrically in America nor did it receive a video release.",
+        "popularity": 0.49,
+        "poster_path": "/2hCLBZ4NFlaYtEkXiwcitRCrfmv.jpg",
+        "release_date": "1991-10-17",
+        "title": "Eye of the Widow",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "id": 1258749,
+        "original_language": "en",
+        "original_title": "The Winner",
+        "overview": "An adaption of Teddy Wayne's 'The Winner' following a recent graduate who begins an intoxicating relationship with a recent divorcee.",
+        "popularity": 0.9432,
+        "poster_path": null,
+        "release_date": "",
+        "title": "The Winner",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/beGltF8i5lMYcT3191STuDqlUAj.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 26380,
+        "original_language": "en",
+        "original_title": "Out of the Fog",
+        "overview": "A Brooklyn pier racketeer bullies boat-owners into paying protection money but two fed-up fishermen decide to eliminate the gangster themselves rather than complain to the police.",
+        "popularity": 0.4717,
+        "poster_path": "/udoM74cW1L24YP661M2fLAbnQxv.jpg",
+        "release_date": "1941-06-14",
+        "title": "Out of the Fog",
+        "video": false,
+        "vote_average": 6.171,
+        "vote_count": 35
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6EHp4gjYmXaevHMnlYnH1abTEdt.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26405,
+        "original_language": "en",
+        "original_title": "Wake in Fright",
+        "overview": "A young schoolteacher descends into personal moral degradation after finding himself stranded in a brutal, menacing town in outback Australia.",
+        "popularity": 0.834,
+        "poster_path": "/5XwMDn2acQZ3CHuJ3EDXLg348G3.jpg",
+        "release_date": "1971-07-21",
+        "title": "Wake in Fright",
+        "video": false,
+        "vote_average": 7.253,
+        "vote_count": 326
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mgfxkCJLvudtnTOJml5mFbHWbk0.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 483184,
+        "original_language": "it",
+        "original_title": "Dogman",
+        "overview": "Marcello, a small and gentle dog groomer, finds himself involved in a dangerous relationship of subjugation with Simone, a former violent boxer who terrorizes the entire neighborhood. In an effort to reaffirm his dignity, Marcello will submit to an unexpected act of vengeance.",
+        "popularity": 3.0839,
+        "poster_path": "/eaZq1G8sJHv9f9a5IzioQlS3REX.jpg",
+        "release_date": "2018-05-17",
+        "title": "Dogman",
+        "video": false,
+        "vote_average": 7.523,
+        "vote_count": 2266
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqKfIArX3RcHdHot8tDE0NHFxH5.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26513,
+        "original_language": "en",
+        "original_title": "Punishment Park",
+        "overview": "In this fictional documentary, U.S. prisons are at capacity, and President Nixon declares a state of emergency. All new prisoners, most of whom are connected to the antiwar movement, are now given the choice of jail time or spending three days in Punishment Park, where they will be hunted for sport by federal authorities. The prisoners invariably choose the latter option, but learn that, between the desert heat and the brutal police officers, their chances of survival are slim.",
+        "popularity": 3.2868,
+        "poster_path": "/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
+        "release_date": "1971-10-01",
+        "title": "Punishment Park",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 193
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/no9ziHHqkgmQ6EWFstYFCGo6Z9Z.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 26588,
+        "original_language": "en",
+        "original_title": "Summer's Blood",
+        "overview": "A demented handyman comes to the rescue of a young woman, then imprisons her in his basement.",
+        "popularity": 2.3636,
+        "poster_path": "/ddNjcjiRwzYylam55e1WTdygVbC.jpg",
+        "release_date": "2009-11-02",
+        "title": "Summer's Blood",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 102
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 26614,
+        "original_language": "fr",
+        "original_title": "La Chienne",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "popularity": 4.3344,
+        "poster_path": "/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
+        "release_date": "1931-11-01",
+        "title": "La Chienne",
+        "video": false,
+        "vote_average": 7.267,
+        "vote_count": 129
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cAgmH0U8tdRUMC2c9rfTXlKhmZh.jpg",
+        "genre_ids": [
+          28,
+          10770,
+          14,
+          10749,
+          18,
+          80
+        ],
+        "id": 26682,
+        "original_language": "en",
+        "original_title": "Roadracers",
+        "overview": "Cynical look at a 1950s rebellious Rocker who has to confront his future, thugs with knives, and the crooked town sheriff.",
+        "popularity": 3.6484,
+        "poster_path": "/oPU1900ifMJMxjtBYFZytuyjitK.jpg",
+        "release_date": "1994-07-22",
+        "title": "Roadracers",
+        "video": false,
+        "vote_average": 5.857,
+        "vote_count": 83
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7E5T2lAJPn6qAp2NieCeUlMWiM.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 26762,
+        "original_language": "en",
+        "original_title": "The Outfit",
+        "overview": "A two-bit criminal takes on the Mafia to avenge his brother's death. Earl Macklin is a small time criminal who is released from prison after an unsuccessful bank robbery only to discover that a pair of gunmen killed his brother.",
+        "popularity": 4.0897,
+        "poster_path": "/u2TZAW2IDCbMZdVR7uxXS3WS0Pv.jpg",
+        "release_date": "1973-10-19",
+        "title": "The Outfit",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 83
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nmS3S14NJQv3RhoAjZaKB7KjAEh.jpg",
+        "genre_ids": [
+          28,
+          12
+        ],
+        "id": 26845,
+        "original_language": "en",
+        "original_title": "Tarzan the Ape Man",
+        "overview": "James Parker and Harry Holt are on an expedition in Africa in search of the elephant burial grounds that will provide enough ivory to make them rich. Parker's beautiful daughter Jane arrives unexpectedly to join them. Jane is terrified when Tarzan and his ape friends abduct her, but when she returns to her father's expedition she has second thoughts about leaving Tarzan.",
+        "popularity": 1.6545,
+        "poster_path": "/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg",
+        "release_date": "1932-03-22",
+        "title": "Tarzan the Ape Man",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 221
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qmy3lk8YY9tBFfwMoPavUEM59u5.jpg",
+        "genre_ids": [
+          53,
+          18,
+          80
+        ],
+        "id": 26578,
+        "original_language": "en",
+        "original_title": "The Falcon and the Snowman",
+        "overview": "The true story of a disillusioned military contractor employee and his drug pusher childhood friend who became walk-in spies for the Soviet Union.",
+        "popularity": 0.8741,
+        "poster_path": "/oDeaorrKpjzYgH1c9ePoJ3x9qvw.jpg",
+        "release_date": "1985-01-25",
+        "title": "The Falcon and the Snowman",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 169
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/goc7dmAlxsK12eyuiHn3KqwBhyj.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "id": 18869,
+        "original_language": "en",
+        "original_title": "Jimmy and Judy",
+        "overview": "Two misunderstood suburban kids challenge society and run from the police while documenting all of their deeds with a digital camera.",
+        "popularity": 0.374,
+        "poster_path": "/eCrr9LMCYpHlKzzKNXlTcMBs9xD.jpg",
+        "release_date": "2006-02-05",
+        "title": "Jimmy and Judy",
+        "video": false,
+        "vote_average": 4.603,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aDLIjWJiXKx7PZ9JR8kuVNvUhyt.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          53
+        ],
+        "id": 18871,
+        "original_language": "en",
+        "original_title": "Ride the Pink Horse",
+        "overview": "A con man tries to blackmail a Mexican gangster.",
+        "popularity": 0.741,
+        "poster_path": "/6oJWu5XZ5tb7EgJVmTdOlaqcsjf.jpg",
+        "release_date": "1947-10-08",
+        "title": "Ride the Pink Horse",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 67
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b6d7fX6e3TiZLqVGmiw3ZV0jhf0.jpg",
+        "genre_ids": [
+          53,
+          18,
+          80
+        ],
+        "id": 290236,
+        "original_language": "en",
+        "original_title": "Man on the Run",
+        "overview": "An Army deserter, still a fugitive in Post-War Britain, wanders into a pawn-shop robbery and finds himself wanted for murder. He meets a war widow who helps him elude the police while he looks for the real criminals.",
+        "popularity": 0.2125,
+        "poster_path": "/9IOQNMp3hE1RV3xMk4otlLebudH.jpg",
+        "release_date": "1949-05-20",
+        "title": "Man on the Run",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xLRiuFeZkV9vwGMdA5AUzq1PeUn.jpg",
+        "genre_ids": [
+          35,
+          80,
+          28
+        ],
+        "id": 290250,
+        "original_language": "en",
+        "original_title": "The Nice Guys",
+        "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+        "popularity": 6.2483,
+        "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+        "release_date": "2016-05-15",
+        "title": "The Nice Guys",
+        "video": false,
+        "vote_average": 7.123,
+        "vote_count": 8381
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3VHkoXEPDEyrvQaL9Oti8U5FlmD.jpg",
+        "genre_ids": [
+          10770,
+          18,
+          53,
+          14
+        ],
+        "id": 22509,
+        "original_language": "en",
+        "original_title": "The Devil's Arithmetic",
+        "overview": "An American-born Jewish adolescent, Hannah Stern, is uninterested in the culture, faith and customs of her relatives. However, she begins to revaluate her heritage when she has a supernatural experience that transports her back to a Nazi death camp in 1941. There she meets a young girl named Rivkah, a fellow captive in the camp. As Rivkah and Hannah struggle to survive in the face of daily atrocities, they form an unbreakable bond.",
+        "popularity": 0.9012,
+        "poster_path": "/2QBXokkFDYOKLPAKk6FQO9gd6YS.jpg",
+        "release_date": "1999-03-28",
+        "title": "The Devil's Arithmetic",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 103
+      }
+    ],
+    "total_pages": 6482,
+    "total_results": 129624
+  }
+}

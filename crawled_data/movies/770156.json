@@ -1,0 +1,1007 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/7jS69IM8bK7ooOWGFmM9G6JcenO.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "",
+    "id": 770156,
+    "imdb_id": "tt11916254",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Lucy Shimmers and the Prince of Peace",
+    "overview": "Second chances start when a hardened criminal crosses paths with a precocious little girl who is helped by an angel to change hearts during the holiday season.",
+    "popularity": 5.5921,
+    "poster_path": "/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg",
+    "production_companies": [
+      {
+        "id": 176675,
+        "logo_path": null,
+        "name": "Rob Diamond Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 176674,
+        "logo_path": "/60DG5vScQorCVJPUp2EowKWFatC.png",
+        "name": "Future Movie Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-10-19",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lucy Shimmers and the Prince of Peace",
+    "video": false,
+    "vote_average": 8.37,
+    "vote_count": 331
+  },
+  "credits": {
+    "id": 770156,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2643437,
+        "known_for_department": "Acting",
+        "name": "Scarlett Diamond",
+        "original_name": "Scarlett Diamond",
+        "popularity": 1.4409,
+        "profile_path": "/iWUIZ5VauMQzpD1ikrsbc16n8ap.jpg",
+        "cast_id": 1,
+        "character": "Lucy Shimmers",
+        "credit_id": "5fc4527a62fcd3003cbf86cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2430234,
+        "known_for_department": "Acting",
+        "name": "Vincent Vargas",
+        "original_name": "Vincent Vargas",
+        "popularity": 0.5491,
+        "profile_path": "/nQe3cWO2xiAPtOlK13LI9rB450h.jpg",
+        "cast_id": 5,
+        "character": "Edgar Ruiz",
+        "credit_id": "641a5835142ef1007b3fa68a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2875508,
+        "known_for_department": "Acting",
+        "name": "Adam Hightower",
+        "original_name": "Adam Hightower",
+        "popularity": 0.6461,
+        "profile_path": "/4f1P5YGUHSKr6REMpbnTWPWluYg.jpg",
+        "cast_id": 3,
+        "character": "James Shimmers",
+        "credit_id": "5fc452d12f8d0900410c7ccf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96277,
+        "known_for_department": "Acting",
+        "name": "Shawn Stevens",
+        "original_name": "Shawn Stevens",
+        "popularity": 0.6201,
+        "profile_path": "/i20i1fmF2Mb6yO3wQuhymMbWxHU.jpg",
+        "cast_id": 24,
+        "character": "Grandpa Jackson",
+        "credit_id": "68fec2ebb309e5bae29fb37d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3973357,
+        "known_for_department": "Acting",
+        "name": "Florencia Contreras Stevens",
+        "original_name": "Florencia Contreras Stevens",
+        "popularity": 0.8264,
+        "profile_path": "/kG8eDLiNUkPvSMEAC3AEaNum4Xj.jpg",
+        "cast_id": 9,
+        "character": "Isabelle Shimmers",
+        "credit_id": "641a58ae142ef1007b3fa70d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2755969,
+        "known_for_department": "Acting",
+        "name": "Tara Barrett",
+        "original_name": "Tara Barrett",
+        "popularity": 0.8593,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "April Shimmers",
+        "credit_id": "641a5853142ef1007b3fa6b6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3578735,
+        "known_for_department": "Writing",
+        "name": "Aaron J. Owen",
+        "original_name": "Aaron J. Owen",
+        "popularity": 0.9086,
+        "profile_path": "/2dnJVrLRk7BoufQ0nsdv1EfESqY.jpg",
+        "cast_id": 8,
+        "character": "Luther",
+        "credit_id": "641a5882142ef1009b414d2c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5775929,
+        "known_for_department": "Acting",
+        "name": "April Dean West",
+        "original_name": "April Dean West",
+        "popularity": 0.3829,
+        "profile_path": "/krgEQFC7zhW8VQO04MPTRZ6B4ch.jpg",
+        "cast_id": 25,
+        "character": "Dr. Stanswick",
+        "credit_id": "68fed23d47f925a8e03bfccc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775958,
+        "known_for_department": "Acting",
+        "name": "Rachel Olvera",
+        "original_name": "Rachel Olvera",
+        "popularity": 0.4086,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Nurse Angie",
+        "credit_id": "68fed5b0d3bdef8364bbf546",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775970,
+        "known_for_department": "Acting",
+        "name": "Albert Huerta",
+        "original_name": "Albert Huerta",
+        "popularity": 0.0962,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Bart",
+        "credit_id": "68fed6390a89ba2a7afb7260",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3966921,
+        "known_for_department": "Acting",
+        "name": "Madison Bills",
+        "original_name": "Madison Bills",
+        "popularity": 0.2665,
+        "profile_path": "/nf5AzFE2P51MxLzRowN1DXLFDoT.jpg",
+        "cast_id": 7,
+        "character": "Nurse Max",
+        "credit_id": "641a5863142ef100f8be8743",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775973,
+        "known_for_department": "Acting",
+        "name": "Raelynne Kunz",
+        "original_name": "Raelynne Kunz",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Betty",
+        "credit_id": "68fed67b59ac382281276127",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775984,
+        "known_for_department": "Acting",
+        "name": "Frank Bennett",
+        "original_name": "Frank Bennett",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Pastor Johnson",
+        "credit_id": "68fed792d13717ce402aabae",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775987,
+        "known_for_department": "Acting",
+        "name": "Larry Mccallie",
+        "original_name": "Larry Mccallie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Warden Banes",
+        "credit_id": "68fed7ef4911e802b02aac8c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5776022,
+        "known_for_department": "Acting",
+        "name": "Jamie Lynn Bolton",
+        "original_name": "Jamie Lynn Bolton",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Adrian",
+        "credit_id": "68feda8367921210f0a30ff7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471163,
+        "known_for_department": "Production",
+        "name": "Isabella Vargas",
+        "original_name": "Isabella Vargas",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Tianna",
+        "credit_id": "68fedaa0f95776b5e8938fca",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5776028,
+        "known_for_department": "Acting",
+        "name": "Lenny Erickson",
+        "original_name": "Lenny Erickson",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Wally",
+        "credit_id": "68fedb14aa6b5bbcf69fb512",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5776044,
+        "known_for_department": "Acting",
+        "name": "Rainer Rohde",
+        "original_name": "Rainer Rohde",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Grandpa Mike",
+        "credit_id": "68fedc0f7958eafc8e3bfd47",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3986579,
+        "known_for_department": "Production",
+        "name": "Lisa Paul",
+        "original_name": "Lisa Paul",
+        "popularity": 0.5277,
+        "profile_path": "/o2Hj7Dx4vIjb7cxv4IbNvnjWgae.jpg",
+        "cast_id": 19,
+        "character": "Nurse Jules",
+        "credit_id": "642a2f7266540800d5c09a45",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1773700,
+        "known_for_department": "Acting",
+        "name": "Cal Nguyen",
+        "original_name": "Cal Nguyen",
+        "popularity": 0.1974,
+        "profile_path": "/m0o4wO78PNkdjhbzb6cakbVnF4l.jpg",
+        "cast_id": 22,
+        "character": "ER Dr. Nicholas Myrna",
+        "credit_id": "642b73788de0ae011350bd36",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2643439,
+        "known_for_department": "Acting",
+        "name": "Mark Allen",
+        "original_name": "Mark Allen",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Dr. Powell",
+        "credit_id": "68fedb3fe0a7e46200927812",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5776035,
+        "known_for_department": "Acting",
+        "name": "Rich Greenberg",
+        "original_name": "Rich Greenberg",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Dr. Miller",
+        "credit_id": "68fedb64c43d0599e2938d5b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3967553,
+        "known_for_department": "Acting",
+        "name": "Jason Lauree Wright",
+        "original_name": "Jason Lauree Wright",
+        "popularity": 1.1987,
+        "profile_path": "/qi3a3UGZSGt50zT8fkfIYhtw9l4.jpg",
+        "cast_id": 23,
+        "character": "Nurse Daniel",
+        "credit_id": "642b7504a3e4ba3248d86c53",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3973360,
+        "known_for_department": "Production",
+        "name": "Gay Lynn Smith",
+        "original_name": "Gay Lynn Smith",
+        "popularity": 0.0939,
+        "profile_path": "/g6LDee57RiyW1qHIlV8pe2TXdEp.jpg",
+        "cast_id": 36,
+        "character": "Nurse Cindy",
+        "credit_id": "68fedb933cb5793e51927593",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5776040,
+        "known_for_department": "Acting",
+        "name": "Ezra Duffin",
+        "original_name": "Ezra Duffin",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "James Jr.",
+        "credit_id": "68fedba9f1e8924a339fb347",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222497,
+        "known_for_department": "Directing",
+        "name": "Rob Diamond",
+        "original_name": "Rob Diamond",
+        "popularity": 0.8222,
+        "profile_path": "/gmmsV4lZeJtk9yDnR9AQpax1bB1.jpg",
+        "credit_id": "616abd139715ae002c31eb04",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222497,
+        "known_for_department": "Directing",
+        "name": "Rob Diamond",
+        "original_name": "Rob Diamond",
+        "popularity": 0.8222,
+        "profile_path": "/gmmsV4lZeJtk9yDnR9AQpax1bB1.jpg",
+        "credit_id": "641a58c7a3e4ba00e71df4fc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3973360,
+        "known_for_department": "Production",
+        "name": "Gay Lynn Smith",
+        "original_name": "Gay Lynn Smith",
+        "popularity": 0.0939,
+        "profile_path": "/g6LDee57RiyW1qHIlV8pe2TXdEp.jpg",
+        "credit_id": "641a58f2d75bd60081ad51d9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3973365,
+        "known_for_department": "Production",
+        "name": "Nathan Steve Smith",
+        "original_name": "Nathan Steve Smith",
+        "popularity": 0.3156,
+        "profile_path": "/pA1XWdy1Xqw0OsY0MXT54cDhqSA.jpg",
+        "credit_id": "641a593d142ef100ba35965d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222497,
+        "known_for_department": "Directing",
+        "name": "Rob Diamond",
+        "original_name": "Rob Diamond",
+        "popularity": 0.8222,
+        "profile_path": "/gmmsV4lZeJtk9yDnR9AQpax1bB1.jpg",
+        "credit_id": "641a58d6245dbe00d69a34f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3966944,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stacey Berrett",
+        "original_name": "Stacey Berrett",
+        "popularity": 0.0786,
+        "profile_path": "/549N8erUHJ97zebNW3MLS84J4rq.jpg",
+        "credit_id": "641a5921245dbe007b52315f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3973360,
+        "known_for_department": "Production",
+        "name": "Gay Lynn Smith",
+        "original_name": "Gay Lynn Smith",
+        "popularity": 0.0939,
+        "profile_path": "/g6LDee57RiyW1qHIlV8pe2TXdEp.jpg",
+        "credit_id": "642a2f998de0ae00978db27f",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3973365,
+        "known_for_department": "Production",
+        "name": "Nathan Steve Smith",
+        "original_name": "Nathan Steve Smith",
+        "popularity": 0.3156,
+        "profile_path": "/pA1XWdy1Xqw0OsY0MXT54cDhqSA.jpg",
+        "credit_id": "642a2f176654080097f61a69",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564935,
+        "known_for_department": "Directing",
+        "name": "Mario DeAngelis",
+        "original_name": "Mario DeAngelis",
+        "popularity": 0.2447,
+        "profile_path": "/6fi5vKgVtMGSnJkAbYO4nFIKXed.jpg",
+        "credit_id": "642a2f2cc044290298cf55ce",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3986579,
+        "known_for_department": "Production",
+        "name": "Lisa Paul",
+        "original_name": "Lisa Paul",
+        "popularity": 0.5277,
+        "profile_path": "/o2Hj7Dx4vIjb7cxv4IbNvnjWgae.jpg",
+        "credit_id": "642a2a4fb39e3500f25d92c2",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3206228,
+        "known_for_department": "Acting",
+        "name": "Shane Morrisun",
+        "original_name": "Shane Morrisun",
+        "popularity": 0.2553,
+        "profile_path": "/jnL7rA4yhWgNkhPyx8uktFOQrb3.jpg",
+        "credit_id": "642a2f3f0f365500b30a3537",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1773700,
+        "known_for_department": "Acting",
+        "name": "Cal Nguyen",
+        "original_name": "Cal Nguyen",
+        "popularity": 0.1974,
+        "profile_path": "/m0o4wO78PNkdjhbzb6cakbVnF4l.jpg",
+        "credit_id": "642b72b09cc67b05bf70315c",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 770156,
+    "keywords": [
+      {
+        "id": 6150,
+        "name": "faith"
+      },
+      {
+        "id": 6057,
+        "name": "peace"
+      },
+      {
+        "id": 3071,
+        "name": "prince"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      },
+      {
+        "id": 230097,
+        "name": "jesus christ"
+      },
+      {
+        "id": 273060,
+        "name": "christian faith"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zYWujaS5rTOVkDxsTte3qmak5II.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 295049,
+        "original_language": "en",
+        "original_title": "Nativity 3: Dude, Where's My Donkey?!",
+        "overview": "This Christmas the pupils of St Bernadette's and their much-loved, madcap teacher Mr. Poppy are back for their biggest adventure yet involving fantastic flashmobs, excitable elves, Christmas carols and of course Archie the donkey! When their new teacher Mr. Shepherd loses his memory and forgets all about Christmas, as well as his fiancée Sophie and the whereabouts of the beloved Archie, it's up to the pupils of St Bernadette's to save the day. Led by the ever enthusiastic Mr Poppy, they embark on a Christmas journey like never before - but time is against them if they are to help Mr Shepherd get to New York in time for his magical yuletide wedding!",
+        "popularity": 0.7207,
+        "poster_path": "/19Noi6WCSFZJ5YVS6mlSWpiVeXX.jpg",
+        "release_date": "2014-11-14",
+        "title": "Nativity 3: Dude, Where's My Donkey?!",
+        "video": false,
+        "vote_average": 4.519,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/embfWr6iBTYfSGmtHxdw7qHLMH6.jpg",
+        "genre_ids": [
+          10751,
+          16
+        ],
+        "id": 28275,
+        "original_language": "en",
+        "original_title": "Jingle Bells",
+        "overview": "A family with very little money worries about not being able to buy presents for each other, until they receive a little inspiration from a Christmas legend.",
+        "popularity": 3.0169,
+        "poster_path": "/pCYqHFHa5DNG1v7BRrj8WYL64qO.jpg",
+        "release_date": "1999-01-01",
+        "title": "Jingle Bells",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8HbQktb4ZQJ93XoQGJ09JMjGIi5.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 28003,
+        "original_language": "en",
+        "original_title": "Madea's Class Reunion - The Play",
+        "overview": "When Madea shows up for her 50th class reunion, you know it’s going to be a whopper! Between the belly laughs and the soulful songs are life lessons. Thanks to Madea’s wisdom, the message is clear: Learn to forgive and begin with yourself.",
+        "popularity": 0.2624,
+        "poster_path": "/8yceuznSK0liddeQ8eZKdgvMxlZ.jpg",
+        "release_date": "2003-09-13",
+        "title": "Madea's Class Reunion - The Play",
+        "video": true,
+        "vote_average": 6.684,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tQBVmuHhIycRg1BJaEZrBp9M9gM.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10770
+        ],
+        "id": 28042,
+        "original_language": "en",
+        "original_title": "Frosty Returns",
+        "overview": "Mr. Twitchell, a greedy old businessman, has invented Summer Wheeze: a spray that instantly removes snow and slush! Now Holly has to keep Frosty from melting, and convince everybody that snow's actually a good thing.",
+        "popularity": 4.3239,
+        "poster_path": "/qYgHxkiRvjVnPihSAm9Je91kOZq.jpg",
+        "release_date": "1993-09-15",
+        "title": "Frosty Returns",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 110
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10751,
+          10770
+        ],
+        "id": 479377,
+        "original_language": "en",
+        "original_title": "A Small Miracle",
+        "overview": "On Christmas Eve, a poor old woman plays her accordion in the street. Apart from two children, the passers-by ignore her and by the end of the day she has to sell her accordion to buy some food. Worse is to come. (1976)",
+        "popularity": 0.2532,
+        "poster_path": "/e08qqHeXbfJC6fkTUVUqnxh1L84.jpg",
+        "release_date": "1976-01-01",
+        "title": "A Small Miracle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jbEbL1gl8VQBAX43kcPCMfBZum7.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          10402
+        ],
+        "id": 28345,
+        "original_language": "en",
+        "original_title": "Heidi",
+        "overview": "Heidi is orphaned and her uncaring maternal Aunt Dete takes her to the mountains to live with her reclusive, grumpy paternal grandfather, Adolph Kramer. Heidi brings her grandfather back into mountain society through her sweet ways and sheer love. When Dete later returns and steals Heidi away to become the companion of a rich man's wheelchair-bound daughter, the grandfather is heartsick to discover his little girl missing and immediately sets out to get her back.",
+        "popularity": 4.2036,
+        "poster_path": "/rIfA5X4pYJOHyFPZFqWLOu7yfiZ.jpg",
+        "release_date": "1937-10-15",
+        "title": "Heidi",
+        "video": false,
+        "vote_average": 6.826,
+        "vote_count": 115
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ojlXbuOWrZ1MK3eD9AkiEBQhsI.jpg",
+        "genre_ids": [
+          16,
+          14,
+          10751
+        ],
+        "id": 26809,
+        "original_language": "en",
+        "original_title": "Prep & Landing",
+        "overview": "Wayne gets a new rookie partner, Lanny, after his previous partner got the promotion he wanted. Lanny has to remind Wayne of the Spirit of Christmas and the importance of being an elf in Santa's Prep and Landing elite unit.",
+        "popularity": 1.4708,
+        "poster_path": "/jl4UZyUA1xPFZMYWYJ4ZzuccW7Q.jpg",
+        "release_date": "2009-12-24",
+        "title": "Prep & Landing",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 150
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p3EbGRHHtEOmRftbr5rLCXYEDbh.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 872226,
+        "original_language": "en",
+        "original_title": "A Rich Christmas",
+        "overview": "Spoiled socialite will learn a lesson after her father asks her to work in a family homeless center.",
+        "popularity": 0.3188,
+        "poster_path": "/3VLlYwGwun0O6tIcfys2iXBIUWu.jpg",
+        "release_date": "2021-11-04",
+        "title": "A Rich Christmas",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A0gZrxsl2imWwZjg8SQXv8yOQUx.jpg",
+        "genre_ids": [
+          10770,
+          18
+        ],
+        "id": 479606,
+        "original_language": "en",
+        "original_title": "A Bramble House Christmas",
+        "overview": "While settling his father’s estate, Finn Conrad becomes suspicious as to why the man left a nurse $100,000. His dad knew her for less than two months before he died. Just before Christmas, Finn wants what to reclaim what he considers his family’s money, going undercover to investigate the bed and breakfast the nurse has recently taken over. When Finn meets Willa, he discovers she’s not a conniving gold digger at all, but a woman in need who put the money to good use. When she discovers his true identity, will it keep Willa from ever trusting him again?",
+        "popularity": 0.8812,
+        "poster_path": "/dosP338nILsuFDfJuKjNMvaDcbO.jpg",
+        "release_date": "2017-11-19",
+        "title": "A Bramble House Christmas",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/41fOFI7tRy8u7nkxcHpAUPtmhFh.jpg",
+        "genre_ids": [
+          10770,
+          10749,
+          18
+        ],
+        "id": 479607,
+        "original_language": "en",
+        "original_title": "Engaging Father Christmas",
+        "overview": "It's Christmas and Miranda leaves Seattle with a suitcase full of presents to join her long- lost family in Carlton Heath, where she will experience the joyful traditions she missed as a child. Last Christmas, Miranda fell in love with Ian, a local man who helped her as she searched for her father, James Whitcomb, a famous theatre actor she believed had a connection to the town. At his widow Margaret’s request, Miranda agrees to keep it a secret to protect the family from scandal.",
+        "popularity": 1.3116,
+        "poster_path": "/xiDQaS68IBFuMcFjstHF28ZOzxl.jpg",
+        "release_date": "2017-11-12",
+        "title": "Engaging Father Christmas",
+        "video": false,
+        "vote_average": 6.079,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aglDqWUMXJdLbFwgGVDOZd5Owdd.jpg",
+        "genre_ids": [
+          10770,
+          18,
+          10749
+        ],
+        "id": 479613,
+        "original_language": "en",
+        "original_title": "A Song for Christmas",
+        "overview": "Pop superstar Adelaide Kay is so fed up with her controlling manager that she sneaks off the tour bus after their latest squabble. Though exhilarated to be free, she finds herself stranded in the freezing cold of a Pennsylvania winter, with no money and no plan. A local family, the Lapps, take her in. They know the true meaning of the season, even if they’re close to losing their tree farm. No one in the family recognizes Adelaide except Dillon, the oldest son.",
+        "popularity": 0.687,
+        "poster_path": "/4PjXNuqhkrhcMYUJTzsPQmRnXgN.jpg",
+        "release_date": "2017-11-11",
+        "title": "A Song for Christmas",
+        "video": false,
+        "vote_average": 6.293,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2N0XZxyPB8WSPcmijVSywyezV1e.jpg",
+        "genre_ids": [
+          18,
+          10770,
+          10749
+        ],
+        "id": 479614,
+        "original_language": "en",
+        "original_title": "Christmas Homecoming",
+        "overview": "A military widow, whose faith in Christmas has lapsed, rents an apartment to a handsome Army Captain, recovering from an injury in battle, and whose faith in Christmas is inspirational. As they team up to save the town’s military museum with a Christmas fundraising event, these two ‘wounded birds’ find themselves falling in love — and being healed by the magic of Christmas.",
+        "popularity": 0.5565,
+        "poster_path": "/6tviM77Kfi2bfvyrMLQ4fAHkz6e.jpg",
+        "release_date": "2017-11-18",
+        "title": "Christmas Homecoming",
+        "video": false,
+        "vote_average": 6.684,
+        "vote_count": 49
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jwrsPRuuJ8AMzsrB6ncn8ucmaIz.jpg",
+        "genre_ids": [
+          10751,
+          10402
+        ],
+        "id": 1263693,
+        "original_language": "en",
+        "original_title": "Bible Baby",
+        "overview": "A religious children's film featuring a full grown woman playing a baby explaining Christianity with the aid of some puppets.",
+        "popularity": 0.5358,
+        "poster_path": "/36bGhKFDz9sJwKNFszjoGT4O0wN.jpg",
+        "release_date": "1992-01-01",
+        "title": "Bible Baby",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kiqFjtJTJtc3XSjYFQF0BaTkIdE.jpg",
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 27139,
+        "original_language": "en",
+        "original_title": "In the Line of Duty: Ambush in Waco",
+        "overview": "Religious fanatics are barricaded in a building and surrounded by police. But they're not going to surrender; they prefer to die.",
+        "popularity": 0.4818,
+        "poster_path": "/bq9UyzLRYmfiGKFMiSaJPGVrX4Q.jpg",
+        "release_date": "1993-05-23",
+        "title": "In the Line of Duty: Ambush in Waco",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s32FvJMxoiSso3ix9D40RPk1Cco.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10751,
+          10770
+        ],
+        "id": 27163,
+        "original_language": "en",
+        "original_title": "The Best Christmas Pageant Ever",
+        "overview": "The Herdmans – Gladys, Claude, Imogene, Leroy, Ollie and Ralph – are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they’re taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
+        "popularity": 0.3873,
+        "poster_path": "/o4gFAjfnMpiJw9lOViuz22lR9RQ.jpg",
+        "release_date": "1983-12-05",
+        "title": "The Best Christmas Pageant Ever",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6mtgRaSZJ8qaI7X8OIBqwZg1c1R.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          10770
+        ],
+        "id": 27190,
+        "original_language": "en",
+        "original_title": "A Muppets Christmas: Letters to Santa",
+        "overview": "When Gonzo forgets to mail three letters to Santa, he convinces Kermit and the gang to help him deliver the notes to the North Pole. Along the way, they discover that Christmas is the time to be with those you care about most, as they dash home to make a friends Christmas wish come true.",
+        "popularity": 0.687,
+        "poster_path": "/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg",
+        "release_date": "2008-12-17",
+        "title": "A Muppets Christmas: Letters to Santa",
+        "video": false,
+        "vote_average": 5.969,
+        "vote_count": 70
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t4I3Zsbuk6G9yOL8Gn6dOWIbqJm.jpg",
+        "genre_ids": [
+          16,
+          28,
+          10751,
+          35
+        ],
+        "id": 870358,
+        "original_language": "en",
+        "original_title": "Merry Little Batman",
+        "overview": "This Christmas, Damian Wayne wants to be a superhero like his dad – the one and only Batman. When Damian is left home alone while Batman takes on Gotham’s worst supervillains on Christmas Eve, he stumbles upon a villainous plot to steal Christmas and leaps at the chance to save the day.",
+        "popularity": 3.7349,
+        "poster_path": "/2J70guF8wcErbYbRgZUBcvShgI1.jpg",
+        "release_date": "2023-12-08",
+        "title": "Merry Little Batman",
+        "video": false,
+        "vote_average": 6.606,
+        "vote_count": 165
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iaMua3MLv6KJse0MEjGy6NVbqIa.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35
+        ],
+        "id": 870359,
+        "original_language": "en",
+        "original_title": "Urkel Saves Santa: The Movie!",
+        "overview": "The holiday season has arrived, and brilliant but accident-prone Steve Urkel has already ruined his local celebration by publicly humiliating a shopping mall Santa. In his attempt to make things right and score some nice points with the big guy in the North Pole, Steve creates an invention that only makes things worse. Using his big brain and even bigger heart, Steve must find the real Santa to see if together they can help the city rediscover the holiday spirit.",
+        "popularity": 0.5417,
+        "poster_path": "/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg",
+        "release_date": "2023-11-21",
+        "title": "Urkel Saves Santa: The Movie!",
+        "video": false,
+        "vote_average": 5.706,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 26926,
+        "original_language": "sv",
+        "original_title": "Astrid Lindgrens jul",
+        "overview": "A collection of well-known Christmas scenes from a number of classic screen versions of Astrid Lindgren's beloved children's books. \"Astrid Lindgren's Christmas\" includes scenes from \"Pippi Longstocking\", \"Ronia the Robber's Daughter\", \"Brenda Brave\" (\"Kajsa Kavat\"), \"Lotta on Troublemaker Street\", \"Emil of Lönneberga\" and more.",
+        "popularity": 0.3529,
+        "poster_path": "/qtWaxO28PdXocbpoCiOmkrjfR6e.jpg",
+        "release_date": "1999-12-01",
+        "title": "Astrid Lindgrens jul",
+        "video": true,
+        "vote_average": 7.0,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ak173gW3RUlAC1N52OQ2eCDcqm3.jpg",
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 26934,
+        "original_language": "en",
+        "original_title": "A Christmas Visitor",
+        "overview": "The Boyajian family learned of 18-year-old John's death in the Persian Gulf War on Christmas Eve eleven years earlier and have not celebrated Christmas since. They have been so consumed by his death that they have forgotten the joys of the holidays, until a mysterious visitor enters their lives and rekindles the spirit of the season.",
+        "popularity": 1.5175,
+        "poster_path": "/vMqB3RZIgjk4RMUHNtAkWOrnNQz.jpg",
+        "release_date": "2002-11-24",
+        "title": "A Christmas Visitor",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 20
+      }
+    ],
+    "total_pages": 15255,
+    "total_results": 305083
+  }
+}

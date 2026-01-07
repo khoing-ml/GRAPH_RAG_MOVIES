@@ -1,0 +1,1098 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg",
+    "belongs_to_collection": {
+      "id": 1219938,
+      "name": "O Auto da Compadecida: Coleção",
+      "poster_path": "/2AGBk8Oiv6tamlVcoi6fxPhDUGZ.jpg",
+      "backdrop_path": "/cw87veY8orlWaiYwuF2jwWWQHfE.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 40096,
+    "imdb_id": "tt0271383",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "O Auto da Compadecida",
+    "overview": "The lively João Grilo and the sly Chicó are poor guys living in the hinterland who cheat a bunch of people in a small town in Northeastern Brazil. When they die, they have to be judged by Christ, the Devil and the Virgin Mary before they are admitted to paradise.",
+    "popularity": 2.1602,
+    "poster_path": "/ctfNJw6gofTjQvhOZeH8QKt0O2x.jpg",
+    "production_companies": [
+      {
+        "id": 11446,
+        "logo_path": null,
+        "name": "Lereby Produções",
+        "origin_country": "BR"
+      },
+      {
+        "id": 13969,
+        "logo_path": "/bEpiJ2zXGIH70JT16asjWNFtOEv.png",
+        "name": "Globo Filmes",
+        "origin_country": "BR"
+      },
+      {
+        "id": 46430,
+        "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+        "name": "Estúdios Globo",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2000-09-15",
+    "revenue": 4903192,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Lying with faith is not always a sin.",
+    "title": "A Dog's Will",
+    "video": false,
+    "vote_average": 8.417,
+    "vote_count": 1195
+  },
+  "credits": {
+    "id": 40096,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8600,
+        "known_for_department": "Acting",
+        "name": "Matheus Nachtergaele",
+        "original_name": "Matheus Nachtergaele",
+        "popularity": 0.6313,
+        "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+        "cast_id": 1,
+        "character": "João Grilo",
+        "credit_id": "52fe4580c3a36847f80cb10f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87341,
+        "known_for_department": "Acting",
+        "name": "Selton Mello",
+        "original_name": "Selton Mello",
+        "popularity": 2.3469,
+        "profile_path": "/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg",
+        "cast_id": 18,
+        "character": "Chicó",
+        "credit_id": "52fe4580c3a36847f80cb151",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123757,
+        "known_for_department": "Acting",
+        "name": "Rogério Cardoso",
+        "original_name": "Rogério Cardoso",
+        "popularity": 0.7459,
+        "profile_path": "/ertp7Yo3BhAA9FXaXJo4LDK9Out.jpg",
+        "cast_id": 3,
+        "character": "Padre João",
+        "credit_id": "52fe4580c3a36847f80cb113",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123758,
+        "known_for_department": "Acting",
+        "name": "Denise Fraga",
+        "original_name": "Denise Fraga",
+        "popularity": 0.2139,
+        "profile_path": "/oLn1Av1qF0vbip8WKnTb4EQkaZ5.jpg",
+        "cast_id": 4,
+        "character": "Dora",
+        "credit_id": "52fe4580c3a36847f80cb117",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102551,
+        "known_for_department": "Acting",
+        "name": "Diogo Vilela",
+        "original_name": "Diogo Vilela",
+        "popularity": 0.2907,
+        "profile_path": "/hsAky8EzEgWMlbCr9YgJJ69B5lt.jpg",
+        "cast_id": 5,
+        "character": "Eurico",
+        "credit_id": "52fe4580c3a36847f80cb11b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90219,
+        "known_for_department": "Acting",
+        "name": "Luís Melo",
+        "original_name": "Luís Melo",
+        "popularity": 0.5937,
+        "profile_path": "/xxX3MSbxi0RhODIbOZCP6bvtLdc.jpg",
+        "cast_id": 6,
+        "character": "Diabo",
+        "credit_id": "52fe4580c3a36847f80cb11f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123759,
+        "known_for_department": "Acting",
+        "name": "Virginia Cavendish",
+        "original_name": "Virginia Cavendish",
+        "popularity": 0.3939,
+        "profile_path": "/kMol9CsRBTiQ1RPFL2IrTPBHXlC.jpg",
+        "cast_id": 7,
+        "character": "Rosinha",
+        "credit_id": "52fe4580c3a36847f80cb123",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123760,
+        "known_for_department": "Acting",
+        "name": "Bruno Garcia",
+        "original_name": "Bruno Garcia",
+        "popularity": 0.3515,
+        "profile_path": "/k1qfsIEsXJT9Ml6NKasUoKh96Dp.jpg",
+        "cast_id": 8,
+        "character": "Vicentão",
+        "credit_id": "52fe4580c3a36847f80cb127",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126875,
+        "known_for_department": "Acting",
+        "name": "Enrique Díaz",
+        "original_name": "Enrique Díaz",
+        "popularity": 0.3459,
+        "profile_path": "/bGdE9lqldBpiFISHLFrETNQhQh5.jpg",
+        "cast_id": 22,
+        "character": "Joaquim Brejeiro",
+        "credit_id": "5b535b5b9251411f7c011956",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87340,
+        "known_for_department": "Acting",
+        "name": "Maurício Gonçalves",
+        "original_name": "Maurício Gonçalves",
+        "popularity": 0.2898,
+        "profile_path": "/2r1cLpS831Gj38nY1swYMo7myJU.jpg",
+        "cast_id": 9,
+        "character": "Jesus Cristo / Emanuel",
+        "credit_id": "52fe4580c3a36847f80cb12b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123761,
+        "known_for_department": "Acting",
+        "name": "Aramis Trindade",
+        "original_name": "Aramis Trindade",
+        "popularity": 0.4238,
+        "profile_path": "/ehyqVj7fNDOltiOMiCKb4JzN20A.jpg",
+        "cast_id": 10,
+        "character": "Cabo 70",
+        "credit_id": "52fe4580c3a36847f80cb12f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123762,
+        "known_for_department": "Acting",
+        "name": "Marco Nanini",
+        "original_name": "Marco Nanini",
+        "popularity": 0.2732,
+        "profile_path": "/pwgWgm54zI4yKsSfb9y3hY7xd9M.jpg",
+        "cast_id": 11,
+        "character": "Severino de Aracaju",
+        "credit_id": "52fe4580c3a36847f80cb133",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130046,
+        "known_for_department": "Acting",
+        "name": "Paulo Goulart",
+        "original_name": "Paulo Goulart",
+        "popularity": 0.4499,
+        "profile_path": "/kuwwLjtkGOvbA2VkkCM2DQZ5mad.jpg",
+        "cast_id": 20,
+        "character": "Major Antônio Moraes",
+        "credit_id": "58be5289925141340700ca08",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123763,
+        "known_for_department": "Acting",
+        "name": "Lima Duarte",
+        "original_name": "Lima Duarte",
+        "popularity": 0.9916,
+        "profile_path": "/g95EKPRa9PbG14wjiP44kPDUTKY.jpg",
+        "cast_id": 13,
+        "character": "Bispo",
+        "credit_id": "52fe4580c3a36847f80cb13b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10055,
+        "known_for_department": "Acting",
+        "name": "Fernanda Montenegro",
+        "original_name": "Fernanda Montenegro",
+        "popularity": 1.531,
+        "profile_path": "/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg",
+        "cast_id": 12,
+        "character": "Nossa Senhora",
+        "credit_id": "52fe4580c3a36847f80cb137",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102560,
+        "known_for_department": "Directing",
+        "name": "Guel Arraes",
+        "original_name": "Guel Arraes",
+        "popularity": 0.385,
+        "profile_path": "/xB9855ExMtZdiguOFaXKI1Bx0LK.jpg",
+        "credit_id": "52fe4580c3a36847f80cb141",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123765,
+        "known_for_department": "Writing",
+        "name": "Adriana Falcão",
+        "original_name": "Adriana Falcão",
+        "popularity": 0.7045,
+        "profile_path": null,
+        "credit_id": "52fe4580c3a36847f80cb147",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102560,
+        "known_for_department": "Directing",
+        "name": "Guel Arraes",
+        "original_name": "Guel Arraes",
+        "popularity": 0.385,
+        "profile_path": "/xB9855ExMtZdiguOFaXKI1Bx0LK.jpg",
+        "credit_id": "52fe4580c3a36847f80cb14d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102559,
+        "known_for_department": "Writing",
+        "name": "João Falcão",
+        "original_name": "João Falcão",
+        "popularity": 0.7393,
+        "profile_path": "/rBj2weTvwDxFRPtiTGO4quypyni.jpg",
+        "credit_id": "624cc99e5b4fed0067f9a5bb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102560,
+        "known_for_department": "Directing",
+        "name": "Guel Arraes",
+        "original_name": "Guel Arraes",
+        "popularity": 0.385,
+        "profile_path": "/xB9855ExMtZdiguOFaXKI1Bx0LK.jpg",
+        "credit_id": "624cc9e00d1e7f0051933609",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2173256,
+        "known_for_department": "Production",
+        "name": "Eduardo Figueira",
+        "original_name": "Eduardo Figueira",
+        "popularity": 0.3692,
+        "profile_path": null,
+        "credit_id": "624cc9f67f4f2100663ed971",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8568,
+        "known_for_department": "Directing",
+        "name": "Daniel Filho",
+        "original_name": "Daniel Filho",
+        "popularity": 0.4275,
+        "profile_path": "/68AkmqSROffj653ptYdrLJVbykR.jpg",
+        "credit_id": "624cca81d7107e00537e6a38",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1668848,
+        "known_for_department": "Art",
+        "name": "Lia Renha",
+        "original_name": "Lia Renha",
+        "popularity": 0.115,
+        "profile_path": null,
+        "credit_id": "624ccad349756000515af2cd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 414697,
+        "known_for_department": "Camera",
+        "name": "Félix \"Chango\" Monti",
+        "original_name": "Félix Monti",
+        "popularity": 0.1996,
+        "profile_path": "/lana2GPvtdkTj2EJFY7D6m54Mr7.jpg",
+        "credit_id": "65d0b079f2cf250161e159f7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1705069,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cao Albuquerque",
+        "original_name": "Cao Albuquerque",
+        "popularity": 0.2969,
+        "profile_path": null,
+        "credit_id": "65d0b09169c70f0186989b1b",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4226930,
+        "known_for_department": "Production",
+        "name": "Andrea Comodo",
+        "original_name": "Andrea Comodo",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "65d0b98820ecaf01632eef96",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2054133,
+        "known_for_department": "Directing",
+        "name": "Paola Pol Balloussier",
+        "original_name": "Paola Pol Balloussier",
+        "popularity": 0.0842,
+        "profile_path": null,
+        "credit_id": "65d0b9a22dda89017bdc637e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1769034,
+        "known_for_department": "Directing",
+        "name": "Flávia Lacerda",
+        "original_name": "Flávia Lacerda",
+        "popularity": 0.4147,
+        "profile_path": null,
+        "credit_id": "65d0b9bd303c85016552a686",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1694068,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marlene Moura",
+        "original_name": "Marlene Moura",
+        "popularity": 0.203,
+        "profile_path": null,
+        "credit_id": "65d0bfdbfcb8cc016244d3f9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405312,
+        "known_for_department": "Production",
+        "name": "Andrea Imperatore",
+        "original_name": "Andrea Imperatore",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "65d0c011f2cf25017ae1cf0b",
+        "department": "Production",
+        "job": "Casting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2206268,
+        "known_for_department": "Directing",
+        "name": "Fernanda Borges",
+        "original_name": "Fernanda Borges",
+        "popularity": 0.1734,
+        "profile_path": null,
+        "credit_id": "65d0c07b7b7b4d018757290a",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308839,
+        "known_for_department": "Sound",
+        "name": "Zezé d'Alice",
+        "original_name": "Zezé d'Alice",
+        "popularity": 0.1486,
+        "profile_path": null,
+        "credit_id": "65d0c0a4e6271901627108db",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2132389,
+        "known_for_department": "Camera",
+        "name": "Joaquim Torres",
+        "original_name": "Joaquim Torres",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "65d0c0c11d31430184ba2fb9",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112192,
+        "known_for_department": "Camera",
+        "name": "Pedro Serrão",
+        "original_name": "Pedro Serrão",
+        "popularity": 0.2926,
+        "profile_path": null,
+        "credit_id": "65d0c0ce1d31430184ba2fd3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2031373,
+        "known_for_department": "Visual Effects",
+        "name": "Capy Ramazzina",
+        "original_name": "Capy Ramazzina",
+        "popularity": 0.2403,
+        "profile_path": null,
+        "credit_id": "65d0c0fb69c70f018698a72f",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102559,
+        "known_for_department": "Writing",
+        "name": "João Falcão",
+        "original_name": "João Falcão",
+        "popularity": 0.7393,
+        "profile_path": "/rBj2weTvwDxFRPtiTGO4quypyni.jpg",
+        "credit_id": "65d0c1162dda89017bdc6719",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2245429,
+        "known_for_department": "Sound",
+        "name": "Carlinhos Borges",
+        "original_name": "Carlinhos Borges",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "65d0c125e62719018171891b",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4541606,
+        "known_for_department": "Sound",
+        "name": "Sérgio Campelo",
+        "original_name": "Sérgio Campelo",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "credit_id": "65d0c148fcb8cc017b455947",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189014,
+        "known_for_department": "Sound",
+        "name": "José Moreau Louzeiro",
+        "original_name": "José Moreau Louzeiro",
+        "popularity": 0.2632,
+        "profile_path": null,
+        "credit_id": "65d0c16969c70f018698a7a6",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1189015,
+        "known_for_department": "Sound",
+        "name": "Simone Petrillo",
+        "original_name": "Simone Petrillo",
+        "popularity": 0.0817,
+        "profile_path": null,
+        "credit_id": "65d0c17869c70f01639841ca",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 250847,
+        "known_for_department": "Sound",
+        "name": "Carlos Cox",
+        "original_name": "Carlos Cox",
+        "popularity": 0.1201,
+        "profile_path": null,
+        "credit_id": "65d0c18769c70f01639841da",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421958,
+        "known_for_department": "Acting",
+        "name": "Ariano Suassuna",
+        "original_name": "Ariano Suassuna",
+        "popularity": 0.0921,
+        "profile_path": "/qDXsSVw5kDtdOB5mPyYjGmLICoh.jpg",
+        "credit_id": "58be53d0c3a3686630052e4b",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2144361,
+        "known_for_department": "Editing",
+        "name": "Ubiraci de Motta",
+        "original_name": "Ubiraci de Motta",
+        "popularity": 0.2438,
+        "profile_path": null,
+        "credit_id": "5daf899509dda40011dfad4d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255577,
+        "known_for_department": "Crew",
+        "name": "Paulo Henrique Farias",
+        "original_name": "Paulo Henrique Farias",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "5daf89a4ecaef5001723d3cd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421958,
+        "known_for_department": "Acting",
+        "name": "Ariano Suassuna",
+        "original_name": "Ariano Suassuna",
+        "popularity": 0.0921,
+        "profile_path": "/qDXsSVw5kDtdOB5mPyYjGmLICoh.jpg",
+        "credit_id": "5fdc82632efe4e003fd63b60",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 40096,
+    "keywords": [
+      {
+        "id": 10181,
+        "name": "based on play or musical"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10749
+        ],
+        "id": 195,
+        "original_language": "en",
+        "original_title": "Trouble in Paradise",
+        "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
+        "popularity": 0.8175,
+        "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+        "release_date": "1932-10-30",
+        "title": "Trouble in Paradise",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 299
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 456503,
+        "original_language": "ja",
+        "original_title": "Octopus",
+        "overview": "Squid have 10 legs. Octopuses have 8 legs. Added together, that’s 18 legs.",
+        "popularity": 0.2041,
+        "poster_path": "/at5y1Vmhsh5MF15SEL5NmCzQmm.jpg",
+        "release_date": "2015-10-01",
+        "title": "Octopus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Yz8IcUBPZ8zDff0ktHZk24Rot0.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 261,
+        "original_language": "en",
+        "original_title": "Cat on a Hot Tin Roof",
+        "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son.",
+        "popularity": 1.824,
+        "poster_path": "/5djZZECgqDGuSI1INmrdAcGRBb0.jpg",
+        "release_date": "1958-08-29",
+        "title": "Cat on a Hot Tin Roof",
+        "video": false,
+        "vote_average": 7.633,
+        "vote_count": 805
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+        "genre_ids": [
+          36,
+          10402,
+          18
+        ],
+        "id": 279,
+        "original_language": "en",
+        "original_title": "Amadeus",
+        "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+        "popularity": 7.4639,
+        "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+        "release_date": "1984-09-19",
+        "title": "Amadeus",
+        "video": false,
+        "vote_average": 8.023,
+        "vote_count": 4584
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o67MmFburfckl6iPa4DVkranLi3.jpg",
+        "genre_ids": [
+          14,
+          18,
+          10749
+        ],
+        "id": 297,
+        "original_language": "en",
+        "original_title": "Meet Joe Black",
+        "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+        "popularity": 8.3514,
+        "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+        "release_date": "1998-11-12",
+        "title": "Meet Joe Black",
+        "video": false,
+        "vote_average": 7.354,
+        "vote_count": 5592
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 655284,
+        "original_language": "fi",
+        "original_title": "Keinumorsian",
+        "overview": "Jarvala's daughter Aliina and the miller Jalmari Hurttia are in love with each other. Jarvala's father does not approve of the miller as a son-in-law, because he wants his daughter to marry into wealth. The wealthy widower Elias Horha proposes to Aliina, who eventually agrees to marry the old man.",
+        "popularity": 0.6792,
+        "poster_path": "/slWGLWjqBjV5zRQkXOZb3iqoybv.jpg",
+        "release_date": "1943-01-03",
+        "title": "Keinumorsian",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jbYJbHBsCtcewKM68YIyIzjvdhP.jpg",
+        "genre_ids": [
+          16,
+          35,
+          878,
+          28,
+          12,
+          10770
+        ],
+        "id": 278427,
+        "original_language": "en",
+        "original_title": "Family Guy Presents: It's a Trap!",
+        "overview": "With the Griffins stuck again at home during a blackout, Peter tells the story of “Star Wars Episode VI: Return of the Jedi.”",
+        "popularity": 0.9969,
+        "poster_path": "/nGER5w4H3g2ujD8Zodxn0WXk1l4.jpg",
+        "release_date": "2010-12-21",
+        "title": "Family Guy Presents: It's a Trap!",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 436
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          80
+        ],
+        "id": 11576,
+        "original_language": "en",
+        "original_title": "It's a Mad, Mad, Mad, Mad World",
+        "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+        "popularity": 3.2315,
+        "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+        "release_date": "1963-11-07",
+        "title": "It's a Mad, Mad, Mad, Mad World",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 657
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8YYg4SXMJK5Qc7ddxEXoGrNxTGH.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 11584,
+        "original_language": "en",
+        "original_title": "Roxanne",
+        "overview": "In this modern take on Edmond Rostand's classic play \"Cyrano de Bergerac,\" C. D. Bales is the witty, intelligent, and brave fire chief of a small Pacific Northwest town who, due to the size of his enormous nose, declines to pursue the girl of his dreams, lovely Roxanne Kowalski. Instead, when his shy underling Chris McConnell becomes smitten with Roxanne, C.D. feeds the handsome young man the words of love to win her heart.",
+        "popularity": 1.467,
+        "poster_path": "/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg",
+        "release_date": "1987-06-19",
+        "title": "Roxanne",
+        "video": false,
+        "vote_average": 6.405,
+        "vote_count": 659
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dlanV9JhkzXsHfYrBFdXbdNiBAz.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 11631,
+        "original_language": "en",
+        "original_title": "Mamma Mia!",
+        "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+        "popularity": 6.7609,
+        "poster_path": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+        "release_date": "2008-07-03",
+        "title": "Mamma Mia!",
+        "video": false,
+        "vote_average": 6.974,
+        "vote_count": 6861
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/38vSBntr7pSEnVdefQ8lsICjqz5.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 280015,
+        "original_language": "cs",
+        "original_title": "Oldřich a Božena",
+        "overview": "At the turn of the 10th and 11th centuries Boleslav's kingdom fell apart in the fratricidal war between the Přemyslovci and the other clans the main profiteer of this being the German emperor. At that time it seemed as if the Czech state and the lineage of its princes was awaiting its end...\" It is with these words that the tale of this film begins, whose narrative is based upon the the play by František Hrubín of the same name.",
+        "popularity": 0.6539,
+        "poster_path": "/slJAlQzjKrMG0NiUgGHY7C2pGVU.jpg",
+        "release_date": "1985-08-01",
+        "title": "Oldrich and Bozena",
+        "video": false,
+        "vote_average": 2.667,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/isyOwiSRyLRFXdsMn0UiA7mQbXV.jpg",
+        "genre_ids": [
+          10752,
+          18
+        ],
+        "id": 11316,
+        "original_language": "en",
+        "original_title": "Macbeth",
+        "overview": "Scotland, 11th century. Driven by the twisted prophecy of three witches and the ruthless ambition of his wife, warlord Macbeth, bold and brave, but also weak and hesitant, betrays his good king and his brothers in arms and sinks into the bloody mud of a path with no return, sown with crime and suspicion.",
+        "popularity": 3.6935,
+        "poster_path": "/35wNrDYuZjVCLurOmTZ5j490iuR.jpg",
+        "release_date": "1971-12-20",
+        "title": "Macbeth",
+        "video": false,
+        "vote_average": 7.081,
+        "vote_count": 295
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hz4Nm8soNLbqoLosFqLy5yUSVUB.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1244872,
+        "original_language": "es",
+        "original_title": "Nina",
+        "overview": "After thirty years, Nina decides to return to the seaside town where she grew up to confront the man who changed her life and to whom the town now pays homage. The reunion with her origins, with her memories and with Blas, a childhood friend, will make her question whether revenge is the only way.",
+        "popularity": 2.4311,
+        "poster_path": "/e4Dr3pExlz2qiRdQVpOPtxxzo3B.jpg",
+        "release_date": "2024-05-10",
+        "title": "Nina",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fagaywgTkMpIdoRLtJF2GvwrqXI.jpg",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "id": 1244880,
+        "original_language": "es",
+        "original_title": "Invasión",
+        "overview": "Three stories intertwine to form a vision of war in a narrative kaleidoscope that transcends space and time. The seven characters of the play will face their own internal enemies and find the only way to escape in love.",
+        "popularity": 2.7446,
+        "poster_path": "/poZZC9PNg554tLA4nJWvc3gYIaJ.jpg",
+        "release_date": "2024-06-28",
+        "title": "Invasión",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+        "genre_ids": [
+          18,
+          35,
+          36,
+          10749
+        ],
+        "id": 11673,
+        "original_language": "fr",
+        "original_title": "Cyrano de Bergerac",
+        "overview": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
+        "popularity": 2.4466,
+        "poster_path": "/80XJ5UkGuYTKDuALeG03BLk1OT1.jpg",
+        "release_date": "1990-03-28",
+        "title": "Cyrano de Bergerac",
+        "video": false,
+        "vote_average": 7.316,
+        "vote_count": 803
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pbVVDPRrcnsvFjujgHjpFktRFbg.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 11680,
+        "original_language": "fr",
+        "original_title": "L'Avare",
+        "overview": "The children of Harpagon, Cléante and his sister Elise, are each in love but they still haven’t spoken to their father yet. Harpagon is a miser who wants to choose the right man and the right woman for his children. Based on Molière’s play.",
+        "popularity": 2.3204,
+        "poster_path": "/ogjed6gHn7o35i8Fo72DuXvDppa.jpg",
+        "release_date": "1980-03-05",
+        "title": "The Miser",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 452
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Ah7uiN6ws2QcBZhLdDfkiSJIX35.jpg",
+        "genre_ids": [
+          35,
+          14
+        ],
+        "id": 11787,
+        "original_language": "en",
+        "original_title": "Harvey",
+        "overview": "The story of Elwood P. Dowd who makes friends with a spirit taking the form of a human-sized rabbit named Harvey that only he sees (and a few privileged others on occasion also.) After his sister tries to commit him to a mental institution, a comedy of errors ensues. Elwood and Harvey become the catalysts for a family mending its wounds and for romance blossoming in unexpected places.",
+        "popularity": 3.9293,
+        "poster_path": "/dgd82hYmpiXDM1G867HqNaWe8wj.jpg",
+        "release_date": "1950-12-04",
+        "title": "Harvey",
+        "video": false,
+        "vote_average": 7.68,
+        "vote_count": 661
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/autP0ViQOxSscZUKRqM35DIWkc.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 468029,
+        "original_language": "fr",
+        "original_title": "Espèces menacées",
+        "overview": "An accountant, presumed honest, inadvertently finds 7 million francs in his bag and decides to change his life.",
+        "popularity": 1.2165,
+        "poster_path": "/h9KaWCWpdmgM2nN16v0m2KMKbkw.jpg",
+        "release_date": "2001-05-07",
+        "title": "Espèces menacées",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 10860,
+        "original_language": "en",
+        "original_title": "Steel Magnolias",
+        "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
+        "popularity": 4.1298,
+        "poster_path": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+        "release_date": "1989-11-15",
+        "title": "Steel Magnolias",
+        "video": false,
+        "vote_average": 7.188,
+        "vote_count": 699
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o4p4joAAFETuUFCHJe2XYJcnCdi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 10876,
+        "original_language": "en",
+        "original_title": "Quills",
+        "overview": "In early 19th-century France, the Marquis de Sade is confined to an asylum where his forbidden writings continue to circulate beyond its walls. As the authorities tighten control, a clash unfolds between the Marquis’ unyielding imagination, the reformist ideals of the Abbé in charge, and the repressive measures of a doctor sent to silence him. Desire, power, and censorship collide in a battle over freedom of expression.",
+        "popularity": 4.7924,
+        "poster_path": "/AvGdw3BpvJV2wHmK2qY0N7XHqET.jpg",
+        "release_date": "2000-11-22",
+        "title": "Quills",
+        "video": false,
+        "vote_average": 7.133,
+        "vote_count": 699
+      }
+    ],
+    "total_pages": 21975,
+    "total_results": 439499
+  }
+}

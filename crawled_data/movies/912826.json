@@ -1,0 +1,583 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/9k6dWJws6iAxZTG5Nz4Ow1gamB1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 912826,
+    "imdb_id": "tt16306510",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Rubius X",
+    "overview": "On the 10th anniversary of the publication of his first video on the Internet, \"Rubius X\" is a documentary that deals with the origin, motivation and secrets behind Rubius, one of the most followed Spanish content creators in the world. A review of the history of a pioneer, the icon of a whole generation, who represents like few others the revolution of the new digital media.",
+    "popularity": 0.6998,
+    "poster_path": "/k6KAAVebtdVb0FRU2PWqYLnhgRA.jpg",
+    "production_companies": [
+      {
+        "id": 170463,
+        "logo_path": null,
+        "name": "Noob Studios",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2022-07-21",
+    "revenue": 0,
+    "runtime": 76,
+    "spoken_languages": [
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rubius X",
+    "video": false,
+    "vote_average": 8.563,
+    "vote_count": 142
+  },
+  "credits": {
+    "id": 912826,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2140983,
+        "known_for_department": "Acting",
+        "name": "Rubén Doblas Gundersen",
+        "original_name": "Rubén Doblas Gundersen",
+        "popularity": 0.8016,
+        "profile_path": "/epdER6taBL0Q9pneJBaYEW4q9fv.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6216d51c3d4d96006ba0e6e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2805560,
+        "known_for_department": "Acting",
+        "name": "Miguel Ángel Rogel",
+        "original_name": "Miguel Ángel Rogel",
+        "popularity": 0.2813,
+        "profile_path": "/6wRtUMwW7NxfNL8eZ90s6pFhIeF.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "62bb15b07304b51b2927cf6d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2269699,
+        "known_for_department": "Acting",
+        "name": "Alejandro Bravo Yañez",
+        "original_name": "Alejandro Bravo Yañez",
+        "popularity": 0.1317,
+        "profile_path": "/nlFqtRcGw0h29rCHP1WFcwnfLMn.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "62bb15be356a71008b63c731",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2481031,
+        "known_for_department": "Acting",
+        "name": "Abraham Bandera",
+        "original_name": "Abraham Bandera",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "62bb15db356a710051ca24ac",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3633504,
+        "known_for_department": "Acting",
+        "name": "Irina Isasia",
+        "original_name": "Irina Isaia",
+        "popularity": 0.0526,
+        "profile_path": "/kXEsUWXfokrQcGusAtXd3Cig2Qb.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "62da913cb39e35004cf0bab2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3633505,
+        "known_for_department": "Acting",
+        "name": "Bente Gundersen",
+        "original_name": "Bente Gundersen",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "62da9148c74eba0072d22023",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3633536,
+        "known_for_department": "Acting",
+        "name": "Irene Cívico",
+        "original_name": "Irene Cívico",
+        "popularity": 0.0996,
+        "profile_path": "/oxwkq0jhx06NyCMES1FBWHnGLfw.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "62daa0b3a31440004fae05de",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3633512,
+        "known_for_department": "Directing",
+        "name": "Pedro Ample",
+        "original_name": "Pedro Ample",
+        "popularity": 0.0724,
+        "profile_path": "/zzNduby7vHYZKkKH8CawVW6f1EP.jpg",
+        "credit_id": "62da92d3b39e35004cf0bb6b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 912826,
+    "keywords": [
+      {
+        "id": 248017,
+        "name": "rubius"
+      },
+      {
+        "id": 271522,
+        "name": "twitch streamer"
+      },
+      {
+        "id": 281057,
+        "name": "spanish"
+      },
+      {
+        "id": 287619,
+        "name": "youtuber"
+      },
+      {
+        "id": 338133,
+        "name": "digital media"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/7GP7pIfj6QGUXkSrrKwSqcp0DWs.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 847586,
+        "original_language": "es",
+        "original_title": "Salvaje",
+        "overview": "",
+        "popularity": 0.1033,
+        "poster_path": "/i7ZnGbQ6IpRy3z7CWvV4tImkQdP.jpg",
+        "release_date": "2021-07-01",
+        "title": "Salvaje",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/41xmThRSoAKzvkmnt2M9eOe631q.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 847593,
+        "original_language": "ca",
+        "original_title": "Renaixem",
+        "overview": "",
+        "popularity": 0.2348,
+        "poster_path": "/iE0EONtHmE3kuruR7VBoIVcERt0.jpg",
+        "release_date": "2020-06-01",
+        "title": "Renaixem",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dIGSlq2JGU5gmlV1T5Y64VCqSCb.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 844374,
+        "original_language": "de",
+        "original_title": "Roamers - Follow Your Likes",
+        "overview": "ROAMERS accompanies different characters on their way through the countries and social media feeds of this world: From the celebrated video blogger from Palestine who quit his lucrative job at PayPal in favor of as much life experience as possible, to the former young top manager who gave up her business in Switzerland and her marriage for the adventure of a round-the-world trip, to the Argentinean couple who use their computer science skills acquired at IBM to distribute self-produced porn videos online \"on demand\" and thus finance their trip around the world. As digital nomads who become the creators of their impressive life stories on their own initiative, they are all sounding out the boundaries of a new era: between personal freedom and the dependence on algorithms and wifi, between self-fulfillment and self- exploitation - in search of meaning and support in a world that offers ever more possibilities and yet also seems increasingly fragmented.",
+        "popularity": 0.6042,
+        "poster_path": "/nRjUyz8cntdja7MSDCgVWePNvrf.jpg",
+        "release_date": "2021-07-22",
+        "title": "Roamers - Follow Your Likes",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lIa51ZbPopom8wYXHJYRJZ2fqox.jpg",
+        "genre_ids": [
+          35,
+          99
+        ],
+        "id": 36479,
+        "original_language": "en",
+        "original_title": "Steve-O: The Early Years",
+        "overview": "How did a college drop-out with a drug and alcohol problem use a home video camera to become an international icon of bad behavior? Don't Try This At Home presents Steve-O: The Early Years, a documentary full of footage that censors would never allow on television. Follow Steve-O through his childhood skateboarding and drug-dealing days, first life-threatening stunts, time in the circus and, ultimately, international stardom. You will not believe what a buttnut this guy really is.",
+        "popularity": 0.1036,
+        "poster_path": "/pDKSFqgGDEW3J7eyHSd5fzNxxHM.jpg",
+        "release_date": "2004-08-24",
+        "title": "Steve-O: The Early Years",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          35,
+          99
+        ],
+        "id": 48945,
+        "original_language": "en",
+        "original_title": "Steve-O: Out on Bail",
+        "overview": "Outrageous and out of control! Just when you thought it couldn't get any worse - it did. 'Out on Bail' is by far Steve-O's most shocking DVD yet, loaded with life-threatening stunts and filthy enough to p*** off parents across the US. The fearless Steve-O unleashes his craziest footage yet with a collection of the stunts that have never seen the light of day until now! Filmed in twelve different countries, it features all of the wild behavior that got Steve-O arrested, plus a whole bunch of other stunts that should have.",
+        "popularity": 0.1493,
+        "poster_path": "/oZFY1vQUj3Joyejx7I77c3DnMO2.jpg",
+        "release_date": "2003-11-11",
+        "title": "Steve-O: Out on Bail",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uJdkh3A9AW9fkRCfNwV8MMGZOzP.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1480549,
+        "original_language": "en",
+        "original_title": "The Toughest Footrace on Earth",
+        "overview": "Two brothers. One unforgiving desert. No way back. In The Toughest Footrace on Earth, Average Rob and Arno The Kid enter the Moroccan desert for the Marathon Des Sables Legendary — an impulsive decision that turns into a relentless battle against the heat, injuries and themselves. What follows is a physical and mental ordeal without filters or excuses. After six months of intensive preparation, Rob & Arno are at the start of a nearly impossible adventure: a gruelling 250-kilometre walk through the scorching Sahara desert, braving sandstorms, unbearable heat and complete exhaustion. From the first training to the last step across the finish line, you get an unfiltered view of the brothers' unparalleled journey. Along the way, they meet inspiring individuals, all of whom, based on their own personal motivation, take on the battle with themselves on the hottest stage in the world.",
+        "popularity": 0.1127,
+        "poster_path": "/qSvZVJy50QmvJuJqPUklgDrrDFr.jpg",
+        "release_date": "2025-05-30",
+        "title": "The Toughest Footrace on Earth",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oaudXbynSltO1P7TOY4ul0930NL.jpg",
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 874513,
+        "original_language": "es",
+        "original_title": "La Singla",
+        "overview": "In the 1960s, a young Spanish flamenco dancer named Antonia Singla captivated audiences with her strikingly passionate performances. Having lost her hearing at a young age, La Singla rose to fame with her commanding presence through a combination of her powerful gaze and thunderous movement. However, just at the height of her fame, she seemingly disappeared and decades later has been all but forgotten. When a young woman in Seville comes across La Singla’s story, a bigger picture starts to be unveiled. Through research, interviews and captivating archival footage, she starts to piece together the legend of La Singla. Through the beauty of her performances and the heartbreak of her story, La Singla celebrates and preserves the legacy of one of the greatest Flamenco dancers of all time.",
+        "popularity": 1.3271,
+        "poster_path": "/gsdzNpsqaPtklUjHF6lAgnDdPKC.jpg",
+        "release_date": "2023-11-02",
+        "title": "La Singla",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nE1xW11jSB8yCDc5qqqUf1ZOE1k.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 551988,
+        "original_language": "es",
+        "original_title": "De Rubén a Rubius: El Viaje de un Virtual Hero",
+        "overview": "",
+        "popularity": 0.3691,
+        "poster_path": "/HJZRYkkB6EDWwyhKlsd0CXa1b2.jpg",
+        "release_date": "2018-10-03",
+        "title": "De Rubén a Rubius: El Viaje de un Virtual Hero",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4KREvUuguNexVPl4xobKCNsRmpm.jpg",
+        "genre_ids": [
+          99,
+          80,
+          10770
+        ],
+        "id": 1329130,
+        "original_language": "en",
+        "original_title": "Abused by Mum: The Ruby Franke Scandal",
+        "overview": "Ruby Franke's rise as a \"momfluencer\" with millions of followers hid a nightmare; when her son fled and alerted a neighbor about the abuse, police raided her home, rescuing her children.",
+        "popularity": 0.1978,
+        "poster_path": "/xVyJcRbr9HTd1aNKxHqphviHsnG.jpg",
+        "release_date": "2024-05-13",
+        "title": "Abused by Mum: The Ruby Franke Scandal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ixjGyb6nbt3Joc7MBUhUzewHkye.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1364758,
+        "original_language": "es",
+        "original_title": "El cuarto round",
+        "overview": "Accompany Osvaldo, \"El Mariana\", on an intimate six-month journey as he prepares for his fight at La Velada del Año 4, at the Santiago Bernabéu stadium in Madrid. Through his training, we not only see him face physical and emotional challenges, but also discover new facets of himself, where his public and personal lives become deeply intertwined.",
+        "popularity": 0.5237,
+        "poster_path": "/5FgBzoBlzVvfkDGaWQHjdR90dxf.jpg",
+        "release_date": "2024-10-17",
+        "title": "El cuarto round",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1175222,
+        "original_language": "de",
+        "original_title": "Las Toreras",
+        "overview": "Jackie Brutsche tries to unravel the dark secrets of her family and answer unanswered questions about her mother.",
+        "popularity": 0.4259,
+        "poster_path": "/ftge8c60hgz4TxOc4hpdTf6L8VT.jpg",
+        "release_date": "2023-10-02",
+        "title": "Las Toreras",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3VM2WugxWzo20K4qV1PEihAzZW4.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 937127,
+        "original_language": "en",
+        "original_title": "How Did We Get Here?",
+        "overview": "Seán McLoughlin was a lonely kid in rural Ireland. Now, he’s Jacksepticeye, one of the world’s biggest YouTube stars. When he embarks on his first world tour, Seán contemplates his journey, his upbringing, and the nature of modern online celebrity and fandom as he meets the people across the world who changed his life and whose lives he’s changed with his videos and the community they’ve built.",
+        "popularity": 0.7069,
+        "poster_path": "/AbvGReWx6F6QBlFJrtI4GCcQeM4.jpg",
+        "release_date": "2022-02-28",
+        "title": "How Did We Get Here?",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3IhSA3kWbMsDggsjmc7rAE98eX8.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 989160,
+        "original_language": "es",
+        "original_title": "Mármol y Cemento",
+        "overview": "A documentary that invites the viewer to immerse themselves in a intimate and thoughtful walk through Poblenou Cemetery in Barcelona, better know as \"El Santet\", to see what is happening at its surrounding areas and, especially, inside: work, buildings, people watching over those who are no longer here, cemetery workers... A trip through a space that is closer than we think.",
+        "popularity": 0.5604,
+        "poster_path": "/iJGE2zKae3ljIR8NvMrAlKncMa8.jpg",
+        "release_date": "2022-06-03",
+        "title": "Marble and Concrete",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1413748,
+        "original_language": "es",
+        "original_title": "Bacata",
+        "overview": "Bacata is the first name of Bogotá: the lady of the Andes, the mountain that lights up. It's also the name of a tower, the tallest in Colombia, never completed. From the 28th floor, Laura observes the city, its secrets and its struggles.  From the 28th floor of Colombia’s tallest building—a long-awaited, still-unfinished tower block in the centre of Bogota—Laura observes the city below, its secrets and its struggles, as a colourful cast of gardeners, activists, and human statues go about their daily lives in the shadow of the country’s history.",
+        "popularity": 0.2118,
+        "poster_path": "/aSgaSJCxOjl9plkUpM94fRVPS3Y.jpg",
+        "release_date": "",
+        "title": "Bacata",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 629438,
+        "original_language": "en",
+        "original_title": "Salsa",
+        "overview": "The Fania All Stars perform for 44,000 fans at Yankee stadium in New York. Besides concert footage, there's also included a history of Salsa, and vintage film clips of Hollywood's portrayal of Latinos in movies during the 1930's and 40's.",
+        "popularity": 1.3907,
+        "poster_path": "/dWM8c74alm4QUPtdzUvB3Jw9opy.jpg",
+        "release_date": "1976-08-18",
+        "title": "Salsa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bDp6SAo5tDf4KyZHX5hOg0Tj74D.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1226352,
+        "original_language": "en",
+        "original_title": "Free Child",
+        "overview": "From leaving Egypt 10 years ago, to almost dying a month ago in a car accident. This film is about the journey in between and the massive role the internet played in the life of prominent Youtuber and Yes Theory co-founder Ammar Kandil.",
+        "popularity": 0.8132,
+        "poster_path": "/n03RhHzq0henGZ7M1Lif1TfKZvH.jpg",
+        "release_date": "2020-09-28",
+        "title": "Free Child",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aSUpscro9lZB0uYC4S3NxuZDZKn.jpg",
+        "genre_ids": [
+          99,
+          36,
+          10770
+        ],
+        "id": 1017619,
+        "original_language": "es",
+        "original_title": "13:14: El Reto de Ayudar",
+        "overview": "On September 19, 2017, at 1:14 p.m., an earthquake devastated Mexico City and its environs. Immediately, citizens mobilized to help, including the actor and youtuber Juanpa Zurita who quickly organized a group of friends that included singers, actors, content creators and other celebrities from the world of entertainment who helped him raise funds for the reconstruction of the city.",
+        "popularity": 0.3158,
+        "poster_path": "/5dwR8Qj1uKXYfJAekOfctuiJzAz.jpg",
+        "release_date": "2022-09-16",
+        "title": "13:14: The Challenge of Helping",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dEuNGcxqBdAb5QxcG01IKTpcyik.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1362034,
+        "original_language": "es",
+        "original_title": "Rubius - Stories from the Battle Bus",
+        "overview": "He rubs shoulders with Hollywood legends, created his own anime series and drove the gaming world crazy with his songs, parodies and live streams. Now, the most influential Fortnite content creator in the Spanish-speaking world, Rubius, is about to join the Icon Series!",
+        "popularity": 0.0778,
+        "poster_path": "/f7GylVceTdge5fiuBu2oyeVD4sd.jpg",
+        "release_date": "2024-09-27",
+        "title": "Rubius - Stories from the Battle Bus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 921653,
+        "original_language": "en",
+        "original_title": "TanaCon: What Really Happened",
+        "overview": "Organizer Michael Weist's perspective of what went down in TanaCon, YouTuber Tana Mongeau's much-talked-about alt-VidCon event that was abruptly canceled despite boasting of an enviable guest list with names like Shane Dawson and Bella Thorne.",
+        "popularity": 0.118,
+        "poster_path": "/9xAj69KFnPIM2rHGm9Hix43PA3n.jpg",
+        "release_date": "2018-11-02",
+        "title": "TanaCon: What Really Happened",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 896588,
+        "original_language": "fr",
+        "original_title": "L'intime spectaculaire",
+        "overview": "In the age of YouTube, exhibitionism and voyeurism echo and reach a climax. The boundaries between private and public life are blurring. The intimacy becomes a spectacle. Gabrielle Marion knows this better than anyone. As a famous Quebec Youtuber, she has been documenting her life and her sexual transition for eight years.",
+        "popularity": 0.0834,
+        "poster_path": "/g0EjYskNuFgiaTAv5pytqvaoFGe.jpg",
+        "release_date": "2020-01-01",
+        "title": "Spectacular Intimacy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 10729,
+    "total_results": 214562
+  }
+}

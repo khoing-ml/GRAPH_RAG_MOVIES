@@ -1,0 +1,1112 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "",
+    "id": 92321,
+    "imdb_id": "tt2061702",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "蛍火の杜へ",
+    "overview": "One hot summer day a little girl gets lost in an enchanted forest of the mountain god where spirits reside. A young boy appears before her, but she cannot touch him for fear of making him disappear. And so a wondrous adventure awaits...",
+    "popularity": 0.0048,
+    "poster_path": "/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg",
+    "production_companies": [
+      {
+        "id": 22602,
+        "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+        "name": "Brain's Base",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2011-09-17",
+    "revenue": 0,
+    "runtime": 45,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hotarubi no Mori e",
+    "video": false,
+    "vote_average": 8.269,
+    "vote_count": 1188
+  },
+  "credits": {
+    "id": 92321,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1315197,
+        "known_for_department": "Acting",
+        "name": "Izumi Sawada",
+        "original_name": "沢田泉",
+        "popularity": 1.2553,
+        "profile_path": "/A59nyfer38Q2J84Fy1lUbqgIFN1.jpg",
+        "cast_id": 1008,
+        "character": "Hotaru's Mother (voice)",
+        "credit_id": "5360da92c3a36860b5000cde",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248372,
+        "known_for_department": "Acting",
+        "name": "Hayato Taya",
+        "original_name": "田谷隼",
+        "popularity": 1.3962,
+        "profile_path": "/nwar5Rk5HZwl1YxggzGp207h4Y6.jpg",
+        "cast_id": 1030,
+        "character": "Ryouta (voice)",
+        "credit_id": "5919e656c3a368423c05d199",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992869,
+        "known_for_department": "Acting",
+        "name": "Ayane Sakura",
+        "original_name": "佐倉綾音",
+        "popularity": 3.3426,
+        "profile_path": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
+        "cast_id": 1003,
+        "character": "Hotaru Takegawa (voice)",
+        "credit_id": "52fe48f89251416c750b9497",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254052,
+        "known_for_department": "Acting",
+        "name": "Koki Uchiyama",
+        "original_name": "内山昂輝",
+        "popularity": 2.6918,
+        "profile_path": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+        "cast_id": 1016,
+        "character": "Gin (voice)",
+        "credit_id": "55729c2192514113ec000e1b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65438,
+        "known_for_department": "Acting",
+        "name": "Shinpachi Tsuji",
+        "original_name": "辻親八",
+        "popularity": 1.4449,
+        "profile_path": "/af5ILJbixauO84bsuLOr8XSU9yd.jpg",
+        "cast_id": 1031,
+        "character": "Hotaru's Grandfather (voice)",
+        "credit_id": "5919e80b92514105da053058",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315198,
+        "known_for_department": "Acting",
+        "name": "Kanehira Yamamoto",
+        "original_name": "山本兼平",
+        "popularity": 0.8506,
+        "profile_path": "/8cDkO8oCkqsPliIqwFdnmJqHzDT.jpg",
+        "cast_id": 1009,
+        "character": "Shadow (voice)",
+        "credit_id": "5360da9ac3a36860e5000d83",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083327,
+        "known_for_department": "Acting",
+        "name": "Masanori Machida",
+        "original_name": "町田政則",
+        "popularity": 1.6519,
+        "profile_path": "/nRNVf3x5JZsQFETeZSECHo8QLkg.jpg",
+        "cast_id": 1032,
+        "character": "Tree Hand (voice)",
+        "credit_id": "5919f2ccc3a368423c05db7f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325959,
+        "known_for_department": "Acting",
+        "name": "Mami Uchida",
+        "original_name": "内田愛美",
+        "popularity": 1.324,
+        "profile_path": "/3rwzvoMhYp7YSMpIBzfVBEc7EMw.jpg",
+        "cast_id": 1036,
+        "character": "Masked Child (voice)",
+        "credit_id": "611970db0f0da50030cb3710",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315195,
+        "known_for_department": "Acting",
+        "name": "Hiroki Goto",
+        "original_name": "後藤ヒロキ",
+        "popularity": 1.1974,
+        "profile_path": "/fyIJd22ZWwA1lroxl7yF83xTgUY.jpg",
+        "cast_id": 1037,
+        "character": "Lion (voice)",
+        "credit_id": "611970e987f3f20075656b00",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3198636,
+        "known_for_department": "Acting",
+        "name": "Kumiko Tashiro",
+        "original_name": "Kumiko Tashiro",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "cast_id": 1038,
+        "character": "Festival Child (voice)",
+        "credit_id": "611970fb9a9e2000723f8577",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1133618,
+        "known_for_department": "Acting",
+        "name": "Asami Imai",
+        "original_name": "今井麻美",
+        "popularity": 1.8944,
+        "profile_path": "/6Ff0ilLyKLQOMMdqqqiuK3U9VSb.jpg",
+        "cast_id": 1039,
+        "character": "Masked Child (voice)",
+        "credit_id": "61197103c14fee00452e36dd",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992867,
+        "known_for_department": "Sound",
+        "name": "Makoto Yoshimori",
+        "original_name": "吉森信",
+        "popularity": 0.7471,
+        "profile_path": null,
+        "credit_id": "621547630499f2001bbfb7fe",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2840559,
+        "known_for_department": "Visual Effects",
+        "name": "Hiroshi Yakou",
+        "original_name": "矢向宏志",
+        "popularity": 0.777,
+        "profile_path": null,
+        "credit_id": "6233b394da10f0007640502e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992866,
+        "known_for_department": "Directing",
+        "name": "Takahiro Omori",
+        "original_name": "大森貴弘",
+        "popularity": 1.4655,
+        "profile_path": "/ajJaks8HkgfdNWHPRSayCqZOeH9.jpg",
+        "credit_id": "52fe48f89251416c750b9487",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041669,
+        "known_for_department": "Visual Effects",
+        "name": "Akira Takata",
+        "original_name": "高田晃",
+        "popularity": 1.0849,
+        "profile_path": null,
+        "credit_id": "61043d704284ea210e467c8b",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041669,
+        "known_for_department": "Visual Effects",
+        "name": "Akira Takata",
+        "original_name": "高田晃",
+        "popularity": 1.0849,
+        "profile_path": null,
+        "credit_id": "61043d7ef706de005efefbb4",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315202,
+        "known_for_department": "Editing",
+        "name": "Kazuhiko Seki",
+        "original_name": "関一彦",
+        "popularity": 1.2102,
+        "profile_path": null,
+        "credit_id": "5360dacdc3a36860dd000d71",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315203,
+        "known_for_department": "Art",
+        "name": "Yukihiro Shibutani",
+        "original_name": "渋谷幸弘",
+        "popularity": 1.0626,
+        "profile_path": null,
+        "credit_id": "5360dad5c3a36860bd000dcf",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530282,
+        "known_for_department": "Camera",
+        "name": "Hitoshi Tamura",
+        "original_name": "田村仁",
+        "popularity": 0.6213,
+        "profile_path": null,
+        "credit_id": "61b254f5da9ef2008daecf70",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2885193,
+        "known_for_department": "Visual Effects",
+        "name": "Orie Tanaka",
+        "original_name": "田中織枝",
+        "popularity": 0.7446,
+        "profile_path": null,
+        "credit_id": "61b4b29fbfeb8b0063bb38ef",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1835795,
+        "known_for_department": "Directing",
+        "name": "Risako Yoshida",
+        "original_name": "吉田りさこ",
+        "popularity": 0.4957,
+        "profile_path": null,
+        "credit_id": "61b4c9287d5f4b001cb2e511",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2428348,
+        "known_for_department": "Visual Effects",
+        "name": "Natsuko Kondou",
+        "original_name": "近藤奈都子",
+        "popularity": 0.6785,
+        "profile_path": null,
+        "credit_id": "61f04804cd204653096c0397",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735062,
+        "known_for_department": "Visual Effects",
+        "name": "Saburō Yoshino",
+        "original_name": "Saburō Yoshino",
+        "popularity": 0.38,
+        "profile_path": null,
+        "credit_id": "636dc35cf44f27007f182e75",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2160934,
+        "known_for_department": "Visual Effects",
+        "name": "Hiroaki Imaki",
+        "original_name": "今木宏明",
+        "popularity": 0.7205,
+        "profile_path": null,
+        "credit_id": "636dc36721621b00cd61fa30",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2834157,
+        "known_for_department": "Visual Effects",
+        "name": "Fumiyo Kimura",
+        "original_name": "木村文代",
+        "popularity": 0.6595,
+        "profile_path": null,
+        "credit_id": "636dc3a2f44f2700d9ff6d04",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2799093,
+        "known_for_department": "Visual Effects",
+        "name": "Eri Yamazaki",
+        "original_name": "山﨑絵里",
+        "popularity": 0.5151,
+        "profile_path": null,
+        "credit_id": "63b21fe30d417e00cf28b8c0",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481778,
+        "known_for_department": "Visual Effects",
+        "name": "Mika Saito",
+        "original_name": "斎藤美香",
+        "popularity": 0.7032,
+        "profile_path": null,
+        "credit_id": "63b21ff2c56d2d0096d4716b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1848225,
+        "known_for_department": "Visual Effects",
+        "name": "Masakazu Kawazoe",
+        "original_name": "川添政和",
+        "popularity": 0.7904,
+        "profile_path": null,
+        "credit_id": "63b22000c56d2d00d843615f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2124761,
+        "known_for_department": "Visual Effects",
+        "name": "Rie Maehara",
+        "original_name": "前原里恵",
+        "popularity": 1.0236,
+        "profile_path": null,
+        "credit_id": "63b220122e2b2c009050a235",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2160612,
+        "known_for_department": "Visual Effects",
+        "name": "Asahi Takeuchi",
+        "original_name": "竹内旭",
+        "popularity": 0.8597,
+        "profile_path": null,
+        "credit_id": "63b220181d1bf400a02e953f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842744,
+        "known_for_department": "Visual Effects",
+        "name": "Tomohiro Kishi",
+        "original_name": "岸友洋",
+        "popularity": 0.6628,
+        "profile_path": "/k2j640WK36R6unk4TBoXE95x9Hv.jpg",
+        "credit_id": "63b220232e2b2c00ddacad23",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2995785,
+        "known_for_department": "Visual Effects",
+        "name": "Nobuhiko Kawakami",
+        "original_name": "川上暢彦",
+        "popularity": 0.6152,
+        "profile_path": null,
+        "credit_id": "63b22029c56d2d0089b23496",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1982965,
+        "known_for_department": "Visual Effects",
+        "name": "Atsushi Aono",
+        "original_name": "青野厚司",
+        "popularity": 1.6868,
+        "profile_path": null,
+        "credit_id": "63b2202f1d1bf4007dbce91f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992868,
+        "known_for_department": "Writing",
+        "name": "Yuki Midorikawa",
+        "original_name": "緑川ゆき",
+        "popularity": 0.6957,
+        "profile_path": null,
+        "credit_id": "5919d7d492514105da052384",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992866,
+        "known_for_department": "Directing",
+        "name": "Takahiro Omori",
+        "original_name": "大森貴弘",
+        "popularity": 1.4655,
+        "profile_path": "/ajJaks8HkgfdNWHPRSayCqZOeH9.jpg",
+        "credit_id": "5919d907c3a3683a9305859e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1817517,
+        "known_for_department": "Production",
+        "name": "Ayako Yokoyama",
+        "original_name": "Ayako Yokoyama",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "5919df6ac3a36842d605e597",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1817518,
+        "known_for_department": "Production",
+        "name": "Hirofumi Sugawara",
+        "original_name": "Hirofumi Sugawara",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "credit_id": "5919df77c3a3683a93058a66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1817520,
+        "known_for_department": "Production",
+        "name": "Masanori Miyake",
+        "original_name": "三宅将典",
+        "popularity": 1.64,
+        "profile_path": null,
+        "credit_id": "5919df7f925141583c05b4f8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817521,
+        "known_for_department": "Production",
+        "name": "Tomomi Kyotani",
+        "original_name": "京谷知美",
+        "popularity": 1.101,
+        "profile_path": null,
+        "credit_id": "5919df90c3a3683fb6056551",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817522,
+        "known_for_department": "Visual Effects",
+        "name": "Hiromi Miyawaki",
+        "original_name": "宮脇裕美",
+        "popularity": 1.3456,
+        "profile_path": null,
+        "credit_id": "5919dfda925141061e055269",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1817523,
+        "known_for_department": "Editing",
+        "name": "Yasutaka Ikeda",
+        "original_name": "池田康隆",
+        "popularity": 0.9271,
+        "profile_path": null,
+        "credit_id": "5919dfecc3a36842c105e329",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817525,
+        "known_for_department": "Writing",
+        "name": "Teruko Utsumi",
+        "original_name": "内海照子",
+        "popularity": 0.73,
+        "profile_path": null,
+        "credit_id": "5919e039925141585205cad7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 144665,
+        "known_for_department": "Sound",
+        "name": "Eiko Morikawa",
+        "original_name": "森川永子",
+        "popularity": 1.1453,
+        "profile_path": null,
+        "credit_id": "5919e045c3a3684269060389",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1783232,
+        "known_for_department": "Crew",
+        "name": "Toshio Hasegawa",
+        "original_name": "長谷川敏生",
+        "popularity": 0.9471,
+        "profile_path": null,
+        "credit_id": "5919e059c3a368371b04dc7a",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240776,
+        "known_for_department": "Directing",
+        "name": "Kazuyoshi Yaginuma",
+        "original_name": "柳沼和良",
+        "popularity": 0.7036,
+        "profile_path": null,
+        "credit_id": "5f2f4e433c3ab00036475948",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3806376,
+        "known_for_department": "Art",
+        "name": "Kyoko Shibuya",
+        "original_name": "澁谷恭子",
+        "popularity": 0.3507,
+        "profile_path": null,
+        "credit_id": "692e407d4796ccf74a512262",
+        "department": "Art",
+        "job": "Background Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 92321,
+    "keywords": [
+      {
+        "id": 6152,
+        "name": "supernatural"
+      },
+      {
+        "id": 9914,
+        "name": "slice of life"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 13153,
+        "name": "spirit"
+      },
+      {
+        "id": 178856,
+        "name": "folklore"
+      },
+      {
+        "id": 206437,
+        "name": "shoujo"
+      },
+      {
+        "id": 207695,
+        "name": "japanese mythology"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 254167,
+        "name": "loving"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+        "genre_ids": [
+          12,
+          16,
+          14
+        ],
+        "id": 81,
+        "original_language": "ja",
+        "original_title": "風の谷のナウシカ",
+        "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+        "popularity": 9.1534,
+        "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+        "release_date": "1984-03-11",
+        "title": "Nausicaä of the Valley of the Wind",
+        "video": false,
+        "vote_average": 7.95,
+        "vote_count": 3912
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 114,
+        "original_language": "en",
+        "original_title": "Pretty Woman",
+        "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+        "popularity": 14.4463,
+        "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+        "release_date": "1990-03-23",
+        "title": "Pretty Woman",
+        "video": false,
+        "vote_average": 7.459,
+        "vote_count": 8747
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "genre_ids": [
+          12,
+          14,
+          16
+        ],
+        "id": 128,
+        "original_language": "ja",
+        "original_title": "もののけ姫",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "popularity": 12.6661,
+        "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "release_date": "1997-07-12",
+        "title": "Princess Mononoke",
+        "video": false,
+        "vote_average": 8.324,
+        "vote_count": 8679
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "id": 129,
+        "original_language": "ja",
+        "original_title": "千と千尋の神隠し",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "popularity": 23.1345,
+        "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "release_date": "2001-07-20",
+        "title": "Spirited Away",
+        "video": false,
+        "vote_average": 8.534,
+        "vote_count": 17780
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28
+        ],
+        "id": 149,
+        "original_language": "ja",
+        "original_title": "AKIRA",
+        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+        "popularity": 7.5812,
+        "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+        "release_date": "1988-06-10",
+        "title": "Akira",
+        "video": false,
+        "vote_average": 7.939,
+        "vote_count": 4595
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lgJlu0Fp1mdTaFEeaQJ7DskhSOr.jpg",
+        "genre_ids": [
+          14,
+          18,
+          80
+        ],
+        "id": 497,
+        "original_language": "en",
+        "original_title": "The Green Mile",
+        "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "popularity": 21.359,
+        "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "release_date": "1999-12-10",
+        "title": "The Green Mile",
+        "video": false,
+        "vote_average": 8.503,
+        "vote_count": 18685
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/17s9ojb8j8QnBGCfqDUJraXLlFi.jpg",
+        "genre_ids": [
+          16,
+          14,
+          27
+        ],
+        "id": 919,
+        "original_language": "ja",
+        "original_title": "BLOOD THE LAST VAMPIRE",
+        "overview": "In Japan, the vampire-hunter Saya, who is a powerful original, is sent by her liaison with the government, David, posed as a teenage student to the Yokota High School on the eve of Halloween to hunt down vampires. Saya asks David to give a new katana to her. Soon she saves the school nurse Makiho Amano from two vampires disguised of classmates and Makiho witnesses her fight against the powerful demon.",
+        "popularity": 1.3666,
+        "poster_path": "/uRwR5lcl55n5JSaTiYPwp5KjP6A.jpg",
+        "release_date": "2000-11-18",
+        "title": "Blood: The Last Vampire",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 356
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2WuR3EaBj8X2WR4fvqa449tnNLn.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10749,
+          53,
+          878
+        ],
+        "id": 823,
+        "original_language": "ja",
+        "original_title": "人狼 JIN-ROH",
+        "overview": "A member of an elite paramilitary counter-terrorism unit becomes traumatized after witnessing the suicide bombing of a young girl and is forced to undergo retraining. However, unbeknownst to him, he becomes a key player in a dispute between rival police divisions, as he finds himself increasingly involved with the sister of the girl he saw die.",
+        "popularity": 6.1919,
+        "poster_path": "/63EMBxmcafkc4cWuUWQh2Ttd2jh.jpg",
+        "release_date": "1999-11-17",
+        "title": "Jin-Roh: The Wolf Brigade",
+        "video": false,
+        "vote_average": 7.407,
+        "vote_count": 535
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          18,
+          878
+        ],
+        "id": 851716,
+        "original_language": "ja",
+        "original_title": "紅い牙 ブルー・ソネット",
+        "overview": "Sonnet is a cyborg/esper from a harsh background and now trained to be the ultimate warrior and most powerful weapon in the world. She is sent to Japan to watch Komatsuzaki Lan, who is thought to be controlled by the rage of the esper Akai Kiba (Crimson Fang). Lan is a quiet girl who knows she's different from everybody else and starts to show signs of Crimson Fang after coming into contact with Sonnet. In the course of fighting with Lan, Sonnet starts to rediscover her humanity. At the same time Lan has to fight to retain her humanity and control the Crimson Fang.",
+        "popularity": 0.5574,
+        "poster_path": "/7SQieMrmUfiwHFxSyLGFWU0qhIu.jpg",
+        "release_date": "1989-07-16",
+        "title": "Red Fang: Blue Sonnet",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p73odItYnfWr5ZbVWYPPrXK4zDI.jpg",
+        "genre_ids": [
+          16,
+          10402
+        ],
+        "id": 1053075,
+        "original_language": "ja",
+        "original_title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
+        "overview": "The OVA of Love Live! Nijigasaki High School Idol Club set to premiere in theaters in 2023.",
+        "popularity": 0.5624,
+        "poster_path": "/bcEl5C4vvSULfFxLHeTr7FlK7ax.jpg",
+        "release_date": "2023-06-23",
+        "title": "Love Live! Nijigasaki High School Idol Club: Next Sky",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+        "genre_ids": [
+          14,
+          12,
+          16,
+          28
+        ],
+        "id": 14282,
+        "original_language": "ja",
+        "original_title": "獣兵衛忍風帖",
+        "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+        "popularity": 4.6685,
+        "poster_path": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+        "release_date": "1993-06-05",
+        "title": "Ninja Scroll",
+        "video": false,
+        "vote_average": 7.764,
+        "vote_count": 710
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cVu7FKWtFdrXgx2GSecTsdEYN3v.jpg",
+        "genre_ids": [
+          12,
+          16,
+          10751
+        ],
+        "id": 14368,
+        "original_language": "ja",
+        "original_title": "ジャングル大帝 劇場版",
+        "overview": "Tezuka Osamu's most famous work \"Jungle Emperor Leo\" has been made into an animated version a number of times. In this theater version, Tezuka Osamu was able for the first time to depict the theme that \"All life is equal\" through Leo's self-sacrifice.",
+        "popularity": 1.9571,
+        "poster_path": "/46ygt6dQuPk9E8DOjpDYK1zAnvt.jpg",
+        "release_date": "1997-08-01",
+        "title": "Jungle Emperor Leo",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 75
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lPQDxHLsJjjtwc7KebMHYcE6XLi.jpg",
+        "genre_ids": [
+          16,
+          35,
+          27
+        ],
+        "id": 472668,
+        "original_language": "ja",
+        "original_title": "怪物くん デーモンの剣",
+        "overview": "Kaibutsu-kun's father, the Great Monster King, suddenly complains of pain in his chest and collapses. It turns out that the rival Demon King has placed a curse on him with the \"Demon Sword\". Kaibutsu-kun and his three companions head into enemy territory, Demon Land. Prince Demokin, the son of the Great Demon King, appears. Out of curiosity, he invites the monsters to the temple where the demon sword is located.",
+        "popularity": 0.6246,
+        "poster_path": "/7sTnUspqTlpYSdKpsr98RypmUPx.jpg",
+        "release_date": "1982-03-13",
+        "title": "The Monster Kid and The Demon's Sword",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l1dfWAKkC8p2JWXurQCJzQWmSMJ.jpg",
+        "genre_ids": [
+          16,
+          35,
+          27,
+          10751
+        ],
+        "id": 472689,
+        "original_language": "ja",
+        "original_title": "怪物くん 怪物ランドへの招待",
+        "overview": "Kaibutsu Taro, also known as Kaibutsu-kun, the prince of Monster Land. Hiroshi-kun, a human boy who is close to him, takes advantage of winter vacation to head to Kaibutsu-kun's hometown, Monster Land. However, humans are strictly prohibited from visiting Monster Land, and Hiroshi-kun, who breaks the rules, is turned into stone by the power of the eyes of Kaibutsu-kun's father, the Monster King! Kaibutsu-kun goes to retrieve the secret medicine \"Flower of Life\" in order to restore Hiroshi-kun to his normal state. But that flower...",
+        "popularity": 0.5256,
+        "poster_path": "/yx1b9MQX26OlsUWRzXQjJWhKQAE.jpg",
+        "release_date": "1981-01-01",
+        "title": "The Monster Kid: Invitation to Monster Land",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/61bBOvu22NYbt1a1P6Y7IHdupn0.jpg",
+        "genre_ids": [
+          28,
+          16,
+          878,
+          9648
+        ],
+        "id": 14571,
+        "original_language": "ja",
+        "original_title": "機動警察パトレイバー 劇場版",
+        "overview": "A mysterious suicide and a series of unmanned robot run-aways sparks off a Police investigation into the suspicious software on-board thousands of industrial robots around Tokyo.",
+        "popularity": 1.8999,
+        "poster_path": "/q6tsese4E20qd4ZZzsA1B05PQAD.jpg",
+        "release_date": "1989-07-15",
+        "title": "Patlabor: The Movie",
+        "video": false,
+        "vote_average": 6.939,
+        "vote_count": 171
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/puoGakSBPGxdpSKmbhgyAkQyHra.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28,
+          53
+        ],
+        "id": 14572,
+        "original_language": "ja",
+        "original_title": "機動警察パトレイバー 2 the Movie",
+        "overview": "A Japanese police unit who use giant anthropomorphic robots (called Labors) is caught up in a political struggle between the civilian authorities and the military when a terrorist act is blamed on an Air Force jet. With the aid of a government agent, the team gets close to a terrorist leader to stop things from going out of control when after the military is impelled to impose martial law.",
+        "popularity": 2.3984,
+        "poster_path": "/vIyWhMyMEHnavjUhbusOXDwrJgz.jpg",
+        "release_date": "1993-08-07",
+        "title": "Patlabor 2: The Movie",
+        "video": false,
+        "vote_average": 7.35,
+        "vote_count": 140
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+        "genre_ids": [
+          16,
+          28,
+          878,
+          18
+        ],
+        "id": 283566,
+        "original_language": "ja",
+        "original_title": "シン・エヴァンゲリオン劇場版:||",
+        "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
+        "popularity": 5.7271,
+        "poster_path": "/md5wZRRj8biHrGtyitgBZo7674t.jpg",
+        "release_date": "2021-03-08",
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "video": false,
+        "vote_average": 8.196,
+        "vote_count": 899
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/edRgYjqkBvLWYo45TUASuP6jWDV.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
+        "id": 659896,
+        "original_language": "ja",
+        "original_title": "劇場版 ガンダム Ｇのレコンギスタ Ⅱ ベルリ 撃進",
+        "overview": "The second film in the five-part Gundam: G no Reconguista Movie series.",
+        "popularity": 0.777,
+        "poster_path": "/3DfwvX4DbYHNM25D0P2XTIBpa7U.jpg",
+        "release_date": "2020-02-21",
+        "title": "Gundam Reconguista in G Movie II: Bellri's Fierce Charge",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hGc9gAIywD3pR7n6xtgkeBpkoIs.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 659959,
+        "original_language": "fr",
+        "original_title": "Été 85",
+        "overview": "What do you dream of when you're 16-years-old and in a seaside resort in Normandy in the 1980s? A best friend? A lifelong teen pact? Scooting off on adventures on a boat or a motorbike? Living life at breakneck speed? No. You dream of death. Because you can't get a bigger kick than dying. And that's why you save it till the very end. The summer holidays are just beginning, and this story recounts how Alexis grew into himself.",
+        "popularity": 1.6666,
+        "poster_path": "/etH2pm1eMxEjY2dlltpQGLVspv.jpg",
+        "release_date": "2020-07-14",
+        "title": "Summer of 85",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 880
+      }
+    ],
+    "total_pages": 7616,
+    "total_results": 152314
+  }
+}

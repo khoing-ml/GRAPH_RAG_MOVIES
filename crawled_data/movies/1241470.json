@@ -1,0 +1,867 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1241470,
+    "imdb_id": "tt31179712",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Osiris",
+    "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+    "popularity": 16.6487,
+    "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+    "production_companies": [
+      {
+        "id": 220195,
+        "logo_path": "/nbwSIz7VUcudZQIY9O94jpLoizf.png",
+        "name": "Roosevelt Film Lab",
+        "origin_country": "US"
+      },
+      {
+        "id": 220196,
+        "logo_path": "/29YTwNxKsEWKByHb76JX9bWnRdV.png",
+        "name": "Denton Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 265676,
+        "logo_path": "/dkzYDzAg1VGIhovXXlcuhgNl0PT.png",
+        "name": "Burning Tractor",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-07-25",
+    "revenue": 0,
+    "runtime": 108,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Earth’s deadliest soldiers just became the galaxy’s last hope.",
+    "title": "Osiris",
+    "video": false,
+    "vote_average": 6.124,
+    "vote_count": 161
+  },
+  "credits": {
+    "id": 1241470,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94864,
+        "known_for_department": "Acting",
+        "name": "Max Martini",
+        "original_name": "Max Martini",
+        "popularity": 1.9079,
+        "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+        "cast_id": 2,
+        "character": "Kelly",
+        "credit_id": "65c27c78fc5f060189c5858e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1492326,
+        "known_for_department": "Acting",
+        "name": "Brianna Hildebrand",
+        "original_name": "Brianna Hildebrand",
+        "popularity": 2.1634,
+        "profile_path": "/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg",
+        "cast_id": 1,
+        "character": "Ravi",
+        "credit_id": "65c27c6d0929f60161e4cd7b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094385,
+        "known_for_department": "Acting",
+        "name": "LaMonica Garrett",
+        "original_name": "LaMonica Garrett",
+        "popularity": 2.5401,
+        "profile_path": "/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg",
+        "cast_id": 4,
+        "character": "Rhodie",
+        "credit_id": "65c27c95a6a4c101634b0f27",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124304,
+        "known_for_department": "Acting",
+        "name": "Michael Irby",
+        "original_name": "Michael Irby",
+        "popularity": 1.331,
+        "profile_path": "/9cX8pKujyAlOyqGSAgvKNdA3qRj.jpg",
+        "cast_id": 17,
+        "character": "Reyes",
+        "credit_id": "685282c18c8a3c2831b6e3cf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2713,
+        "known_for_department": "Acting",
+        "name": "Linda Hamilton",
+        "original_name": "Linda Hamilton",
+        "popularity": 37.7168,
+        "profile_path": "/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg",
+        "cast_id": 3,
+        "character": "Anya",
+        "credit_id": "65c27c8abbe1dd017a2ac1db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2688092,
+        "known_for_department": "Crew",
+        "name": "Stanley White Jr.",
+        "original_name": "Stanley White Jr.",
+        "popularity": 0.4594,
+        "profile_path": "/eXdsJsy7hmzDJH6k90M0OOL3M6l.jpg",
+        "cast_id": 18,
+        "character": "Scars",
+        "credit_id": "68530e9bfc46ce8a200cefc3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1956527,
+        "known_for_department": "Crew",
+        "name": "Tyler Galpin",
+        "original_name": "Tyler Galpin",
+        "popularity": 0.4605,
+        "profile_path": "/6QMB9rvGQnXVTloCEAs5yMdTfKI.jpg",
+        "cast_id": 19,
+        "character": "Donny",
+        "credit_id": "68530ea1e899fc13ff0cefb5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1328185,
+        "known_for_department": "Acting",
+        "name": "Linds Edwards",
+        "original_name": "Linds Edwards",
+        "popularity": 1.5771,
+        "profile_path": "/xCUqvvOWLJ2KZzJ52SRRuuD5uyV.jpg",
+        "cast_id": 20,
+        "character": "Nash",
+        "credit_id": "68530eaa81385a4e400cf0a4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1825157,
+        "known_for_department": "Crew",
+        "name": "Dawson Towery",
+        "original_name": "Dawson Towery",
+        "popularity": 0.6396,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Bull",
+        "credit_id": "68530eb1d12c94ff4773de93",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2668253,
+        "known_for_department": "Acting",
+        "name": "David B. Meadows",
+        "original_name": "David B. Meadows",
+        "popularity": 0.4239,
+        "profile_path": "/2kWOtDlmXi76UDVTd5GYFnejhgW.jpg",
+        "cast_id": 22,
+        "character": "Gibbs",
+        "credit_id": "68530eb858dfb0adfa5b7a33",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394012,
+        "known_for_department": "Acting",
+        "name": "Jaren Mitchell",
+        "original_name": "Jaren Mitchell",
+        "popularity": 1.5786,
+        "profile_path": "/9fTB5oM1BmsuzH1qT17EHkt0Gq1.jpg",
+        "cast_id": 23,
+        "character": "Jax",
+        "credit_id": "68530ec0783e01d48cc0ff65",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4708959,
+        "known_for_department": "Acting",
+        "name": "Derrick D. Edmond",
+        "original_name": "Derrick D. Edmond",
+        "popularity": 0.2272,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Street Soldier",
+        "credit_id": "68530ec72199d6afb9d81581",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407386,
+        "known_for_department": "Art",
+        "name": "Jonny Bullard",
+        "original_name": "Jonny Bullard",
+        "popularity": 2.23,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Puppeteer",
+        "credit_id": "68530ecff9362107e1256810",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535168,
+        "known_for_department": "Acting",
+        "name": "Dvt Jalili",
+        "original_name": "Dvt Jalili",
+        "popularity": 0.1266,
+        "profile_path": "/aCREv2WuVugf2MV75osnVIucwK0.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "68a606e3bc2ea5b06fd54fc7",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228177,
+        "known_for_department": "Directing",
+        "name": "William Kaufman",
+        "original_name": "William Kaufman",
+        "popularity": 2.8441,
+        "profile_path": "/a7cLQauPNw41xH06xfYx9tiCmVZ.jpg",
+        "credit_id": "65c27ca7a6a4c101634b0f3e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228177,
+        "known_for_department": "Directing",
+        "name": "William Kaufman",
+        "original_name": "William Kaufman",
+        "popularity": 2.8441,
+        "profile_path": "/a7cLQauPNw41xH06xfYx9tiCmVZ.jpg",
+        "credit_id": "65c27cb1bbe1dd01612a98ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410853,
+        "known_for_department": "Production",
+        "name": "Paul Reichelt",
+        "original_name": "Paul Reichelt",
+        "popularity": 0.4237,
+        "profile_path": "/wIxLMv7m1QSseWwfFCMwogKGty6.jpg",
+        "credit_id": "65c27ccbefea7a01635236b3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94864,
+        "known_for_department": "Acting",
+        "name": "Max Martini",
+        "original_name": "Max Martini",
+        "popularity": 1.9079,
+        "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+        "credit_id": "65c27ce3a33612016353bffd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2622119,
+        "known_for_department": "Production",
+        "name": "Christian Sosa",
+        "original_name": "Christian Sosa",
+        "popularity": 0.2813,
+        "profile_path": null,
+        "credit_id": "65c27cf1a6a4c101844b3325",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1830032,
+        "known_for_department": "Production",
+        "name": "Jon Wroblewski",
+        "original_name": "Jon Wroblewski",
+        "popularity": 0.1246,
+        "profile_path": "/ht8AbKqjQnAElTHM0OBMvze0aP9.jpg",
+        "credit_id": "65c27d08a33612018453d665",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410853,
+        "known_for_department": "Production",
+        "name": "Paul Reichelt",
+        "original_name": "Paul Reichelt",
+        "popularity": 0.4237,
+        "profile_path": "/wIxLMv7m1QSseWwfFCMwogKGty6.jpg",
+        "credit_id": "65c27d17fc5f060168c54f77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407862,
+        "known_for_department": "Production",
+        "name": "Andrew Lewis",
+        "original_name": "Andrew Lewis",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "65c27d519af17100ea81b898",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3493164,
+        "known_for_department": "Directing",
+        "name": "Isaac Lewis",
+        "original_name": "Isaac Lewis",
+        "popularity": 2.24,
+        "profile_path": null,
+        "credit_id": "65c27d5dbbe1dd017a2ac26d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1235012,
+        "known_for_department": "Acting",
+        "name": "Taryn Terrell",
+        "original_name": "Taryn Terrell",
+        "popularity": 1.6297,
+        "profile_path": "/w1hp4YmnKfewADq4O0EEbtjJn1.jpg",
+        "credit_id": "66a7040facdc6cdafab19570",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543231,
+        "known_for_department": "Sound",
+        "name": "Christopher Barnett",
+        "original_name": "Christopher Barnett",
+        "popularity": 0.2802,
+        "profile_path": null,
+        "credit_id": "66fadbc0cc43cebd03f1a05f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2688092,
+        "known_for_department": "Crew",
+        "name": "Stanley White Jr.",
+        "original_name": "Stanley White Jr.",
+        "popularity": 0.4594,
+        "profile_path": "/eXdsJsy7hmzDJH6k90M0OOL3M6l.jpg",
+        "credit_id": "676554ea774ac5a28574977e",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1241470,
+    "keywords": [
+      {
+        "id": 1612,
+        "name": "spacecraft"
+      },
+      {
+        "id": 15218,
+        "name": "special forces"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          53
+        ],
+        "id": 154,
+        "original_language": "en",
+        "original_title": "Star Trek II: The Wrath of Khan",
+        "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+        "popularity": 4.3025,
+        "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+        "release_date": "1982-06-04",
+        "title": "Star Trek II: The Wrath of Khan",
+        "video": false,
+        "vote_average": 7.449,
+        "vote_count": 2044
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5lUpy6OrDhzdeAGBaM1mIsQvfOl.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 157,
+        "original_language": "en",
+        "original_title": "Star Trek III: The Search for Spock",
+        "overview": "A surprise visit from Spock's father provides a startling revelation: McCoy is harboring Spock's living essence.",
+        "popularity": 1.9483,
+        "poster_path": "/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg",
+        "release_date": "1984-06-01",
+        "title": "Star Trek III: The Search for Spock",
+        "video": false,
+        "vote_average": 6.586,
+        "vote_count": 1447
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "id": 168,
+        "original_language": "en",
+        "original_title": "Star Trek IV: The Voyage Home",
+        "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+        "popularity": 3.2981,
+        "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+        "release_date": "1986-11-26",
+        "title": "Star Trek IV: The Voyage Home",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 1586
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y0klN15XPVyYtd4P7HYecgJXSsZ.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 172,
+        "original_language": "en",
+        "original_title": "Star Trek V: The Final Frontier",
+        "overview": "A renegade Vulcan with a startling secret hijacks the U.S.S. Enterprise in order to find a mythical planet.",
+        "popularity": 2.7211,
+        "poster_path": "/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg",
+        "release_date": "1989-06-09",
+        "title": "Star Trek V: The Final Frontier",
+        "video": false,
+        "vote_average": 5.729,
+        "vote_count": 1251
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 174,
+        "original_language": "en",
+        "original_title": "Star Trek VI: The Undiscovered Country",
+        "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+        "popularity": 2.707,
+        "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+        "release_date": "1991-12-06",
+        "title": "Star Trek VI: The Undiscovered Country",
+        "video": false,
+        "vote_average": 7.039,
+        "vote_count": 1357
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mNdsbVuRdsyo8eitW2IBW2BWRkU.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 193,
+        "original_language": "en",
+        "original_title": "Star Trek: Generations",
+        "overview": "Captain Jean-Luc Picard and the crew of the Enterprise-D find themselves at odds with the renegade scientist Soran who is destroying entire star systems. Only one man can help Picard stop Soran's scheme...and he's been dead for seventy-eight years.",
+        "popularity": 2.0902,
+        "poster_path": "/gh0ZZRwSmlzEZTIZee3ZCN9Jssx.jpg",
+        "release_date": "1994-11-18",
+        "title": "Star Trek: Generations",
+        "video": false,
+        "vote_average": 6.513,
+        "vote_count": 1421
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 199,
+        "original_language": "en",
+        "original_title": "Star Trek: First Contact",
+        "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+        "popularity": 5.5884,
+        "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+        "release_date": "1996-11-22",
+        "title": "Star Trek: First Contact",
+        "video": false,
+        "vote_average": 7.298,
+        "vote_count": 1884
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/85FMbKhmyiUIVu8Z7xA8MH3qIeG.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 200,
+        "original_language": "en",
+        "original_title": "Star Trek: Insurrection",
+        "overview": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
+        "popularity": 2.4078,
+        "poster_path": "/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg",
+        "release_date": "1998-12-11",
+        "title": "Star Trek: Insurrection",
+        "video": false,
+        "vote_average": 6.437,
+        "vote_count": 1300
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6z9w8eidKWDDXwZNSVNaRolAYEP.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 201,
+        "original_language": "en",
+        "original_title": "Star Trek: Nemesis",
+        "overview": "En route to the honeymoon of William Riker to Deanna Troi on her home planet of Betazed, Captain Jean-Luc Picard and the crew of the U.S.S. Enterprise receives word from Starfleet that a coup has resulted in the installation of a new Romulan political leader, Shinzon, who claims to seek peace with the human-backed United Federation of Planets. Once in enemy territory, the captain and his crew make a startling discovery: Shinzon is human, a slave from the Romulan sister planet of Remus, and has a secret, shocking relationship to Picard himself.",
+        "popularity": 3.5307,
+        "poster_path": "/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg",
+        "release_date": "2002-12-13",
+        "title": "Star Trek: Nemesis",
+        "video": false,
+        "vote_average": 6.291,
+        "vote_count": 1524
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+        "genre_ids": [
+          878,
+          12,
+          9648
+        ],
+        "id": 152,
+        "original_language": "en",
+        "original_title": "Star Trek: The Motion Picture",
+        "overview": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
+        "popularity": 3.7836,
+        "poster_path": "/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+        "release_date": "1979-12-07",
+        "title": "Star Trek: The Motion Picture",
+        "video": false,
+        "vote_average": 6.481,
+        "vote_count": 1848
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 348,
+        "original_language": "en",
+        "original_title": "Alien",
+        "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+        "popularity": 20.1387,
+        "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+        "release_date": "1979-05-25",
+        "title": "Alien",
+        "video": false,
+        "vote_average": 8.165,
+        "vote_count": 15876
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AdSU7O4KhqqZuYadNAdWSEROSNg.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          14,
+          878
+        ],
+        "id": 11548,
+        "original_language": "en",
+        "original_title": "*batteries not included",
+        "overview": "In a soon to be demolished block of apartments, the residents resist the criminal methods used to force them to leave so a greedy tycoon can build his new skyscraper. When tiny mechanical aliens land for a recharge, they decide to stay and help out.",
+        "popularity": 3.1869,
+        "poster_path": "/8NkpnpdLd8J6zCR8ZGTeGTur4uO.jpg",
+        "release_date": "1987-12-18",
+        "title": "*batteries not included",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 767
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eYrjffVvcc0MEgy9RcquvWyBGtQ.jpg",
+        "genre_ids": [
+          878,
+          28,
+          18,
+          14
+        ],
+        "id": 9425,
+        "original_language": "en",
+        "original_title": "Soldier",
+        "overview": "Sergeant Todd is a veteran soldier for an elite group of the armed forces. After being defeated by a new breed of genetically engineered soldiers, he is dumped on a waste planet and left for dead. He soon interacts with a group of crash survivors who lead out a peaceful existence. The peace is broken as the new soldiers land on the planet to eliminate the colony, which Sergeant Todd must defend.",
+        "popularity": 5.9663,
+        "poster_path": "/rYy5m4nnjdlvB6dyGkP9ELZbUZz.jpg",
+        "release_date": "1998-10-23",
+        "title": "Soldier",
+        "video": false,
+        "vote_average": 6.408,
+        "vote_count": 902
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
+        "genre_ids": [
+          18,
+          28,
+          80
+        ],
+        "id": 7347,
+        "original_language": "pt",
+        "original_title": "Tropa de Elite",
+        "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
+        "popularity": 4.3103,
+        "poster_path": "/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+        "release_date": "2007-10-12",
+        "title": "Elite Squad",
+        "video": false,
+        "vote_average": 8.061,
+        "vote_count": 2608
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/phJnPutSg663Xc9lSa3UNp9C5zg.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          53
+        ],
+        "id": 10049,
+        "original_language": "en",
+        "original_title": "Attack Force",
+        "overview": "Marshall Lawson is the commander of an elite military unit. Marshall Lawson loses his strike-team in a cold-blooded and seemingly random attack, and he takes it upon himself to investigate the attack, with the help of his girlfriend Tia and his friend Dwayne.",
+        "popularity": 3.4623,
+        "poster_path": "/pcd5EzwGMF4247BvtfEbz3bUpPU.jpg",
+        "release_date": "2006-12-05",
+        "title": "Attack Force",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 108
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vhRh9mAZMA5z6dcIgXmSTuKuUfK.jpg",
+        "genre_ids": [
+          16,
+          28,
+          10751
+        ],
+        "id": 22888,
+        "original_language": "en",
+        "original_title": "G.I. Joe: Spy Troops",
+        "overview": "When a COBRA spy steals a powerful new technology, the GI JOE team fights back with spies of their own! Duke, Shipwreck, Wild Bill and the rest of the GI JOE team have to strike quickly, before Cobra Commander and his forces turn the stolen device into a dangerous weapon for evil!",
+        "popularity": 0.2125,
+        "poster_path": "/QB7wJqVenUHJXJJA5EEaqdz8m5.jpg",
+        "release_date": "2003-09-23",
+        "title": "G.I. Joe: Spy Troops",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nfuuLBV1Ka51MgTh7kbhG5sDAR.jpg",
+        "genre_ids": [
+          28,
+          16,
+          53
+        ],
+        "id": 22927,
+        "original_language": "en",
+        "original_title": "G.I. Joe: Resolute",
+        "overview": "G.I. JOE is a highly trained, classified special operations unit composed of men and women from around the globe. G.I. JOE: RESOLUTE, the raging battle between G.I. JOE and COBRA has never been more intense. Every life is at stake… and even the good guys can die. This is no game. Your favorite G.I. JOE characters are back… but this time, no one is safe.",
+        "popularity": 0.1635,
+        "poster_path": "/4DoHuvewXUjgcZxhSNIq8BiyfR9.jpg",
+        "release_date": "2009-04-25",
+        "title": "G.I. Joe: Resolute",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          99
+        ],
+        "id": 480269,
+        "original_language": "pt",
+        "original_title": "Acorda, Leviatã",
+        "overview": "T. S. Eliot ends one of his most famous poems, \"The Hollow Men\", by repeating three times the sentence \"This is how the world ends\" - and then adding: \"Not with a bang but a whimper.\"",
+        "popularity": 0.7578,
+        "poster_path": "/lVO2ONVj9r8fgjJaJEc9nhSXq8q.jpg",
+        "release_date": "2015-10-09",
+        "title": "Wake Up, Leviathan",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mZHo1jC2plAN6nuc1cdkt01yveQ.jpg",
+        "genre_ids": [
+          878,
+          18,
+          27
+        ],
+        "id": 25874,
+        "original_language": "en",
+        "original_title": "The Illustrated Man",
+        "overview": "A man who has a body almost completely covered in tattoos is searching for the woman who cursed him with the \"skin illustrations\". Each tattoo reveals a bizarre story, which is experienced by staring at the scene depicted. When the illustrated man meets a fellow tramp on the road a strange voyage begins.",
+        "popularity": 0.3326,
+        "poster_path": "/hxTncIosSPstrHNE9ynivvXfjI3.jpg",
+        "release_date": "1969-03-26",
+        "title": "The Illustrated Man",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j24tDNLlq7etISvob5h7wCS60Q9.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "id": 24130,
+        "original_language": "en",
+        "original_title": "In Like Flint",
+        "overview": "Flint is again called out of retirement when his old boss finds that he seems to have missed 3 Minutes while golfing with the President. Flint finds that the President has been replaced by an actor (Flint's line [with a wistful look] is \"An Actor as President?\") Flint finds that a group of women have banded together to take over the world through subliminal brainwashing in beauty salons they own.",
+        "popularity": 2.0056,
+        "poster_path": "/fnZyHB7SdfZSlQJmw6PVhzsebIr.jpg",
+        "release_date": "1967-03-15",
+        "title": "In Like Flint",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 82
+      }
+    ],
+    "total_pages": 6631,
+    "total_results": 132606
+  }
+}

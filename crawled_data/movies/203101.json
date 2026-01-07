@@ -1,0 +1,702 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/1t7BMQiYCXI9YLvuMiGwJpO93Kz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "http://www.kadokawa.co.jp/shop/sp/shop_sp_154.html",
+    "id": 203101,
+    "imdb_id": "tt5799076",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
+    "overview": "In their efforts to find a safe haven from the zombie apocalypse, the gang find themselves on a deserted island. Now, they take advantage of the momentary respite to enjoy some surf, sand and bathing suits!",
+    "popularity": 18.472,
+    "poster_path": "/jlRGVYItWkDIJg4OZp9S2g5lKuc.jpg",
+    "production_companies": [
+      {
+        "id": 17981,
+        "logo_path": "/8UABNMysukRi4udTHYxcNUMbPR1.png",
+        "name": "AT-X",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3464,
+        "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+        "name": "Madhouse",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2011-04-25",
+    "revenue": 0,
+    "runtime": 18,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "High School of the Dead: Drifters of the Dead",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 474
+  },
+  "credits": {
+    "id": 203101,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90135,
+        "known_for_department": "Acting",
+        "name": "Marina Inoue",
+        "original_name": "井上麻里奈",
+        "popularity": 2.7849,
+        "profile_path": "/nQ7a3krkbea6ukw9KGvvTpMma96.jpg",
+        "cast_id": 4,
+        "character": "Rei Miyamoto (voice)",
+        "credit_id": "55ffcc499251410471002ee6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225999,
+        "known_for_department": "Acting",
+        "name": "Eri Kitamura",
+        "original_name": "喜多村英梨",
+        "popularity": 2.711,
+        "profile_path": "/9WWqr734lWfs6YOQikkBBs7Rgo4.jpg",
+        "cast_id": 5,
+        "character": "Saya Takagi (voice)",
+        "credit_id": "55ffcd0ec3a368133b004b1f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 186341,
+        "known_for_department": "Acting",
+        "name": "Miyuki Sawashiro",
+        "original_name": "沢城みゆき",
+        "popularity": 2.2191,
+        "profile_path": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg",
+        "cast_id": 6,
+        "character": "Saeko Busujima (voice)",
+        "credit_id": "55ffcd1d925141182400224d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90137,
+        "known_for_department": "Acting",
+        "name": "Nobuyuki Hiyama",
+        "original_name": "檜山修之",
+        "popularity": 1.6919,
+        "profile_path": "/yxAzBPZGSzec9rtulmORY84ijzT.jpg",
+        "cast_id": 7,
+        "character": "Kouta Hirano (voice)",
+        "credit_id": "55ffcd2bc3a3681a40002433",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90136,
+        "known_for_department": "Acting",
+        "name": "Yukari Fukui",
+        "original_name": "福井裕佳梨",
+        "popularity": 1.1921,
+        "profile_path": "/9Oy9vVxJyE18qx7REPzD6eGDCjn.jpg",
+        "cast_id": 8,
+        "character": "Shizuka Marikawa (voice)",
+        "credit_id": "55ffcd41c3a368132c005bb9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9721,
+        "known_for_department": "Acting",
+        "name": "Junichi Suwabe",
+        "original_name": "諏訪部順一",
+        "popularity": 3.6624,
+        "profile_path": "/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg",
+        "cast_id": 9,
+        "character": "Takashi Komuro (voice)",
+        "credit_id": "5602caf5c3a3685532002030",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148353,
+        "known_for_department": "Directing",
+        "name": "Tetsuro Araki",
+        "original_name": "荒木哲郎",
+        "popularity": 2.3352,
+        "profile_path": "/oEdiTbFLMJDSGUSDe8a48VbueGJ.jpg",
+        "credit_id": "55ffcb3bc3a368132c005b87",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512708,
+        "known_for_department": "Production",
+        "name": "Mitsutoshi Ogura",
+        "original_name": "小倉充俊",
+        "popularity": 0.6553,
+        "profile_path": null,
+        "credit_id": "55ffcb5ec3a368133700507f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2159713,
+        "known_for_department": "Visual Effects",
+        "name": "Mitsuko Baba",
+        "original_name": "馬場充子",
+        "popularity": 0.5817,
+        "profile_path": null,
+        "credit_id": "638429768fdda900ca870bb0",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2169989,
+        "known_for_department": "Visual Effects",
+        "name": "Maho Yoshikawa",
+        "original_name": "吉川真帆",
+        "popularity": 1.0782,
+        "profile_path": null,
+        "credit_id": "6384297fbf09d100d70c4f9b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877410,
+        "known_for_department": "Visual Effects",
+        "name": "Takahiro Chiba",
+        "original_name": "千葉崇洋",
+        "popularity": 0.833,
+        "profile_path": null,
+        "credit_id": "6384296dfb834600cb20ae58",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580924,
+        "known_for_department": "Directing",
+        "name": "Kouji Ogawa",
+        "original_name": "小川孝治",
+        "popularity": 0.5076,
+        "profile_path": null,
+        "credit_id": "63842990fb834600b294b7d5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116681,
+        "known_for_department": "Writing",
+        "name": "Yosuke Kuroda",
+        "original_name": "黒田洋介",
+        "popularity": 1.8772,
+        "profile_path": "/svtvrGyKehb5wV0kPJEM7iMz9Zw.jpg",
+        "credit_id": "5ae5c315c3a3680971005d17",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3382419,
+        "known_for_department": "Writing",
+        "name": "Daisuke Satou",
+        "original_name": "佐藤大輔",
+        "popularity": 0.4687,
+        "profile_path": null,
+        "credit_id": "67788661830a8f4cc7667597",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 203101,
+    "keywords": [
+      {
+        "id": 12377,
+        "name": "zombie"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 195669,
+        "name": "ecchi"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 259583,
+        "name": "original video animation (ova)"
+      },
+      {
+        "id": 269769,
+        "name": "based on tv series"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
+        "genre_ids": [
+          27,
+          53,
+          878
+        ],
+        "id": 170,
+        "original_language": "en",
+        "original_title": "28 Days Later",
+        "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+        "popularity": 16.5304,
+        "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+        "release_date": "2002-10-31",
+        "title": "28 Days Later",
+        "video": false,
+        "vote_average": 7.236,
+        "vote_count": 8053
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 35,
+        "original_language": "en",
+        "original_title": "The Simpsons Movie",
+        "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+        "popularity": 11.2901,
+        "poster_path": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+        "release_date": "2007-07-25",
+        "title": "The Simpsons Movie",
+        "video": false,
+        "vote_average": 7.016,
+        "vote_count": 8367
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+        "genre_ids": [
+          12,
+          16,
+          14
+        ],
+        "id": 81,
+        "original_language": "ja",
+        "original_title": "風の谷のナウシカ",
+        "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+        "popularity": 9.1534,
+        "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+        "release_date": "1984-03-11",
+        "title": "Nausicaä of the Valley of the Wind",
+        "video": false,
+        "vote_average": 7.95,
+        "vote_count": 3912
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "genre_ids": [
+          12,
+          14,
+          16
+        ],
+        "id": 128,
+        "original_language": "ja",
+        "original_title": "もののけ姫",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "popularity": 12.6661,
+        "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "release_date": "1997-07-12",
+        "title": "Princess Mononoke",
+        "video": false,
+        "vote_average": 8.324,
+        "vote_count": 8679
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "id": 129,
+        "original_language": "ja",
+        "original_title": "千と千尋の神隠し",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "popularity": 23.1345,
+        "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "release_date": "2001-07-20",
+        "title": "Spirited Away",
+        "video": false,
+        "vote_average": 8.534,
+        "vote_count": 17780
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28
+        ],
+        "id": 149,
+        "original_language": "ja",
+        "original_title": "AKIRA",
+        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+        "popularity": 7.5812,
+        "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+        "release_date": "1988-06-10",
+        "title": "Akira",
+        "video": false,
+        "vote_average": 7.939,
+        "vote_count": 4595
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cojOMQvTwcPTSUc0BnRZqfKU34y.jpg",
+        "genre_ids": [
+          878,
+          28,
+          80,
+          16
+        ],
+        "id": 655431,
+        "original_language": "ja",
+        "original_title": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+        "overview": "Inspector Kei Mikhail Ignatov finds himself involved with an organization named Bifrost with the possibility of freeing his wife if he betrays Unit One. Koichi Azusawa coordinates an assault on the Public Safety Bureau tower using his hacker Obata, locking down the building and kidnapping Inspector Arata Shindo. Azusawa demands that governor Karina Komiya resign from her position.",
+        "popularity": 1.2618,
+        "poster_path": "/5Ln3Hr6UYvnnQXLIEMotdeo2BCK.jpg",
+        "release_date": "2020-03-27",
+        "title": "Psycho-Pass 3: First Inspector",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 104
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sOqM0VKGuhcvugBb78LaMbsmn37.jpg",
+        "genre_ids": [
+          16,
+          18,
+          14,
+          12
+        ],
+        "id": 655437,
+        "original_language": "ja",
+        "original_title": "映画 えんとつ町のプペル",
+        "overview": "The story is about a young boy named Lubicchi and a trashman named Poupelle who meet on a Halloween night in a city that is full of tall chimneys. The chimneys pour out black smoke and the true sky cannot be seen.",
+        "popularity": 1.4117,
+        "poster_path": "/tIMpbHUgN303akVFwo674FBr21n.jpg",
+        "release_date": "2020-12-25",
+        "title": "Poupelle of Chimney Town",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hnpNzxZRC9UHbk73c16XC1qEdEc.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          16,
+          12,
+          14
+        ],
+        "id": 11621,
+        "original_language": "ja",
+        "original_title": "紅の豚",
+        "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+        "popularity": 7.2099,
+        "poster_path": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+        "release_date": "1992-07-18",
+        "title": "Porco Rosso",
+        "video": false,
+        "vote_average": 7.795,
+        "vote_count": 3577
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
+        "genre_ids": [
+          16,
+          28,
+          878
+        ],
+        "id": 11633,
+        "original_language": "ja",
+        "original_title": "アップルシード",
+        "overview": "In a utopian society created at the end of the third world war, a female warrior who has been plucked from the badlands begins to see cracks in this new facade. And what does this community have planned for the rest of humankind?",
+        "popularity": 1.4859,
+        "poster_path": "/mtSmeCDTexb0uWhVedouJ4SeD6c.jpg",
+        "release_date": "2004-04-17",
+        "title": "Appleseed",
+        "video": false,
+        "vote_average": 6.684,
+        "vote_count": 378
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pPMrufPsXOJrbVG37r1UtgfUmWV.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 1441453,
+        "original_language": "ja",
+        "original_title": "無名の人生",
+        "overview": "The anime film follows a man's 100-year journey, from a lonely, bullied boy to an aspiring idol. Told in 10 chapters, it explores social issues like the dark side of entertainment, war, and unidentified youth deaths.",
+        "popularity": 0.5924,
+        "poster_path": "/nIZ4gOYOLfiIDS67FzNWiiT820e.jpg",
+        "release_date": "2025-05-16",
+        "title": "Jinsei",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oCAWLHgsRMHIMEwRXdDADPW0o45.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 279525,
+        "original_language": "en",
+        "original_title": "Bombshell Bloodbath",
+        "overview": "Doctor Carter losts his wife and devotes his life to resurrecting her. However, every test of his C-900 formula creates hungry, flesh-eating zombies. Then, his daughter Cara contracts the virus and she and her sister strive to obtain the anti-serum.",
+        "popularity": 0.9247,
+        "poster_path": "/nSd7sRuLPiWYvss6MX8YLFSVwYO.jpg",
+        "release_date": "2014-05-09",
+        "title": "Bombshell Bloodbath",
+        "video": false,
+        "vote_average": 3.696,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fyx4nXXGsOwoHOwzfcReaTxhCB0.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          10749
+        ],
+        "id": 11198,
+        "original_language": "cn",
+        "original_title": "城市獵人",
+        "overview": "A self-indulgent private investigator winds up on a cruise ship full of rich patrons, gorgeous women, murderous terrorists, and scarce food.",
+        "popularity": 4.3292,
+        "poster_path": "/aGJZv8h0cJWkZB1N8P2TXJycPgN.jpg",
+        "release_date": "1993-01-14",
+        "title": "City Hunter",
+        "video": false,
+        "vote_average": 6.586,
+        "vote_count": 440
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hdGgW7q0p9b7Z4D5gjVdh3mD4s8.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1054977,
+        "original_language": "it",
+        "original_title": "Attacco dei Morti Viventi",
+        "overview": "",
+        "popularity": 0.1199,
+        "poster_path": "/wiO67dKwPANottgeFZgTd6WdC8y.jpg",
+        "release_date": "1982-11-24",
+        "title": "Attacco dei Morti Viventi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9SZ4OxZVYRfTn0qCvoQq0pPLISn.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 11665,
+        "original_language": "en",
+        "original_title": "Get Smart",
+        "overview": "When members of the nefarious crime syndicate KAOS attack the U.S. spy agency Control and the identities of secret agents are compromised, the Chief has to promote hapless but eager analyst Maxwell Smart to field agent. He is partnered with veteran and capable Agent 99, the only spy whose cover remains intact. Can they work together to thwart the evil world-domination plans of KAOS and its crafty operative?",
+        "popularity": 4.3707,
+        "poster_path": "/sZUjbtUS8qxXp4mj90evnqPJqX7.jpg",
+        "release_date": "2008-06-19",
+        "title": "Get Smart",
+        "video": false,
+        "vote_average": 6.203,
+        "vote_count": 3762
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/teAcCOSN9wWDgePt4bRbzDK9oZF.jpg",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "id": 11683,
+        "original_language": "en",
+        "original_title": "Land of the Dead",
+        "overview": "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+        "popularity": 3.0096,
+        "poster_path": "/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+        "release_date": "2005-06-18",
+        "title": "Land of the Dead",
+        "video": false,
+        "vote_average": 6.201,
+        "vote_count": 1696
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 278954,
+        "original_language": "en",
+        "original_title": "Horno",
+        "overview": "Ron is a porn director with a little more vision than talent, not that he has much of either. He aspires to greatness, but never quite achieves it- that is until he comes up with the idea he'e sure will launch him to infamy: \"Children of the Cornhole\"",
+        "popularity": 0.2978,
+        "poster_path": "/dF8VtDLWuYUT2Hue6zUN1sejfB9.jpg",
+        "release_date": "2009-07-28",
+        "title": "Horno",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rNOeiC5uruGnr5n7YW8hvnrbX9q.jpg",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "id": 10898,
+        "original_language": "en",
+        "original_title": "The Little Mermaid II: Return to the Sea",
+        "overview": "Set several years after the first film, Ariel and Prince Eric are happily married with a daughter, Melody. In order to protect Melody from the Sea Witch, Morgana, they have not told her about her mermaid heritage. Melody is curious and ventures into the sea, where she meets new friends. But will she become a pawn in Morgana's quest to take control of the ocean from King Triton?",
+        "popularity": 1.0423,
+        "poster_path": "/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg",
+        "release_date": "2000-01-23",
+        "title": "The Little Mermaid II: Return to the Sea",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 1758
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gl90aTgRCnRnBd5bVsas5NZfQ3F.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 10906,
+        "original_language": "en",
+        "original_title": "Pet Sematary II",
+        "overview": "The \"sematary\" is up to its old zombie-raising tricks again. This time, the protagonists are Jeff Matthews, whose mother died in a Hollywood stage accident, and Drew Gilbert, a boy coping with an abusive stepfather.",
+        "popularity": 3.558,
+        "poster_path": "/9g6ngNlHOfMfQnaKkw9468p67d4.jpg",
+        "release_date": "1992-08-28",
+        "title": "Pet Sematary II",
+        "video": false,
+        "vote_average": 5.48,
+        "vote_count": 585
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hbIb6jNrcV406uR3LbBRmVlYZ7w.jpg",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "id": 10916,
+        "original_language": "en",
+        "original_title": "Babylon 5: A Call to Arms",
+        "overview": "Allies of the Shadows seek revenge against humanity. This movie sets up the series, \"Crusade,\" the sequel to \"Babylon 5.\"",
+        "popularity": 0.3753,
+        "poster_path": "/dWn0TBxBOBt45cbyefRSQ6Azu9R.jpg",
+        "release_date": "1999-05-12",
+        "title": "Babylon 5: A Call to Arms",
+        "video": false,
+        "vote_average": 6.89,
+        "vote_count": 123
+      }
+    ],
+    "total_pages": 15005,
+    "total_results": 300098
+  }
+}

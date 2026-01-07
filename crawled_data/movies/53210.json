@@ -1,0 +1,669 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/wgONOAadfVB0AIut5ZHZEUankN6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 53210,
+    "imdb_id": "tt0045708",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Duck Amuck",
+    "overview": "The short-tempered Daffy Duck must improvise madly as the backgrounds, his costumes, the soundtrack, even his physical form, shifts and changes at the whim of the animator.",
+    "popularity": 2.8377,
+    "poster_path": "/gRZYLCncLa2mzE59qY38McDlFdN.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8298,
+        "logo_path": "/r6cuEYq7DqrHCNVa7vSanTS0cuw.png",
+        "name": "Warner Bros. Cartoons",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1953-02-28",
+    "revenue": 0,
+    "runtime": 7,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A Merrie Melodie ~ Cartoon ~",
+    "title": "Duck Amuck",
+    "video": false,
+    "vote_average": 8.126,
+    "vote_count": 239
+  },
+  "credits": {
+    "id": 53210,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33923,
+        "known_for_department": "Acting",
+        "name": "Mel Blanc",
+        "original_name": "Mel Blanc",
+        "popularity": 1.3425,
+        "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+        "cast_id": 3,
+        "character": "Daffy Duck / Bugs Bunny (voice)",
+        "credit_id": "52fe4859c3a36847f8162f63",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100888,
+        "known_for_department": "Directing",
+        "name": "Chuck Jones",
+        "original_name": "Chuck Jones",
+        "popularity": 0.654,
+        "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+        "credit_id": "52fe4859c3a36847f8162f5f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 457819,
+        "known_for_department": "Production",
+        "name": "Edward Selzer",
+        "original_name": "Edward Selzer",
+        "popularity": 2.0927,
+        "profile_path": null,
+        "credit_id": "52fe4859c3a36847f8162f6f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551674,
+        "known_for_department": "Sound",
+        "name": "Carl W. Stalling",
+        "original_name": "Carl W. Stalling",
+        "popularity": 1.9571,
+        "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+        "credit_id": "52fe4859c3a36847f8162f75",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.4305,
+        "profile_path": null,
+        "credit_id": "52fe4859c3a36847f8162f7b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155076,
+        "known_for_department": "Visual Effects",
+        "name": "Ken Harris",
+        "original_name": "Ken Harris",
+        "popularity": 0.1622,
+        "profile_path": null,
+        "credit_id": "52fe4859c3a36847f8162f81",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573309,
+        "known_for_department": "Visual Effects",
+        "name": "Lloyd Vaughan",
+        "original_name": "Lloyd Vaughan",
+        "popularity": 0.2859,
+        "profile_path": null,
+        "credit_id": "52fe4859c3a36847f8162f87",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113285,
+        "known_for_department": "Visual Effects",
+        "name": "Ben Washam",
+        "original_name": "Ben Washam",
+        "popularity": 1.0925,
+        "profile_path": "/7qyzNgVAcuzgtOjqYffkGp7YzpO.jpg",
+        "credit_id": "52fe4859c3a36847f8162f8d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 362742,
+        "known_for_department": "Writing",
+        "name": "Michael Maltese",
+        "original_name": "Michael Maltese",
+        "popularity": 0.5537,
+        "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+        "credit_id": "52fe4859c3a36847f8162f69",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 422939,
+        "known_for_department": "Sound",
+        "name": "Milt Franklyn",
+        "original_name": "Milt Franklyn",
+        "popularity": 1.1967,
+        "profile_path": "/wvwkvfkRYm9txQNGaqwkOj7Hn8b.jpg",
+        "credit_id": "5818ddd7c3a368421a0008b4",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573541,
+        "known_for_department": "Art",
+        "name": "Philip DeGuard",
+        "original_name": "Philip DeGuard",
+        "popularity": 0.087,
+        "profile_path": null,
+        "credit_id": "5818dd809251417b66000790",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149379,
+        "known_for_department": "Editing",
+        "name": "Treg Brown",
+        "original_name": "Treg Brown",
+        "popularity": 0.4305,
+        "profile_path": null,
+        "credit_id": "5818dd4cc3a368421a000838",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179923,
+        "known_for_department": "Visual Effects",
+        "name": "Maurice Noble",
+        "original_name": "Maurice Noble",
+        "popularity": 0.4677,
+        "profile_path": "/c4BKLkVSdbn1l3wV3l1KDmnxgmq.jpg",
+        "credit_id": "645604f360620a013dd3222a",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 53210,
+    "keywords": [
+      {
+        "id": 4375,
+        "name": "transformation"
+      },
+      {
+        "id": 6513,
+        "name": "cartoon"
+      },
+      {
+        "id": 4597,
+        "name": "pencil"
+      },
+      {
+        "id": 9887,
+        "name": "surrealism"
+      },
+      {
+        "id": 13151,
+        "name": "drawing"
+      },
+      {
+        "id": 161891,
+        "name": "doppelgänger"
+      },
+      {
+        "id": 181139,
+        "name": "cartoon duck"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ymtwNtiuZwbYa1Vetp68VOGgrw3.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35
+        ],
+        "id": 256,
+        "original_language": "fr",
+        "original_title": "Antoine et Colette",
+        "overview": "Now aged 17, Antoine Doinel works in a factory which makes records. At a music concert, he meets a girl his own age, Colette, and falls in love with her. Later, Antoine goes to extraordinary lengths to please his new girlfriend and her parents, but Colette still only regards him as a casual friend. First segment of “Love at Twenty” (1962).",
+        "popularity": 0.8345,
+        "poster_path": "/nfP8J7pv75KOAliIM3RG7h6Zos5.jpg",
+        "release_date": "1962-06-22",
+        "title": "Antoine and Colette",
+        "video": false,
+        "vote_average": 7.211,
+        "vote_count": 266
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ndSEkXyotVM0XfoBV1SSRg4AXgB.jpg",
+        "genre_ids": [
+          35,
+          878
+        ],
+        "id": 68,
+        "original_language": "en",
+        "original_title": "Brazil",
+        "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+        "popularity": 7.7987,
+        "poster_path": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+        "release_date": "1985-02-20",
+        "title": "Brazil",
+        "video": false,
+        "vote_average": 7.669,
+        "vote_count": 3562
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          35
+        ],
+        "id": 456411,
+        "original_language": "en",
+        "original_title": "I Know Everybody and Everybody's Racket",
+        "overview": "Walter Winchell meets a budding country journalist and shows her around the Biltmore Hotel.",
+        "popularity": 0.6725,
+        "poster_path": "/lLeJNw5Hqx8My17qcsvggZOr5ze.jpg",
+        "release_date": "1933-01-23",
+        "title": "I Know Everybody and Everybody's Racket",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 456503,
+        "original_language": "ja",
+        "original_title": "Octopus",
+        "overview": "Squid have 10 legs. Octopuses have 8 legs. Added together, that’s 18 legs.",
+        "popularity": 0.2041,
+        "poster_path": "/at5y1Vmhsh5MF15SEL5NmCzQmm.jpg",
+        "release_date": "2015-10-01",
+        "title": "Octopus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 1053728,
+        "original_language": "et",
+        "original_title": "The End",
+        "overview": "It is said that if a man is fading away, he sees his life running quickly in front of his eyes. What does a hundred-year old film strip see before it gives way to digital vehicles? Does it see broken frames, scratched film stock or something else? This is a film about time and its ephemeral nature.",
+        "popularity": 0.2225,
+        "poster_path": "/4gDY0xfYxHGDkhmrnB0dC5LDGY6.jpg",
+        "release_date": "2013-04-26",
+        "title": "The End",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          16,
+          35
+        ],
+        "id": 1053745,
+        "original_language": "en",
+        "original_title": "Ben 10: Road Trip Rumble",
+        "overview": "Ben and Gwen's backseat bickering escalates into an all-out brawl between Ben's Omnitrix and Gwen's magic.",
+        "popularity": 0.2435,
+        "poster_path": "/zQb4991kjHFVu8KIWvnMzyDYvg7.jpg",
+        "release_date": "2012-03-12",
+        "title": "Ben 10: Road Trip Rumble",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lifOU6WaFP0lvjEJpv4csrGnr2F.jpg",
+        "genre_ids": [
+          99,
+          16
+        ],
+        "id": 1053765,
+        "original_language": "ja",
+        "original_title": "新世紀エヴァンゲリオン Genesis 0:0' THE LIGHT FROM THE DARKNESS",
+        "overview": "A promotional video for the film “Death and Rebirth.” Released on January 25, 1997, it contains an overview of the series’ plot, cast interviews, a music video for “Soul’s Refrain,” and several trailers for the film.",
+        "popularity": 0.4571,
+        "poster_path": "/mWgM1YlIwKVY9qJ2zbr6Dj6xaJF.jpg",
+        "release_date": "1997-01-25",
+        "title": "Neon Genesis Evangelion: Genesis 0:0’ - The Light from the Darkness",
+        "video": false,
+        "vote_average": 7.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          14,
+          16,
+          10751
+        ],
+        "id": 468189,
+        "original_language": "cs",
+        "original_title": "O kouzelném zvonu",
+        "overview": "After a magic bell from Tibet is stolen, a little girl and an elephant undertake a dangerous journey to bring the bell home.",
+        "popularity": 0.3874,
+        "poster_path": null,
+        "release_date": "2000-05-04",
+        "title": "The Enchanted Bell",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 468230,
+        "original_language": "en",
+        "original_title": "Leave It to Me",
+        "overview": "A comedy film directed by George King.",
+        "popularity": 0.5464,
+        "poster_path": null,
+        "release_date": "1930-10-01",
+        "title": "Leave It to Me",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jx6uytY5ZpAXuh8GlDY7qld5sPv.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1243084,
+        "original_language": "es",
+        "original_title": "NOELIO",
+        "overview": "NOELIO is Santa Claus's biggest fan. In this interview for a documentary about Christmas, we will learn a little about him, the reason for his fanaticism for this iconic character and a little about his normal life.",
+        "popularity": 0.209,
+        "poster_path": "/t7XwZR6pzroNGbMd2oxzbzXcGx7.jpg",
+        "release_date": "2023-12-24",
+        "title": "NOELIO",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/34BDtqHmaxqkVgggagJh021ST5k.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "id": 278418,
+        "original_language": "et",
+        "original_title": "…Ja teeb trikke",
+        "overview": "A tiny green bear (the Trickster) tries his best to impress a group of animals with his annoying tricks.",
+        "popularity": 0.1764,
+        "poster_path": "/qXT0HAQAmgnyUirwDTTWeUfr7kM.jpg",
+        "release_date": "1978-01-01",
+        "title": "...And Plays Tricks",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8var9n3h2SIWCXw9lY5lda57TLB.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 654984,
+        "original_language": "mk",
+        "original_title": "Налепница",
+        "overview": "After an unsuccessful attempt to renew his car registration, Dejan falls in a bureaucratic trap that tests his determination to be a responsible father.",
+        "popularity": 0.2179,
+        "poster_path": "/5KQMbcWcEgKkzhuEukYkdUTnboY.jpg",
+        "release_date": "2019-09-25",
+        "title": "Sticker",
+        "video": false,
+        "vote_average": 7.286,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 654992,
+        "original_language": "en",
+        "original_title": "Meats",
+        "overview": "A pregnant vegan struggles with her newfound craving for meat.",
+        "popularity": 0.7734,
+        "poster_path": "/or4DXAD4AuscfvmrDt8EUysCU9G.jpg",
+        "release_date": "2020-01-23",
+        "title": "Meats",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lpBqjU3OyG9DnIy5BHt0zNw8n0q.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 11566,
+        "original_language": "en",
+        "original_title": "Dave",
+        "overview": "A sweet-natured Temp Agency operator and amateur Presidential look-alike is recruited by the Secret Service to become a temporary stand-in for the President of the United States.",
+        "popularity": 1.8588,
+        "poster_path": "/wIUuf1NFchdCJe833JBTiSMzqfv.jpg",
+        "release_date": "1993-05-07",
+        "title": "Dave",
+        "video": false,
+        "vote_average": 6.644,
+        "vote_count": 803
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hnpNzxZRC9UHbk73c16XC1qEdEc.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          16,
+          12,
+          14
+        ],
+        "id": 11621,
+        "original_language": "ja",
+        "original_title": "紅の豚",
+        "overview": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+        "popularity": 7.2099,
+        "poster_path": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+        "release_date": "1992-07-18",
+        "title": "Porco Rosso",
+        "video": false,
+        "vote_average": 7.795,
+        "vote_count": 3577
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5o65Tj8LNt0UsHzeLbU1VjMm7dm.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          12,
+          35
+        ],
+        "id": 11625,
+        "original_language": "fr",
+        "original_title": "Astérix et le Coup du menhir",
+        "overview": "Due to an unfortunate accident involving Obelix throwing a menhir, Getafix the druid not only loses his memory, but goes completely mad. Now deprived of the wisdom of their beloved druid and the protection provided by his magic potion, the Armorican village falls prey to a proclaimed soothsayer who comes with ominous predictions and overweening ambitions. It's up to Asterix to keep his villager friends within reason and hopefully get Getafix to remember the magic potion's recipe before the impending Roman attack.",
+        "popularity": 1.679,
+        "poster_path": "/7KFAtZRXzD00Zw9sWxusrInLHgJ.jpg",
+        "release_date": "1989-10-04",
+        "title": "Asterix and the Big Fight",
+        "video": false,
+        "vote_average": 6.292,
+        "vote_count": 660
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t3uyM4LPylDmRxu7Jqr7DnFYFY1.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10751
+        ],
+        "id": 280074,
+        "original_language": "fr",
+        "original_title": "Bang, Bang",
+        "overview": "It's hunting season, as well as Eda's 25th birthday. As a present, her father offers her an apartment under seizure.",
+        "popularity": 0.8707,
+        "poster_path": "/fZHOsD7517QgCMhbiHPLZoP0XIc.jpg",
+        "release_date": "2006-06-21",
+        "title": "Bang, Bang",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1244735,
+        "original_language": "en",
+        "original_title": "Hold Your Breath",
+        "overview": "Charles and Bert who have defied the Volstead act are seen clambering about the roof of a building, high above a busy street. After a few hair-raising stunts that will give nervous ones in your audience a jolt. Bert demands money that Charles owes him. They end a fast chase on the roof of a building overlooking a lion's den. Here Bert slips down the roof in among the beasts and Bert lowers a flag to half mast, supposing of course this is the end of his pal. But to his astonishment Charles not only comes out alive but is seen reclining comfortably on one of the biggest lions.",
+        "popularity": 0.1373,
+        "poster_path": "/j3shKANmhfcMEh2JgbXhPp2blrd.jpg",
+        "release_date": "1921-08-31",
+        "title": "Hold Your Breath",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2F5wB0XVgasMi9ajPJm7HuPye9j.jpg",
+        "genre_ids": [
+          35,
+          14,
+          27,
+          53
+        ],
+        "id": 1244762,
+        "original_language": "en",
+        "original_title": "Ray's World",
+        "overview": "A guy named Ray tries to go to sleep and a sasquatch gets into funky business.",
+        "popularity": 0.0895,
+        "poster_path": "/dWA0IgrhhbUxHnmxSkhzK98EDad.jpg",
+        "release_date": "2024-02-14",
+        "title": "Ray's World",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2dFFdA9qvBujck9SaeRKJ0kmuf0.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 655797,
+        "original_language": "en",
+        "original_title": "American Dad: The New CIA",
+        "overview": "The American Dad short film, which preceded the theatrical run of the 2005 feature Fever Pitch, is about Stan Smith touring his work days in the CIA and his \"normal\" everyday life.",
+        "popularity": 0.3902,
+        "poster_path": "/sNIQJRBe380djIuZ0tFBiSSHK2a.jpg",
+        "release_date": "2005-04-08",
+        "title": "American Dad: The New CIA",
+        "video": false,
+        "vote_average": 7.421,
+        "vote_count": 19
+      }
+    ],
+    "total_pages": 12463,
+    "total_results": 249241
+  }
+}

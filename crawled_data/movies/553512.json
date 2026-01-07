@@ -1,0 +1,603 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/aQ7444JX7gefPhGJTlvilj3zG2S.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "http://www.burnthestagethemovie.com/",
+    "id": 553512,
+    "imdb_id": "tt9151704",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "번 더 스테이지: 더 무비",
+    "overview": "Burn the Stage: the Movie is the first movie from BTS, going behind-the-scenes of the BTS WINGS TOUR to reveal the full story of the band’s meteoric rise to fame. This unmissable film provides an intimate look at what happens when the most successful global boy band of all time breaks down barriers and invades the mainstream music scene. Exclusive tour footage and brand-new one-on-one interviews with BTS members give fans an unprecedented glimpse into their lives and an opportunity for everyone to celebrate together worldwide.",
+    "popularity": 1.0812,
+    "poster_path": "/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg",
+    "production_companies": [
+      {
+        "id": 86824,
+        "logo_path": "/kGbzID3zHwCnhVjmMw3lKij2NKx.png",
+        "name": "Big Hit Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 112149,
+        "logo_path": null,
+        "name": "The Walt Disney Company Korea",
+        "origin_country": "KR"
+      },
+      {
+        "id": 203945,
+        "logo_path": null,
+        "name": "Camp Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2018-11-15",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "From the deserts to the seas, we were always together.",
+    "title": "Burn the Stage: The Movie",
+    "video": false,
+    "vote_average": 8.363,
+    "vote_count": 423
+  },
+  "credits": {
+    "id": 553512,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544084,
+        "known_for_department": "Acting",
+        "name": "RM",
+        "original_name": "RM",
+        "popularity": 1.8095,
+        "profile_path": "/cJmaUOIuibsC0DPnUMStN4rfAwr.jpg",
+        "cast_id": 0,
+        "character": "Himself",
+        "credit_id": "5bc082c292514179c4014b13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544088,
+        "known_for_department": "Acting",
+        "name": "Jin",
+        "original_name": "진",
+        "popularity": 2.0327,
+        "profile_path": "/cothCnRmZXC63olRZ816lZoGMDc.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "5bc082d7c3a3682d60016cff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544086,
+        "known_for_department": "Acting",
+        "name": "Suga",
+        "original_name": "슈가",
+        "popularity": 1.6854,
+        "profile_path": "/83xf9EkLK3k7CJSaXe3iVgBC6S3.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "5bc082e10e0a266e5d0161ea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544090,
+        "known_for_department": "Acting",
+        "name": "j-hope",
+        "original_name": "제이홉",
+        "popularity": 1.8059,
+        "profile_path": "/2xZu36Z6JFT95AIzazyRHW51dC1.jpg",
+        "cast_id": 3,
+        "character": "Himself",
+        "credit_id": "5bc082ed92514179bc01399f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544092,
+        "known_for_department": "Acting",
+        "name": "Jimin",
+        "original_name": "지민",
+        "popularity": 2.6865,
+        "profile_path": "/x5jbcmfYPr70AKfOiKtidODjpv1.jpg",
+        "cast_id": 4,
+        "character": "Himself",
+        "credit_id": "5bc082fa0e0a266e5b01510d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544093,
+        "known_for_department": "Acting",
+        "name": "V",
+        "original_name": "뷔",
+        "popularity": 2.9535,
+        "profile_path": "/jPCklfz8cAXfvRptmeNeYBa9Myf.jpg",
+        "cast_id": 5,
+        "character": "Himself",
+        "credit_id": "5bc08307c3a3682d5b0160e5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544095,
+        "known_for_department": "Acting",
+        "name": "Jung Kook",
+        "original_name": "정국",
+        "popularity": 1.4898,
+        "profile_path": "/2O7wrPFZtdfNJ5w6LGlIri3Xd0.jpg",
+        "cast_id": 6,
+        "character": "Himself",
+        "credit_id": "5bc0831292514179ba01570a",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042738,
+        "known_for_department": "Directing",
+        "name": "Park Jun-soo",
+        "original_name": "Park Jun-soo",
+        "popularity": 1.9066,
+        "profile_path": "/ohDQzAK26k87v6poQBRHWOxjrlq.jpg",
+        "credit_id": "5bc083fc0e0a266e5d01640f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197566,
+        "known_for_department": "Production",
+        "name": "Yun Ji-won",
+        "original_name": "Yun Ji-won",
+        "popularity": 0.2639,
+        "profile_path": null,
+        "credit_id": "5c9f08d79251411a1804a87b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761572,
+        "known_for_department": "Production",
+        "name": "Bang Si-hyuk",
+        "original_name": "방시혁",
+        "popularity": 0.6227,
+        "profile_path": "/wQgiytNBj3zeIS7MUtSWjLFt0JU.jpg",
+        "credit_id": "5d1d9e4855b0c0323569a793",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 553512,
+    "keywords": [
+      {
+        "id": 225273,
+        "name": "k-pop"
+      },
+      {
+        "id": 251523,
+        "name": "idol group"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5Z0gWuWHhh1pYXX3eiXohPFvwoo.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 672490,
+        "original_language": "ja",
+        "original_title": "EXO PLANET #2 The EXO'luxion in Japan",
+        "overview": "EXO PLANET #2 - The EXO'luXion was the second tour of South Korean-Chinese boy band EXO. The tour began in Seoul's Olympic Gymnastics Arena on March 7, 2015. The tour was officially announced in January 2015 with the first five dates in South Korea. The tour had 39 dates throughout Asia and five dates in North America.",
+        "popularity": 0.1849,
+        "poster_path": "/uj7pOdl6Ozim65JCsWDgk94fgmN.jpg",
+        "release_date": "2016-03-09",
+        "title": "EXO PLANET #2 The EXO'luxion in Japan",
+        "video": true,
+        "vote_average": 9.1,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 672452,
+        "original_language": "ko",
+        "original_title": "La Rouge",
+        "overview": "",
+        "popularity": 1.4559,
+        "poster_path": "/cR68kmU7sqADm6S4ghsnkUG4reP.jpg",
+        "release_date": "2019-11-23",
+        "title": "La Rouge",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sBRlWueVUiJVYoogTjey2OJPSOq.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 672458,
+        "original_language": "ko",
+        "original_title": "NCT 127 | 1st Tour | NEO CITY - The Origin",
+        "overview": "NCT 127 1st Tour: NEO CITY - The Origin is NCT 127's first solo concert which was held in various cities in South Korea & Japan. The concert began on January 26, 2019.",
+        "popularity": 0.2052,
+        "poster_path": "/l1soCgY0hOwjD15IGa2qmMJHT1S.jpg",
+        "release_date": "2023-09-22",
+        "title": "NCT 127 | 1st Tour | NEO CITY - The Origin",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/taZMubIqrfcAxCI13agawZdzPSp.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 863291,
+        "original_language": "en",
+        "original_title": "BTS 2021 Muster: Sowoozoo Day 2",
+        "overview": "BTS 2021 Muster \"Sowoozoo\" was held on June 13-14, 2021 in South Korea and broadcasted live for fans.",
+        "popularity": 0.1945,
+        "poster_path": "/7xDGJn0aEXElnuVzHpbkPBI6DMs.jpg",
+        "release_date": "2021-06-14",
+        "title": "BTS 2021 Muster: Sowoozoo Day 2",
+        "video": true,
+        "vote_average": 9.2,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xuZCGRwUo8ODi4ILik1sqRQBgwv.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1071292,
+        "original_language": "ko",
+        "original_title": "RM Live in Seoul @ 롤링홀",
+        "overview": "RM performs an intimate set to a crowd of 200 at Rolling Hall in Seoul, presenting his newest album 'Indigo'.",
+        "popularity": 0.5226,
+        "poster_path": "/zKQsYeVqO9fzJ5qqShDGVwV24ZN.jpg",
+        "release_date": "2022-12-15",
+        "title": "RM Live in Seoul @ Rolling Hall",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w5cPbneYssT6yPgChPcCRInpUYb.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 484465,
+        "original_language": "ko",
+        "original_title": "에스엠타운 더 스테이지",
+        "overview": "Behind the scenes look and interviews with the performers of SM Entertainment as they travel to China, Japan, and Korea for their \"SMTOWN Live World Tour IV\".",
+        "popularity": 0.5083,
+        "poster_path": "/29tK983zIaqohsoBMGnQFf69L19.jpg",
+        "release_date": "2015-08-13",
+        "title": "SMTown: The Stage",
+        "video": true,
+        "vote_average": 9.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wE1QFcyvR2uyW6N7LRDWT9vNfDj.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1076443,
+        "original_language": "ko",
+        "original_title": "j-hope IN THE BOX",
+        "overview": "For 200 days, the daily life of artist j-hope is captured. From his production of solo album \"Jack in the Box\" and listening party, this documentary follows him all the way to his debut on the stage of \"Lollapalooza.\"",
+        "popularity": 0.5808,
+        "poster_path": "/sepfbuzmHT3yCr61ABZeTmASHyx.jpg",
+        "release_date": "2023-06-16",
+        "title": "j-hope IN THE BOX",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/38TWJgSKNg4JPU2Cw6MstdE6KtL.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1264358,
+        "original_language": "ko",
+        "original_title": "Our Season",
+        "overview": "ZBTV releases a music drama for Our Season by ZEROBASEONE.",
+        "popularity": 0.3816,
+        "poster_path": "/vcJrYMicGUXZJhjhmbxJJSdqc4n.jpg",
+        "release_date": "2024-03-09",
+        "title": "Our Season",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/W9D0LmKrBXpmAXxL8ox50J1Rlr.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 652986,
+        "original_language": "ko",
+        "original_title": "BLACKPINK'S SUMMER DIARY [IN HAWAII]",
+        "overview": "The famous k-pop girl group, BLACKPINK, go on a vacation to Hawaii in 2019.",
+        "popularity": 0.1385,
+        "poster_path": "/faTFE3lKRcVhIOdK0cGsxekfS0B.jpg",
+        "release_date": "2019-09-09",
+        "title": "BLACKPINK'S SUMMER DIARY [IN HAWAII]",
+        "video": true,
+        "vote_average": 6.6,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wMPJvmhjjKq4WO710B7KW7TmIhD.jpg",
+        "genre_ids": [
+          16,
+          10402
+        ],
+        "id": 463176,
+        "original_language": "ja",
+        "original_title": "アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！",
+        "overview": "An Aikatsu! All-Star awards ceremony will take place. The film will feature songs and stages featured throughout the anime series.",
+        "popularity": 3.0151,
+        "poster_path": "/igb4xZoweyHdbzUv1rnqTo1mBvV.jpg",
+        "release_date": "2015-08-22",
+        "title": "Aikatsu! Music Award: We all get a prize SHOW!",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 273401,
+        "original_language": "ja",
+        "original_title": "DOCUMENTARY of AKB48 Show must go on 少女たちは傷つきながら、夢を見る",
+        "overview": "Documentary Of AKB48 : Show Must Go On is the 2nd AKB48 documentary. The movie feature various moments of 2011, such as Team 4 formation, Maeda Atsuko winning the 3rd Senbatsu Election, first dome concert in Seibu Dome and the Dareka no Tame ni Charity Project.",
+        "popularity": 0.1347,
+        "poster_path": "/fxfdpqRgm4SK1WyBe3nnXYMSNTl.jpg",
+        "release_date": "2012-01-27",
+        "title": "Documentary of AKB48 Show Must Go On",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vpo3qdjgasu2kxHIKkNIXK9hDHM.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 843388,
+        "original_language": "ko",
+        "original_title": "블랙핑크 더 무비",
+        "overview": "In honor of their 5th anniversary, the immensely popular Korean girl group ‘BLACKPINK’ is releasing a worldwide theatrical event to their fans. It features never-before-seen footage and interviews, as well as clips from their shows to give the audience a unique concert-like experience.",
+        "popularity": 1.0899,
+        "poster_path": "/566zbgHAqxuptKwuyBX7BwbnHD0.jpg",
+        "release_date": "2021-08-04",
+        "title": "BLACKPINK: The Movie",
+        "video": true,
+        "vote_average": 8.1,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r7lbf7ElmyX8WmQMiwkEjEH0hcg.jpg",
+        "genre_ids": [
+          16,
+          10402
+        ],
+        "id": 1045405,
+        "original_language": "ja",
+        "original_title": "i☆Ris the Movie - Full Energy!! -",
+        "overview": "A movie inspired by the 10th anniversary celebrations of i☆Ris voice actress idol unit.",
+        "popularity": 1.7699,
+        "poster_path": "/gksE7yZtwiDOsJ77uyKoUHLDauU.jpg",
+        "release_date": "2024-05-17",
+        "title": "i☆Ris the Movie - Full Energy!! -",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1047035,
+        "original_language": "ko",
+        "original_title": "the interlude of 11",
+        "overview": "For their first year anniversary Billlie is showcasing a concert to deliver the story of their unique universe, by using XR(Extended Reality) to tear down the border of different dimensions, time, and space.",
+        "popularity": 0.1456,
+        "poster_path": "/4PTHvpllIVcyiGYgr2urK5BA23s.jpg",
+        "release_date": "2022-11-11",
+        "title": "the interlude of 11",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 4249,
+        "original_language": "en",
+        "original_title": "The Comeback",
+        "overview": "After an absence of five years, six times Mr Olympia winner Arnold Schwarzenegger makes a comeback and attempts to take the World Body Building Championship for the 7th time.",
+        "popularity": 3.8864,
+        "poster_path": "/mrmwkOS4sa6OXkA0ylJo3s1bwDj.jpg",
+        "release_date": "1980-05-12",
+        "title": "The Comeback",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wgNFbkc6zNgjJhLkNdyepeAYhku.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1442375,
+        "original_language": "ko",
+        "original_title": "TAEYEON CONCERT - The TENSE in SEOUL",
+        "overview": "Experience the exciting tension of TAEYEON CONCERT - The TENSE live on the big screen! Celebrate Taeyeon's 6th solo concert and the 10th anniversary of her solo debut with this special performance in cinemas!",
+        "popularity": 0.1078,
+        "poster_path": "/iQ0eishEGLkTLGGGt2N1LvreJM0.jpg",
+        "release_date": "2025-03-09",
+        "title": "TAEYEON CONCERT - The TENSE in SEOUL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uzW7hyplKAf9mZvCLVjqN0g1ksX.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1056771,
+        "original_language": "ko",
+        "original_title": "RM 'Indigo' Album Magazine Film",
+        "overview": "The magazine film of the album 'Indigo'.",
+        "popularity": 0.2658,
+        "poster_path": "/j15z3RL6pPwhGbV4AwOkepeK5Mc.jpg",
+        "release_date": "2022-12-03",
+        "title": "RM 'Indigo' Album Magazine Film",
+        "video": true,
+        "vote_average": 10.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/86X09HCJo8s83s32H2Frz7G0jMx.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 1063453,
+        "original_language": "ko",
+        "original_title": "방탄소년단: 옛 투 컴 인 시네마",
+        "overview": "Join RM, Jin, SUGA, j-hope, Jimin, V and Jung Kook in this special cinematic cut, re-edited and remixed for the big screen. Watch new close-up angles and a whole new view of the entire concert, BTS Yet To Come in Busan. Featuring hit songs from across the group's career, including \"Dynamite,\" \"Butter\" and “IDOL,\" plus the first concert performance of \"Run BTS\" from the group’s latest album Proof.",
+        "popularity": 1.0628,
+        "poster_path": "/eWb45OsBHSO2t1j068bqDsPOGG9.jpg",
+        "release_date": "2023-02-01",
+        "title": "BTS: Yet to Come in Cinemas",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 110
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pF3TaqdSDutwadTWjgAJ31T9sGq.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 286782,
+        "original_language": "ja",
+        "original_title": "Girls' Generation ~Girls & Peace~ Japan 2nd Tour",
+        "overview": "Girls' Generation ~ Girls & Peace ~ Japan 2nd Tour is the second concert tour by South Korean girl group Girls' Generation to promote their second Japanese album, Girls & Peace. The DVD and Blu-ray features their second nationwide tour, visiting eight venues for a total of 20 shows.",
+        "popularity": 0.1845,
+        "poster_path": "/a4ys06jBlA2tWSglB7FIeCTNXjQ.jpg",
+        "release_date": "2013-02-09",
+        "title": "Girls' Generation ~Girls & Peace~ Japan 2nd Tour",
+        "video": true,
+        "vote_average": 8.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1446526,
+        "original_language": "ko",
+        "original_title": "STAYC 1st World Tour [TEENFRESH] in Seoul",
+        "overview": "TEENFRESH announced the start of STAYC's first world tour after debut.  STAYC 1ST WORLD TOUR [TEENFRESH] DVD released  This TEENFRESH DVD includes the debut song 'SO BAD', as well as the much-loved songs 'Bubble' and 'Teddy Bear', as well as 'YOUNG LUV', 'COMPLEX', and 'Not Like You', which give a glimpse of unique charms. ', 'I LIKE IT', etc. It contains a variety of stages that can only be seen at concerts. In addition, the unreleased song 'Flexing On My Ex' was performed to add specialness. In addition, it is filled with production meetings of members passionately preparing for the concert, practice scenes, D-DAY behind-the-scenes videos, world tour behind-the-scenes videos, and even a commentary containing the members' after-concert stories.",
+        "popularity": 0.126,
+        "poster_path": "/3QVbLW4FOW9xLg83CpDIIuoyyub.jpg",
+        "release_date": "2024-03-29",
+        "title": "STAYC 1st World Tour [TEENFRESH] in Seoul",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 13168,
+    "total_results": 263359
+  }
+}

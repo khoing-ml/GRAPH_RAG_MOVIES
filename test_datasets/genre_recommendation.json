@@ -1,0 +1,707 @@
+{
+  "category": "genre_recommendation",
+  "description": "Complex queries testing genre-based recommendations with multiple constraints and relationships",
+  "total_queries": 100,
+  "queries": [
+    {
+      "id": 1,
+      "query": "What are the best action movies directed by Christopher Nolan that also have strong dramatic elements?",
+      "complexity": "high",
+      "relations": ["DIRECTED", "BELONGS_TO"],
+      "entities": ["Person:Christopher Nolan", "Genre:Action", "Genre:Drama"]
+    },
+    {
+      "id": 2,
+      "query": "Find romantic comedies from the 2010s with ratings above 7.5 that feature ensemble casts",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ACTED_IN", "RELEASED"],
+      "entities": ["Genre:Romance", "Genre:Comedy", "Rating", "Year"]
+    },
+    {
+      "id": 3,
+      "query": "Which science fiction films share cast members with Interstellar and have similar themes about space exploration?",
+      "complexity": "very_high",
+      "relations": ["ACTED_IN", "BELONGS_TO", "SIMILAR_TO"],
+      "entities": ["Movie:Interstellar", "Genre:Science Fiction", "Theme:Space"]
+    },
+    {
+      "id": 4,
+      "query": "Recommend thriller movies that were directed by the same person who made psychological horror films",
+      "complexity": "high",
+      "relations": ["DIRECTED", "BELONGS_TO"],
+      "entities": ["Genre:Thriller", "Genre:Horror", "Person:Director"]
+    },
+    {
+      "id": 5,
+      "query": "What animated films from Pixar have won Academy Awards and feature voice actors who also appeared in live-action comedies?",
+      "complexity": "very_high",
+      "relations": ["PRODUCED_BY", "WON_AWARD", "VOICED_BY", "ACTED_IN", "BELONGS_TO"],
+      "entities": ["Studio:Pixar", "Genre:Animation", "Award:Academy Award", "Genre:Comedy"]
+    },
+    {
+      "id": 6,
+      "query": "Find drama films set during World War II that were directed by Steven Spielberg or Clint Eastwood",
+      "complexity": "high",
+      "relations": ["DIRECTED", "BELONGS_TO", "SET_IN"],
+      "entities": ["Genre:Drama", "Person:Steven Spielberg", "Person:Clint Eastwood", "Period:WWII"]
+    },
+    {
+      "id": 7,
+      "query": "Which horror films from the 1980s have spawned franchises with at least 4 sequels?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SEQUEL_OF", "RELEASED"],
+      "entities": ["Genre:Horror", "Year:1980s", "Franchise"]
+    },
+    {
+      "id": 8,
+      "query": "Recommend action comedies where the lead actor has also starred in superhero movies",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ACTED_IN"],
+      "entities": ["Genre:Action", "Genre:Comedy", "Genre:Superhero", "Person:Actor"]
+    },
+    {
+      "id": 9,
+      "query": "What biographical dramas about musicians have been nominated for Best Picture at the Oscars?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ABOUT", "NOMINATED_FOR"],
+      "entities": ["Genre:Biography", "Genre:Drama", "Subject:Musician", "Award:Oscar Best Picture"]
+    },
+    {
+      "id": 10,
+      "query": "Find fantasy adventure films that were adapted from books and directed by Peter Jackson or Guillermo del Toro",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "ADAPTED_FROM", "DIRECTED"],
+      "entities": ["Genre:Fantasy", "Genre:Adventure", "Source:Book", "Person:Peter Jackson", "Person:Guillermo del Toro"]
+    },
+    {
+      "id": 11,
+      "query": "Which crime thrillers feature actors who have collaborated with Quentin Tarantino multiple times?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ACTED_IN", "DIRECTED"],
+      "entities": ["Genre:Crime", "Genre:Thriller", "Person:Quentin Tarantino", "Person:Actor"]
+    },
+    {
+      "id": 12,
+      "query": "Recommend family-friendly animated movies from the 2000s that teach moral lessons and have sequel series",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "RELEASED", "SEQUEL_OF", "THEME"],
+      "entities": ["Genre:Animation", "Genre:Family", "Year:2000s", "Theme:Moral"]
+    },
+    {
+      "id": 13,
+      "query": "What war films directed by veterans or military historians have received critical acclaim?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "DIRECTED", "BACKGROUND"],
+      "entities": ["Genre:War", "Person:Director", "Profession:Veteran", "Rating"]
+    },
+    {
+      "id": 14,
+      "query": "Find mystery films with non-linear narratives that were influenced by Memento or Pulp Fiction",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "NARRATIVE_STYLE", "INFLUENCED_BY"],
+      "entities": ["Genre:Mystery", "Movie:Memento", "Movie:Pulp Fiction", "Style:Non-linear"]
+    },
+    {
+      "id": 15,
+      "query": "Which musical films have been adapted into stage productions and feature music by Disney composers?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ADAPTED_TO", "MUSIC_BY"],
+      "entities": ["Genre:Musical", "Company:Disney", "Person:Composer", "Format:Stage"]
+    },
+    {
+      "id": 16,
+      "query": "Recommend sports dramas based on true stories that star actors who have won Academy Awards",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "BASED_ON", "ACTED_IN", "WON_AWARD"],
+      "entities": ["Genre:Sports", "Genre:Drama", "Source:True Story", "Award:Academy Award"]
+    },
+    {
+      "id": 17,
+      "query": "What dystopian science fiction films explore themes of artificial intelligence and feature philosophical dialogues?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "NARRATIVE_ELEMENT"],
+      "entities": ["Genre:Science Fiction", "Theme:Dystopia", "Theme:AI", "Element:Philosophy"]
+    },
+    {
+      "id": 18,
+      "query": "Find Western films that blend elements of horror and were made after 2000",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "RELEASED"],
+      "entities": ["Genre:Western", "Genre:Horror", "Year:2000+"]
+    },
+    {
+      "id": 19,
+      "query": "Which romantic dramas are set in Paris and directed by French filmmakers or involve French actors?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SET_IN", "DIRECTED", "ACTED_IN"],
+      "entities": ["Genre:Romance", "Genre:Drama", "Location:Paris", "Nationality:French"]
+    },
+    {
+      "id": 20,
+      "query": "Recommend heist movies where the ensemble cast includes actors from Ocean's Eleven franchise",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ACTED_IN", "FRANCHISE"],
+      "entities": ["Genre:Heist", "Franchise:Ocean's Eleven", "Person:Actor"]
+    },
+    {
+      "id": 21,
+      "query": "What coming-of-age films deal with mental health issues and were directed by debut filmmakers?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "DIRECTED", "CAREER_STAGE"],
+      "entities": ["Genre:Coming-of-age", "Theme:Mental Health", "Person:Director", "Status:Debut"]
+    },
+    {
+      "id": 22,
+      "query": "Find noir films from the 1940s-1950s that have been remade in the 21st century",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "RELEASED", "REMAKE_OF"],
+      "entities": ["Genre:Noir", "Year:1940s-1950s", "Year:2000s+"]
+    },
+    {
+      "id": 23,
+      "query": "Which superhero movies feature post-credit scenes that connect to larger cinematic universes?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "HAS_ELEMENT", "PART_OF"],
+      "entities": ["Genre:Superhero", "Element:Post-credits", "Universe:MCU/DCU"]
+    },
+    {
+      "id": 24,
+      "query": "Recommend documentary films about environmental issues that won awards at Sundance or Cannes",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ABOUT", "WON_AWARD"],
+      "entities": ["Genre:Documentary", "Theme:Environment", "Festival:Sundance", "Festival:Cannes"]
+    },
+    {
+      "id": 25,
+      "query": "What zombie horror films were directed by George A. Romero or heavily influenced by his work?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "DIRECTED", "INFLUENCED_BY"],
+      "entities": ["Genre:Horror", "Subgenre:Zombie", "Person:George A. Romero"]
+    },
+    {
+      "id": 26,
+      "query": "Find period dramas set in Victorian England that explore themes of class struggle and feminism",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "SET_IN", "THEME"],
+      "entities": ["Genre:Period Drama", "Period:Victorian", "Location:England", "Theme:Class", "Theme:Feminism"]
+    },
+    {
+      "id": 27,
+      "query": "Which slasher films from the 1970s-1980s introduced iconic villains that became pop culture phenomena?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "RELEASED", "FEATURES"],
+      "entities": ["Genre:Slasher", "Year:1970s-1980s", "Character:Villain", "Impact:Cultural"]
+    },
+    {
+      "id": 28,
+      "query": "Recommend martial arts films that showcase multiple fighting styles and star actors trained in actual martial arts",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "FEATURES", "ACTED_IN", "TRAINED_IN"],
+      "entities": ["Genre:Martial Arts", "Element:Fighting Styles", "Person:Actor", "Skill:Martial Arts"]
+    },
+    {
+      "id": 29,
+      "query": "What legal dramas feature courtroom scenes and are based on real-life cases or famous trials?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "HAS_ELEMENT", "BASED_ON"],
+      "entities": ["Genre:Legal Drama", "Element:Courtroom", "Source:True Story", "Subject:Trial"]
+    },
+    {
+      "id": 30,
+      "query": "Find cyberpunk films that explore virtual reality concepts and were influenced by Blade Runner or The Matrix",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "INFLUENCED_BY"],
+      "entities": ["Genre:Cyberpunk", "Theme:VR", "Movie:Blade Runner", "Movie:The Matrix"]
+    },
+    {
+      "id": 31,
+      "query": "Which Christmas movies have become annual traditions and feature ensemble casts with comedic elements?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "ACTED_IN"],
+      "entities": ["Genre:Holiday", "Theme:Christmas", "Cast:Ensemble", "Genre:Comedy"]
+    },
+    {
+      "id": 32,
+      "query": "Recommend psychological thrillers where the protagonist has an unreliable perspective or memory issues",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "NARRATIVE_DEVICE", "CHARACTER_TRAIT"],
+      "entities": ["Genre:Psychological Thriller", "Device:Unreliable Narrator", "Theme:Memory"]
+    },
+    {
+      "id": 33,
+      "query": "What epic historical films span multiple decades and feature large-scale battle sequences?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "TIME_SPAN", "FEATURES"],
+      "entities": ["Genre:Historical Epic", "Scale:Large", "Element:Battle", "Duration:Multi-decade"]
+    },
+    {
+      "id": 34,
+      "query": "Find teen comedies from the 1980s directed by John Hughes or featuring his frequent collaborators",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "RELEASED", "DIRECTED", "COLLABORATED_WITH"],
+      "entities": ["Genre:Teen", "Genre:Comedy", "Year:1980s", "Person:John Hughes"]
+    },
+    {
+      "id": 35,
+      "query": "Which monster movies feature practical effects rather than CGI and were made before 2000?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "TECHNIQUE", "RELEASED"],
+      "entities": ["Genre:Monster", "Technique:Practical Effects", "Year:Pre-2000"]
+    },
+    {
+      "id": 36,
+      "query": "Recommend disaster films that involve multiple storylines converging and feature all-star casts",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "NARRATIVE_STRUCTURE", "ACTED_IN"],
+      "entities": ["Genre:Disaster", "Structure:Multiple Storylines", "Cast:All-star"]
+    },
+    {
+      "id": 37,
+      "query": "What satire films use dark humor to critique political systems or social institutions?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "TONE", "THEME"],
+      "entities": ["Genre:Satire", "Tone:Dark Humor", "Theme:Political", "Theme:Social"]
+    },
+    {
+      "id": 38,
+      "query": "Find vampire films that deviate from traditional lore and present vampires in sympathetic or romantic light",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "FEATURES", "APPROACH"],
+      "entities": ["Genre:Horror", "Subject:Vampire", "Approach:Revisionist", "Theme:Romance"]
+    },
+    {
+      "id": 39,
+      "query": "Which road trip movies follow characters on journeys of self-discovery across America?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "SETTING"],
+      "entities": ["Genre:Road Trip", "Theme:Self-discovery", "Location:America"]
+    },
+    {
+      "id": 40,
+      "query": "Recommend neo-noir films set in contemporary times that pay homage to classic film noir aesthetics",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SET_IN", "INFLUENCED_BY", "STYLE"],
+      "entities": ["Genre:Neo-noir", "Period:Contemporary", "Genre:Film Noir", "Style:Aesthetic"]
+    },
+    {
+      "id": 41,
+      "query": "What submarine warfare films create claustrophobic tension and were praised for technical accuracy?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "TONE", "QUALITY"],
+      "entities": ["Genre:War", "Setting:Submarine", "Tone:Claustrophobic", "Quality:Accurate"]
+    },
+    {
+      "id": 42,
+      "query": "Find buddy cop movies where the partners have contrasting personalities and the films spawned sequels",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "CHARACTER_DYNAMIC", "SEQUEL_OF"],
+      "entities": ["Genre:Buddy Cop", "Dynamic:Contrasting", "Franchise"]
+    },
+    {
+      "id": 43,
+      "query": "Which found footage horror films pioneered the style or significantly influenced later entries in the subgenre?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "TECHNIQUE", "INFLUENCED"],
+      "entities": ["Genre:Horror", "Technique:Found Footage", "Impact:Pioneer"]
+    },
+    {
+      "id": 44,
+      "query": "Recommend ensemble heist films where each team member has a unique specialized skill set",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "CAST_TYPE", "CHARACTER_TRAIT"],
+      "entities": ["Genre:Heist", "Cast:Ensemble", "Trait:Specialized Skills"]
+    },
+    {
+      "id": 45,
+      "query": "What silent films from the 1920s are considered masterpieces and have been preserved or restored?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "RELEASED", "STATUS", "PRESERVATION"],
+      "entities": ["Era:Silent Film", "Year:1920s", "Status:Masterpiece", "Status:Restored"]
+    },
+    {
+      "id": 46,
+      "query": "Find survival films where protagonists face extreme natural environments with minimal resources",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "SETTING", "ELEMENT"],
+      "entities": ["Genre:Survival", "Setting:Natural", "Condition:Extreme", "Element:Minimal Resources"]
+    },
+    {
+      "id": 47,
+      "query": "Which mockumentary films blur the line between fiction and reality to comment on documentary filmmaking?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "STYLE", "THEME"],
+      "entities": ["Genre:Mockumentary", "Style:Hybrid", "Theme:Meta", "Theme:Documentary"]
+    },
+    {
+      "id": 48,
+      "query": "Recommend revenge thriller films where the protagonist is a former special forces operative or trained assassin",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "CHARACTER_BACKGROUND"],
+      "entities": ["Genre:Thriller", "Theme:Revenge", "Background:Special Forces", "Background:Assassin"]
+    },
+    {
+      "id": 49,
+      "query": "What anthology horror films feature multiple interconnected stories and involve different directors?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "STRUCTURE", "DIRECTED"],
+      "entities": ["Genre:Horror", "Structure:Anthology", "Structure:Interconnected", "Directors:Multiple"]
+    },
+    {
+      "id": 50,
+      "query": "Find time loop movies where characters relive the same day and gradually change or grow",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "PLOT_DEVICE", "THEME"],
+      "entities": ["Plot:Time Loop", "Theme:Character Growth", "Pattern:Repetition"]
+    },
+    {
+      "id": 51,
+      "query": "Which pandemic or outbreak films explore societal collapse and were eerily prescient of real events?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "IMPACT"],
+      "entities": ["Genre:Disaster", "Theme:Pandemic", "Theme:Society", "Impact:Prescient"]
+    },
+    {
+      "id": 52,
+      "query": "Recommend gladiator or ancient Rome films that combine historical elements with epic action sequences",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "ELEMENT"],
+      "entities": ["Genre:Historical", "Setting:Ancient Rome", "Genre:Action", "Scale:Epic"]
+    },
+    {
+      "id": 53,
+      "query": "What workplace comedies satirize corporate culture and feature ensemble casts in office settings?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "SETTING", "CAST_TYPE"],
+      "entities": ["Genre:Comedy", "Theme:Corporate", "Theme:Satire", "Setting:Office", "Cast:Ensemble"]
+    },
+    {
+      "id": 54,
+      "query": "Find possession horror films rooted in religious or spiritual traditions beyond Christianity",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "CULTURAL_CONTEXT"],
+      "entities": ["Genre:Horror", "Theme:Possession", "Context:Non-Christian", "Context:Spiritual"]
+    },
+    {
+      "id": 55,
+      "query": "Which prison break movies involve elaborate planning sequences and are based on true events?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "ELEMENT", "BASED_ON"],
+      "entities": ["Genre:Prison", "Theme:Escape", "Element:Planning", "Source:True Story"]
+    },
+    {
+      "id": 56,
+      "query": "Recommend kaiju films where giant monsters fight each other in destructive urban battles",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "FEATURES", "SETTING"],
+      "entities": ["Genre:Kaiju", "Subject:Giant Monster", "Element:Monster Battle", "Setting:Urban"]
+    },
+    {
+      "id": 57,
+      "query": "What treasure hunting adventure films involve ancient civilizations and puzzle-solving elements?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "ELEMENT"],
+      "entities": ["Genre:Adventure", "Theme:Treasure Hunt", "Setting:Ancient", "Element:Puzzle"]
+    },
+    {
+      "id": 58,
+      "query": "Find body horror films that explore transformation and loss of physical autonomy from directors like Cronenberg",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "DIRECTED", "INFLUENCED_BY"],
+      "entities": ["Genre:Body Horror", "Theme:Transformation", "Theme:Autonomy", "Person:Cronenberg"]
+    },
+    {
+      "id": 59,
+      "query": "Which paranormal investigation films are presented as documentaries or use found footage techniques?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "STYLE", "TECHNIQUE"],
+      "entities": ["Genre:Horror", "Theme:Paranormal", "Style:Documentary", "Technique:Found Footage"]
+    },
+    {
+      "id": 60,
+      "query": "Recommend dance films that blend multiple dance styles and feature professional dancers or choreographers",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ELEMENT", "ACTED_IN", "BACKGROUND"],
+      "entities": ["Genre:Dance", "Element:Multiple Styles", "Person:Professional Dancer", "Person:Choreographer"]
+    },
+    {
+      "id": 61,
+      "query": "What courtroom thrillers feature unexpected plot twists in the final act that change entire case perspective?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "PLOT_DEVICE"],
+      "entities": ["Genre:Thriller", "Setting:Courtroom", "Device:Plot Twist", "Timing:Final Act"]
+    },
+    {
+      "id": 62,
+      "query": "Find cult classic films that initially failed commercially but gained passionate followings over time",
+      "complexity": "high",
+      "relations": ["STATUS", "COMMERCIAL_PERFORMANCE", "LEGACY"],
+      "entities": ["Status:Cult Classic", "Performance:Box Office Failure", "Impact:Cult Following"]
+    },
+    {
+      "id": 63,
+      "query": "Which space opera films feature large-scale fleet battles and complex political intrigue across galaxies?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "ELEMENT", "THEME", "SCALE"],
+      "entities": ["Genre:Space Opera", "Element:Fleet Battle", "Theme:Politics", "Scale:Galactic"]
+    },
+    {
+      "id": 64,
+      "query": "Recommend amnesia thriller films where protagonists discover dark secrets about their forgotten past",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "PLOT_DEVICE"],
+      "entities": ["Genre:Thriller", "Theme:Amnesia", "Plot:Discovery", "Element:Dark Secrets"]
+    },
+    {
+      "id": 65,
+      "query": "What animated films for adults deal with mature themes like depression, loneliness, or existentialism?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "AUDIENCE", "THEME"],
+      "entities": ["Genre:Animation", "Audience:Adult", "Theme:Depression", "Theme:Existentialism"]
+    },
+    {
+      "id": 66,
+      "query": "Find undercover cop films where the protagonist struggles with moral ambiguity and identity crisis",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "CHARACTER_ARC"],
+      "entities": ["Genre:Crime", "Role:Undercover", "Theme:Moral Ambiguity", "Theme:Identity"]
+    },
+    {
+      "id": 67,
+      "query": "Which time travel films create complex paradoxes and explore butterfly effect consequences?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "PLOT_DEVICE", "THEME"],
+      "entities": ["Plot:Time Travel", "Element:Paradox", "Theme:Butterfly Effect", "Complexity:High"]
+    },
+    {
+      "id": 68,
+      "query": "Recommend biographical sports films about underdogs who overcame adversity to achieve greatness",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "BASED_ON", "THEME", "CHARACTER_ARC"],
+      "entities": ["Genre:Biography", "Genre:Sports", "Theme:Underdog", "Theme:Adversity", "Source:True Story"]
+    },
+    {
+      "id": 69,
+      "query": "What anthology films connect seemingly unrelated stories through subtle narrative threads or thematic parallels?",
+      "complexity": "very_high",
+      "relations": ["STRUCTURE", "NARRATIVE_DEVICE", "THEME"],
+      "entities": ["Structure:Anthology", "Device:Connection", "Pattern:Subtle", "Element:Thematic"]
+    },
+    {
+      "id": 70,
+      "query": "Find haunted house films that reveal the house itself as a character with malevolent intelligence",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "CHARACTER_TYPE"],
+      "entities": ["Genre:Horror", "Setting:Haunted House", "Character:Sentient Location", "Trait:Malevolent"]
+    },
+    {
+      "id": 71,
+      "query": "Which conspiracy thriller films involve government cover-ups and feature investigative journalists as protagonists?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "CHARACTER_ROLE"],
+      "entities": ["Genre:Conspiracy Thriller", "Theme:Government", "Theme:Cover-up", "Role:Journalist"]
+    },
+    {
+      "id": 72,
+      "query": "Recommend samurai films from legendary Japanese directors that explore themes of honor and duty",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "DIRECTED", "NATIONALITY", "THEME"],
+      "entities": ["Genre:Samurai", "Person:Japanese Director", "Status:Legendary", "Theme:Honor", "Theme:Duty"]
+    },
+    {
+      "id": 73,
+      "query": "What parallel universe films feature characters meeting alternate versions of themselves?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "PLOT_DEVICE", "ELEMENT"],
+      "entities": ["Plot:Parallel Universe", "Genre:Science Fiction", "Element:Alternate Self", "Theme:Identity"]
+    },
+    {
+      "id": 74,
+      "query": "Find social commentary horror films that use genre conventions as metaphors for real-world issues",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "TECHNIQUE"],
+      "entities": ["Genre:Horror", "Purpose:Social Commentary", "Technique:Metaphor", "Theme:Real-world"]
+    },
+    {
+      "id": 75,
+      "query": "Which aviation disaster films feature real-time tension and are based on actual aviation incidents?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "PACING", "BASED_ON"],
+      "entities": ["Genre:Disaster", "Setting:Aviation", "Pacing:Real-time", "Source:True Event"]
+    },
+    {
+      "id": 76,
+      "query": "Recommend whodunit mystery films with unreliable narrators where every character is a suspect",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "NARRATIVE_DEVICE", "PLOT_STRUCTURE"],
+      "entities": ["Genre:Mystery", "Subgenre:Whodunit", "Device:Unreliable Narrator", "Element:Multiple Suspects"]
+    },
+    {
+      "id": 77,
+      "query": "What medieval fantasy films feature dragon characters and are adapted from epic fantasy literature?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "FEATURES", "ADAPTED_FROM"],
+      "entities": ["Genre:Fantasy", "Period:Medieval", "Character:Dragon", "Source:Fantasy Literature"]
+    },
+    {
+      "id": 78,
+      "query": "Find robot or AI uprising films that question the nature of consciousness and humanity",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "PHILOSOPHICAL_QUESTION"],
+      "entities": ["Genre:Science Fiction", "Theme:AI Uprising", "Theme:Consciousness", "Theme:Humanity"]
+    },
+    {
+      "id": 79,
+      "query": "Which musical biopics chronicle the rise and fall of famous musicians or bands?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "BASED_ON", "NARRATIVE_ARC"],
+      "entities": ["Genre:Musical", "Genre:Biography", "Subject:Musician", "Arc:Rise and Fall"]
+    },
+    {
+      "id": 80,
+      "query": "Recommend heist films with intricate con games where the audience is also being deceived",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "PLOT_DEVICE", "NARRATIVE_TECHNIQUE"],
+      "entities": ["Genre:Heist", "Element:Con Game", "Technique:Audience Deception", "Complexity:Intricate"]
+    },
+    {
+      "id": 81,
+      "query": "What immigrant experience films explore cultural identity conflicts across multiple generations?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "SCOPE"],
+      "entities": ["Genre:Drama", "Theme:Immigration", "Theme:Cultural Identity", "Scope:Multi-generational"]
+    },
+    {
+      "id": 82,
+      "query": "Find post-apocalyptic films featuring small groups surviving in desolate wastelands with scarce resources",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "THEME", "SCALE"],
+      "entities": ["Genre:Post-apocalyptic", "Setting:Wasteland", "Theme:Survival", "Scale:Small Group"]
+    },
+    {
+      "id": 83,
+      "query": "Which Christmas horror films subvert wholesome holiday expectations with dark twisted narratives?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "TONE"],
+      "entities": ["Genre:Horror", "Theme:Christmas", "Tone:Subversive", "Approach:Dark"]
+    },
+    {
+      "id": 84,
+      "query": "Recommend courtroom dramas where lawyers defend clearly guilty clients and face moral dilemmas",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "THEME", "PLOT_ELEMENT"],
+      "entities": ["Genre:Legal Drama", "Setting:Courtroom", "Theme:Moral Dilemma", "Element:Guilty Client"]
+    },
+    {
+      "id": 85,
+      "query": "What underwater exploration films feature deep sea creatures and claustrophobic submarine settings?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "FEATURES", "TONE"],
+      "entities": ["Genre:Adventure", "Setting:Underwater", "Setting:Submarine", "Element:Deep Sea Creatures", "Tone:Claustrophobic"]
+    },
+    {
+      "id": 86,
+      "query": "Find gangster films spanning decades that chronicle the rise and transformation of criminal organizations",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "TIME_SPAN", "THEME", "NARRATIVE_ARC"],
+      "entities": ["Genre:Gangster", "Duration:Multi-decade", "Theme:Criminal Organization", "Arc:Rise and Fall"]
+    },
+    {
+      "id": 87,
+      "query": "Which alien invasion films present extraterrestrials as tragic or sympathetic rather than purely antagonistic?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "CHARACTER_PORTRAYAL"],
+      "entities": ["Genre:Science Fiction", "Theme:Alien Invasion", "Portrayal:Sympathetic", "Approach:Subversive"]
+    },
+    {
+      "id": 88,
+      "query": "Recommend road rage or vehicular action films with extended car chase sequences shot practically",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "ELEMENT", "TECHNIQUE"],
+      "entities": ["Genre:Action", "Theme:Road Rage", "Element:Car Chase", "Technique:Practical Effects"]
+    },
+    {
+      "id": 89,
+      "query": "What folk horror films draw from pagan traditions and feature isolated communities with dark secrets?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "CULTURAL_CONTEXT", "SETTING", "THEME"],
+      "entities": ["Genre:Folk Horror", "Context:Pagan", "Setting:Isolated Community", "Element:Dark Secrets"]
+    },
+    {
+      "id": 90,
+      "query": "Find boarding school films that blend coming-of-age elements with mystery or supernatural aspects",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "GENRE_BLEND"],
+      "entities": ["Setting:Boarding School", "Genre:Coming-of-age", "Genre:Mystery", "Genre:Supernatural"]
+    },
+    {
+      "id": 91,
+      "query": "Which virtual reality films explore the philosophical question of what constitutes real experience?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "PHILOSOPHICAL_QUESTION"],
+      "entities": ["Genre:Science Fiction", "Theme:Virtual Reality", "Theme:Reality vs Simulation", "Element:Philosophy"]
+    },
+    {
+      "id": 92,
+      "query": "Recommend political thriller films about election manipulation or propaganda in democratic systems",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME"],
+      "entities": ["Genre:Political Thriller", "Theme:Election", "Theme:Manipulation", "Theme:Propaganda"]
+    },
+    {
+      "id": 93,
+      "query": "What submarine thriller films feature cat-and-mouse games between opposing vessels in cold war settings?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "PLOT_DYNAMIC", "PERIOD"],
+      "entities": ["Genre:Thriller", "Setting:Submarine", "Dynamic:Cat-and-mouse", "Period:Cold War"]
+    },
+    {
+      "id": 94,
+      "query": "Find curse or jinx horror films where characters are doomed by supernatural rules they must understand",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "PLOT_DEVICE"],
+      "entities": ["Genre:Horror", "Theme:Curse", "Element:Supernatural Rules", "Arc:Understanding"]
+    },
+    {
+      "id": 95,
+      "query": "Which ensemble romantic comedies interweave multiple love stories that intersect in meaningful ways?",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "CAST_TYPE", "NARRATIVE_STRUCTURE"],
+      "entities": ["Genre:Romantic Comedy", "Cast:Ensemble", "Structure:Multiple Stories", "Pattern:Intersecting"]
+    },
+    {
+      "id": 96,
+      "query": "Recommend mountain climbing or expedition films based on true disasters with themes of survival and hubris",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "SETTING", "BASED_ON", "THEME"],
+      "entities": ["Genre:Adventure", "Setting:Mountain", "Source:True Disaster", "Theme:Survival", "Theme:Hubris"]
+    },
+    {
+      "id": 97,
+      "query": "What dream logic surrealist films challenge narrative coherence and feature non-linear storytelling?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "STYLE", "NARRATIVE_APPROACH"],
+      "entities": ["Genre:Surrealist", "Logic:Dream", "Structure:Non-linear", "Approach:Experimental"]
+    },
+    {
+      "id": 98,
+      "query": "Find vigilante justice films where anti-hero protagonists operate outside legal systems to fight crime",
+      "complexity": "high",
+      "relations": ["BELONGS_TO", "THEME", "CHARACTER_TYPE"],
+      "entities": ["Genre:Action", "Theme:Vigilante Justice", "Character:Anti-hero", "Approach:Extra-legal"]
+    },
+    {
+      "id": 99,
+      "query": "Which artificial intelligence films present AI with childlike innocence learning about humanity through interaction?",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "THEME", "CHARACTER_PORTRAYAL", "NARRATIVE_DEVICE"],
+      "entities": ["Genre:Science Fiction", "Theme:AI", "Portrayal:Innocent", "Theme:Learning Humanity"]
+    },
+    {
+      "id": 100,
+      "query": "Recommend prison drama films exploring themes of institutionalization, friendship, and hope against oppressive systems",
+      "complexity": "very_high",
+      "relations": ["BELONGS_TO", "SETTING", "THEME"],
+      "entities": ["Genre:Drama", "Setting:Prison", "Theme:Institutionalization", "Theme:Friendship", "Theme:Hope", "Theme:Oppression"]
+    }
+  ]
+}

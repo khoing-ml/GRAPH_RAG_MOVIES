@@ -1,0 +1,1238 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/8ys6VgwZCIQ7nN4Nv4z7GPPuFMv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.5waz3hfo9r1133t8arap8b6nq",
+    "id": 654754,
+    "imdb_id": "tt11459366",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Billie Eilish: The World's a Little Blurry",
+    "overview": "This documentary offers a deeply intimate look at extraordinary teenager Billie Eilish. Award-winning filmmaker R.J. Cutler follows her journey on the road, onstage, and at home with her family as the writing and recording of her debut album changes her life.",
+    "popularity": 1.046,
+    "poster_path": "/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg",
+    "production_companies": [
+      {
+        "id": 118381,
+        "logo_path": "/jXGMxHQREYFoojxN9BaLBbdkglQ.png",
+        "name": "Interscope Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 140972,
+        "logo_path": "/fCtBJvI4AWoO3colCECRWKMWXL1.png",
+        "name": "This Machine Filmworks",
+        "origin_country": "US"
+      },
+      {
+        "id": 91390,
+        "logo_path": "/asfiFPtyptv1qW7fvGPe95RtKr7.png",
+        "name": "Lighthouse Management + Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 39917,
+        "logo_path": "/hVZx78eZ0YMbo61BIOvoPsE6Nn6.png",
+        "name": "Matador Content",
+        "origin_country": "US"
+      },
+      {
+        "id": 149799,
+        "logo_path": "/yLXU45Q0jpcKDfihOItMFwPp8u.png",
+        "name": "Darkroom",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2021-02-26",
+    "revenue": 0,
+    "runtime": 140,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Maori",
+        "iso_639_1": "mi",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Billie Eilish: The World's a Little Blurry",
+    "video": false,
+    "vote_average": 8.245,
+    "vote_count": 324
+  },
+  "credits": {
+    "id": 654754,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2413513,
+        "known_for_department": "Acting",
+        "name": "Billie Eilish",
+        "original_name": "Billie Eilish",
+        "popularity": 2.5599,
+        "profile_path": "/1KCVr3JPHt4IHwqEuf0v8GwwRZl.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "5def1a1d0257640014569045",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1396403,
+        "known_for_department": "Sound",
+        "name": "FINNEAS",
+        "original_name": "FINNEAS",
+        "popularity": 1.5216,
+        "profile_path": "/zgkOG8QslbDiEqocTmuaimtruMs.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5fd8efff0d2f530040b17886",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219812,
+        "known_for_department": "Acting",
+        "name": "Maggie Baird",
+        "original_name": "Maggie Baird",
+        "popularity": 1.6186,
+        "profile_path": "/3ovNQYZrWTHDybETzMITYvwBqo3.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "5fd8f016ecbde9003fac9287",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133121,
+        "known_for_department": "Acting",
+        "name": "Patrick O'Connell",
+        "original_name": "Patrick O'Connell",
+        "popularity": 0.9393,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Self",
+        "credit_id": "68dddff8654405a8d999175a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2498028,
+        "known_for_department": "Acting",
+        "name": "Claudia Sulewski",
+        "original_name": "Claudia Sulewski",
+        "popularity": 0.5613,
+        "profile_path": "/97t62ib9SgnOYO1nEhuz18wfnlN.jpg",
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "60418e07b77d4b005883d99c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2998860,
+        "known_for_department": "Acting",
+        "name": "Zoe Donahoe",
+        "original_name": "Zoe Donahoe",
+        "popularity": 0.4032,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "60418dcd06f984004343576a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3004735,
+        "known_for_department": "Acting",
+        "name": "Brandon 'Q' Adams",
+        "original_name": "Brandon 'Q' Adams",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "60484c7884f249006fe6ce9a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932178,
+        "known_for_department": "Directing",
+        "name": "Carlos López Estrada",
+        "original_name": "Carlos López Estrada",
+        "popularity": 1.7295,
+        "profile_path": "/hmmicxProrj8sXYu5obBu5QNsNR.jpg",
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "60fb10b2a1285600742276fe",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150810,
+        "known_for_department": "Acting",
+        "name": "Justin Bieber",
+        "original_name": "Justin Bieber",
+        "popularity": 2.1369,
+        "profile_path": "/evCF7wPyjaEVMMgHf5j15Nfpwhp.jpg",
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "6038805e74507d006b922dba",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114,
+        "known_for_department": "Acting",
+        "name": "Orlando Bloom",
+        "original_name": "Orlando Bloom",
+        "popularity": 3.7824,
+        "profile_path": "/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg",
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "6045c7b135a61e0072858276",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 111455,
+        "known_for_department": "Acting",
+        "name": "Katy Perry",
+        "original_name": "Katy Perry",
+        "popularity": 2.0261,
+        "profile_path": "/8UusJIagRVST2FzfcJQYTjyIQUi.jpg",
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "6045c7a4fab3fa004381f771",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 226001,
+        "known_for_department": "Acting",
+        "name": "Ariana Grande",
+        "original_name": "Ariana Grande",
+        "popularity": 4.7774,
+        "profile_path": "/ojr2zF46BmPe7EALds7WQf6Ro4O.jpg",
+        "cast_id": 69,
+        "character": "Self",
+        "credit_id": "67b9e36fb7c35459adbeb66c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063962,
+        "known_for_department": "Sound",
+        "name": "Steven Avila",
+        "original_name": "Steven Avila",
+        "popularity": 1.0552,
+        "profile_path": null,
+        "credit_id": "6103b1256517d6002916de7d",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338481,
+        "known_for_department": "Sound",
+        "name": "Jason Gaya",
+        "original_name": "Jason Gaya",
+        "popularity": 0.489,
+        "profile_path": null,
+        "credit_id": "6103b1356517d60046845e33",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404364,
+        "known_for_department": "Sound",
+        "name": "Robert Getty",
+        "original_name": "Robert Getty",
+        "popularity": 1.7233,
+        "profile_path": null,
+        "credit_id": "6103b13f22931a007226584d",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378451,
+        "known_for_department": "Sound",
+        "name": "Elmo Ponsdomenech",
+        "original_name": "Elmo Ponsdomenech",
+        "popularity": 1.25,
+        "profile_path": null,
+        "credit_id": "6103b160f706de0026c09833",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1428855,
+        "known_for_department": "Sound",
+        "name": "Richard E. Yawn",
+        "original_name": "Richard E. Yawn",
+        "popularity": 0.8739,
+        "profile_path": null,
+        "credit_id": "6103b1926517d6005e39e648",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1434711,
+        "known_for_department": "Camera",
+        "name": "Jenna Rosher",
+        "original_name": "Jenna Rosher",
+        "popularity": 0.1103,
+        "profile_path": null,
+        "credit_id": "6103b1b4db72c0005d91c06a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3178594,
+        "known_for_department": "Crew",
+        "name": "Christina Wade",
+        "original_name": "Christina Wade",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6103b1c04284ea00463ce40d",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2646405,
+        "known_for_department": "Production",
+        "name": "Steve Berman",
+        "original_name": "Steve Berman",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "631a35c71c632900814904f7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527329,
+        "known_for_department": "Production",
+        "name": "John Janick",
+        "original_name": "John Janick",
+        "popularity": 1.5535,
+        "profile_path": null,
+        "credit_id": "66a36a71bffb534f84e11fbb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395174,
+        "known_for_department": "Production",
+        "name": "Todd Lubin",
+        "original_name": "Todd Lubin",
+        "popularity": 0.1498,
+        "profile_path": null,
+        "credit_id": "66a36a766fe68f521472f95f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2241696,
+        "known_for_department": "Production",
+        "name": "Zack Morgenroth",
+        "original_name": "Zack Morgenroth",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "66a36a7e2b12b2cc73614086",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969585,
+        "known_for_department": "Production",
+        "name": "Jay Peterson",
+        "original_name": "Jay Peterson",
+        "popularity": 0.273,
+        "profile_path": null,
+        "credit_id": "66a36a880fc83202c3469ae4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2004897,
+        "known_for_department": "Production",
+        "name": "Margaret Riley",
+        "original_name": "Margaret Riley",
+        "popularity": 1.0003,
+        "profile_path": null,
+        "credit_id": "66a36a8cc5e20d62a819106f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4850377,
+        "known_for_department": "Production",
+        "name": "Danny Rukasin",
+        "original_name": "Danny Rukasin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66a36a99a8a381db0b5d90d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4850379,
+        "known_for_department": "Production",
+        "name": "Matthew Harper",
+        "original_name": "Matthew Harper",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "66a36b7dd826cb961a5d54ce",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4850502,
+        "known_for_department": "Production",
+        "name": "Chelsea Dodson",
+        "original_name": "Chelsea Dodson",
+        "popularity": 0.7748,
+        "profile_path": null,
+        "credit_id": "66a382839e98660f96d9692e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2413513,
+        "known_for_department": "Acting",
+        "name": "Billie Eilish",
+        "original_name": "Billie Eilish",
+        "popularity": 2.5599,
+        "profile_path": "/1KCVr3JPHt4IHwqEuf0v8GwwRZl.jpg",
+        "credit_id": "66a3838d97d225727d5f30df",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1396403,
+        "known_for_department": "Sound",
+        "name": "FINNEAS",
+        "original_name": "FINNEAS",
+        "popularity": 1.5216,
+        "profile_path": "/zgkOG8QslbDiEqocTmuaimtruMs.jpg",
+        "credit_id": "66a38393f410fb5dd3150097",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4850508,
+        "known_for_department": "Production",
+        "name": "Justin Lubliner",
+        "original_name": "Justin Lubliner",
+        "popularity": 0.278,
+        "profile_path": null,
+        "credit_id": "66a383bd4e9e901b16ca9d7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89814,
+        "known_for_department": "Directing",
+        "name": "R. J. Cutler",
+        "original_name": "R. J. Cutler",
+        "popularity": 0.3863,
+        "profile_path": "/7Lvbdnj9I1fUhhcAKpb3y6iiESm.jpg",
+        "credit_id": "66a383cef807a42be983cf09",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4850511,
+        "known_for_department": "Production",
+        "name": "Brandon Goodman",
+        "original_name": "Brandon Goodman",
+        "popularity": 0.0756,
+        "profile_path": null,
+        "credit_id": "66a383e02c54bbbf6c83d0e5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59702,
+        "known_for_department": "Production",
+        "name": "Aleen Keshishian",
+        "original_name": "Aleen Keshishian",
+        "popularity": 1.2631,
+        "profile_path": null,
+        "credit_id": "66a384c1c2a52fdba95f3140",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1618779,
+        "known_for_department": "Sound",
+        "name": "Jae Kim",
+        "original_name": "Jae Kim",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "credit_id": "66a384f909175321a4afac87",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491498,
+        "known_for_department": "Production",
+        "name": "Mark DiCristofaro",
+        "original_name": "Mark DiCristofaro",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "credit_id": "66a3850449a40fe7d55d52d9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4850520,
+        "known_for_department": "Production",
+        "name": "Jonathan Ruane",
+        "original_name": "Jonathan Ruane",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "66a3850d3f96cef506ca9cc6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1392430,
+        "known_for_department": "Production",
+        "name": "Peter Clune",
+        "original_name": "Peter Clune",
+        "popularity": 0.0877,
+        "profile_path": null,
+        "credit_id": "66a3852499466311d4469b55",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122253,
+        "known_for_department": "Sound",
+        "name": "Michael Brake",
+        "original_name": "Michael Brake",
+        "popularity": 0.2227,
+        "profile_path": null,
+        "credit_id": "66a3855a3b7cb1e19c08f0d0",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1219812,
+        "known_for_department": "Acting",
+        "name": "Maggie Baird",
+        "original_name": "Maggie Baird",
+        "popularity": 1.6186,
+        "profile_path": "/3ovNQYZrWTHDybETzMITYvwBqo3.jpg",
+        "credit_id": "66a3857cfa454c9f6116480e",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1818369,
+        "known_for_department": "Editing",
+        "name": "Oneika Austin",
+        "original_name": "Oneika Austin",
+        "popularity": 0.1893,
+        "profile_path": null,
+        "credit_id": "66a38587d3222932fa9c0cfe",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3378431,
+        "known_for_department": "Editing",
+        "name": "Joe Nell",
+        "original_name": "Joe Nell",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "66a3858c4999dfc7d31643e5",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4850521,
+        "known_for_department": "Production",
+        "name": "Ian Egos",
+        "original_name": "Ian Egos",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "66a385ba58205f3dd6267e1d",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80822,
+        "known_for_department": "Sound",
+        "name": "Richard Kitting",
+        "original_name": "Richard Kitting",
+        "popularity": 0.3589,
+        "profile_path": null,
+        "credit_id": "66a38ddbbbae8e28b3afacfa",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142850,
+        "known_for_department": "Art",
+        "name": "Gareth Smith",
+        "original_name": "Gareth Smith",
+        "popularity": 0.2727,
+        "profile_path": null,
+        "credit_id": "66a38e7ae395e17f1961428a",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89814,
+        "known_for_department": "Directing",
+        "name": "R. J. Cutler",
+        "original_name": "R. J. Cutler",
+        "popularity": 0.3863,
+        "profile_path": "/7Lvbdnj9I1fUhhcAKpb3y6iiESm.jpg",
+        "credit_id": "5f72455ed40d4c0039618205",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2201266,
+        "known_for_department": "Production",
+        "name": "Michelle An",
+        "original_name": "Michelle An",
+        "popularity": 1.2974,
+        "profile_path": null,
+        "credit_id": "5fd8f05a0d2f53003eb17917",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1835023,
+        "known_for_department": "Production",
+        "name": "Anthony Seyler",
+        "original_name": "Anthony Seyler",
+        "popularity": 0.4332,
+        "profile_path": null,
+        "credit_id": "5fd8f0700d2f530041b183b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89814,
+        "known_for_department": "Directing",
+        "name": "R. J. Cutler",
+        "original_name": "R. J. Cutler",
+        "popularity": 0.3863,
+        "profile_path": "/7Lvbdnj9I1fUhhcAKpb3y6iiESm.jpg",
+        "credit_id": "5fd7b0928c44b9003cd98fa7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993781,
+        "known_for_department": "Editing",
+        "name": "Greg Finton",
+        "original_name": "Greg Finton",
+        "popularity": 0.5677,
+        "profile_path": null,
+        "credit_id": "6012b23eea84c7003dbde9e2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1460296,
+        "known_for_department": "Editing",
+        "name": "Lindsay Utz",
+        "original_name": "Lindsay Utz",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "6012b24d99d5c3003e590b63",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2991028,
+        "known_for_department": "Production",
+        "name": "Trevor Smith",
+        "original_name": "Trevor Smith",
+        "popularity": 0.2956,
+        "profile_path": null,
+        "credit_id": "60388110d6819b006c02eb5e",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 654754,
+    "keywords": [
+      {
+        "id": 4048,
+        "name": "musician"
+      },
+      {
+        "id": 3490,
+        "name": "pop star"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 10229,
+        "name": "singer"
+      },
+      {
+        "id": 10217,
+        "name": "tourette syndrome"
+      },
+      {
+        "id": 10809,
+        "name": "teenage girl"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 179430,
+        "name": "aftercreditsstinger"
+      },
+      {
+        "id": 207776,
+        "name": "feelings"
+      },
+      {
+        "id": 227302,
+        "name": "portrait of an artist"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 251246,
+        "name": "coachella"
+      },
+      {
+        "id": 268830,
+        "name": "life and career"
+      },
+      {
+        "id": 345747,
+        "name": "biographical documentary"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 65,
+        "original_language": "en",
+        "original_title": "8 Mile",
+        "overview": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance.",
+        "popularity": 7.2225,
+        "poster_path": "/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+        "release_date": "2002-11-08",
+        "title": "8 Mile",
+        "video": false,
+        "vote_average": 7.142,
+        "vote_count": 7628
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10402
+        ],
+        "id": 71,
+        "original_language": "en",
+        "original_title": "Billy Elliot",
+        "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+        "popularity": 3.2778,
+        "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+        "release_date": "2000-09-28",
+        "title": "Billy Elliot",
+        "video": false,
+        "vote_average": 7.594,
+        "vote_count": 3996
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          10749
+        ],
+        "id": 88,
+        "original_language": "en",
+        "original_title": "Dirty Dancing",
+        "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer—and unexpectedly falling in love.",
+        "popularity": 8.9984,
+        "poster_path": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+        "release_date": "1987-08-21",
+        "title": "Dirty Dancing",
+        "video": false,
+        "vote_average": 7.329,
+        "vote_count": 6381
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5dJ8t6CljwZ1NUXwW1nsmEpMf8x.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 135,
+        "original_language": "en",
+        "original_title": "Dont Look Back",
+        "overview": "In this wildly entertaining vision of one of the twentieth century’s greatest artists, Bob Dylan is surrounded by teen fans, gets into heated philosophical jousts with journalists, and kicks back with fellow musicians Joan Baez, Donovan, and Alan Price.",
+        "popularity": 0.903,
+        "poster_path": "/2kd5XfH2MhFlChq7DkjxWBLoYPF.jpg",
+        "release_date": "1967-05-17",
+        "title": "Dont Look Back",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 166
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+        "genre_ids": [
+          36,
+          10402,
+          18
+        ],
+        "id": 279,
+        "original_language": "en",
+        "original_title": "Amadeus",
+        "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+        "popularity": 7.4639,
+        "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+        "release_date": "1984-09-19",
+        "title": "Amadeus",
+        "video": false,
+        "vote_average": 8.023,
+        "vote_count": 4584
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zxHSp0F0DKdHx3OPIh1rN4zApJq.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 312,
+        "original_language": "de",
+        "original_title": "Jenseits der Stille",
+        "overview": "Beyond Silence is about a family and a young girl’s coming of age story. This German film looks into the lives of the deaf and at a story about the love for music. A girl who has always had to translate speech into sign language for her deaf parents yet when her love for playing music grows strong she must decide to continue doing something she cannot share with her parents.",
+        "popularity": 0.594,
+        "poster_path": "/bfNOcXDcwzKOlJoTtQM4lsEVxS1.jpg",
+        "release_date": "1996-12-18",
+        "title": "Beyond Silence",
+        "video": false,
+        "vote_average": 6.877,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aGJ1ZRPgZvNo55vlroa4hMznuUu.jpg",
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 644668,
+        "original_language": "en",
+        "original_title": "The Village Detective: A Song Cycle",
+        "overview": "Atlantic Ocean, off the coast of Iceland, July 9, 2016. The surprising discovery of a canister —containing four reels of The Village Detective (Деревенский детектив), a 1969 Soviet film—, caught in the nets of an Icelandic trawler, is the first step in a fascinating journey through the artistic life of film and stage actor Mikhail Ivanovich Zharov (1899-1981), icon and star of an entire era of Russian cinema.",
+        "popularity": 0.2838,
+        "poster_path": "/fmPwrE5EqwNCc6OV9t4Esa8S73O.jpg",
+        "release_date": "2021-04-27",
+        "title": "The Village Detective: A Song Cycle",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7qfA74jlO9SwOSN6x0hmmcbSafv.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1234318,
+        "original_language": "en",
+        "original_title": "Sinéad",
+        "overview": "With contributions from David Holmes, Christy Moore, Imelda May, Don Letts, BP Fallon and more, this documentary reflects on Sineád O’Connor’s influence on Irish life and people.  Five months after her shocking passing, SINÉAD revisits the late singer’s tumultuous life and the film is both a deeply sad and celebratory tribute.  Drawn together from RTÉ’s own expansive archive of her TV appearances and footage from around the world, it is an absorbing take on a story that many of us already know very well.  However, looking back now after her death, the film pulls into sharp focus just how brave and defiant Sinéad really was.",
+        "popularity": 2.5218,
+        "poster_path": "/kpJfQ0VFPBMrP8jsRbfYarUhLy6.jpg",
+        "release_date": "2024-01-08",
+        "title": "Sinéad",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xleIwr1wUlWqvFHaU1PItf0YLrZ.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 786,
+        "original_language": "en",
+        "original_title": "Almost Famous",
+        "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+        "popularity": 5.5183,
+        "poster_path": "/u1bj6bQFQqWnwbj6ndvchjFjb9z.jpg",
+        "release_date": "2000-09-15",
+        "title": "Almost Famous",
+        "video": false,
+        "vote_average": 7.496,
+        "vote_count": 2992
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          10749
+        ],
+        "id": 280185,
+        "original_language": "ml",
+        "original_title": "റോക്ക് N' റോള്‍",
+        "overview": "Chandramouli, an international drummer, goes to Chennai to help his friend in his new project. However, his life turns upside down when he falls in love with a playback singer.",
+        "popularity": 4.352,
+        "poster_path": "/oZuP8j0CXtsTZg31AkdDaYx6uTP.jpg",
+        "release_date": "2007-11-16",
+        "title": "Rock N' Roll",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vJful0tM9icp9BunzvWw08zzGmx.jpg",
+        "genre_ids": [
+          35,
+          10402
+        ],
+        "id": 469467,
+        "original_language": "el",
+        "original_title": "Το Κοροϊδάκι Της Πριγκηπέσσας",
+        "overview": "Stavros has a cafe with his brother years and are the only ones in the family who care to get by. He is in love with Mary, which, however, not turning to look at him. Mary comes from an ...",
+        "popularity": 0.2789,
+        "poster_path": "/3qaZ9fy2DihHygIpCfRzOcJiKmm.jpg",
+        "release_date": "1972-01-24",
+        "title": "The Princess's Little Boy",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vb4lRWUV0ZdFN1MyNqGGMNgE0xB.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10402
+        ],
+        "id": 14336,
+        "original_language": "en",
+        "original_title": "ABBA: The Movie",
+        "overview": "A radio DJ in pursuit of an exclusive interview follows ABBA during their mega-successful tour of Australia.",
+        "popularity": 1.9018,
+        "poster_path": "/b6ELAAxwFiyiy8RreGQRDcleOkk.jpg",
+        "release_date": "1977-12-15",
+        "title": "ABBA: The Movie",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 80
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPstmYhWJCQuxOLR9IH7ojJ95zE.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1058447,
+        "original_language": "fr",
+        "original_title": "Hard ♡",
+        "overview": "Since 2013, the Casual Gabberz collective has been storming dancefloors and the stages of the biggest festivals with its gabber surge, that hardcore techno sound born in Holland in the 90s. Until a virus causes the planet to go haywire. And triggered an existential crisis within the collective.",
+        "popularity": 0.4604,
+        "poster_path": "/wInp6PQivlcxuoGr6tSBahcVF2F.jpg",
+        "release_date": "2022-02-19",
+        "title": "Hard ♡",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fe1CU9Whjeq8qTcAYBEJzLrkgjw.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 854513,
+        "original_language": "en",
+        "original_title": "Hallelujah: Leonard Cohen, a Journey, a Song",
+        "overview": "This feature-length documentary explores the life of singer-songwriter Leonard Cohen as seen through the prism of his internationally renowned hymn, Hallelujah.",
+        "popularity": 0.4887,
+        "poster_path": "/jvAjJvpu4EYuByjebjKl3QntQ0Z.jpg",
+        "release_date": "2022-07-01",
+        "title": "Hallelujah: Leonard Cohen, a Journey, a Song",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iTtyPk7cZMivnXBBhVkTIGqqqT0.jpg",
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 854521,
+        "original_language": "en",
+        "original_title": "Django & Django: Sergio Corbucci Unchained",
+        "overview": "A tribute to Italian filmmaker Sergio Corbucci (1926-90), presented by American filmmaker Quentin Tarantino.",
+        "popularity": 0.2893,
+        "poster_path": "/z5C8S5dEfwh3SDddtqwXanRojQF.jpg",
+        "release_date": "2021-11-15",
+        "title": "Django & Django: Sergio Corbucci Unchained",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2X01AcoSMKAFEjAieSa2E5HdhAF.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1058660,
+        "original_language": "en",
+        "original_title": "Going Varsity in Mariachi",
+        "overview": "A year in the life of an underdog competitive high school mariachi band in the Texas borderlands.",
+        "popularity": 0.2954,
+        "poster_path": "/tigudeeJ019XADgiCH14lBYEpJ3.jpg",
+        "release_date": "2023-01-22",
+        "title": "Going Varsity in Mariachi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6l2aIJbcWlLPQSQZ08v8mluZHgf.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1058685,
+        "original_language": "en",
+        "original_title": "Pianoforte",
+        "overview": "The world’s most talented young pianists compete in the International Chopin Piano Competition, held every five years in Warsaw, Poland. A rare behind the scenes look at the triumphant highs and crushing lows of competition, Pianoforte is both a testament to the remarkable power of music and an intimate coming-of-age portrait.",
+        "popularity": 1.3003,
+        "poster_path": "/7y2pK2fTmdmPFYjAjyid91eTPZ1.jpg",
+        "release_date": "2023-12-01",
+        "title": "Pianoforte",
+        "video": false,
+        "vote_average": 7.778,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQiXDEzfU8pydakr5yZ01bhlN30.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1058699,
+        "original_language": "en",
+        "original_title": "STILL: A Michael J. Fox Movie",
+        "overview": "A short kid from a Canadian army base becomes the international pop culture darling of the 1980s—only to find the course of his life altered by a stunning diagnosis. What happens when an incurable optimist confronts an incurable disease?",
+        "popularity": 1.2113,
+        "poster_path": "/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg",
+        "release_date": "2023-01-20",
+        "title": "STILL: A Michael J. Fox Movie",
+        "video": false,
+        "vote_average": 7.778,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AggBj7rikb2Zsshh2dnU5VSUQva.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          36
+        ],
+        "id": 659884,
+        "original_language": "fi",
+        "original_title": "Ruusu ja kulkuri",
+        "overview": "The story of Finnish singer Abraham 'Aappo' Ojanperä, who was born in the late 1850s. On his journey from a crier boy from Liminga to an international singing star, Aappo never forgets his first love Katri, who faithfully waits in Liminga for his return.",
+        "popularity": 0.3581,
+        "poster_path": "/n9JFz2kHDwOmf9xjUTOqaaEOCg2.jpg",
+        "release_date": "1948-11-05",
+        "title": "Ruusu ja kulkuri",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8Krp6FGkINmkNL4vKpL9tsg8HHg.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1444486,
+        "original_language": "en",
+        "original_title": "Because We Love It",
+        "overview": "Documentary filmmaker Brendan Langelle Lyle follows Halifax's DIY-band Customer Service on a two week Canadian tour. Stuffed inside a sketchy van and going through the repetitive motions of touring, get to know the band members and learn why they put themselves through the hell of the road.",
+        "popularity": 0.1517,
+        "poster_path": "/6pUoprJuvHErUk75hohbdzSV3BA.jpg",
+        "release_date": "",
+        "title": "Because We Love It",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 13520,
+    "total_results": 270386
+  }
+}

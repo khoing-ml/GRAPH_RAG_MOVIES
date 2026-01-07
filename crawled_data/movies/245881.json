@@ -1,0 +1,687 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/AqhARqCkWCjf22JrmybJZu3GsRQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "",
+    "id": 245881,
+    "imdb_id": "tt3328510",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Scooby-Doo! Haunted Holidays",
+    "overview": "Scooby-Doo and the gang participate in a toy store's holiday parade where they discover the abandoned haunted clock tower with a troubled past. A sinister snowman haunts the streets and accompanied with a large blizzard, threatens to close down the toy store for good.",
+    "popularity": 1.3138,
+    "poster_path": "/jCnHwIKptAzm2V5Ho9qko3VpMvL.jpg",
+    "production_companies": [
+      {
+        "id": 2785,
+        "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+        "name": "Warner Bros. Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-10-16",
+    "revenue": 0,
+    "runtime": 22,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Scooby-Doo! Haunted Holidays",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 104
+  },
+  "credits": {
+    "id": 245881,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 2.8971,
+        "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg",
+        "cast_id": 5,
+        "character": "Fred Jones / Scooby-Doo (voice)",
+        "credit_id": "52fe4f0cc3a36847f82b9b0d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86314,
+        "known_for_department": "Acting",
+        "name": "Mindy Cohn",
+        "original_name": "Mindy Cohn",
+        "popularity": 1.5741,
+        "profile_path": "/AcEAchSYIUiRInwyD8nPwj8ztZa.jpg",
+        "cast_id": 1,
+        "character": "Velma Dinkley (voice)",
+        "credit_id": "52fe4f0cc3a36847f82b9b01",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26457,
+        "known_for_department": "Acting",
+        "name": "Matthew Lillard",
+        "original_name": "Matthew Lillard",
+        "popularity": 5.129,
+        "profile_path": "/auUbijDzR9xpSgQtLsYDvNatloj.jpg",
+        "cast_id": 2,
+        "character": "Shaggy Rogers (voice)",
+        "credit_id": "52fe4f0cc3a36847f82b9b05",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 2.6891,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 3,
+        "character": "Daphne Blake (voice)",
+        "credit_id": "52fe4f0cc3a36847f82b9b09",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 2.4139,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 9,
+        "character": "(voices)",
+        "credit_id": "5489574bc3a3687b91000f3a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59784,
+        "known_for_department": "Acting",
+        "name": "Carlos Alazraqui",
+        "original_name": "Carlos Alazraqui",
+        "popularity": 1.4476,
+        "profile_path": "/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg",
+        "cast_id": 12,
+        "character": "Havros Menkle / Clete the Janitor (voice)",
+        "credit_id": "5c52c26e92514149ab4ec1d6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75039,
+        "known_for_department": "Acting",
+        "name": "Crispin Freeman",
+        "original_name": "Crispin Freeman",
+        "popularity": 1.2298,
+        "profile_path": "/oqqNzJK7F9ZO6Kft4BwncT6K8hz.jpg",
+        "cast_id": 13,
+        "character": "Fabian Men (voice)",
+        "credit_id": "5c52c27ec3a368576a991ca8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.2626,
+        "profile_path": "/cKMuclPblMvQ4JQMN0nYKvb5ylu.jpg",
+        "cast_id": 14,
+        "character": "Sinister Snowman / Santa Claus (voice)",
+        "credit_id": "5c52c28f0e0a26494ddc131b",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 171254,
+        "known_for_department": "Writing",
+        "name": "Michael Ryan",
+        "original_name": "Michael Ryan",
+        "popularity": 0.4958,
+        "profile_path": "/vsGhI7EWjNO0tSzu5uBxDQHu3QH.jpg",
+        "credit_id": "52fe4f0cc3a36847f82b9b13",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56851,
+        "known_for_department": "Directing",
+        "name": "Victor Cook",
+        "original_name": "Victor Cook",
+        "popularity": 0.3819,
+        "profile_path": "/wGVULDUmlIzlBc8s37xyLQU39Ah.jpg",
+        "credit_id": "52fe4f0cc3a36847f82b9b1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1450356,
+        "known_for_department": "Art",
+        "name": "Tristin Cole",
+        "original_name": "Tristin Cole",
+        "popularity": 0.3859,
+        "profile_path": null,
+        "credit_id": "554453ad925141586d00351c",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56851,
+        "known_for_department": "Directing",
+        "name": "Victor Cook",
+        "original_name": "Victor Cook",
+        "popularity": 0.3819,
+        "profile_path": "/wGVULDUmlIzlBc8s37xyLQU39Ah.jpg",
+        "credit_id": "6200e85baf2da8001bce4e2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1322323,
+        "known_for_department": "Sound",
+        "name": "Robert J. Kral",
+        "original_name": "Robert J. Kral",
+        "popularity": 0.4013,
+        "profile_path": "/oZHQ9lp3h6QfOISMZyrwdliebNh.jpg",
+        "credit_id": "6200e8725a5ed000694f63bd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 0.4816,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "58994e1ec3a3680421000c82",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 245881,
+    "keywords": [
+      {
+        "id": 1442,
+        "name": "winter"
+      },
+      {
+        "id": 65,
+        "name": "holiday"
+      },
+      {
+        "id": 10794,
+        "name": "snow"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/apgY9DqYzqgMAGu0HRhOkJi8mHV.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          18
+        ],
+        "id": 171,
+        "original_language": "fr",
+        "original_title": "La Boum 2",
+        "overview": "A young French teenage girl after moving to a new city falls in love with a boy and is thinking of having sex with him because her girlfriends have already done it.",
+        "popularity": 1.7902,
+        "poster_path": "/pbkccDoxH1H1VdqWcQYycZxHTIK.jpg",
+        "release_date": "1982-12-08",
+        "title": "The Party 2",
+        "video": false,
+        "vote_average": 6.422,
+        "vote_count": 646
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xxiPjhXigJ4zPiqqrA77FK10ULo.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 245,
+        "original_language": "en",
+        "original_title": "About a Boy",
+        "overview": "Will Freeman is a good-looking, smooth-talking bachelor whose primary goal in life is avoiding any kind of responsibility. But when he invents an imaginary son in order to meet attractive single moms, Will gets a hilarious lesson about life from a bright, but hopelessly geeky 12-year-old named Marcus. Now, as Will struggles to teach Marcus the art of being cool, Marcus teaches Will that you're never too old to grow up.",
+        "popularity": 2.7581,
+        "poster_path": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+        "release_date": "2002-04-26",
+        "title": "About a Boy",
+        "video": false,
+        "vote_average": 6.684,
+        "vote_count": 2327
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35
+        ],
+        "id": 252,
+        "original_language": "en",
+        "original_title": "Willy Wonka & the Chocolate Factory",
+        "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+        "popularity": 11.4746,
+        "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+        "release_date": "1971-06-29",
+        "title": "Willy Wonka & the Chocolate Factory",
+        "video": false,
+        "vote_average": 7.483,
+        "vote_count": 3829
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y3nsrKTrYHrDTIGVsshbvHc2cec.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1429903,
+        "original_language": "en",
+        "original_title": "Drink and Be Merry",
+        "overview": "At a struggling New York dive bar in the days leading up to Christmas 2019, Chet, a beleaguered bartender in a state of extended arrested development, must balance caring for his misanthropic, aging regulars — who have nowhere else to go, and rely on him for far more than pouring drinks — with his naive desires to muster some Christmas spirit.",
+        "popularity": 2.8444,
+        "poster_path": "/fjlFSNmX6lNgJ6mLHZ3uVAsMbYb.jpg",
+        "release_date": "2025-06-06",
+        "title": "Drink and Be Merry",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          14
+        ],
+        "id": 1232941,
+        "original_language": "en",
+        "original_title": "Untitled The Polar Express Sequel",
+        "overview": "In development.",
+        "popularity": 0.2678,
+        "poster_path": "/pQxeNfk1mUI9bRHihcBTeWDX8ge.jpg",
+        "release_date": "",
+        "title": "Untitled The Polar Express Sequel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ndSEkXyotVM0XfoBV1SSRg4AXgB.jpg",
+        "genre_ids": [
+          35,
+          878
+        ],
+        "id": 68,
+        "original_language": "en",
+        "original_title": "Brazil",
+        "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+        "popularity": 7.7987,
+        "poster_path": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+        "release_date": "1985-02-20",
+        "title": "Brazil",
+        "video": false,
+        "vote_average": 7.669,
+        "vote_count": 3562
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+        "genre_ids": [
+          10749,
+          14,
+          35
+        ],
+        "id": 137,
+        "original_language": "en",
+        "original_title": "Groundhog Day",
+        "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+        "popularity": 16.9064,
+        "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+        "release_date": "1993-02-11",
+        "title": "Groundhog Day",
+        "video": false,
+        "vote_average": 7.621,
+        "vote_count": 8583
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6TmdYhlnM7OEITeuzcrX8XVlnp2.jpg",
+        "genre_ids": [
+          35,
+          53,
+          9648
+        ],
+        "id": 1958,
+        "original_language": "fr",
+        "original_title": "8 femmes",
+        "overview": "Eight women gather to celebrate Christmas in a snowbound cottage, only to find the family patriarch dead with a knife in his back. Trapped in the house, every woman becomes a suspect, each having her own motive and secret.",
+        "popularity": 1.847,
+        "poster_path": "/1oNcapDn0U9Y2CFbvxOc1ebuwav.jpg",
+        "release_date": "2002-02-06",
+        "title": "8 Women",
+        "video": false,
+        "vote_average": 6.896,
+        "vote_count": 1038
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gCYvQJ1MhyK4kYFnjpNbNqQtaYc.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 2064,
+        "original_language": "en",
+        "original_title": "While You Were Sleeping",
+        "overview": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
+        "popularity": 6.66,
+        "poster_path": "/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+        "release_date": "1995-04-21",
+        "title": "While You Were Sleeping",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1941
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bWoGpYfhHjod5795MpFgH8zMoFj.jpg",
+        "genre_ids": [
+          12
+        ],
+        "id": 2172,
+        "original_language": "se",
+        "original_title": "Ofelas",
+        "overview": "Around the year 1000 AD warlike people, the so-called \"tjuder\", roam in northern Scandinavia. As they brutally kill a family in a remote area, including the parents and their little daughter, the family's teenage son, Aigin, observes the slaughter. He manages to flee from these killers and reaches a camp with other Sámi whose inhabitants are worried if he has been able to hide his track. Afraid of the murderous people, they decide to flee to the coast. The boy stays alone to avenge his family's murder. Unfortunately, they get him before he can do anything and force him to lead them to the other Sámi. He guides them but has a plan to destroy the barbarous people before reaching the camp.",
+        "popularity": 2.783,
+        "poster_path": "/cpJvdyNZaD3j2DUHO10Xa7vG8rJ.jpg",
+        "release_date": "1987-09-03",
+        "title": "Pathfinder",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10770
+        ],
+        "id": 655794,
+        "original_language": "en",
+        "original_title": "American Christmas",
+        "overview": "It took another ruined Christmas dinner to make Martha finally realize: her kids are jerks. But this Christmas, Martha has had enough. With the help of her grandson, Sully, Martha is determined to make each of her family members face their ghosts of Christmas past. Find out whether Martha's plans will bring her family together or truly tear them all apart. Either way it is sure to be A Very Odd Christmas.",
+        "popularity": 0.1757,
+        "poster_path": "/bVp8U29gUheGSxGWX9OPaDsViSp.jpg",
+        "release_date": "2019-11-04",
+        "title": "American Christmas",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bPpHu2NmgmqeZDaNk2xFJehL0CB.jpg",
+        "genre_ids": [
+          10770,
+          35,
+          18,
+          10749
+        ],
+        "id": 7088,
+        "original_language": "en",
+        "original_title": "Christmas in Boston",
+        "overview": "Gina and Seth have been pen pals for 13 years and now will have the chance to meet. Both used their best friends pictures to send to each other and now will let their friends meet. True love is found in the end for all.",
+        "popularity": 0.5903,
+        "poster_path": "/u5NBMvek4BafCZySKPwWvSxBkuC.jpg",
+        "release_date": "2005-12-14",
+        "title": "Christmas in Boston",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uZhKqqynwXkbdl117M5Wt77iorq.jpg",
+        "genre_ids": [
+          35,
+          27
+        ],
+        "id": 6147,
+        "original_language": "de",
+        "original_title": "Can I Be Your Bratwurst, Please?",
+        "overview": "A newly arrived guest of a Hollywood hotel charms and amazes the regulars, and they decide to invite him to their Christmas dinner.",
+        "popularity": 0.3038,
+        "poster_path": "/ekTGVFuesarxFOS8Vrf20cTTGVp.jpg",
+        "release_date": "2008-12-04",
+        "title": "Can I Be Your Bratwurst, Please?",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sqk5jLiyTDd9AHfrDdHBf1ecmte.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 6283,
+        "original_language": "en",
+        "original_title": "MouseHunt",
+        "overview": "Down-on-their luck brothers, Lars and Ernie Smuntz, aren't happy with the crumbling old mansion they inherit... until they discover the estate is worth millions. Before they can cash in, they have to rid the house of its single, stubborn occupant—a tiny and tenacious mouse.",
+        "popularity": 4.13,
+        "poster_path": "/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg",
+        "release_date": "1997-12-19",
+        "title": "MouseHunt",
+        "video": false,
+        "vote_average": 6.534,
+        "vote_count": 1321
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cZLqEIrySzN2m5MAzoeAr6ypdDg.jpg",
+        "genre_ids": [
+          80,
+          9648
+        ],
+        "id": 6296,
+        "original_language": "fr",
+        "original_title": "L'Assassinat du Père Noël",
+        "overview": "A village in the French Alps is rocked by a series of crimes, including the theft of a sacred ring and the murder of a man dressed as Père Noël (Father Christmas).",
+        "popularity": 0.953,
+        "poster_path": "/xScDM79VloXlS53zZHiiHgl0add.jpg",
+        "release_date": "1941-10-16",
+        "title": "Who Killed Santa Claus?",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 6416,
+        "original_language": "de",
+        "original_title": "Ein fliehendes Pferd",
+        "overview": "Helmut and Sabine Halm have always managed vacations of lazy privacy at their favorite retreat on Germany′s Lake Constance. So when the energetic, handsome Klaus Buch turns up with his beautiful girlfriend Helene, Helmut is quite ready to dismiss this dimly familiar acquaintance. But Klaus is overjoyed to recognize his old schoolmate Helmut, eager to recall every incident of their shared time, and to display every detail of this successful lifestyle as a fit sportsman and author. The precious days of privacy give way to an unwanted and awkward intimacy, as the Buchs and the Halms hike, dine and sail together. Their joint activities aggravate myriad psychological tensions among the four characters, which are all the more intensely ironic for their peaceful veneer and which must eventually erupt.",
+        "popularity": 0.4181,
+        "poster_path": "/xN6uLEfBpq4PB9rfvfFct0wKknk.jpg",
+        "release_date": "2007-06-30",
+        "title": "Runaway Horse",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ZmRyY6YrHg7AQoc3JDuPM4vpkq.jpg",
+        "genre_ids": [
+          10770,
+          35,
+          10749
+        ],
+        "id": 1047703,
+        "original_language": "en",
+        "original_title": "Sincerely Truly Christmas",
+        "overview": "When a magical Christmas wish goes wrong and inadvertently gives Christina the ability to hear what gifts everyone wants for the holidays, she quickly learns that convincing reclusive one-hit wonder, Dan Copren, to step back into the limelight could make a lot of people happy. But to get to Dan, Christina must first link up with her handsome realtor, Robert, and help him figure out his son Oliver’s ever-changing Christmas wish list.",
+        "popularity": 0.3839,
+        "poster_path": "/e55FWDc6UDKUoGrAv3mXPfFUZGF.jpg",
+        "release_date": "2023-12-03",
+        "title": "Sincerely Truly Christmas",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7GR03LqwB7ePPPhaK5BAYNzt3Vm.jpg",
+        "genre_ids": [
+          27,
+          35,
+          14
+        ],
+        "id": 461928,
+        "original_language": "en",
+        "original_title": "Anna and the Apocalypse",
+        "overview": "A zombie apocalypse threatens the sleepy town of Little Haven—at Christmas—forcing Anna and her friends to fight, slash, and sing their way to survival. In a desperate race to reach their loved ones, they soon learn that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.",
+        "popularity": 1.4313,
+        "poster_path": "/jVyqqMzDVRjUMeIoaJKSUpRnB9Y.jpg",
+        "release_date": "2018-11-30",
+        "title": "Anna and the Apocalypse",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 428
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fHWUxzEgCqIfToLjlY9UrR6uQtz.jpg",
+        "genre_ids": [
+          10751,
+          14
+        ],
+        "id": 1047431,
+        "original_language": "en",
+        "original_title": "Prancer: A Christmas Tale",
+        "overview": "Ten-year-old Gloria and her recently widowed grandfather Bud befriend a mysterious reindeer when the family gather for Christmas. Bud comes to believe that Prancer may actually be magical, but Gloria fears his theory will send him straight to a retirement home.",
+        "popularity": 1.2089,
+        "poster_path": "/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg",
+        "release_date": "2022-11-22",
+        "title": "Prancer: A Christmas Tale",
+        "video": false,
+        "vote_average": 6.538,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dpSrTZIWeI3u025LSUOjV9FHFvf.jpg",
+        "genre_ids": [
+          53,
+          80,
+          9648
+        ],
+        "id": 6687,
+        "original_language": "en",
+        "original_title": "TransSiberian",
+        "overview": "A TransSiberian train journey from China to Moscow becomes a thrilling chase of deception and murder when an American couple encounters a mysterious pair of fellow travelers.",
+        "popularity": 1.4852,
+        "poster_path": "/dhTOda5CLp9tEdDzQZiqBTdv5lR.jpg",
+        "release_date": "2008-01-18",
+        "title": "TransSiberian",
+        "video": false,
+        "vote_average": 6.409,
+        "vote_count": 777
+      }
+    ],
+    "total_pages": 14078,
+    "total_results": 281549
+  }
+}

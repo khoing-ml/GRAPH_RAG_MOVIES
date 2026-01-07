@@ -1,0 +1,739 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/6POBC9eiJBYDfE6bidjrthKB6eC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/80212798",
+    "id": 752939,
+    "imdb_id": "tt13276386",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Shawn Mendes: In Wonder",
+    "overview": "A portrait of singer-songwriter Shawn Mendes' life, chronicling the past few years of his rise and journey.",
+    "popularity": 0.625,
+    "poster_path": "/aSs7V3ryvxCSpcXcxf9NY8YBtGC.jpg",
+    "production_companies": [
+      {
+        "id": 9339,
+        "logo_path": "/hwEpOrIYH7G4Rolt7s2thYquJnD.png",
+        "name": "Universal Music Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 39918,
+        "logo_path": null,
+        "name": "Permanent Wave",
+        "origin_country": "US"
+      },
+      {
+        "id": 127499,
+        "logo_path": "/zTchoLvjEs5MvY8fEd8rSiAIhYh.png",
+        "name": "Polygram Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 5505,
+        "logo_path": "/lNSXnoZxWcqSFbjI62A7aRGZOPa.png",
+        "name": "Fulwell 73 Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-11-23",
+    "revenue": 0,
+    "runtime": 83,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Shawn Mendes: In Wonder",
+    "video": false,
+    "vote_average": 8.157,
+    "vote_count": 159
+  },
+  "credits": {
+    "id": 752939,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1613304,
+        "known_for_department": "Acting",
+        "name": "Shawn Mendes",
+        "original_name": "Shawn Mendes",
+        "popularity": 1.3296,
+        "profile_path": "/grQeD2Emwe0gSvHAgXnlVvZn1EK.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "5f85d0878258fc0036a56691",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1911673,
+        "known_for_department": "Acting",
+        "name": "Camila Cabello",
+        "original_name": "Camila Cabello",
+        "popularity": 3.0374,
+        "profile_path": "/A2ydvwkjE6d85kU9J2xFXpP2RQC.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5f8f87c517c4430037de03db",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1436623,
+        "known_for_department": "Editing",
+        "name": "Zachary Kashkett",
+        "original_name": "Zachary Kashkett",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "6071f646931ea100572b8312",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046592,
+        "known_for_department": "Sound",
+        "name": "Michael Lonsdale",
+        "original_name": "Michael Lonsdale",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6071f6ad66565a0040988323",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2860790,
+        "known_for_department": "Sound",
+        "name": "Dane Lonsdale",
+        "original_name": "Dane Lonsdale",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "credit_id": "6071f6682a210c00402e2b57",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1894828,
+        "known_for_department": "Production",
+        "name": "Michele Anthony",
+        "original_name": "Michele Anthony",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "credit_id": "6530b11bc439c0013835f80f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4328131,
+        "known_for_department": "Production",
+        "name": "Dave Harris",
+        "original_name": "Dave Harris",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "6530b1741108a800eaafa67e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4328129,
+        "known_for_department": "Directing",
+        "name": "Connor Brashier",
+        "original_name": "Connor Brashier",
+        "popularity": 0.1937,
+        "profile_path": "/jXBsD1eZa6Wb0D3GVZ1QTgFszvy.jpg",
+        "credit_id": "6530b0fdf1759c01394b13c6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452963,
+        "known_for_department": "Directing",
+        "name": "Grant Singer",
+        "original_name": "Grant Singer",
+        "popularity": 1.0129,
+        "profile_path": "/xxjChst3eh78gkAOLVYOFVuTejp.jpg",
+        "credit_id": "6530b18251a64e014ce15bbb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4328130,
+        "known_for_department": "Production",
+        "name": "Darcus Beese",
+        "original_name": "Darcus Beese",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6530b142aede59014c3813b8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2183073,
+        "known_for_department": "Camera",
+        "name": "Devon Catucci",
+        "original_name": "Devon Catucci",
+        "popularity": 0.2148,
+        "profile_path": null,
+        "credit_id": "65cabadf6dc507017cb18760",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388962,
+        "known_for_department": "Camera",
+        "name": "Adam Newport-Berra",
+        "original_name": "Adam Newport-Berra",
+        "popularity": 0.6809,
+        "profile_path": "/m1J1LPLpn17jObXDtAzpgkcgSmi.jpg",
+        "credit_id": "6498c41a03bf84013c02dca5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1613304,
+        "known_for_department": "Acting",
+        "name": "Shawn Mendes",
+        "original_name": "Shawn Mendes",
+        "popularity": 1.3296,
+        "profile_path": "/grQeD2Emwe0gSvHAgXnlVvZn1EK.jpg",
+        "credit_id": "5f85d0df5a46900037ef3cd4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2814110,
+        "known_for_department": "Production",
+        "name": "Saul Germaine",
+        "original_name": "Saul Germaine",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "5f85d0f2a1a9ba0038407150",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7480,
+        "known_for_department": "Editing",
+        "name": "James Haygood",
+        "original_name": "James Haygood",
+        "popularity": 0.2145,
+        "profile_path": null,
+        "credit_id": "5f85d112a1a9ba00393ef632",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2814106,
+        "known_for_department": "Production",
+        "name": "Andrew Gertler",
+        "original_name": "Andrew Gertler",
+        "popularity": 0.1452,
+        "profile_path": null,
+        "credit_id": "5f85d0c15a46900039eb1d25",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1146049,
+        "known_for_department": "Production",
+        "name": "Ben Winston",
+        "original_name": "Ben Winston",
+        "popularity": 1.2437,
+        "profile_path": "/g0doY7jsPSoyUeYSc3XhaMcPFJW.jpg",
+        "credit_id": "5f85d0d48e2ba60035ebd420",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452963,
+        "known_for_department": "Directing",
+        "name": "Grant Singer",
+        "original_name": "Grant Singer",
+        "popularity": 1.0129,
+        "profile_path": "/xxjChst3eh78gkAOLVYOFVuTejp.jpg",
+        "credit_id": "5f90d36b278d8a003a3667d6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1763798,
+        "known_for_department": "Editing",
+        "name": "Alex Bickel",
+        "original_name": "Alex Bickel",
+        "popularity": 0.3105,
+        "profile_path": null,
+        "credit_id": "67d31f255ffc7adf0b30eff9",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 752939,
+    "keywords": [
+      {
+        "id": 10229,
+        "name": "singer"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pIgAuyklIbrOXXOiYgqI6j9cpTa.jpg",
+        "genre_ids": [
+          99,
+          36,
+          10402,
+          10770
+        ],
+        "id": 1054224,
+        "original_language": "fr",
+        "original_title": "Julio Iglesias : amour, gloire et chansons",
+        "overview": "An account of the life and work of the charismatic and seductive Spanish singer Julio Iglesias, from his beginnings as a soccer player in the Spain of the 1960s, in the midst of Franco's dictatorship, to his astonishing worldwide success.",
+        "popularity": 0.0822,
+        "poster_path": "/n3gdE33iq17SbrA94HVkIaVDfhq.jpg",
+        "release_date": "2022-12-14",
+        "title": "Julio Iglesias: Latin Crooner, Global Star",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          10749
+        ],
+        "id": 280185,
+        "original_language": "ml",
+        "original_title": "റോക്ക് N' റോള്‍",
+        "overview": "Chandramouli, an international drummer, goes to Chennai to help his friend in his new project. However, his life turns upside down when he falls in love with a playback singer.",
+        "popularity": 4.352,
+        "poster_path": "/oZuP8j0CXtsTZg31AkdDaYx6uTP.jpg",
+        "release_date": "2007-11-16",
+        "title": "Rock N' Roll",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iUpEDBcoYzND2MhIWr10C93ikFV.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10402,
+          10749
+        ],
+        "id": 10875,
+        "original_language": "en",
+        "original_title": "The Fabulous Baker Boys",
+        "overview": "The lives of two struggling musicians, who happen to be brothers, inevitably change when they team up with a beautiful, up-and-coming singer.",
+        "popularity": 1.3506,
+        "poster_path": "/1nS8AxnoYE2Y1ANMpVKZnm8iLxP.jpg",
+        "release_date": "1989-10-13",
+        "title": "The Fabulous Baker Boys",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 354
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/50tOx2lJXuszVjwCjNYHEXnPMWx.jpg",
+        "genre_ids": [
+          99,
+          36,
+          10402
+        ],
+        "id": 9459,
+        "original_language": "en",
+        "original_title": "Woodstock",
+        "overview": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000.",
+        "popularity": 4.0926,
+        "poster_path": "/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
+        "release_date": "1970-03-26",
+        "title": "Woodstock",
+        "video": false,
+        "vote_average": 7.512,
+        "vote_count": 286
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/a207j6hwf3iHiLO8ArhLIljiC1D.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10402
+        ],
+        "id": 9526,
+        "original_language": "en",
+        "original_title": "A Prairie Home Companion",
+        "overview": "A look at what goes on backstage during the last broadcast of America's most celebrated radio show, where singing cowboys Dusty and Lefty, a country music siren, and a host of others hold court.",
+        "popularity": 0.9433,
+        "poster_path": "/7AxXWJYzrFx7LIFP3OvCPecwXGE.jpg",
+        "release_date": "2006-06-01",
+        "title": "A Prairie Home Companion",
+        "video": false,
+        "vote_average": 6.258,
+        "vote_count": 308
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gcEqNLvz2spC2HdpVNb0k5s7yXU.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10402
+        ],
+        "id": 8545,
+        "original_language": "en",
+        "original_title": "Little Voice",
+        "overview": "After the death of her father, Little Voice or LV becomes a virtual recluse, never going out and hardly ever saying a word. She just sits in her bedroom listening to her father's collection of old records of Shirley Bassey, Marilyn Monroe and various other famous female singers. But at night time, LV sings, imitating these great singers with surprising accuracy. One night she is overheard by one of her mother's boyfriends, who happens to be a talent agent. He manages to convince her that her talent is special and arranges for her to perform at the local night club, but several problems arise.",
+        "popularity": 1.061,
+        "poster_path": "/7VxdMxSa3BEAvGl5nLvsgpBwrZH.jpg",
+        "release_date": "1998-11-05",
+        "title": "Little Voice",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 193
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gL9nh0qYWFgFMPaePhKZ5xlNxiV.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 26723,
+        "original_language": "en",
+        "original_title": "Imagine: John Lennon",
+        "overview": "The biography of former Beatle, John Lennon—narrated by Lennon himself—with extensive material from Yoko Ono's personal collection, previously unseen footage from Lennon's private archives, and interviews with David Bowie, his first wife Cynthia, second wife Yoko Ono and sons Julian and Sean.",
+        "popularity": 1.6409,
+        "poster_path": "/r2wfq5fU65GRenTYrTGV3alPoNj.jpg",
+        "release_date": "1988-09-30",
+        "title": "Imagine: John Lennon",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 83
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yZgoQwLGDt69HccRmYLhCqUd8ZR.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 863309,
+        "original_language": "fr",
+        "original_title": "K-Classics Generation",
+        "overview": "The film traces the career of some of the winners of this new generation nicknamed the \"K-Classics Generation\", including the 2 recent winners of the Queen Elisabeth Competition, the soprano Hwang Sumi and the violinist Lim Jiyoung. In Korea, where it all began, and in Germany where most of them have settled.",
+        "popularity": 0.2311,
+        "poster_path": "/iFOcJyVGzqprnsN9JDJaanyMiAj.jpg",
+        "release_date": "2020-06-01",
+        "title": "K-Classics Generation",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 857800,
+        "original_language": "en",
+        "original_title": "Becoming Led Zeppelin",
+        "overview": "The individual journeys of the four members of the band, as they move through the music scene of the 1960s, playing small clubs throughout Britain and performing some of the biggest hits of the era, until their meeting in the summer of 1968 for a rehearsal that changes their lives forever.",
+        "popularity": 2.4979,
+        "poster_path": "/cAxteOtjaeQN045qNNbSEwu78c4.jpg",
+        "release_date": "2025-02-05",
+        "title": "Becoming Led Zeppelin",
+        "video": false,
+        "vote_average": 7.202,
+        "vote_count": 99
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/45veMV65tfHjRRa5tdjdrkysf8z.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 22492,
+        "original_language": "en",
+        "original_title": "It Might Get Loud",
+        "overview": "A documentary on the electric guitar from the point of view of three significant rock musicians: the Edge, Jimmy Page and Jack White.",
+        "popularity": 0.3701,
+        "poster_path": "/86gtHYU7vRnTBcnOu0YxdZuDGhM.jpg",
+        "release_date": "2008-09-05",
+        "title": "It Might Get Loud",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 189
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dzH6sLazV6YUzbJL9ahh8MAV4KY.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1069377,
+        "original_language": "fr",
+        "original_title": "Mögöbalu, Les Maîtres des Tambours d'Afrique",
+        "overview": "",
+        "popularity": 0.4839,
+        "poster_path": "/4izXxFJnYkTjNje504g0c7nFM37.jpg",
+        "release_date": "1998-01-01",
+        "title": "Mögöbalu, Les Maîtres des Tambours d'Afrique",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Ar0c0iFyCBZ2tlJkCf3GSZpLxex.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1255318,
+        "original_language": "ar",
+        "original_title": "العنقة",
+        "overview": "1/4 - In 1925, the young M’hamed El Anka replaced his master Nador at short notice. He realizes that he is far from mastering all the instruments of his art and begins a self-taught training program in Oud, the Arabic language, and religious singing in the hadra of Sidi Abderrahmane. 2/4 - In 1932, the young El Anka released 10 45 rpm records in Paris, including the first song from his composition \"L'Exil\". He is gradually “lightening” the Andalusian heritage. He made the pilgrimage to Mecca and wrote the famous song \"El Mendouza\". 3/4 - The 40s and 50s will confirm the maturity of the master, who consolidates the constituent elements of what is today called Chaâbi music. In the midst of the national liberation struggle, El Hadj M'hamed El Anka triumphs with the song \"Youm El Djemâa\". 4/4 - In 1962, El Anka sang of independence: \"El hamdou lilah, mabqach listaâmar fi bledna\". Activist, poet and musicologist Bachir Hadj Ali explains the artist’s exceptional style.",
+        "popularity": 0.3837,
+        "poster_path": "/12X1SIQxlmTzITcldb7YcVERjLT.jpg",
+        "release_date": "1981-01-01",
+        "title": "El Anka",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdpHGUxipEmJZvtEmTCcmpE2HMp.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 24153,
+        "original_language": "en",
+        "original_title": "The Buddy Holly Story",
+        "overview": "A chronicle of the rise and brief career of rock 'n' roll star Buddy Holly, who aspires to play music the way he wants it to sound. Holly and his band, the Crickets, are first invited to record in Nashville, where they encounter creative differences with the producing staff. Later they play a major booking at the Apollo Theater, scheduled there under the mistaken assumption that they're a black band. Holly's career eventually goes solo -- until the tragic day the music dies.",
+        "popularity": 0.7734,
+        "poster_path": "/4Zu9YdN5O4jnXJmqBMHckkKpJ2S.jpg",
+        "release_date": "1978-05-18",
+        "title": "The Buddy Holly Story",
+        "video": false,
+        "vote_average": 7.152,
+        "vote_count": 125
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zE7Vb4mm4PuvCUJwYZaxnnZeT53.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          10402
+        ],
+        "id": 666459,
+        "original_language": "tr",
+        "original_title": "Yarım Kalan Saadet",
+        "overview": "The film tells the story of a famous artist's love for a woman. Famous singer Ekrem gives a concert for the benefit of Darülaceze. After the concert, he falls in love with nurse Fatoş, whom he meets. After a while, they decide to get married. Ekrem cancels his six-month contract because he is getting married. His manager blames Fatoş for this situation. He talks to Fatoş and asks her to leave Ekrem. Fatoş leaves Ekrem on their wedding day so as not to hinder his fame. She sets off for Izmir. However, she misses her flight. When the plane she missed crashes, everyone assumes Fatoş is dead. Ekrem, believing he has lost Fatoş, will struggle to come to terms with it.",
+        "popularity": 0.3403,
+        "poster_path": "/sib12QDC9qRPerbb75bsN0SOYDF.jpg",
+        "release_date": "1970-01-01",
+        "title": "Yarım Kalan Saadet",
+        "video": true,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aI1ah2uVBkAQyoF9CXlojHnBeG9.jpg",
+        "genre_ids": [
+          10402,
+          35
+        ],
+        "id": 21468,
+        "original_language": "en",
+        "original_title": "There's No Business Like Show Business",
+        "overview": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
+        "popularity": 0.9758,
+        "poster_path": "/1TsdR08RmU5PT1BCzKLYQg5ZMlg.jpg",
+        "release_date": "1954-12-16",
+        "title": "There's No Business Like Show Business",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 101
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rJHudLEcfTMx3qNccYjGFmVL25c.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 21554,
+        "original_language": "en",
+        "original_title": "Sparkle",
+        "overview": "Three sisters start out singing in their church choir in Harlem in the late 1950s and become a successful girl group in the 1960s.",
+        "popularity": 3.1747,
+        "poster_path": "/rwXTLhIqjwRE073HJr94G3V3w4D.jpg",
+        "release_date": "1976-04-07",
+        "title": "Sparkle",
+        "video": false,
+        "vote_average": 7.432,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kRD7BpXtJfgjhOCuDXzzkKJvtwX.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1257357,
+        "original_language": "en",
+        "original_title": "Cavepeople",
+        "overview": "January 13th, 2024; Suffolk County's punk, grunge, and emo scenes are showcased through the more than a hundred attendees at Caveversary; an annual celebration of the independent basement venue, The Cave.",
+        "popularity": 0.5751,
+        "poster_path": "/thXd8xWvAT3IWNCprQojQjdYWC8.jpg",
+        "release_date": "2024-05-10",
+        "title": "Cavepeople",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z4U2kdSWXHQ3eEGsXB9O1p98jIZ.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 26236,
+        "original_language": "en",
+        "original_title": "ABBA in Concert",
+        "overview": "ABBA's 1979 tour of North America and Europe, with emphasis on performances at Wembley Arena, London.",
+        "popularity": 0.2304,
+        "poster_path": "/8pP89e3w4yL71lCHYDKKU8htwzP.jpg",
+        "release_date": "1980-04-07",
+        "title": "ABBA in Concert",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 666591,
+        "original_language": "en",
+        "original_title": "Past Life",
+        "overview": "A glimpse into the making of Maggie Rogers' song 'Past Life', from her debut studio album 'Heard It in a Past Life' in celebration of its one year anniversary.",
+        "popularity": 0.5063,
+        "poster_path": "/d6uP22fTj5Y6faJuTGO6hAv1ghi.jpg",
+        "release_date": "2020-01-17",
+        "title": "Past Life",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jXND39wsOOjWoE7FrpAFJ60OaLM.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 21721,
+        "original_language": "en",
+        "original_title": "Eddie and the Cruisers",
+        "overview": "A television newswoman picks up the story of a 1960s rock band whose long-lost leader — Eddie Wilson — may still be alive, while searching for the missing tapes of the band's never-released album.",
+        "popularity": 0.5704,
+        "poster_path": "/qohqTtk33FlEoeb3zYLEAUGSO0E.jpg",
+        "release_date": "1983-09-23",
+        "title": "Eddie and the Cruisers",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 92
+      }
+    ],
+    "total_pages": 13180,
+    "total_results": 263596
+  }
+}

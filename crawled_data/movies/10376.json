@@ -1,0 +1,978 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "",
+    "id": 10376,
+    "imdb_id": "tt0120731",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "La leggenda del pianista sull'oceano",
+    "overview": "The story of a virtuoso piano player who lives his entire life aboard an ocean liner. Born and raised on the ship, 1900 learned about the outside world through interactions with passengers, never setting foot on land, even for the love of his life. Years later, the ship may be destroyed, and a former band member fears that 1900 may still be aboard, willing to go down with the ship.",
+    "popularity": 3.7618,
+    "poster_path": "/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+    "production_companies": [
+      {
+        "id": 6246,
+        "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+        "name": "Medusa Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 27597,
+        "logo_path": null,
+        "name": "Sciarlò",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1998-10-28",
+    "revenue": 21057208,
+    "runtime": 170,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "An epic story of a man who could do anything... except be ordinary",
+    "title": "The Legend of 1900",
+    "video": false,
+    "vote_average": 8.247,
+    "vote_count": 2377
+  },
+  "credits": {
+    "id": 10376,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3129,
+        "known_for_department": "Acting",
+        "name": "Tim Roth",
+        "original_name": "Tim Roth",
+        "popularity": 3.7662,
+        "profile_path": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg",
+        "cast_id": 1,
+        "character": "Danny Boodmann T.D. Lemon Nineteen Hundred '1900'",
+        "credit_id": "52fe43629251416c7500e4dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3201,
+        "known_for_department": "Acting",
+        "name": "Pruitt Taylor Vince",
+        "original_name": "Pruitt Taylor Vince",
+        "popularity": 3.7632,
+        "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg",
+        "cast_id": 2,
+        "character": "Max Tooney",
+        "credit_id": "52fe43629251416c7500e4e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59373,
+        "known_for_department": "Acting",
+        "name": "Mélanie Thierry",
+        "original_name": "Mélanie Thierry",
+        "popularity": 1.732,
+        "profile_path": "/bNXGy4D6PpDthKjjrzxwTbcHIeT.jpg",
+        "cast_id": 10,
+        "character": "The Girl",
+        "credit_id": "54b19a6dc3a3680939002c2e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5502,
+        "known_for_department": "Acting",
+        "name": "Bill Nunn",
+        "original_name": "Bill Nunn",
+        "popularity": 1.7322,
+        "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg",
+        "cast_id": 4,
+        "character": "Danny Boodmann",
+        "credit_id": "52fe43629251416c7500e4e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80503,
+        "known_for_department": "Acting",
+        "name": "Gabriele Lavia",
+        "original_name": "Gabriele Lavia",
+        "popularity": 0.4948,
+        "profile_path": "/xjLiYd6fHszM8w5NiGBcSKd1mk9.jpg",
+        "cast_id": 8,
+        "character": "Farmer",
+        "credit_id": "52fe43629251416c7500e4ff",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15864,
+        "known_for_department": "Acting",
+        "name": "Clarence Williams III",
+        "original_name": "Clarence Williams III",
+        "popularity": 0.7212,
+        "profile_path": "/6tzuvVTlBxx0oWjoT3hFTfbVqUp.jpg",
+        "cast_id": 9,
+        "character": "Jelly Roll Morton",
+        "credit_id": "54b19a5cc3a3684012002303",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 386,
+        "known_for_department": "Acting",
+        "name": "Peter Vaughan",
+        "original_name": "Peter Vaughan",
+        "popularity": 1.4697,
+        "profile_path": "/pqblKGyukQmyTbMTAhFG1B2mgFq.jpg",
+        "cast_id": 11,
+        "character": "'Pops', the Shopkeeper",
+        "credit_id": "54b19a7fc3a3680945002bac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104758,
+        "known_for_department": "Acting",
+        "name": "Niall O'Brien",
+        "original_name": "Niall O'Brien",
+        "popularity": 2.4475,
+        "profile_path": "/fXAooJON1NMHVt2W35zTndOFMhS.jpg",
+        "cast_id": 12,
+        "character": "Harbor Master",
+        "credit_id": "54b19a8e92514107e00012d0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 163808,
+        "known_for_department": "Acting",
+        "name": "Alberto Vazquez",
+        "original_name": "Alberto Vazquez",
+        "popularity": 1.8764,
+        "profile_path": "/ma89lKvJndygyvuIjs8R1xFCW4R.jpg",
+        "cast_id": 13,
+        "character": "Mexican Stoker",
+        "credit_id": "54b19aa092514107e00012d2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 558801,
+        "known_for_department": "Directing",
+        "name": "Luca De Luigi",
+        "original_name": "Luca De Luigi",
+        "popularity": 1.7386,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Neapolitan Stoker",
+        "credit_id": "54b19ab1c3a3684138002214",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1411985,
+        "known_for_department": "Acting",
+        "name": "Femi Elufowoju Jr.",
+        "original_name": "Femi Elufowoju Jr.",
+        "popularity": 0.5968,
+        "profile_path": "/8CmhUB0SMPLpeEOg3Qgs9NQbfJE.jpg",
+        "cast_id": 15,
+        "character": "Black Stoker",
+        "credit_id": "54b19acac3a3680939002c33",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1411986,
+        "known_for_department": "Acting",
+        "name": "Nigel Fan",
+        "original_name": "Nigel Fan",
+        "popularity": 0.1555,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Chinese Stoker",
+        "credit_id": "54b19addc3a368413800221b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126316,
+        "known_for_department": "Acting",
+        "name": "Roger Monk",
+        "original_name": "Roger Monk",
+        "popularity": 0.868,
+        "profile_path": "/DI6xymNX68YWeF5uDgZdflmkIp.jpg",
+        "cast_id": 17,
+        "character": "Irish Stoker",
+        "credit_id": "54b19aeec3a3680940002948",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1411987,
+        "known_for_department": "Acting",
+        "name": "Leonid Zaslavski",
+        "original_name": "Leonid Zaslavski",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Polish Stoker",
+        "credit_id": "54b19afe92514107e00012df",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356009,
+        "known_for_department": "Acting",
+        "name": "Bernard Padden",
+        "original_name": "Bernard Padden",
+        "popularity": 0.1771,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Boatswain",
+        "credit_id": "54b19b0e925141746c002696",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2134543,
+        "known_for_department": "Acting",
+        "name": "Piero Gimondo",
+        "original_name": "Piero Gimondo",
+        "popularity": 0.2467,
+        "profile_path": "/fhyX7Xkzs2T5U4cI4Ac5O9RenI2.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "5ba91b290e0a2635ec056527",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 128088,
+        "known_for_department": "Acting",
+        "name": "Adriano Wajskol",
+        "original_name": "Adriano Wajskol",
+        "popularity": 0.7366,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Drummer",
+        "credit_id": "5ba91b35c3a3680e550539d2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39618,
+        "known_for_department": "Acting",
+        "name": "Nicola Di Pinto",
+        "original_name": "Nicola Di Pinto",
+        "popularity": 1.7039,
+        "profile_path": "/1TCh4CylEp4uLIaM2o2N6YSyyZg.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "5ba91b4a9251412f0a04b989",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27394,
+        "known_for_department": "Acting",
+        "name": "Anita Zagaria",
+        "original_name": "Anita Zagaria",
+        "popularity": 0.8138,
+        "profile_path": "/qX5YJzQ2D6zA4wFYLbXWBQhVv2t.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "5ba91b68c3a3680e61050a42",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1874607,
+        "known_for_department": "Acting",
+        "name": "Katy Monique Cuomo",
+        "original_name": "Katy Monique Cuomo",
+        "popularity": 0.4281,
+        "profile_path": "/ctuWJMeAiJz4srCvuIcIdqmzdm7.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "5ccb24d092514104512572ef",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116123,
+        "known_for_department": "Acting",
+        "name": "Norman Chancer",
+        "original_name": "Norman Chancer",
+        "popularity": 0.7781,
+        "profile_path": "/xxj8VqbDm4chXUF4A7Z3BnEpOVB.jpg",
+        "cast_id": 26,
+        "character": "Impresario",
+        "credit_id": "5de08296c51acd0013f489f8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30431,
+        "known_for_department": "Acting",
+        "name": "Heathcote Williams",
+        "original_name": "Heathcote Williams",
+        "popularity": 0.435,
+        "profile_path": "/1gCuLzhbBTiFPLZ0pD4RGAvE7NJ.jpg",
+        "cast_id": 32,
+        "character": "Doctor Klauserman",
+        "credit_id": "5f9b522271f095003ae3042f",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65314,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Tornatore",
+        "original_name": "Giuseppe Tornatore",
+        "popularity": 2.2182,
+        "profile_path": "/t5PurTT9QuvV5Xs9Q2JzVui5oqF.jpg",
+        "credit_id": "52fe43629251416c7500e4ef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65315,
+        "known_for_department": "Writing",
+        "name": "Alessandro Baricco",
+        "original_name": "Alessandro Baricco",
+        "popularity": 1.8656,
+        "profile_path": "/zSBaNWmhGjGFwKf5PViKQYqRRnY.jpg",
+        "credit_id": "52fe43629251416c7500e4f5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65314,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Tornatore",
+        "original_name": "Giuseppe Tornatore",
+        "popularity": 2.2182,
+        "profile_path": "/t5PurTT9QuvV5Xs9Q2JzVui5oqF.jpg",
+        "credit_id": "52fe43629251416c7500e4fb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47275,
+        "known_for_department": "Camera",
+        "name": "Lajos Koltai",
+        "original_name": "Lajos Koltai",
+        "popularity": 0.5951,
+        "profile_path": "/sHzrzrnXjgeKEelkwQby5zUsTCL.jpg",
+        "credit_id": "666c5c3798170ec9efa7dd29",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 39615,
+        "known_for_department": "Editing",
+        "name": "Massimo Quaglia",
+        "original_name": "Massimo Quaglia",
+        "popularity": 0.3534,
+        "profile_path": null,
+        "credit_id": "5e13a3369020120013b8d93f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8756,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maurizio Millenotti",
+        "original_name": "Maurizio Millenotti",
+        "popularity": 0.3598,
+        "profile_path": null,
+        "credit_id": "5e13a3948741c400173f2d50",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8754,
+        "known_for_department": "Art",
+        "name": "Francesco Frigeri",
+        "original_name": "Francesco Frigeri",
+        "popularity": 0.5186,
+        "profile_path": "/igzkCAOCIi179DEQ0ypYh91JC2g.jpg",
+        "credit_id": "5e13a429d64ac2001666d19f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259,
+        "known_for_department": "Sound",
+        "name": "Ennio Morricone",
+        "original_name": "Ennio Morricone",
+        "popularity": 0.7043,
+        "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+        "credit_id": "5e2296032811a10013a369d2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4977848,
+        "known_for_department": "Production",
+        "name": "Marco Chimenz",
+        "original_name": "Marco Chimenz",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "66fe542db146282f7b84d06b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4977849,
+        "known_for_department": "Production",
+        "name": "Laura Fattori",
+        "original_name": "Laura Fattori",
+        "popularity": 0.2295,
+        "profile_path": null,
+        "credit_id": "66fe543de48014914684d558",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084894,
+        "known_for_department": "Acting",
+        "name": "Laura Susanne Ruedeberg",
+        "original_name": "Laura Susanne Ruedeberg",
+        "popularity": 0.1378,
+        "profile_path": null,
+        "credit_id": "66fe544ee48014914684d560",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4977850,
+        "known_for_department": "Production",
+        "name": "Francesco Tornatore",
+        "original_name": "Francesco Tornatore",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "66fe545fe84eeb35a0f7c4e3",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 10376,
+    "keywords": [
+      {
+        "id": 3799,
+        "name": "ship"
+      },
+      {
+        "id": 270,
+        "name": "ocean"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 4953,
+        "name": "ocean liner"
+      },
+      {
+        "id": 5561,
+        "name": "child prodigy"
+      },
+      {
+        "id": 14743,
+        "name": "pianist"
+      },
+      {
+        "id": 41005,
+        "name": "foundling"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1237796,
+        "original_language": "en",
+        "original_title": "Desolvido",
+        "overview": "This is the story of a family that represents the collective memory of Colombia that has lived at war for more than seventy years, a journey through a country submerged in corruption, poor health coverage, and abuse by the military.",
+        "popularity": 0.1833,
+        "poster_path": "/pVsfn6HjRpLpJZMQ5N2mmvOKQJT.jpg",
+        "release_date": "2021-05-13",
+        "title": "Desolvido",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ytclDXEffquvzjwNXbiYEU1b6F2.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 4643,
+        "original_language": "en",
+        "original_title": "The Guardian",
+        "overview": "A high school swim champion with a troubled past enrolls in the U.S. Coast Guard's 'A' School, where legendary rescue swimmer Ben Randall teaches him some hard lessons about loss, love, and self-sacrifice.",
+        "popularity": 3.4304,
+        "poster_path": "/zFhFjrckfmdb33VDeRykumMmebU.jpg",
+        "release_date": "2006-09-28",
+        "title": "The Guardian",
+        "video": false,
+        "vote_average": 7.131,
+        "vote_count": 1614
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sXI5fukqu1Y5sqUk6RaUoW9LJYT.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          14
+        ],
+        "id": 4688,
+        "original_language": "en",
+        "original_title": "Across the Universe",
+        "overview": "When young dockworker Jude leaves Liverpool to find his estranged father in the United States, he is swept up by the waves of change that are re-shaping the nation. Jude falls in love with Lucy, who joins the growing anti-war movement. As the body count in Vietnam rises, political tensions at home spiral out of control and the star-crossed lovers find themselves in a psychedelic world gone mad.",
+        "popularity": 2.4607,
+        "poster_path": "/447c8Te3DXC46rQvDEixKGO4dS6.jpg",
+        "release_date": "2007-09-14",
+        "title": "Across the Universe",
+        "video": false,
+        "vote_average": 7.131,
+        "vote_count": 1404
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 272218,
+        "original_language": "hi",
+        "original_title": "जब प्यार किसी से होता है",
+        "overview": "About to be married, Nisha learns that Sunder had already been married to another woman, whom he is accused of murdering. And Sunder scrambles to come up with an explanation and absolve himself.",
+        "popularity": 0.1553,
+        "poster_path": "/i2mgQDDnAnZuANSuv5WKZrGYWTi.jpg",
+        "release_date": "1961-01-01",
+        "title": "Jab Pyar Kisise Hota Hai",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oO55Z71apssUy4Cf0obsK2kX3oK.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          18
+        ],
+        "id": 2976,
+        "original_language": "en",
+        "original_title": "Hairspray",
+        "overview": "Pleasantly plump teenager Tracy Turnblad auditions to be on Baltimore's most popular dance show - The Corny Collins Show - and lands a prime spot. Through her newfound fame, she becomes determined to help her friends and end the racial segregation that has been a staple of the show.",
+        "popularity": 4.4088,
+        "poster_path": "/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
+        "release_date": "2007-07-19",
+        "title": "Hairspray",
+        "video": false,
+        "vote_average": 6.663,
+        "vote_count": 2572
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 3062,
+        "original_language": "en",
+        "original_title": "42nd Street",
+        "overview": "A producer puts on what may be his last Broadway show, and at the last moment a chorus girl has to replace the star.",
+        "popularity": 3.6153,
+        "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+        "release_date": "1933-03-11",
+        "title": "42nd Street",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 208
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1ZPQpLk5oImC72p9LaN98rukWaf.jpg",
+        "genre_ids": [
+          16,
+          10402,
+          14,
+          35,
+          10751
+        ],
+        "id": 1236607,
+        "original_language": "en",
+        "original_title": "Jem: Truly Outrageous!",
+        "overview": "With the help of her father's greatest creation, a holographic computer named Synergy, Jerrica Benton and her sisters team up to create the band Jem and the Holograms. Together, they will go head-to-head with their rivals, the Misfits and their greedy road manager Eric Raymond, in a battle of the bands for control of Mr. Benton's music company, Starlight Music.",
+        "popularity": 0.1637,
+        "poster_path": "/opxnCJaSIgFwHlf8eEL1WaWjfCh.jpg",
+        "release_date": "1986-04-01",
+        "title": "Jem: Truly Outrageous!",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 2759,
+        "original_language": "en",
+        "original_title": "The Adventures of Priscilla, Queen of the Desert",
+        "overview": "Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.",
+        "popularity": 2.4156,
+        "poster_path": "/kJ7syYXEJgSBmBfSnF3Can9cK1J.jpg",
+        "release_date": "1994-05-31",
+        "title": "The Adventures of Priscilla, Queen of the Desert",
+        "video": false,
+        "vote_average": 7.266,
+        "vote_count": 883
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+        "genre_ids": [
+          10402,
+          10749,
+          35
+        ],
+        "id": 2769,
+        "original_language": "en",
+        "original_title": "An American in Paris",
+        "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+        "popularity": 1.4545,
+        "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+        "release_date": "1951-09-26",
+        "title": "An American in Paris",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 622
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cEXolzCLhHQqKXKjDynH2svj0E4.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 2844,
+        "original_language": "en",
+        "original_title": "Riot at the Rite",
+        "overview": "In the spring of 1913, Parisian businessman Gabriel Astruc opens a new theater on the Champs Elysées. The first performance is the premiere of Igor Stravinsky's 'The Rite of Spring', danced by the Ballet Russes. The rehearsal process is extremely fraught: the orchestra dislike Stravinsky's harsh, atonal music; the dancers dislike the 'ugly' choreography of Vaslav Nijinsky. The volatile, bisexual Nijinsky is in a strained relationship with the much older Sergei Diaghilev, the Ballet Russes' charismatic but manipulative impresario. Public expectation is extremely high after Nijinsky's success in 'L'apres-midi d'un faune'. Finally, 'The Rite of Spring' premieres to a gossip-loving, febrile, fashion-conscious Parisian audience sharply divided as to its merits.",
+        "popularity": 0.2343,
+        "poster_path": "/4ZTTp7K1KAbVWKv8IlYFVSvYqa.jpg",
+        "release_date": "2005-10-18",
+        "title": "Riot at the Rite",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+        "genre_ids": [
+          14,
+          18,
+          9648
+        ],
+        "id": 5961,
+        "original_language": "sv",
+        "original_title": "Fanny och Alexander",
+        "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+        "popularity": 2.4642,
+        "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+        "release_date": "1982-12-17",
+        "title": "Fanny and Alexander",
+        "video": false,
+        "vote_average": 7.784,
+        "vote_count": 846
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/giScYWIfx3xJFFWGFR8vJsWg2ho.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 5967,
+        "original_language": "fr",
+        "original_title": "Les Parapluies de Cherbourg",
+        "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+        "popularity": 2.5356,
+        "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+        "release_date": "1964-02-19",
+        "title": "The Umbrellas of Cherbourg",
+        "video": false,
+        "vote_average": 7.388,
+        "vote_count": 856
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749,
+          35,
+          10402
+        ],
+        "id": 6117,
+        "original_language": "de",
+        "original_title": "Liebe, Tanz und 1000 Schlager",
+        "overview": "",
+        "popularity": 0.1288,
+        "poster_path": "/jOR6m6iACW2m9KuWnhcvXWg0AOj.jpg",
+        "release_date": "1955-10-13",
+        "title": "Love, Dance, and 1000 Songs",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          35
+        ],
+        "id": 6224,
+        "original_language": "de",
+        "original_title": "Bühne frei für Marika",
+        "overview": "A dance and music film tailored completely for Marika Rokk:  After her divorce, the wife of a composer uses her wit and charm to engage Marika as a singer and dancer on the stage.  This manages to give life once again to the extinguished love between her and her former husband.",
+        "popularity": 0.1128,
+        "poster_path": "/fJevWwr59XQ60DZvIHfb86Ok8oW.jpg",
+        "release_date": "1958-08-14",
+        "title": "Clear the stage for Marika",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          35,
+          18
+        ],
+        "id": 6225,
+        "original_language": "de",
+        "original_title": "Übermut im Salzkammergut",
+        "overview": "Birgit is a model from the city and sweetheart of the farmer's son Rolf. Incognito she takes a job as a maid on their farm.",
+        "popularity": 0.6365,
+        "poster_path": null,
+        "release_date": "1963-08-30",
+        "title": "Übermut im Salzkammergut",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1239095,
+        "original_language": "cs",
+        "original_title": "Monte Cristo",
+        "overview": "The original Czech musical based on Alexandre Dumas' novel was followed by composer Karel Svoboda, Zdeněk Borovec, and Richard Hes, who built on the success of their previous musical, Dracula. The musical Monte Cristo was also performed at the Prague Congress Center and achieved an impressive 444 performances between December 13, 2000, and December 21, 2002, when the final performance took place. The show was seen by 600,000 viewers during that time. Thanks to the Czech Television recording, you too can be there. The musical took almost two years to create, and composer Karel Svoboda once again proved that he is one of our best musical creators today, with a tremendous sense of musicality. He relied on the excellent work of lyricist, librettist, and co-creator of the theme and script, the late master of words Zdeněk Borovec. Richard Hes was the co-creator of the theme and script and, most importantly, the choreographer.",
+        "popularity": 0.8384,
+        "poster_path": null,
+        "release_date": "2002-01-01",
+        "title": "Monte Cristo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/koewsz902ql4YjAbdrE19IcvaN0.jpg",
+        "genre_ids": [
+          10402,
+          10751,
+          18
+        ],
+        "id": 467097,
+        "original_language": "nl",
+        "original_title": "Sing Song",
+        "overview": "The musical adventure of the 16-year-old Jasmine who goes to Suriname to attend a song contest, but secretly is looking for her mother.",
+        "popularity": 1.7762,
+        "poster_path": "/uRAWM7O2N1GxWGKyArWnjcBlfgP.jpg",
+        "release_date": "2017-07-20",
+        "title": "Sing Song",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 10409,
+        "original_language": "en",
+        "original_title": "Strictly Ballroom",
+        "overview": "Brave new steps put Scott's career in jeopardy. With a new partner and determination, can he still succeed?",
+        "popularity": 4.5282,
+        "poster_path": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+        "release_date": "1992-08-20",
+        "title": "Strictly Ballroom",
+        "video": false,
+        "vote_average": 6.58,
+        "vote_count": 367
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9GIxfO9LDxEYfxUfFvBt38PMeT2.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          10749
+        ],
+        "id": 9817,
+        "original_language": "en",
+        "original_title": "Save the Last Dance 2",
+        "overview": "Sara joins Julliard in New York to fulfill her and her mother's dream of becoming the Prima ballerina of the school. She befriends her roommates, Zoe and Miles, who teach hip-hop classes. She has ballet classes with the rigid and famous Monique Delacroix that she idolizes - Monique requires full commitment, discipline and hard work from her students. When Miles, who is a composer, invites Sara to help him compose the music for the dance choreography Sara's passion for hip-hop is sparked and she also falls in love with Miles. When she is assigned to perform Giselle in an important event, she feels divided between the technique of the ballet and the creative work offered by Miles.",
+        "popularity": 0.7193,
+        "poster_path": "/wc9Ymn4p7hdjZdKwgtfGGlStFTV.jpg",
+        "release_date": "2006-10-10",
+        "title": "Save the Last Dance 2",
+        "video": false,
+        "vote_average": 5.445,
+        "vote_count": 236
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p3P0eTh8AnqauhRZg0wgoBFvcjF.jpg",
+        "genre_ids": [
+          53,
+          18,
+          10749
+        ],
+        "id": 9833,
+        "original_language": "en",
+        "original_title": "The Phantom of the Opera",
+        "overview": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opera House.",
+        "popularity": 4.9781,
+        "poster_path": "/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg",
+        "release_date": "2004-12-08",
+        "title": "The Phantom of the Opera",
+        "video": false,
+        "vote_average": 7.261,
+        "vote_count": 1727
+      }
+    ],
+    "total_pages": 16783,
+    "total_results": 335659
+  }
+}

@@ -1,0 +1,806 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/kTEzMJA9zphutZPv6b4locJLh7m.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 45318,
+    "imdb_id": "tt0097564",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Ilha das Flores",
+    "overview": "A tomato is planted, harvested and sold at a supermarket, but it rots and ends up in the trash. But it doesn’t end there: Isle of Flowers follows it up until its real end, among animals, trash, women and children. And then the difference between tomatoes, pigs and human beings becomes clear.",
+    "popularity": 0.7242,
+    "poster_path": "/cghvWnWK5AuIKPY92YRV9tCeNhw.jpg",
+    "production_companies": [
+      {
+        "id": 17415,
+        "logo_path": null,
+        "name": "Casa de Cinema de Porto Alegre",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "1989-09-06",
+    "revenue": 0,
+    "runtime": 13,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A place where there are very few flowers.",
+    "title": "Isle of Flowers",
+    "video": false,
+    "vote_average": 8.102,
+    "vote_count": 216
+  },
+  "credits": {
+    "id": 45318,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139299,
+        "known_for_department": "Acting",
+        "name": "Paulo José",
+        "original_name": "Paulo José",
+        "popularity": 0.4351,
+        "profile_path": "/3weSAehRGHhOoa3BFPk8sUCl3sI.jpg",
+        "cast_id": 4,
+        "character": "Narrator",
+        "credit_id": "52fe46bcc3a36847f810f5cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556534,
+        "known_for_department": "Acting",
+        "name": "Júlia Barth",
+        "original_name": "Júlia Barth",
+        "popularity": 1.357,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Filha de Dona Anete",
+        "credit_id": "52fe46bcc3a36847f810f5cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 556533,
+        "known_for_department": "Acting",
+        "name": "Luciane Azevedo",
+        "original_name": "Luciane Azevedo",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ana Luiza Nunes",
+        "credit_id": "52fe46bcc3a36847f810f5c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262908,
+        "known_for_department": "Acting",
+        "name": "Ciça Reckziegel",
+        "original_name": "Ciça Reckziegel",
+        "popularity": 0.1516,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Dona Anete",
+        "credit_id": "52fe46bcc3a36847f810f5d9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262920,
+        "known_for_department": "Acting",
+        "name": "Igor Costa",
+        "original_name": "Igor Costa",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Filho de Dona Anete",
+        "credit_id": "52fe46bcc3a36847f810f613",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262919,
+        "known_for_department": "Acting",
+        "name": "Douglas Trainini",
+        "original_name": "Douglas Trainini",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Marido de Dona Anete",
+        "credit_id": "52fe46bcc3a36847f810f60f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262921,
+        "known_for_department": "Acting",
+        "name": "Irene Schmidt",
+        "original_name": "Irene Schmidt",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Compradora",
+        "credit_id": "52fe46bcc3a36847f810f617",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262911,
+        "known_for_department": "Acting",
+        "name": "Gosei Kitajima",
+        "original_name": "Gosei Kitajima",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Sr. Suzuki 1",
+        "credit_id": "52fe46bcc3a36847f810f5e1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262922,
+        "known_for_department": "Acting",
+        "name": "Takehiro Suzuki",
+        "original_name": "Takehiro Suzuki",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Sr. Suzuki 2",
+        "credit_id": "52fe46bcc3a36847f810f61b",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1262923,
+        "known_for_department": "Acting",
+        "name": "Antônio da Silva",
+        "original_name": "Antônio da Silva",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "O dono do porco",
+        "credit_id": "52fe46bcc3a36847f810f61f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262924,
+        "known_for_department": "Acting",
+        "name": "Marcos Crespo",
+        "original_name": "Marcos Crespo",
+        "popularity": 0.7078,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "O empregado",
+        "credit_id": "52fe46bcc3a36847f810f623",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262916,
+        "known_for_department": "Camera",
+        "name": "Roberto Henkin",
+        "original_name": "Roberto Henkin",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "credit_id": "52fe46bcc3a36847f810f5f9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102561,
+        "known_for_department": "Directing",
+        "name": "Jorge Furtado",
+        "original_name": "Jorge Furtado",
+        "popularity": 0.2397,
+        "profile_path": "/7SKK4BfVvTuMSc2LxzkTnz8OpKA.jpg",
+        "credit_id": "52fe46bcc3a36847f810f5d5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262918,
+        "known_for_department": "Sound",
+        "name": "Geraldo Flach",
+        "original_name": "Geraldo Flach",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "52fe46bcc3a36847f810f60b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102561,
+        "known_for_department": "Directing",
+        "name": "Jorge Furtado",
+        "original_name": "Jorge Furtado",
+        "popularity": 0.2397,
+        "profile_path": "/7SKK4BfVvTuMSc2LxzkTnz8OpKA.jpg",
+        "credit_id": "52fe46bcc3a36847f810f5c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1187361,
+        "known_for_department": "Directing",
+        "name": "Monica Schmiedt",
+        "original_name": "Monica Schmiedt",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "52fe46bcc3a36847f810f5e7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262917,
+        "known_for_department": "Art",
+        "name": "Fiapo Barth",
+        "original_name": "Fiapo Barth",
+        "popularity": 0.1561,
+        "profile_path": "/KuRphqcBR7L5EXX8K5DFhK7S3J.jpg",
+        "credit_id": "52fe46bcc3a36847f810f605",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171893,
+        "known_for_department": "Camera",
+        "name": "Sérgio Amon",
+        "original_name": "Sérgio Amon",
+        "popularity": 0.1651,
+        "profile_path": null,
+        "credit_id": "52fe46bcc3a36847f810f5ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171890,
+        "known_for_department": "Editing",
+        "name": "Giba Assis Brasil",
+        "original_name": "Giba Assis Brasil",
+        "popularity": 0.2314,
+        "profile_path": "/4uhiSSLolaCXmXzmhxAnQ6ClD5X.jpg",
+        "credit_id": "52fe46bcc3a36847f810f5ed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556496,
+        "known_for_department": "Production",
+        "name": "Nora Goulart",
+        "original_name": "Nora Goulart",
+        "popularity": 0.1073,
+        "profile_path": "/nY31BTqdUyqBwMEBmHlZ3IGtpFP.jpg",
+        "credit_id": "562fc47c9251413b46000537",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171890,
+        "known_for_department": "Editing",
+        "name": "Giba Assis Brasil",
+        "original_name": "Giba Assis Brasil",
+        "popularity": 0.2314,
+        "profile_path": "/4uhiSSLolaCXmXzmhxAnQ6ClD5X.jpg",
+        "credit_id": "562fc435c3a3681b6100e56e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1171889,
+        "known_for_department": "Directing",
+        "name": "Ana Luíza Azevedo",
+        "original_name": "Ana Luíza Azevedo",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "562fc4c192514129fe00063e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171893,
+        "known_for_department": "Camera",
+        "name": "Sérgio Amon",
+        "original_name": "Sérgio Amon",
+        "popularity": 0.1651,
+        "profile_path": null,
+        "credit_id": "562fc4ecc3a3681b5e00d7aa",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 45318,
+    "keywords": [
+      {
+        "id": 5252,
+        "name": "misery"
+      },
+      {
+        "id": 100,
+        "name": "slum"
+      },
+      {
+        "id": 1545,
+        "name": "supermarket"
+      },
+      {
+        "id": 592,
+        "name": "capitalism"
+      },
+      {
+        "id": 4931,
+        "name": "pig"
+      },
+      {
+        "id": 1899,
+        "name": "hunger"
+      },
+      {
+        "id": 6388,
+        "name": "tomato"
+      },
+      {
+        "id": 10594,
+        "name": "money"
+      },
+      {
+        "id": 12987,
+        "name": "poverty"
+      },
+      {
+        "id": 159602,
+        "name": "garbage dump"
+      },
+      {
+        "id": 163828,
+        "name": "landfill"
+      },
+      {
+        "id": 189933,
+        "name": "economic crisis"
+      },
+      {
+        "id": 195889,
+        "name": "poor"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27,
+          99
+        ],
+        "id": 1068995,
+        "original_language": "en",
+        "original_title": "The Return of the Living Dead:  The Decade of Darkness",
+        "overview": "A look at the horror movies of the 1980's.",
+        "popularity": 0.1849,
+        "poster_path": "/hJThGKXWzHzp220okwLUTW9IQbu.jpg",
+        "release_date": "2007-07-11",
+        "title": "The Return of the Living Dead:  The Decade of Darkness",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 681757,
+        "original_language": "es",
+        "original_title": "Memoria",
+        "overview": "Documentary short about Mexico's femicide crisis.",
+        "popularity": 0.1721,
+        "poster_path": "/wHdJDPRIbrmpoZyefW9AQNjHgVZ.jpg",
+        "release_date": "",
+        "title": "Memory",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 681759,
+        "original_language": "es",
+        "original_title": "Esperanza",
+        "overview": "Documentary short about Mexico's femicide crisis.",
+        "popularity": 0.245,
+        "poster_path": "/wMYAAgqhGCo9EsBpnipiZ8FA3hN.jpg",
+        "release_date": "",
+        "title": "Hope",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 35693,
+        "original_language": "es",
+        "original_title": "Deuda",
+        "overview": "DEBT is the story of a frantic pursuit: the search for the responsible for the televised cry of hunger of Barbara Flores, an eight-year-old Argentinean girl. Buenos Aires, Washington, the IMF, the World Bank and Davos; corruption and the international bureaucratic lack of interest.",
+        "popularity": 2.1277,
+        "poster_path": "/5KHYijBUVlm221XmuKf8p352AUX.jpg",
+        "release_date": "2004-10-07",
+        "title": "Debt",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aUJQjO5cNPz5zRuopAuXdw5VtJ2.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 303619,
+        "original_language": "pt",
+        "original_title": "Favela Gay",
+        "overview": "Favela Gay tells the story of eleven individuals in their own words. Living in eight slums (favelas) in Rio de Janeiro, these members of the LGBTQ community – two transgender women, a crossdressing man, a travesti prostitute, a famous carnival dancer, two community activists, and even a young man who used to be transgender, but transitioned back – have fought prejudice and seen some of the most unsavoury sides of the city.",
+        "popularity": 0.2835,
+        "poster_path": "/mul5RnlJv1j8DOZgmNV4o8Er3Mf.jpg",
+        "release_date": "2014-10-07",
+        "title": "Favela Gay",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rsL6FwEez2XqB9m8bwToAAC7hM3.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 672586,
+        "original_language": "es",
+        "original_title": "VII Domitilas",
+        "overview": "Chanting saved Domitila from a deadly fever. From that moment on, she started using her voice as a spiritual bridge to pray for the souls of the dead in her native town: San Miguel Pocitos, Puebla.",
+        "popularity": 0.2152,
+        "poster_path": "/lp1l51vcHwJbTkGO1VvtEC1p7r6.jpg",
+        "release_date": "2020-10-28",
+        "title": "VII Domitilas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          35
+        ],
+        "id": 1452845,
+        "original_language": "hu",
+        "original_title": "Porszívás",
+        "overview": "A documentary about a person who cleans his room with a vacuum cleaner, filled with disasters and mishaps.",
+        "popularity": 1.3273,
+        "poster_path": "/jmbrRJUFBR5OwKDWp7l5UjLztDx.jpg",
+        "release_date": "2025-03-22",
+        "title": "Vacuumin’ Around",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/49ILd5rNFwPBo2jv9UpWSwesNRa.jpg",
+        "genre_ids": [
+          16,
+          99,
+          35
+        ],
+        "id": 296850,
+        "original_language": "en",
+        "original_title": "Exploring the Reef",
+        "overview": "Jean-Michael Cousteau's documentary about the Great Barrier Reef keeps getting interrupted by characters from Disney's Finding Nemo.",
+        "popularity": 0.4802,
+        "poster_path": "/lwH5KqAynqqnpIQK9g6B80ksAtU.jpg",
+        "release_date": "2003-11-04",
+        "title": "Exploring the Reef",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 874458,
+        "original_language": "it",
+        "original_title": "Tigullio minore",
+        "overview": "In the Tigullio region near Gênes this  shortdocumentary shows the funeral of a local fisherman.",
+        "popularity": 0.236,
+        "poster_path": "/fxiydPhplNRQUB3ZPH8f6I0B5tk.jpg",
+        "release_date": "1947-09-16",
+        "title": "Tigullio minore",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 36023,
+        "original_language": "en",
+        "original_title": "Police State",
+        "overview": "Alex Jones exposes the growing militarization of American law enforcement and the growing relationship between the military and police. Witness US training with foreign troops and learning how to control and contain civilian populations. You will see Special Forces helicopter attacks on South Texas towns, concentration camps, broad unconstitutional police actions, search and seizure and more.",
+        "popularity": 0.1818,
+        "poster_path": "/1k6dflb7LbofR9uAuhDIMgtEK26.jpg",
+        "release_date": "1999-01-04",
+        "title": "Police State 2000",
+        "video": true,
+        "vote_average": 5.167,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 36024,
+        "original_language": "en",
+        "original_title": "Police State II: The Take Over",
+        "overview": "Alex Jones exposes the problem-reaction-solution paradigm being used to terrorize the American people into accepting a highly controlled and oppressive society. From children in public schools being trained to turn in their peers and parents, to the Army and National Guard patrolling our nation's highways, Police State: The Takeover reveals the most threatening developments of Police State control",
+        "popularity": 0.1718,
+        "poster_path": "/mt52sLcNCUsU707URt3aki4C3dW.jpg",
+        "release_date": "2000-01-01",
+        "title": "Police State II: The Take Over",
+        "video": true,
+        "vote_average": 4.625,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sYLLFcwMl8cylaCtH9kNsNGpfnO.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 682184,
+        "original_language": "en",
+        "original_title": "Money on the Street: The Making of Uncut Gems",
+        "overview": "A behind the scenes look at Uncut Gems (2019) by the Safdie Brothers with interviews from the cast and more.",
+        "popularity": 0.179,
+        "poster_path": "/b1nsHlmatQ59kTmI26dKdBkIyCa.jpg",
+        "release_date": "2020-03-10",
+        "title": "Money on the Street: The Making of Uncut Gems",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/VMobpKawnYlOSTxBNqC1kCSGXB.jpg",
+        "genre_ids": [
+          99,
+          10770
+        ],
+        "id": 301959,
+        "original_language": "en",
+        "original_title": "Interstellar: Nolan's Odyssey",
+        "overview": "A look behind the lens of Christopher Nolan's space epic.",
+        "popularity": 1.0354,
+        "poster_path": "/i4PpBcuLvdcJwIf3hkcV9QDR1iH.jpg",
+        "release_date": "2014-11-05",
+        "title": "Interstellar: Nolan's Odyssey",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 184
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 485297,
+        "original_language": "sv",
+        "original_title": "Holkmannen",
+        "overview": "A father tends to get obsessed with stuff. For a while he was all about Jujutsu. Then there was the period with macrobiotic cooking. Lately he only talks about bird houses.",
+        "popularity": 0.1611,
+        "poster_path": "/1An1MzXRrM6AihTVMwYzdIbtAmp.jpg",
+        "release_date": "2014-01-26",
+        "title": "Holkmannen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/504LmQL8T2h5treBRVWt297H4DL.jpg",
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 879650,
+        "original_language": "en",
+        "original_title": "Laboratory Greece",
+        "overview": "A journey through Greece and Europe’s past and recent history: from the Second World War to the current crisis. It is a historical documentary, a look into many stories.\r «If Democracy can be destroyed in Greece, it can be destroyed throughout Europe»\r Paul Craig Roberts",
+        "popularity": 0.2328,
+        "poster_path": "/pLtcdLDDCcuWt4pdoz3gqqwc34k.jpg",
+        "release_date": "2019-12-08",
+        "title": "Laboratory Greece",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ggj8X2tPmJKYhkUvhxn3cqYsIjc.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 878459,
+        "original_language": "en",
+        "original_title": "The Militiaman",
+        "overview": "In the hills of rural Pennsylvania, the leader of a local militia must prepare his men for the turbulent political landscape of 2020 while at war with his own conscience.  For over ten years, 48-year-old Iraqi War Veteran and machinist Christian Yingling has commanded a troop of private militiamen and women concerned with the government’s infringement on their constitutional rights. The group practices paramilitary drills, stockpiles food and ammo, and attends gun rights rallies in preparation for a doomsday scenario. Now that a worldwide pandemic has hit, followed by a summer of racial injustice protests and a Presidential election like no other, Christian—out of work and nearly out of money—must confront his allegiance and choose to act or not.",
+        "popularity": 0.3143,
+        "poster_path": "/3eX11fuZVj863f687IaWzNyi57j.jpg",
+        "release_date": "2021-10-01",
+        "title": "The Militiaman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1455332,
+        "original_language": "fr",
+        "original_title": "La Femme Equi-Libre",
+        "overview": "In Prince Edward Island, Josée Gallant-Gordon is reinventing mental health care through her bilingual equine therapy centre, proving that with ideas, one person can transform their community.",
+        "popularity": 0.362,
+        "poster_path": "/454cP0ww90rwzVE2d2D6UnsaGOL.jpg",
+        "release_date": "2025-04-30",
+        "title": "La Femme Equi-Libre",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nLu1gVAh19jnAmJvOyqx3ve6WcG.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 33318,
+        "original_language": "xx",
+        "original_title": "Men Boxing",
+        "overview": "Experimental film fragment made with the Edison-Dickson-Heise experimental horizontal-feed kinetograph camera and viewer, using 3/4-inch wide film.",
+        "popularity": 1.0622,
+        "poster_path": "/8sL3P7se1ErNUH3JWs6VRZs2emn.jpg",
+        "release_date": "1891-04-30",
+        "title": "Men Boxing",
+        "video": false,
+        "vote_average": 4.16,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1269983,
+        "original_language": "de",
+        "original_title": "Glückstag",
+        "overview": "Munich in summer. Pensioner Gerd roams the streets collecting empty returnable bottles. He meets the working, partying and bathing city dwellers as an open and friendly man who always has a funny saying at the ready. But not everyone seems to be well-disposed towards Gerd. Bernhard Wohlfahrter's sensitive short fiction film unobtrusively criticizes society and questions privileges.",
+        "popularity": 0.1608,
+        "poster_path": null,
+        "release_date": "2023-08-27",
+        "title": "Glückstag",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 484517,
+        "original_language": "en",
+        "original_title": "Fairless",
+        "overview": "This is the story of unsung hero Steve Fairless, a country boy who represented Australia in road cycling at the Seoul Olympics in 1988. After the games, with professional opportunities limited, Steve retired from the sport to return to dairy farming to provide for his young family. He was 26 and in physiological terms, only really just arriving at his peak.  However, the desire to compete never left him and at 50, Steve made a comeback of sorts. Within a season he was one of the best on the country for any age. Our film tracks his life, his comeback and his journey to the ultimate proving ground, the UCI World masters Championships in Slovenia. Steve is a great character, and his story is one of never letting go of a dream.",
+        "popularity": 0.1461,
+        "poster_path": "/fd3v2OGFYo4LM7SY1guc0ph2t0K.jpg",
+        "release_date": "2015-07-30",
+        "title": "Fairless",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 12339,
+    "total_results": 246775
+  }
+}

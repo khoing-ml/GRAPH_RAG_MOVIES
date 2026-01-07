@@ -4,7 +4,7 @@ from .config import Config
 
 class QdrantService:
     def __init__(self):
-        # Kết nối tới Qdrant (Cloud or Local)
+        # Connect to Qdrant (Cloud or Local)
         if Config.QDRANT_API_KEY:
             # Cloud configuration with API key
             self.client = QdrantClient(
@@ -23,22 +23,22 @@ class QdrantService:
                 collection_name=self.collection_name,
                 vectors_config=VectorParams(size=Config.VECTOR_SIZE, distance=Distance.COSINE)
             )
-            print(f"✅ Đã tạo collection '{self.collection_name}' trong Qdrant.")
+            print(f"✅ Created collection '{self.collection_name}' in Qdrant.")
 
     def upsert_vectors(self, points):
         self.client.upsert(collection_name=self.collection_name, points=points)
 
     def search(self, vector, top_k=3):
         try:
-            # Cách 1: Dùng hàm search tiêu chuẩn
+            # Method 1: Use standard search function
             return self.client.search(
                 collection_name=self.collection_name,
                 query_vector=vector,
                 limit=top_k
             )
         except AttributeError:
-            # Cách 2: Fallback nếu thư viện phiên bản lạ (dùng query_points)
-            # print("⚠️ Đang dùng fallback query_points...")
+            # Method 2: Fallback for unusual library versions (use query_points)
+            # print("⚠️ Using fallback query_points...")
             results = self.client.query_points(
                 collection_name=self.collection_name,
                 query=vector,

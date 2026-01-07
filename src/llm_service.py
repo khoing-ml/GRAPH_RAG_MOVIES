@@ -1,4 +1,5 @@
 import google.generativeai as genai
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from .config import Config
 import time
 import random
@@ -6,12 +7,20 @@ import random
 class GeminiService:
     def __init__(self):
         if not Config.GOOGLE_API_KEY:
-            raise ValueError("Chưa cấu hình GOOGLE_API_KEY trong file .env")
+            raise ValueError("GOOGLE_API_KEY is not configured in .env file")
         genai.configure(api_key=Config.GOOGLE_API_KEY)
         self.model = genai.GenerativeModel(Config.CHAT_MODEL)
+        
+        # Simple safety settings for movie content (no complex handling)
+        self.safety_settings = {
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+        }
 
     def get_embedding(self, text, task_type="retrieval_document"):
-        # Thử tối đa 5 lần nếu gặp lỗi
+        # Try up to 5 times if error occurs
         retries = 5
         for attempt in range(retries):
             try:
@@ -25,32 +34,45 @@ class GeminiService:
                 error_msg = str(e)
                 if "429" in error_msg or "quota" in error_msg.lower():
                     wait_time = 20 + random.randint(1, 5) 
-                    print(f"\n⚠️ Hết quota (429). Đang đợi {wait_time}s để hồi phục...")
+                    print(f"\n⚠️ Quota exceeded (429). Waiting {wait_time}s to recover...")
                     time.sleep(wait_time)
                 else:
-                    print(f"⚠️ Lỗi khác: {e}. Thử lại sau 2s...")
+                    print(f"⚠️ Other error: {e}. Retrying in 2s...")
                     time.sleep(2)
         
-        print("❌ Đã thử nhiều lần nhưng thất bại.")
+        print("❌ Failed after multiple retries.")
         return None
 
     def generate_answer(self, context, question, context_provided=True, ask_followups=False, chat_history=None):
-        # Cũng thêm retry cho phần chat
-        for _ in range(3):
+        # Retry with safety handling
+        max_retries = 3
+        for attempt in range(max_retries):
             try:
-                # Build a clearer prompt that discourages echoing raw DB records
+                # Build GROUNDED prompt - minimize hallucination
                 if context_provided and context:
-                    context_block = f"Available Information:\n{context}\n"
+                    context_block = f"🎬 Retrieved Movie Information:\n{context}\n"
                     context_note = (
-                        "Weave database information naturally into your answer. "
-                        "Use specific details (titles, years, directors, genres) to support your recommendations. "
-                        "Do NOT start with 'Based on the database...' or list raw records."
+                        "**CRITICAL ANTI-HALLUCINATION RULES:**\n"
+                        "1. PRIMARY SOURCE: Use ONLY information from the Retrieved Movie Information above\n"
+                        "2. FACTUAL ACCURACY: Every specific detail (dates, names, plots) MUST come from provided context\n"
+                        "3. NO SPECULATION: Do not add information not present in context (release dates, cast, plot details)\n"
+                        "4. IF UNCERTAIN: Say 'Based on available information...' or admit when information is incomplete\n"
+                        "5. CITATIONS: When mentioning specifics, they must be verifiable from context\n"
+                        "6. GENERAL KNOWLEDGE: Only use for broad film concepts (genres, styles) - NOT specific film facts\n\n"
+                        "✅ ALLOWED: 'This is an action movie' (genre classification from context)\n"
+                        "❌ FORBIDDEN: 'Releases in December 2025' (unless explicitly in context)\n"
+                        "❌ FORBIDDEN: 'James Cameron promised...' (unless quote in context)\n"
+                        "❌ FORBIDDEN: 'Oona Chaplin stars in it' (unless listed in context cast)"
                     )
                 else:
                     context_block = ""
                     context_note = (
-                        "No specific matches were found. Answer thoughtfully from your knowledge of cinema, "
-                        "drawing on classic examples and established film wisdom."
+                        "**NO CONTEXT MODE:**\n"
+                        "No specific movie information was retrieved. You can provide:\n"
+                        "- General film recommendations (common knowledge films)\n"
+                        "- Genre definitions and characteristics\n"
+                        "- BUT: Be honest that you don't have specific database details\n"
+                        "- Say: 'I couldn't find specific information, but I can suggest...'"
                     )
 
                 # Format conversation history for context
@@ -69,64 +91,105 @@ class GeminiService:
                     if history_lines:
                         history_block = "Recent conversation:\n" + "\n".join(history_lines) + "\n\n"
 
-                # Few-shot examples to set tone (Gemini-style)
+                # Few-shot examples showing hybrid knowledge usage
+                # Few-shot examples showing GROUNDED responses
                 examples = """
-Example 1:
-Q: "Phim hay về tình yêu và cuộc sống?"
-A: "Mình gợi ý *Before Sunrise* (1995) của Richard Linklater — một bộ phim đẹp lắm, theo dõi cặp đôi trẻ từ Vienna đến buổi sáng hôm sau. Vì sao nên xem:
-- Thoại thiên tài, thẫm sâu về tình yêu và khoảnh khắc quý giá
-- Kỹ xảo điện ảnh tinh tế; đạo diễn nổi tiếng với cách kể chuyện nhân vật
-- Hoàn hảo nếu bạn thích những câu chuyện yên tĩnh, sâu sắc"
+Example 1 (GROUNDED - using context facts only):
+Retrieved Context: "Title: Titanic. Year: 1997. Director: James Cameron. Overview: Epic romance and disaster on the Titanic ship in 1912..."
+Q: "When was Titanic released?"
+A: "Titanic was released in 1997, directed by James Cameron. The film tells the tragic love story of Jack and Rose during the 1912 Titanic disaster."
 
-Example 2:
-Q: "Muốn xem phim hành động mạnh mẽ"
-A: "Hãy thử *Mad Max: Fury Road* (2015) — một kiệt tác hành động hiện đại. Đây là lý do:
-- Hành động ngoạn mục, cảnh quay liên tục không dừng trong 120 phút
-- Đạo diễn George Miller tạo nên những cảnh quay không quên
-- Phù hợp nếu bạn muốn hình ảnh đẹp, âm thanh mạnh, ít thoại nhiều hành động"
+Example 2 (HONEST when info missing):
+Retrieved Context: "Title: Avatar: Fire and Ash. Overview: The Sully family explores the Ash People tribe..."
+Q: "When does Avatar Fire and Ash come out?"
+A: "Based on available information, *Avatar: Fire and Ash* is the third film in the Avatar series, focusing on the Ash People tribe. However, I couldn't find the exact release date in the data. You can check IMDB or the official page for the precise release date."
+
+Example 3 (AVOID speculation):
+Retrieved Context: "Title: Inception. Director: Christopher Nolan. Cast: Leonardo DiCaprio, Tom Hardy..."
+Q: "Is there a sequel to Inception?"
+A: "Based on available information about *Inception* (2010), the film was directed by Christopher Nolan starring Leonardo DiCaprio and Tom Hardy. I don't see any information about a sequel in the data. To date, Inception remains a standalone film."
+
+Example 4 (GENERAL recommendation - allowed):
+Retrieved Context: [No specific match]
+Q: "Good romantic movies?"
+A: "I couldn't find specific information, but I can suggest some classic romance films:
+- *Before Sunrise* (1995) - Richard Linklater
+- *Eternal Sunshine of the Spotless Mind* (2004) - Michel Gondry  
+- *La La Land* (2016) - Damien Chazelle
+
+These are well-known romance films with emotional depth. You can search for them to learn more details!"
+
+Example 5 (STICK TO CONTEXT):
+Retrieved Context: "Title: The Dark Knight. Year: 2008. Cast: Christian Bale (Batman), Heath Ledger (Joker)..."
+Q: "Did The Dark Knight win Oscars?"
+A: "Based on available information, *The Dark Knight* (2008) stars Christian Bale and Heath Ledger. Regarding Oscar awards, I don't see specific information in the data.
+
+(Note: In reality Heath Ledger won Best Supporting Actor Oscar, but this info isn't in context so we don't mention it)"
 """
 
-                prompt = f"""You are a refined, knowledgeable Vietnamese film expert who speaks naturally and engagingly about cinema.
+                prompt = f"""You are a GROUNDED film assistant. Your primary goal is FACTUAL ACCURACY.
 
 Your personality:
-- Conversational and warm, like chatting with a film enthusiast
-- Draw on deep knowledge of cinema history, directors, and genres
-- Build naturally on previous points in the conversation
-- Share nuanced opinions, not just facts
-- Use vivid, descriptive language to paint a picture of films
+- Honest and careful with facts
+- Use ONLY information from provided context for specific details
+- Admit when you don't have complete information
+- Friendly but prioritize accuracy over confidence
+- Always respond in English
 
 {history_block}
-Available movie information:
 {context_block}
 
 User's question: {question}
 
-Guidelines for your response:
-1. **Open authentically**: Start with a natural thought or direct recommendation—no "Based on the database..." or formal preamble
-2. **Be specific and detailed**:
-   - Include titles, release years, and director names
-   - Explain *why* a film matches the request with concrete details (tone, themes, cinematography, performances)
-   - Reference cast, cinematography, or soundtrack if relevant
-3. **Structure naturally**:
-   - Lead with your main recommendation or insight
-   - Follow with 2–3 reasons why it fits, using specific examples
-   - Suggest 2–3 related films (title + 1–2 sentence reason each)
-4. **Stay conversational**:
-   - Use connecting phrases like "What makes it special...", "You'll appreciate...", "The beauty of..."
-   - Don't sound like a database; sound like someone passionate about films
-   - If no database match exists, draw from your film knowledge confidently
-5. **Length**: Aim for 200–350 words—enough for depth, not overwhelming
-6. **Language**: Use Vietnamese naturally with film terminology where appropriate
+{context_note}
+
+Guidelines for GROUNDED response:
+1. **Factual Discipline**:
+   - Specific facts (dates, names, plots) → MUST be in context
+   - If not in context → Say "I couldn't find information about..." or "Based on available data..."
+   - Never fabricate release dates, cast members, or plot details
+   
+2. **What you CAN use from general knowledge**:
+   - Genre definitions (e.g., "Action movies typically have...")
+   - Film theory concepts (e.g., "Cinematography is...")
+   - Common film recommendations (widely known classics)
+   
+3. **What you MUST NOT invent**:
+   - Release dates for specific films
+   - Cast and crew details
+   - Plot specifics or quotes
+   - Award wins or nominations
+   - Production details or budgets
+
+4. **Response structure**:
+   - Lead with facts from context
+   - Clearly indicate when extrapolating: "Based on the information..."
+   - If missing info: "I couldn't find information about [X] in the data"
+   - End with helpful suggestion if needed
 
 {examples}
 
-{context_note}
+Now answer the user's question following these ANTI-HALLUCINATION rules strictly.
 
-Now answer the user's question with enthusiasm and thoughtfulness:"""
+Response (in English, grounded in provided context):"""
                 
-                response = self.model.generate_content(prompt)
+                # LOWER temperature for less creativity = less hallucination
+                generation_config = genai.types.GenerationConfig(
+                    temperature=0.3,  # ⚡ Giảm từ default (0.7) xuống 0.3
+                    top_p=0.8,        # Giảm diversity
+                    top_k=20,         # Giảm candidate pool
+                    max_output_tokens=2048,  # Increased from 800 for complete answers
+                )
+                
+                response = self.model.generate_content(
+                    prompt,
+                    generation_config=generation_config,
+                    safety_settings=self.safety_settings
+                )
+                
                 return response.text.strip()
+                    
             except Exception as e:
-                print(f"⚠️ Lỗi khi chat: {e}. Đợi 5s...")
+                print(f"⚠️ Error during chat: {e}. Waiting 5s...")
                 time.sleep(5)
-        return "Xin lỗi, hệ thống đang quá tải, vui lòng thử lại sau."
+        return "Sorry, the system is currently overloaded. Please try again later."

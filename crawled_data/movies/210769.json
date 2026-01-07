@@ -1,0 +1,618 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/ArP25Ydyg59UmDwzZgxxSXEdC1E.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "homepage": "",
+    "id": 210769,
+    "imdb_id": "tt3043386",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Scooby-Doo! Adventures: The Mystery Map",
+    "overview": "When Shaggy and Scooby find a mysterious pirate's treasure map in their triple-extra-large Scooby snack pizza, the whole Mystery Inc. gang sets out from their treehouse to find the lost booty of Gnarlybeard and the Phantom Parrot, encountering some suspicious individuals along the way who are also involved in the hunt. The tale is told in brand-new way to see the Scooby-Doo series: entirely through puppets!  Pilot for unproduced puppet series based on \"A Pup Named Scooby-Doo\", released direct-to-DVD.",
+    "popularity": 1.1088,
+    "poster_path": "/pulFY8KAuF6BiySNkVHgAN7cI0H.jpg",
+    "production_companies": [
+      {
+        "id": 1353,
+        "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+        "name": "Hanna-Barbera Cartoons",
+        "origin_country": "US"
+      },
+      {
+        "id": 2785,
+        "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+        "name": "Warner Bros. Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 107436,
+        "logo_path": "/6E4OpqnTz6nZEuIAPeuf95OQhxY.png",
+        "name": "Spiffy Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-07-21",
+    "revenue": 0,
+    "runtime": 42,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Scooby-Doo! Adventures: The Mystery Map",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 101
+  },
+  "credits": {
+    "id": 210769,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15831,
+        "known_for_department": "Acting",
+        "name": "Frank Welker",
+        "original_name": "Frank Welker",
+        "popularity": 2.8971,
+        "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg",
+        "cast_id": 2,
+        "character": "Fred Jones / Scooby-Doo (voice)",
+        "credit_id": "52fe4d84c3a368484e1ed791",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 196825,
+        "known_for_department": "Acting",
+        "name": "Stephanie D'Abruzzo",
+        "original_name": "Stephanie D'Abruzzo",
+        "popularity": 0.4184,
+        "profile_path": "/itU46YDRtGk4SCghM3Ai1SjeCrW.jpg",
+        "cast_id": 11,
+        "character": "Velma Dinkley / Shirley Stukowski (voice)",
+        "credit_id": "614d43855346610088fc6aad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 2.6891,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 5,
+        "character": "Daphne Blake / Dr. Escobar (voice)",
+        "credit_id": "52fe4d84c3a368484e1ed79d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26457,
+        "known_for_department": "Acting",
+        "name": "Matthew Lillard",
+        "original_name": "Matthew Lillard",
+        "popularity": 5.129,
+        "profile_path": "/auUbijDzR9xpSgQtLsYDvNatloj.jpg",
+        "cast_id": 7,
+        "character": "Shaggy Rogers (voice)",
+        "credit_id": "5ed4b05b528b2e00206f7c22",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 655,
+        "known_for_department": "Acting",
+        "name": "John Rhys-Davies",
+        "original_name": "John Rhys-Davies",
+        "popularity": 3.2089,
+        "profile_path": "/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg",
+        "cast_id": 12,
+        "character": "Gnarlybeard (voice)",
+        "credit_id": "614d43be326ec1008fcee057",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 2.4139,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 13,
+        "character": "Ye Phantom Parrot / Stu Stukowski (voice)",
+        "credit_id": "614d43d388c6590090245d07",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34982,
+        "known_for_department": "Acting",
+        "name": "Jeff Bennett",
+        "original_name": "Jeff Bennett",
+        "popularity": 2.2371,
+        "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg",
+        "cast_id": 8,
+        "character": "Lighthouse Lou / Hot Dog Vendor (voice)",
+        "credit_id": "5ed4b07cc4f552001fbe1112",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 192632,
+        "known_for_department": "Acting",
+        "name": "David Rudman",
+        "original_name": "David Rudman",
+        "popularity": 0.5544,
+        "profile_path": "/lHk21OS9k5aeACDSYJFBaJgMrCP.jpg",
+        "credit_id": "678961d7e98081f582979072",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2101336,
+        "known_for_department": "Creator",
+        "name": "Adam Rudman",
+        "original_name": "Adam Rudman",
+        "popularity": 0.3294,
+        "profile_path": null,
+        "credit_id": "678961e6e98081f582979080",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 210769,
+    "keywords": [
+      {
+        "id": 6300,
+        "name": "puppet"
+      },
+      {
+        "id": 9713,
+        "name": "friends"
+      },
+      {
+        "id": 11691,
+        "name": "puppetry"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 99,
+        "original_language": "es",
+        "original_title": "Todo sobre mi madre",
+        "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+        "popularity": 2.3785,
+        "poster_path": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+        "release_date": "1999-04-16",
+        "title": "All About My Mother",
+        "video": false,
+        "vote_average": 7.63,
+        "vote_count": 2001
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1236308,
+        "original_language": "te",
+        "original_title": "The Trip",
+        "overview": "A Gang of Four. Plan for a Trip. What next?",
+        "popularity": 0.2683,
+        "poster_path": "/uSlJlfIt3IMLbhw6z8hSxDxHKK5.jpg",
+        "release_date": "2023-08-19",
+        "title": "The Trip",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zZ6I4kmBSKcA3r4LcvP1ya4Vkmh.jpg",
+        "genre_ids": [
+          18,
+          12,
+          9648
+        ],
+        "id": 1956,
+        "original_language": "en",
+        "original_title": "Gerry",
+        "overview": "Two friends named Gerry become lost in the desert after taking a wrong turn. Their attempts to find their way home only lead them into further trouble.",
+        "popularity": 1.1719,
+        "poster_path": "/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg",
+        "release_date": "2002-09-20",
+        "title": "Gerry",
+        "video": false,
+        "vote_average": 6.068,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z9y41Biv1isRtErpt7Ecv01ru0W.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 10776,
+        "original_language": "en",
+        "original_title": "Little Shop of Horrors",
+        "overview": "Seymour Krelborn is a nerdy orphan working at Mushnik's; a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for it’s supper.",
+        "popularity": 4.1008,
+        "poster_path": "/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+        "release_date": "1986-12-19",
+        "title": "Little Shop of Horrors",
+        "video": false,
+        "vote_average": 6.964,
+        "vote_count": 1572
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 1244492,
+        "original_language": "ja",
+        "original_title": "ルックバック",
+        "overview": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+        "popularity": 8.4296,
+        "poster_path": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg",
+        "release_date": "2024-06-28",
+        "title": "Look Back",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 454
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AMIePD4fctX05pmtpAet6YieSO.jpg",
+        "genre_ids": [
+          35,
+          12
+        ],
+        "id": 1434813,
+        "original_language": "es",
+        "original_title": "SE ROBA",
+        "overview": "",
+        "popularity": 0.1675,
+        "poster_path": "/g66izPSuEzimJtGAhQOXZW9gRvf.jpg",
+        "release_date": "2025-02-16",
+        "title": "SE ROBA",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9kCmylaWVraUPuUYjegyrC2JkiW.jpg",
+        "genre_ids": [
+          35,
+          18,
+          80,
+          53
+        ],
+        "id": 1415,
+        "original_language": "en",
+        "original_title": "Party Monster",
+        "overview": "The New York club scene of the 80s and 90s was a world like no other. Into this candy-colored, mirror ball playground stepped Michael Alig, a wannabe from nowhere special. Under the watchful eye of veteran club kid James St. James, Alig quickly rose to the top... and there was no place to go but down.",
+        "popularity": 4.439,
+        "poster_path": "/4DVWGtV1OA3W8kZxiimdNsepS6O.jpg",
+        "release_date": "2003-09-05",
+        "title": "Party Monster",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 190
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ikaRI4yMxKOje5SmOlAhOBUnicL.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 270303,
+        "original_language": "en",
+        "original_title": "It Follows",
+        "overview": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+        "popularity": 10.431,
+        "poster_path": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+        "release_date": "2015-02-04",
+        "title": "It Follows",
+        "video": false,
+        "vote_average": 6.588,
+        "vote_count": 6740
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/splQED8WZ5M5OEqDCwZYAAtguZe.jpg",
+        "genre_ids": [
+          12,
+          28,
+          35
+        ],
+        "id": 3989,
+        "original_language": "en",
+        "original_title": "Team America: World Police",
+        "overview": "When North Korean ruler Kim Jong-il orchestrates a global terrorist plot, it's up to the heavily armed, highly specialized Team America unit to stop his dastardly scheme. The group, which has recruited troubled Broadway actor Gary Johnston, not only has to face off against Jong-il, but they must also contend with the Film Actors Guild, a cadre of Hollywood liberals at odds with Team America's 'policing the world' tactics.",
+        "popularity": 2.6541,
+        "poster_path": "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg",
+        "release_date": "2004-10-10",
+        "title": "Team America: World Police",
+        "video": false,
+        "vote_average": 6.731,
+        "vote_count": 1981
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1JKSJdfsEzCQBWcsxxwhsCZNmUf.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 272579,
+        "original_language": "en",
+        "original_title": "Keith & Heath",
+        "overview": "A story of two identical twins that are the best of friends...and puppets.",
+        "popularity": 3.1364,
+        "poster_path": "/60cgnECnWF1xbVJfaDPxTGKu4m1.jpg",
+        "release_date": "2014-05-20",
+        "title": "Keith & Heath",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10751
+        ],
+        "id": 1044750,
+        "original_language": "en",
+        "original_title": "Danny's Dental Date",
+        "overview": "Danny is having some anxiety about his upcoming dentist appointment, culminating in an educational nightmare in which he is a wooden marionette and lectured by animals about his teeth.",
+        "popularity": 0.3821,
+        "poster_path": "/yURzxiiVpivtCdTqeRh5AkpM18C.jpg",
+        "release_date": "1949-01-01",
+        "title": "Danny's Dental Date",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/obyTky0YfkbKVzWyjnbcwb8YGKL.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 4376,
+        "original_language": "en",
+        "original_title": "Dallas Doll",
+        "overview": "Dallas, an American golf tutor, arrives in a quiet Sydney suburb to teach at the local school and sets about causing chaos with the family she stays with.",
+        "popularity": 4.461,
+        "poster_path": "/aOlcjplqRkdUvquiZCo73cBfD5F.jpg",
+        "release_date": "1994-11-03",
+        "title": "Dallas Doll",
+        "video": false,
+        "vote_average": 3.286,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j7iQPc70Ox3Y8kxFbh0qE8psP97.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 4516,
+        "original_language": "fr",
+        "original_title": "Mon meilleur ami",
+        "overview": "Catherine refuses to believe that her business partner, the unlikeable François, has a best friend, so she challenges him to set up an introduction. Scrambling to find someone willing to pose as his best pal, François enlists the services of a charming taxi driver to play the part.",
+        "popularity": 1.1377,
+        "poster_path": "/hPqtG8L5fj9PUlW7Gldb218FyIc.jpg",
+        "release_date": "2006-12-06",
+        "title": "My Best Friend",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 240
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k4w45fpj9fyi5oGGFEaeUMxVKSw.jpg",
+        "genre_ids": [
+          35,
+          14,
+          878,
+          10751,
+          9648
+        ],
+        "id": 2265,
+        "original_language": "de",
+        "original_title": "Momo",
+        "overview": "Momo is a young orphan girl who lives in the ruins of an old Roman amphitheater and becomes friends with everybody in the neighborhood. But when a powerful international corporation starts stealing everybody’s time, nobody has any time left for her, let alone their friends or families. Momo, together with Master Hora, the custodian of time, are the only ones who can go up against the time thieves before all is lost forever.",
+        "popularity": 3.5079,
+        "poster_path": "/wth0MTgrfuekyrXxM0d6DjoTV7X.jpg",
+        "release_date": "1986-07-16",
+        "title": "Momo",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 73
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uUG9jtLft9FDkIyfcR9KclY5Kuu.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35
+        ],
+        "id": 2284,
+        "original_language": "en",
+        "original_title": "Mr. Magorium's Wonder Emporium",
+        "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium—the strangest, most fantastic and most wonderful toy store in the world. After Mr. Magorium bequeaths the store to her, a dark and ominous change begins to take over the once-remarkable Emporium.",
+        "popularity": 4.7778,
+        "poster_path": "/rdFgWATSVhhFtNYZUFsGcHzltcG.jpg",
+        "release_date": "2007-11-16",
+        "title": "Mr. Magorium's Wonder Emporium",
+        "video": false,
+        "vote_average": 6.247,
+        "vote_count": 1289
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 274480,
+        "original_language": "en",
+        "original_title": "Among Ravens",
+        "overview": "The story of a group of friends who reunite for their annual 4th of July weekend only to be confronted by Chad, a strange and beautiful nature photographer who begins to change their lives one by one.",
+        "popularity": 0.366,
+        "poster_path": "/ea3PsLRqdjZ5DT6rrghDAn7JKUJ.jpg",
+        "release_date": "2014-07-18",
+        "title": "Among Ravens",
+        "video": false,
+        "vote_average": 4.825,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10751
+        ],
+        "id": 1239963,
+        "original_language": "en",
+        "original_title": "An Interview with the Nanalan' Stars - Gary's Backstage Pass - Special Presentation",
+        "overview": "This is Gary, interviewer of the stars! Tonight he is going backstage to one of the most celebrated television shows in history, it has delighted millions of fans across the globe with its charm and its sweetness! You've seen the Show, you've loved the magic, now live the experience in a behind the scenes look at Nanalan', only on Gary's Backstage Pass!",
+        "popularity": 0.2983,
+        "poster_path": "/gWrxPOkRR14m6FSkOcMCL5fYuPk.jpg",
+        "release_date": "2023-05-27",
+        "title": "An Interview with the Nanalan' Stars - Gary's Backstage Pass - Special Presentation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ApiidJ6mHwZzJjqmGaqs2xXCjAH.jpg",
+        "genre_ids": [
+          35,
+          53,
+          18
+        ],
+        "id": 7987,
+        "original_language": "de",
+        "original_title": "Freischwimmer",
+        "overview": "Something terrible is about to happen in a small town in Germany. Nobody knows the reason why, except one person: Rico Bartsch. The 15-year old grammar school pupil, an absolute outsider, is in love with the most beautiful girl at his school. What in the beginning is a longing that can never be fulfilled will come true at the end of the story. Beautiful Regine will beg for Rico’s love. Until then several inhabitants of the town will die an unnatural death...",
+        "popularity": 2.247,
+        "poster_path": "/wSj9HCeChwxNR7DveNow0RnPHOG.jpg",
+        "release_date": "2007-09-05",
+        "title": "Head Under Water",
+        "video": false,
+        "vote_average": 5.25,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fji432Vjgj89p0ISOJONYyfNUmy.jpg",
+        "genre_ids": [
+          35,
+          10402,
+          14
+        ],
+        "id": 8216,
+        "original_language": "en",
+        "original_title": "Meet the Feebles",
+        "overview": "Heidi, star of the \"Meet The Feebles Variety Hour\" discovers her lover Bletch the Walrus is cheating on her. And with all the world waiting for the show, the assorted co-stars must contend with drug addiction, extortion, robbery, disease, drug dealing, and murder.",
+        "popularity": 0.8827,
+        "poster_path": "/31DqGazwdE9N4Y9FHC6Q4NvstuW.jpg",
+        "release_date": "1989-08-12",
+        "title": "Meet the Feebles",
+        "video": false,
+        "vote_average": 6.322,
+        "vote_count": 306
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bKHCku8ZaxopNgZbqMSmA02oP4I.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 456691,
+        "original_language": "ml",
+        "original_title": "ഔട്ട്‌ ഓഫ് റേഞ്ച്",
+        "overview": "Jerin (Ajayaghosh), at crossroads with his stagnant love life; Subru Vishnu Unnikrishnan), fed up with his mom's argumentative nature; Sanjay (Sumith Samudra), all against his reckless job schedule; Aashiq (Askar Ali), annoyed with unending family obligations - are four friends with instability in their lives. On one decisive night, the four friends take an unusual oath, to quit using their mobile phones forever. From the next daybreak, the world around them turns upside down. Sacking, break-up, and resentment follows. After the initial chaos, they seem to enjoy the peace, ease, and all the joys. However, this is just the beginning of another story. A steely resolve for more adventure, more determination, more drama, and more blows. Will they live to tell the tale?",
+        "popularity": 0.1419,
+        "poster_path": "/omu5SbOuynk8sDwFRYZdJQkmIgw.jpg",
+        "release_date": "2016-02-19",
+        "title": "Out of Range",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 13288,
+    "total_results": 265752
+  }
+}

@@ -1,0 +1,1379 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/sDBY5oI7I5SWSMWRpsTEmSBErfe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81759420",
+    "id": 1167027,
+    "imdb_id": "tt19811010",
+    "origin_country": [
+      "NO"
+    ],
+    "original_language": "no",
+    "original_title": "Ibelin",
+    "overview": "The secret life of a young World of Warcraft gamer is vividly reimagined when his online friends contact his family after his death.",
+    "popularity": 2.311,
+    "poster_path": "/3gk2F3wrPCPzrnUM81tjVcgyWHV.jpg",
+    "production_companies": [
+      {
+        "id": 31000,
+        "logo_path": "/uxejt5KOKd0UagKkJ5jMjpZ0w5r.png",
+        "name": "Medieoperatørene",
+        "origin_country": "NO"
+      },
+      {
+        "id": 122000,
+        "logo_path": "/As9iprfSuI45ukYkBYfTl4th8R8.png",
+        "name": "VGTV",
+        "origin_country": "NO"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      }
+    ],
+    "release_date": "2024-03-08",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Remarkable Life of Ibelin",
+    "video": false,
+    "vote_average": 8.119,
+    "vote_count": 122
+  },
+  "credits": {
+    "id": 1167027,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454509,
+        "known_for_department": "Acting",
+        "name": "Mats Steen",
+        "original_name": "Mats Steen",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self (archive footage)",
+        "credit_id": "658f53967a4ee72a2883e35b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5144504,
+        "known_for_department": "Acting",
+        "name": "Robert Steen",
+        "original_name": "Robert Steen",
+        "popularity": 0.0925,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "676f44b8f9bc02e49892b376",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5144505,
+        "known_for_department": "Acting",
+        "name": "Trude Steen",
+        "original_name": "Trude Steen",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "676f44def9454eeb1d92b597",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5144506,
+        "known_for_department": "Acting",
+        "name": "Mia Steen",
+        "original_name": "Mia Steen",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "676f44ee1efc2434cf12c4e7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303364,
+        "known_for_department": "Acting",
+        "name": "Lisette Roovers",
+        "original_name": "Lisette Roovers",
+        "popularity": 0.1201,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Self",
+        "credit_id": "67d3bbe4f17459c8ff53b2fc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303366,
+        "known_for_department": "Acting",
+        "name": "Kai Simon Fredriksen",
+        "original_name": "Kai Simon Fredriksen",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Self",
+        "credit_id": "67d3bc35914de8d891027f29",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303367,
+        "known_for_department": "Acting",
+        "name": "Mikkel Riknagel Nielsen",
+        "original_name": "Mikkel Riknagel Nielsen",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Self",
+        "credit_id": "67d3bc5200c85c5a2864f591",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303368,
+        "known_for_department": "Acting",
+        "name": "Xenia-Anni Nielsen",
+        "original_name": "Xenia-Anni Nielsen",
+        "popularity": 0.3214,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Self",
+        "credit_id": "67d3bc61bf4818854c64f0eb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303369,
+        "known_for_department": "Acting",
+        "name": "Rikke Nielsen",
+        "original_name": "Rikke Nielsen",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Self (voice)",
+        "credit_id": "67d3bc81914de8d891027f43",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303370,
+        "known_for_department": "Acting",
+        "name": "Tor Bjørn Torp",
+        "original_name": "Tor Bjørn Torp",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Self (voice)",
+        "credit_id": "67d3bc8c914de8d891027f50",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303371,
+        "known_for_department": "Acting",
+        "name": "Kristian Froberg Hansen",
+        "original_name": "Kristian Froberg Hansen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Self (voice)",
+        "credit_id": "67d3bc98914de8d891027f5a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303373,
+        "known_for_department": "Acting",
+        "name": "Jenna Rissanen",
+        "original_name": "Jenna Rissanen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Self",
+        "credit_id": "67d3bd03f17459c8ff53b36b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303374,
+        "known_for_department": "Acting",
+        "name": "Leif Jacobsson",
+        "original_name": "Leif Jacobsson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Self",
+        "credit_id": "67d3bd0c62e7d2336353ad02",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303375,
+        "known_for_department": "Acting",
+        "name": "Anne Hamill",
+        "original_name": "Anne Hamill",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Self",
+        "credit_id": "67d3bd1cbf4818854c64f10d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303376,
+        "known_for_department": "Acting",
+        "name": "Ninna Wiberg",
+        "original_name": "Ninna Wiberg",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Self",
+        "credit_id": "67d3bd2c00c85c5a2864f5b1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303377,
+        "known_for_department": "Acting",
+        "name": "Kirsi Lunden",
+        "original_name": "Kirsi Lunden",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Self",
+        "credit_id": "67d3bd3f914de8d891027f83",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303382,
+        "known_for_department": "Acting",
+        "name": "Peter Skipper Hartvig Szwed",
+        "original_name": "Peter Skipper Hartvig Szwed",
+        "popularity": 0.1533,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Self",
+        "credit_id": "67d3bde1fac1630c26027cc0",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303385,
+        "known_for_department": "Acting",
+        "name": "Donna Paterson",
+        "original_name": "Donna Paterson",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Self",
+        "credit_id": "67d3be08bf4818854c64f13f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303386,
+        "known_for_department": "Acting",
+        "name": "Jarkko Sibenberg",
+        "original_name": "Jarkko Sibenberg",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Self",
+        "credit_id": "67d3be31bf4818854c64f14e",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303388,
+        "known_for_department": "Acting",
+        "name": "Gavin Stewart",
+        "original_name": "Gavin Stewart",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Self",
+        "credit_id": "67d3be3ffac1630c26027cf4",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764846,
+        "known_for_department": "Acting",
+        "name": "Thomas Stene-Johansen",
+        "original_name": "Thomas Stene-Johansen",
+        "popularity": 0.367,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Mats Steen (voice)",
+        "credit_id": "676f446eaa8f3159d612c515",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4709928,
+        "known_for_department": "Acting",
+        "name": "Ed Larkin",
+        "original_name": "Ed Larkin",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Ibelin (voice)",
+        "credit_id": "6722f1c1180b0a5ab90c3e66",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454510,
+        "known_for_department": "Acting",
+        "name": "Kelsey Ellison",
+        "original_name": "Kelsey Ellison",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Rumour / Various Voices (voice)",
+        "credit_id": "658f53a09ac53576e104f402",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4439328,
+        "known_for_department": "Acting",
+        "name": "Paul Wild",
+        "original_name": "Paul Wild",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Dragon Fighter (voice)",
+        "credit_id": "658f53cd81c7be5e877254a7",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303372,
+        "known_for_department": "Acting",
+        "name": "Andrew Mclay",
+        "original_name": "Andrew Mclay",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Friend of Ibelin (voice)",
+        "credit_id": "67d3bcef62e7d2336353acf5",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2203951,
+        "known_for_department": "Acting",
+        "name": "Zoe Croft",
+        "original_name": "Zoe Croft",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Reike (voice)",
+        "credit_id": "658f53ab7a4ee72e7d83e346",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454513,
+        "known_for_department": "Acting",
+        "name": "Elena Pitsiaeli",
+        "original_name": "Elena Pitsiaeli",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Various Voices (voice)",
+        "credit_id": "658f53d463536a5effb84244",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2902167,
+        "known_for_department": "Acting",
+        "name": "Sebastian Tjørstad",
+        "original_name": "Sebastian Tjørstad",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Nikmik (voice)",
+        "credit_id": "67d3be8f00c85c5a2864f608",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303392,
+        "known_for_department": "Acting",
+        "name": "Sophie Sexon",
+        "original_name": "Sophie Sexon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Various Voices (voice)",
+        "credit_id": "67d3be8200c85c5a2864f601",
+        "order": 28
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480225,
+        "known_for_department": "Directing",
+        "name": "Benjamin Ree",
+        "original_name": "Benjamin Ree",
+        "popularity": 0.6494,
+        "profile_path": "/rvoBqEhlHAYWpdgBkmpd1JHItsx.jpg",
+        "credit_id": "64e0d9f6b77d4b114260304e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170935,
+        "known_for_department": "Sound",
+        "name": "Uno Helmersson",
+        "original_name": "Uno Helmersson",
+        "popularity": 0.8311,
+        "profile_path": "/Nsze0QKqKizK1A8P3UZqn7n0PD.jpg",
+        "credit_id": "658f52c181c7be5ede72499c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047645,
+        "known_for_department": "Sound",
+        "name": "Tornike Dzidzikashvili",
+        "original_name": "Tornike Dzidzikashvili",
+        "popularity": 0.3777,
+        "profile_path": null,
+        "credit_id": "658f5342d5191f68ef27102a",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454507,
+        "known_for_department": "Camera",
+        "name": "Rasmus Tukia",
+        "original_name": "Rasmus Tukia",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "658f52ddd861af5e0bac2cfb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1807633,
+        "known_for_department": "Production",
+        "name": "Ingvil Giske",
+        "original_name": "Ingvil Giske",
+        "popularity": 0.1052,
+        "profile_path": "/eb1DxRE7ON12kFi7y6lBFWiVWFg.jpg",
+        "credit_id": "658f52740e5aba71e48642a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4104835,
+        "known_for_department": "Sound",
+        "name": "Dachi Abesalashvili",
+        "original_name": "Dachi Abesalashvili",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "658f5309d363e5522b09a536",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1685687,
+        "known_for_department": "Editing",
+        "name": "Robert Stengård",
+        "original_name": "Robert Stengård",
+        "popularity": 0.1375,
+        "profile_path": null,
+        "credit_id": "658f52b00e5aba7311863400",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3161664,
+        "known_for_department": "Sound",
+        "name": "Alexander Sanikidze",
+        "original_name": "Alexander Sanikidze",
+        "popularity": 0.1153,
+        "profile_path": null,
+        "credit_id": "658f535c9f1be722bf80cbfd",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454506,
+        "known_for_department": "Production",
+        "name": "Hans Andreas Fay",
+        "original_name": "Hans Andreas Fay",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "658f5296efcea9018ef9e4d3",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421512,
+        "known_for_department": "Camera",
+        "name": "Tore Vollan",
+        "original_name": "Tore Vollan",
+        "popularity": 0.1978,
+        "profile_path": "/sZfrZ7JV0f3mTYTyImDQxBAmIZR.jpg",
+        "credit_id": "658f52e67a4ee72a2883e349",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047646,
+        "known_for_department": "Sound",
+        "name": "Luka Kasrelishvili",
+        "original_name": "Luka Kasrelishvili",
+        "popularity": 1.562,
+        "profile_path": null,
+        "credit_id": "658f534a63536a5ea6b84a23",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4051694,
+        "known_for_department": "Sound",
+        "name": "Salome Maisuradze",
+        "original_name": "Salome Maisuradze",
+        "popularity": 0.6269,
+        "profile_path": null,
+        "credit_id": "658f53530d2f535cced3e3ba",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2502415,
+        "known_for_department": "Sound",
+        "name": "Joakim Bjerknæs",
+        "original_name": "Joakim Bjerknæs",
+        "popularity": 0.1261,
+        "profile_path": null,
+        "credit_id": "658f52f3d5191f6946270d83",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4624120,
+        "known_for_department": "Visual Effects",
+        "name": "Ada Wikdahl",
+        "original_name": "Ada Wikdahl",
+        "popularity": 0.1018,
+        "profile_path": null,
+        "credit_id": "6607dff7d5191f014b2fe3e9",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454509,
+        "known_for_department": "Acting",
+        "name": "Mats Steen",
+        "original_name": "Mats Steen",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "6725b4426df81f4f495780a6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074723,
+        "known_for_department": "Directing",
+        "name": "Hanne Myren",
+        "original_name": "Hanne Myren",
+        "popularity": 0.0607,
+        "profile_path": "/aDyMbd7zUbTuyorx4e7fXeAeolC.jpg",
+        "credit_id": "67d3b9bffac1630c26027c2b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1923426,
+        "known_for_department": "Production",
+        "name": "Mari Monrad Vistven",
+        "original_name": "Mari Monrad Vistven",
+        "popularity": 0.5283,
+        "profile_path": "/98up3RcKJ82vqqZt4CUMWf5t80S.jpg",
+        "credit_id": "67d3b9def17459c8ff53b284",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303357,
+        "known_for_department": "Production",
+        "name": "Maria Hustad",
+        "original_name": "Maria Hustad",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d3b9fabf4818854c64f095",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2502415,
+        "known_for_department": "Sound",
+        "name": "Joakim Bjerknæs",
+        "original_name": "Joakim Bjerknæs",
+        "popularity": 0.1261,
+        "profile_path": null,
+        "credit_id": "67d3ba20f17459c8ff53b2a5",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2388769,
+        "known_for_department": "Sound",
+        "name": "Ronny Furevik",
+        "original_name": "Ronny Furevik",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "67d3ba50bf4818854c64f0c5",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4498036,
+        "known_for_department": "Production",
+        "name": "Kine Kvernvik",
+        "original_name": "Kine Kvernvik",
+        "popularity": 0.2296,
+        "profile_path": null,
+        "credit_id": "67d3ba6ea2b18dbedd64e7ef",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2226792,
+        "known_for_department": "Sound",
+        "name": "Andreas L. Svensson",
+        "original_name": "Andreas L. Svensson",
+        "popularity": 0.0702,
+        "profile_path": null,
+        "credit_id": "67d3ba7cbf4818854c64f0d2",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303359,
+        "known_for_department": "Sound",
+        "name": "Laurence Pearson",
+        "original_name": "Laurence Pearson",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d3ba9e914de8d891027ec1",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2108193,
+        "known_for_department": "Sound",
+        "name": "Mats Lid Støten",
+        "original_name": "Mats Lid Støten",
+        "popularity": 0.301,
+        "profile_path": "/tktPXbozmNO1elCtJSY06WyeYBh.jpg",
+        "credit_id": "67d3bab6914de8d891027ed4",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 980271,
+        "known_for_department": "Sound",
+        "name": "Gisle Tveito",
+        "original_name": "Gisle Tveito",
+        "popularity": 0.9821,
+        "profile_path": "/sfjQwHtcFunP7FOw5M0Ot5hRJFY.jpg",
+        "credit_id": "67d3bac2ec4ebd28a253b35b",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 980271,
+        "known_for_department": "Sound",
+        "name": "Gisle Tveito",
+        "original_name": "Gisle Tveito",
+        "popularity": 0.9821,
+        "profile_path": "/sfjQwHtcFunP7FOw5M0Ot5hRJFY.jpg",
+        "credit_id": "67d3bacaf17459c8ff53b2b6",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635806,
+        "known_for_department": "Sound",
+        "name": "Fredric Vogel",
+        "original_name": "Fredric Vogel",
+        "popularity": 0.7912,
+        "profile_path": "/ptaCsALQsEwkcMEeuuwJcLs9kSL.jpg",
+        "credit_id": "67d3bad900c85c5a2864f548",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63751,
+        "known_for_department": "Production",
+        "name": "Celine Engebrigtsen",
+        "original_name": "Celine Engebrigtsen",
+        "popularity": 0.2684,
+        "profile_path": "/soEzh6VhQnfNbIsUEl2eXbRqP5.jpg",
+        "credit_id": "67d3bb29fac1630c26027c50",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303357,
+        "known_for_department": "Production",
+        "name": "Maria Hustad",
+        "original_name": "Maria Hustad",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d3bb35fac1630c26027c56",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5303362,
+        "known_for_department": "Editing",
+        "name": "Arash Ebrahimi",
+        "original_name": "Arash Ebrahimi",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d3bb48f17459c8ff53b2dd",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349438,
+        "known_for_department": "Visual Effects",
+        "name": "Tom Christer Lilletvedt",
+        "original_name": "Tom Christer Lilletvedt",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "67d3bb57fac1630c26027c6c",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480225,
+        "known_for_department": "Directing",
+        "name": "Benjamin Ree",
+        "original_name": "Benjamin Ree",
+        "popularity": 0.6494,
+        "profile_path": "/rvoBqEhlHAYWpdgBkmpd1JHItsx.jpg",
+        "credit_id": "67d3bb63ec4ebd28a253b368",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1480001,
+        "known_for_department": "Acting",
+        "name": "Bjørn Vegard Straumsnes",
+        "original_name": "Bjørn Vegard Straumsnes",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "67d3bb74f17459c8ff53b2e5",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454507,
+        "known_for_department": "Camera",
+        "name": "Rasmus Tukia",
+        "original_name": "Rasmus Tukia",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67d3bb82f17459c8ff53b2e8",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4454507,
+        "known_for_department": "Camera",
+        "name": "Rasmus Tukia",
+        "original_name": "Rasmus Tukia",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67d3bb9cec4ebd28a253b373",
+        "department": "Visual Effects",
+        "job": "3D Animator"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1167027,
+    "keywords": [
+      {
+        "id": 10439,
+        "name": "gamer"
+      },
+      {
+        "id": 10442,
+        "name": "world of warcraft"
+      },
+      {
+        "id": 193415,
+        "name": "testify"
+      },
+      {
+        "id": 204134,
+        "name": "human interest"
+      },
+      {
+        "id": 249840,
+        "name": "pc gaming"
+      },
+      {
+        "id": 287476,
+        "name": "heartfelt"
+      },
+      {
+        "id": 292593,
+        "name": "intimate"
+      },
+      {
+        "id": 295812,
+        "name": "testimony"
+      },
+      {
+        "id": 324087,
+        "name": "pc games"
+      },
+      {
+        "id": 325795,
+        "name": "dignified"
+      },
+      {
+        "id": 326503,
+        "name": "tech"
+      },
+      {
+        "id": 334592,
+        "name": "game footage"
+      },
+      {
+        "id": 338903,
+        "name": "gamer documentary"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8zenuktACzpDLqWxfHgGJurWIA.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 467665,
+        "original_language": "my",
+        "original_title": "血琥珀",
+        "overview": "Somewhere in Myanmar is a forest rich in amber and controlled by the Kachin Independence Army (KIA). Most of its inhabitants work in a mine, digging the earth night and days in the hope of finding the precious ore that will get them out of poverty. But on top of the excruciating hardship of the work, they also have to fear an attack from the army.",
+        "popularity": 0.1567,
+        "poster_path": "/ipzsAF0Jy9Fy4yYCOxBjX0R6Jxe.jpg",
+        "release_date": "2017-08-23",
+        "title": "Blood Amber",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8J0gmuwmq8z7TI4YuWDTclHoB75.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1058647,
+        "original_language": "en",
+        "original_title": "The Deepest Breath",
+        "overview": "Bonded by their love of freediving, a record-setting champion and a heroic safety diver try to make history with a remarkable feat, ready to risk it all.",
+        "popularity": 1.9274,
+        "poster_path": "/4gKAn4npGEBi0HZAbwFZ77reLBR.jpg",
+        "release_date": "2023-01-21",
+        "title": "The Deepest Breath",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 168
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aTZSKUTk76AixSdClXUb2qC8ZEV.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1058688,
+        "original_language": "et",
+        "original_title": "Savvusanna sõsarad",
+        "overview": "Women share their innermost secrets and intimate experiences inside an Estonian smoke sauna. Cleansing their bodies and baring their souls, they embrace the healing power of sisterhood.",
+        "popularity": 2.1828,
+        "poster_path": "/uUs4e9S0Z5VaVgZH25wnEzKC5ty.jpg",
+        "release_date": "2023-03-21",
+        "title": "Smoke Sauna Sisterhood",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQiXDEzfU8pydakr5yZ01bhlN30.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1058699,
+        "original_language": "en",
+        "original_title": "STILL: A Michael J. Fox Movie",
+        "overview": "A short kid from a Canadian army base becomes the international pop culture darling of the 1980s—only to find the course of his life altered by a stunning diagnosis. What happens when an incurable optimist confronts an incurable disease?",
+        "popularity": 1.2113,
+        "poster_path": "/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg",
+        "release_date": "2023-01-20",
+        "title": "STILL: A Michael J. Fox Movie",
+        "video": false,
+        "vote_average": 7.778,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mvypTziHBOTFZzhtPNWgQteQNOX.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 8930,
+        "original_language": "fr",
+        "original_title": "La Vie moderne",
+        "overview": "For ten years, Raymond Depardon has followed the lives of farmer living in the mountain ranges. He allows us to enter their farms with astounding naturalness. This moving film speaks, with great serenity, of our roots and of the future of the people who work on the land. This the last part of Depardon's triptych \"Profils paysans\" about what it is like to be a farmer today in an isolated highland area in France. \"La vie moderne\" examines what has become of the persons he has followed for ten years, while featuring younger people who try to farm or raise cattle or poultry, come hell or high water.",
+        "popularity": 0.235,
+        "poster_path": "/h8IWYCY8fA1VclmjZghVQ3sZwsN.jpg",
+        "release_date": "2008-10-29",
+        "title": "Modern Life",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e9ozcVn95Jo6g0FzqbMF1x12qSa.jpg",
+        "genre_ids": [
+          99,
+          10770
+        ],
+        "id": 275004,
+        "original_language": "fr",
+        "original_title": "Le Cerveau d'Hugo",
+        "overview": "The Hugo's Brain is a French documentary-drama about autism. The documentary crosses authentic autistic stories with a fiction story about the life of an autistic (Hugo), from childhood to adulthood, portraying his difficulties and his handicap.",
+        "popularity": 0.2793,
+        "poster_path": "/aYXmZvqbl5ceLVypy1wzaTbjpOm.jpg",
+        "release_date": "2012-11-27",
+        "title": "The Hugo's Brain",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qFfbQh0hNreYrBaxSLNijTo3cAe.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 865407,
+        "original_language": "fr",
+        "original_title": "L'imposture",
+        "overview": "The current trend to render prostitution a profession \"as any other\" is belied by women who were themselves prostitutes. With clarity and courage, the women in this film reveal the hidden face of that so-called \"sex work\". They are 22, 34 or 48 years old; they live in Montreal, Quebec and Ottawa - They have recently given up prostitution, or are trying to escape it. These women are leading the bitter fight to turn their lives around and it is a long and lonely struggle fraught with difficulties. Shot in a Cinéma Vérité style, The Fallacy (L'imposture) takes us to the heart of their realities.",
+        "popularity": 0.9684,
+        "poster_path": "/weYXU85Hfj1T1yjwHoPBzwiNefz.jpg",
+        "release_date": "2010-11-01",
+        "title": "The Fallacy",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          99
+        ],
+        "id": 488585,
+        "original_language": "nl",
+        "original_title": "Alicia",
+        "overview": "\"It’s not easy to find a foster family for you,\" an orphanage supervisor explains to nine-year-old Alicia. \"After all, you are a very special girl.\" Alicia is crying. \"I’m not special. I’m just a girl.\" This disturbing scene sets the tone for this film about Alicia, who was taken away from her teenage mother by the Child Welfare Bureau when she was 12 months old. She’s been living in an orphanage since the age of five, and they have never managed to find a foster family for her. In Alicia, we watch as she becomes a teenager, still craving safety and love. Over the course of three years, filmmaker Maasja Ooms follows her daily life up close. Alicia's yearning and powerlessness are palpable in these observations, which painfully reveal the effects of having no prospects.",
+        "popularity": 0.5707,
+        "poster_path": "/nNtQz2fLNQAofcBUKK566xitaYP.jpg",
+        "release_date": "2017-11-15",
+        "title": "Alicia",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/auXrHU6O17n9Tz11SHReoorjrU6.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1075794,
+        "original_language": "en",
+        "original_title": "Leo",
+        "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+        "popularity": 7.418,
+        "poster_path": "/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+        "release_date": "2023-11-17",
+        "title": "Leo",
+        "video": false,
+        "vote_average": 7.38,
+        "vote_count": 1297
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          36,
+          10752,
+          10770
+        ],
+        "id": 843463,
+        "original_language": "fr",
+        "original_title": "Paris : Les Lieux secrets de l'occupation",
+        "overview": "",
+        "popularity": 0.1282,
+        "poster_path": "/4u82PlmzuzN02ftor9Q4QhNV5SU.jpg",
+        "release_date": "2017-05-19",
+        "title": "Paris : Les Lieux secrets de l'occupation",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pajE6iL8cYQjMyI7oeXr0d1b5mh.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 1046529,
+        "original_language": "fr",
+        "original_title": "Le Masque",
+        "overview": "Featuring interviews with his accomplices and victims alike, this deep dive explores how a master con man scammed French elites out of millions of euros.",
+        "popularity": 0.4118,
+        "poster_path": "/7TQLEXSrGPMn0EVCjyBJkSHGpqj.jpg",
+        "release_date": "2022-12-01",
+        "title": "The Masked Scammer",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pnMYi42VnnQqphF0mUAjJvcdukj.jpg",
+        "genre_ids": [
+          99,
+          36,
+          10770
+        ],
+        "id": 844788,
+        "original_language": "de",
+        "original_title": "Tunnel der Freiheit",
+        "overview": "13 August 1961: the GDR closes the sector borders in Berlin. The city is divided overnight. Escape to the West becomes more dangerous every day. But on September 14, 1962, exactly one year, one month and one day after the Wall was built, a group of 29 people from the GDR managed to escape spectacularly through a 135-meter tunnel to the West. For more than 4 months, students from West Berlin, including 2 Italians, dug this tunnel.  When the tunnel builders ran out of money after only a few meters of digging, they came up with the idea of marketing the escape tunnel. They sell the film rights to the story exclusively to NBC, an American television station.",
+        "popularity": 0.1336,
+        "poster_path": "/v74GVhZ2KtlTetMNVKM7YMnPZ56.jpg",
+        "release_date": "2021-07-22",
+        "title": "Tunnel to Freedom",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x1gKyBpb6iCs9ipavIn3bbPGTkZ.jpg",
+        "genre_ids": [
+          99,
+          9648
+        ],
+        "id": 1448275,
+        "original_language": "fr",
+        "original_title": "La découverte de la Chouette d'or",
+        "overview": "The official solutions to the treasure hunt \"On The Trail Of The Golden Owl\" - the second longest treasure hunt ever organized - which has captivated thousands of researchers for over thirty years.",
+        "popularity": 0.2929,
+        "poster_path": "/cjdW37E7d7Rm67Hg90XkamTcqE.jpg",
+        "release_date": "2025-05-02",
+        "title": "Finding The Golden Owl",
+        "video": false,
+        "vote_average": 8.8,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJvgoRMrYFTMu7MrcfxYVPMRuU5.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1061671,
+        "original_language": "en",
+        "original_title": "Pamela, A Love Story",
+        "overview": "In her own words, through personal video and diaries, Pamela Anderson shares the story of her rise to fame, rocky romances and infamous sex tape scandal.",
+        "popularity": 0.6866,
+        "poster_path": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+        "release_date": "2023-01-30",
+        "title": "Pamela, A Love Story",
+        "video": false,
+        "vote_average": 6.994,
+        "vote_count": 234
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lDaD1G9lPHLA4LiTWnhZcwvdhJL.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 855099,
+        "original_language": "en",
+        "original_title": "A Life on the Farm",
+        "overview": "A strange story from Somerset, England about a filmmaking farmer and the inspiring legacy of his long-lost home movies.",
+        "popularity": 0.1781,
+        "poster_path": "/nrgQAEUXTMHkq7crYp7ISaIUeT2.jpg",
+        "release_date": "2023-05-25",
+        "title": "A Life on the Farm",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aIgwLDqFAnvJkRyRosbEHxo9b4l.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 278837,
+        "original_language": "en",
+        "original_title": "I Am Steve McQueen",
+        "overview": "A walk through the incredible personal and artistic history of legendary actor, race car driver and cultural icon Steve McQueen (1930-80).",
+        "popularity": 2.0629,
+        "poster_path": "/lHCX0ONkDy5E2lI5gekQjybMQIf.jpg",
+        "release_date": "2014-06-24",
+        "title": "I Am Steve McQueen",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cXN62FQwOoBcKlIJ9uE3Cn5wHAc.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 13958,
+        "original_language": "en",
+        "original_title": "The King of Kong: A Fistful of Quarters",
+        "overview": "In this hilarious arcade showdown, a humble novice goes head-to-head against the reigning Donkey Kong champ in a confrontation that rocks the gaming world to its processors! For over 20 years, Billy Mitchell has owned the throne of the Donkey Kong world. No one could beat his top score until now. Newcomer Steve Wiebe claims to have beaten the unbeatable, but Mitchell isn't ready to relinquish his crown without a fight. Go behind the barrels as the two battle it out in a vicious war to earn the title of the true King of Kong.",
+        "popularity": 0.6257,
+        "poster_path": "/wACtXGiO08EBbJhqsD2nUzPsrKe.jpg",
+        "release_date": "2007-03-25",
+        "title": "The King of Kong: A Fistful of Quarters",
+        "video": false,
+        "vote_average": 7.742,
+        "vote_count": 471
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmJ8QAR3RNX2FQM8Xc97BK9N7J9.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 853551,
+        "original_language": "en",
+        "original_title": "FPS: First Person Shooter",
+        "overview": "This documentary takes a game-by-game deep dive into the history and evolution of a genre that has grown from the simple wireframe graphics of Maze War and Spasim to become a staple of popular culture that is enjoyed by millions of gamers worldwide.  Explore the creation and legacy of the most popular and significant FPS titles from the last 48 years, including favorites such as Wolfenstein 3D, Doom, Quake, GoldenEye, Half-Life, Unreal Tournament, Deus Ex, Halo… and many more.",
+        "popularity": 0.3546,
+        "poster_path": "/jBV9V2MBUQelh65lWQOEtvsVvdP.jpg",
+        "release_date": "2023-06-01",
+        "title": "FPS: First Person Shooter",
+        "video": false,
+        "vote_average": 7.778,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1053679,
+        "original_language": "fr",
+        "original_title": "Les vieux",
+        "overview": "They come from all walks of life and have lived for almost a century. They have lived through the upheavals of history. They are funny, moving and rebellious. They surprise and amaze us. Yet we rarely hear their voices. This film is an invitation to travel across France and meet them: the Old People.",
+        "popularity": 0.18,
+        "poster_path": "/44lDjtIM6w5dptxVjbx4YsSTJPI.jpg",
+        "release_date": "2024-04-24",
+        "title": "The old",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/71Kwuy2cbV4d4J3U0NbLjh4i1VE.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1242656,
+        "original_language": "zh",
+        "original_title": "Tennis, Oranges",
+        "overview": "In a pandemic-era hospital, a robotic vacuum, bored by its repetition, decides to quit. Seeking a more meaningful existence, it ventures to a quiet Chinatown street. There, it encounters two solitary rabbits, each trapped in their own repetitive routines. As the vacuum befriends one of these characters, it finds a sense of community and begins to explore a broader purpose beyond its programmed tasks of cleaning. A dance ensues and for a time things are good. But all good things in life can't last.",
+        "popularity": 0.0856,
+        "poster_path": "/qwwqn2Rau1gQZtES4MhifSpOMTo.jpg",
+        "release_date": "2024-03-09",
+        "title": "Tennis, Oranges",
+        "video": false,
+        "vote_average": 7.667,
+        "vote_count": 3
+      }
+    ],
+    "total_pages": 14087,
+    "total_results": 281725
+  }
+}

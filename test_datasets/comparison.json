@@ -1,0 +1,706 @@
+{
+  "category": "comparison",
+  "description": "Complex comparative queries analyzing similarities and differences between movies, directors, actors, and franchises",
+  "test_cases": [
+    {
+      "id": 1,
+      "query": "Compare the cinematography and visual storytelling in Blade Runner 2049 versus The Matrix",
+      "entities": ["Blade Runner 2049", "The Matrix", "cinematography"],
+      "relations": ["SIMILAR_TO", "BELONGS_TO", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 2,
+      "query": "How do Christopher Nolan's time manipulation films differ from other directors' time travel movies?",
+      "entities": ["Christopher Nolan", "time manipulation", "time travel"],
+      "relations": ["DIRECTED_BY", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 3,
+      "query": "Compare the Dark Knight trilogy with the Batman films directed by Tim Burton",
+      "entities": ["Dark Knight", "Batman", "Tim Burton"],
+      "relations": ["DIRECTED_BY", "PART_OF_SERIES", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 4,
+      "query": "What are the thematic differences between Inception and Interstellar despite both being by Nolan?",
+      "entities": ["Inception", "Interstellar", "Nolan"],
+      "relations": ["DIRECTED_BY", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 5,
+      "query": "Compare the ensemble cast dynamics in The Avengers versus Justice League",
+      "entities": ["The Avengers", "Justice League", "ensemble cast"],
+      "relations": ["ACTED_IN", "SIMILAR_TO", "PART_OF_UNIVERSE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 6,
+      "query": "How do Pixar's emotional storytelling techniques differ from DreamWorks Animation?",
+      "entities": ["Pixar", "DreamWorks Animation"],
+      "relations": ["PRODUCED_BY", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 7,
+      "query": "Compare the horror approaches of The Exorcist versus modern horror like Hereditary",
+      "entities": ["The Exorcist", "Hereditary", "horror"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 8,
+      "query": "What distinguishes Tarantino's dialogue style from Aaron Sorkin's fast-paced writing?",
+      "entities": ["Tarantino", "Aaron Sorkin", "dialogue"],
+      "relations": ["DIRECTED_BY", "WRITTEN_BY", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 9,
+      "query": "Compare the world-building in Lord of the Rings versus Harry Potter franchises",
+      "entities": ["Lord of the Rings", "Harry Potter", "world-building"],
+      "relations": ["PART_OF_SERIES", "SIMILAR_TO", "ADAPTED_FROM"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 10,
+      "query": "How do the heist sequences in Ocean's Eleven compare to The Italian Job?",
+      "entities": ["Ocean's Eleven", "The Italian Job", "heist"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 11,
+      "query": "Compare the portrayal of AI in Ex Machina versus Her",
+      "entities": ["Ex Machina", "Her", "AI"],
+      "relations": ["SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 12,
+      "query": "What are the differences between Ridley Scott's Alien and James Cameron's Aliens in tone and style?",
+      "entities": ["Alien", "Aliens", "Ridley Scott", "James Cameron"],
+      "relations": ["DIRECTED_BY", "SEQUEL_TO", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 13,
+      "query": "Compare the use of practical effects in Mad Max Fury Road versus CGI-heavy action films",
+      "entities": ["Mad Max Fury Road", "practical effects", "CGI"],
+      "relations": ["USED_TECHNIQUE", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 14,
+      "query": "How do Wes Anderson's symmetrical compositions differ from traditional filmmaking?",
+      "entities": ["Wes Anderson", "symmetrical composition"],
+      "relations": ["DIRECTED_BY", "VISUAL_STYLE", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 15,
+      "query": "Compare the musical integration in La La Land versus Chicago",
+      "entities": ["La La Land", "Chicago", "musical"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "MUSIC_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 16,
+      "query": "What distinguishes the spy films of James Bond franchise from Jason Bourne series?",
+      "entities": ["James Bond", "Jason Bourne", "spy"],
+      "relations": ["PART_OF_SERIES", "BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 17,
+      "query": "Compare the narrative structures of Pulp Fiction and Memento",
+      "entities": ["Pulp Fiction", "Memento", "narrative structure"],
+      "relations": ["DIRECTED_BY", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 18,
+      "query": "How do the war films Saving Private Ryan and Dunkirk approach historical events differently?",
+      "entities": ["Saving Private Ryan", "Dunkirk", "war"],
+      "relations": ["BELONGS_TO", "BASED_ON", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 19,
+      "query": "Compare the romantic elements in Titanic versus The Notebook",
+      "entities": ["Titanic", "The Notebook", "romance"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 20,
+      "query": "What are the thematic differences between The Shawshank Redemption and The Green Mile?",
+      "entities": ["The Shawshank Redemption", "The Green Mile"],
+      "relations": ["SIMILAR_TO", "WRITTEN_BY", "ADAPTED_FROM"],
+      "complexity": "high"
+    },
+    {
+      "id": 21,
+      "query": "Compare the comedy styles in Superbad versus The Hangover",
+      "entities": ["Superbad", "The Hangover", "comedy"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 22,
+      "query": "How do the superhero origins in Iron Man differ from Batman Begins?",
+      "entities": ["Iron Man", "Batman Begins", "superhero", "origin"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "PART_OF_UNIVERSE"],
+      "complexity": "high"
+    },
+    {
+      "id": 23,
+      "query": "Compare the psychological thriller elements in Shutter Island versus Black Swan",
+      "entities": ["Shutter Island", "Black Swan", "psychological thriller"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 24,
+      "query": "What distinguishes the monster films Godzilla (1954) from modern Godzilla reboots?",
+      "entities": ["Godzilla 1954", "Godzilla", "reboot"],
+      "relations": ["REMAKE_OF", "SIMILAR_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 25,
+      "query": "Compare the desert cinematography in Lawrence of Arabia versus Mad Max",
+      "entities": ["Lawrence of Arabia", "Mad Max", "desert", "cinematography"],
+      "relations": ["CINEMATOGRAPHY_BY", "SIMILAR_TO", "SET_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 26,
+      "query": "How do the coming-of-age stories in Stand By Me differ from The Breakfast Club?",
+      "entities": ["Stand By Me", "The Breakfast Club", "coming-of-age"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 27,
+      "query": "Compare the action choreography in John Wick versus The Raid series",
+      "entities": ["John Wick", "The Raid", "action choreography"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "USED_TECHNIQUE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 28,
+      "query": "What are the differences between Studio Ghibli's animation style and Disney's traditional animation?",
+      "entities": ["Studio Ghibli", "Disney", "animation style"],
+      "relations": ["PRODUCED_BY", "SIMILAR_TO", "ANIMATION_TECHNIQUE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 29,
+      "query": "Compare the space exploration themes in 2001 A Space Odyssey versus Interstellar",
+      "entities": ["2001 A Space Odyssey", "Interstellar", "space exploration"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 30,
+      "query": "How do the crime family dynamics in The Godfather compare to Goodfellas?",
+      "entities": ["The Godfather", "Goodfellas", "crime family"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 31,
+      "query": "Compare the dystopian visions in Blade Runner versus The Matrix",
+      "entities": ["Blade Runner", "The Matrix", "dystopian"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 32,
+      "query": "What distinguishes the slasher films Halloween from Friday the 13th?",
+      "entities": ["Halloween", "Friday the 13th", "slasher"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 33,
+      "query": "Compare the historical epics Braveheart and Gladiator in terms of historical accuracy",
+      "entities": ["Braveheart", "Gladiator", "historical epic"],
+      "relations": ["BELONGS_TO", "BASED_ON", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 34,
+      "query": "How do the animation techniques in Toy Story compare to modern CGI animated films?",
+      "entities": ["Toy Story", "CGI animation"],
+      "relations": ["ANIMATION_TECHNIQUE", "SIMILAR_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 35,
+      "query": "Compare the mystery-solving in Knives Out versus classic Agatha Christie adaptations",
+      "entities": ["Knives Out", "Agatha Christie", "mystery"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "INFLUENCED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 36,
+      "query": "What are the tonal differences between Marvel's Guardians of the Galaxy and DC's Suicide Squad?",
+      "entities": ["Guardians of the Galaxy", "Suicide Squad", "Marvel", "DC"],
+      "relations": ["PART_OF_UNIVERSE", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 37,
+      "query": "Compare the survival scenarios in Cast Away versus 127 Hours",
+      "entities": ["Cast Away", "127 Hours", "survival"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "BASED_ON"],
+      "complexity": "high"
+    },
+    {
+      "id": 38,
+      "query": "How do the car chase sequences in Bullitt differ from The French Connection?",
+      "entities": ["Bullitt", "The French Connection", "car chase"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 39,
+      "query": "Compare the creature design in Alien versus Predator franchises",
+      "entities": ["Alien", "Predator", "creature design"],
+      "relations": ["PART_OF_SERIES", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 40,
+      "query": "What distinguishes Spielberg's approach to dinosaurs in Jurassic Park from other monster movies?",
+      "entities": ["Jurassic Park", "Spielberg", "dinosaur", "monster"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 41,
+      "query": "Compare the use of color in Schindler's List versus Sin City",
+      "entities": ["Schindler's List", "Sin City", "color"],
+      "relations": ["VISUAL_STYLE", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 42,
+      "query": "How do the zombie apocalypse scenarios differ between 28 Days Later and World War Z?",
+      "entities": ["28 Days Later", "World War Z", "zombie apocalypse"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 43,
+      "query": "Compare the courtroom drama techniques in A Few Good Men versus 12 Angry Men",
+      "entities": ["A Few Good Men", "12 Angry Men", "courtroom drama"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 44,
+      "query": "What are the philosophical differences between The Matrix and eXistenZ?",
+      "entities": ["The Matrix", "eXistenZ", "philosophical"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 45,
+      "query": "Compare the sports underdog stories in Rocky versus The Karate Kid",
+      "entities": ["Rocky", "The Karate Kid", "sports", "underdog"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 46,
+      "query": "How do the time loop mechanics differ in Groundhog Day versus Edge of Tomorrow?",
+      "entities": ["Groundhog Day", "Edge of Tomorrow", "time loop"],
+      "relations": ["SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 47,
+      "query": "Compare the superhero team dynamics in X-Men versus The Avengers",
+      "entities": ["X-Men", "The Avengers", "superhero team"],
+      "relations": ["PART_OF_UNIVERSE", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 48,
+      "query": "What distinguishes the noir aesthetics in Chinatown from L.A. Confidential?",
+      "entities": ["Chinatown", "L.A. Confidential", "noir"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "SET_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 49,
+      "query": "Compare the found footage horror in The Blair Witch Project versus Paranormal Activity",
+      "entities": ["The Blair Witch Project", "Paranormal Activity", "found footage", "horror"],
+      "relations": ["BELONGS_TO", "USED_TECHNIQUE", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 50,
+      "query": "How do the biographical approaches differ in The Social Network versus Steve Jobs?",
+      "entities": ["The Social Network", "Steve Jobs", "biographical"],
+      "relations": ["BASED_ON", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 51,
+      "query": "Compare the fantasy world-building in The Chronicles of Narnia versus His Dark Materials",
+      "entities": ["The Chronicles of Narnia", "His Dark Materials", "fantasy"],
+      "relations": ["ADAPTED_FROM", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 52,
+      "query": "What are the differences between classic westerns like The Good, the Bad and the Ugly versus modern westerns?",
+      "entities": ["The Good, the Bad and the Ugly", "western"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 53,
+      "query": "Compare the vampire mythology in Interview with the Vampire versus Twilight",
+      "entities": ["Interview with the Vampire", "Twilight", "vampire"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "ADAPTED_FROM"],
+      "complexity": "high"
+    },
+    {
+      "id": 54,
+      "query": "How do the ensemble comedies The Grand Budapest Hotel and Moonrise Kingdom differ?",
+      "entities": ["The Grand Budapest Hotel", "Moonrise Kingdom", "ensemble comedy"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 55,
+      "query": "Compare the use of music in Baby Driver versus Scott Pilgrim vs. the World",
+      "entities": ["Baby Driver", "Scott Pilgrim", "music"],
+      "relations": ["MUSIC_BY", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 56,
+      "query": "What distinguishes the disaster film approaches in The Day After Tomorrow versus 2012?",
+      "entities": ["The Day After Tomorrow", "2012", "disaster"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 57,
+      "query": "Compare the martial arts choreography in Crouching Tiger Hidden Dragon versus Hero",
+      "entities": ["Crouching Tiger Hidden Dragon", "Hero", "martial arts"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 58,
+      "query": "How do the prison escape plans differ in The Shawshank Redemption versus Escape from Alcatraz?",
+      "entities": ["The Shawshank Redemption", "Escape from Alcatraz", "prison escape"],
+      "relations": ["SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 59,
+      "query": "Compare the romance in Before Sunrise trilogy versus Lost in Translation",
+      "entities": ["Before Sunrise", "Lost in Translation", "romance"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "PART_OF_SERIES"],
+      "complexity": "high"
+    },
+    {
+      "id": 60,
+      "query": "What are the storytelling differences between Pan's Labyrinth and The Shape of Water?",
+      "entities": ["Pan's Labyrinth", "The Shape of Water", "del Toro"],
+      "relations": ["DIRECTED_BY", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 61,
+      "query": "Compare the revenge narratives in Kill Bill versus Oldboy",
+      "entities": ["Kill Bill", "Oldboy", "revenge"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 62,
+      "query": "How do the robot companions differ in Wall-E versus The Iron Giant?",
+      "entities": ["Wall-E", "The Iron Giant", "robot"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 63,
+      "query": "Compare the drug trade portrayals in Traffic versus Sicario",
+      "entities": ["Traffic", "Sicario", "drug trade"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 64,
+      "query": "What distinguishes the haunted house films The Conjuring from Insidious?",
+      "entities": ["The Conjuring", "Insidious", "haunted house"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 65,
+      "query": "Compare the visual effects evolution from Terminator 2 to Terminator Dark Fate",
+      "entities": ["Terminator 2", "Terminator Dark Fate", "visual effects"],
+      "relations": ["PART_OF_SERIES", "USED_TECHNIQUE", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 66,
+      "query": "How do the narrative perspectives differ in Rashomon versus Gone Girl?",
+      "entities": ["Rashomon", "Gone Girl", "narrative perspective"],
+      "relations": ["SIMILAR_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 67,
+      "query": "Compare the magical realism in Like Water for Chocolate versus Amelie",
+      "entities": ["Like Water for Chocolate", "Amelie", "magical realism"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 68,
+      "query": "What are the differences between the samurai honor codes in Seven Samurai versus The Last Samurai?",
+      "entities": ["Seven Samurai", "The Last Samurai", "samurai"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "BASED_ON"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 69,
+      "query": "Compare the cyber-thriller approaches in The Net versus Enemy of the State",
+      "entities": ["The Net", "Enemy of the State", "cyber-thriller"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 70,
+      "query": "How do the submarine warfare tactics differ in Das Boot versus The Hunt for Red October?",
+      "entities": ["Das Boot", "The Hunt for Red October", "submarine warfare"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 71,
+      "query": "Compare the anthology storytelling in Cloud Atlas versus Babel",
+      "entities": ["Cloud Atlas", "Babel", "anthology"],
+      "relations": ["FILM_TYPE", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 72,
+      "query": "What distinguishes the superhero deconstructions in Watchmen versus The Boys?",
+      "entities": ["Watchmen", "The Boys", "superhero deconstruction"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "ADAPTED_FROM"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 73,
+      "query": "Compare the alien invasion strategies in Independence Day versus Arrival",
+      "entities": ["Independence Day", "Arrival", "alien invasion"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 74,
+      "query": "How do the detective methods differ in Sherlock Holmes versus Knives Out?",
+      "entities": ["Sherlock Holmes", "Knives Out", "detective"],
+      "relations": ["PLAYED_ROLE", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 75,
+      "query": "Compare the dance sequences in West Side Story versus La La Land",
+      "entities": ["West Side Story", "La La Land", "dance"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 76,
+      "query": "What are the thematic differences between The Truman Show and Free Guy?",
+      "entities": ["The Truman Show", "Free Guy"],
+      "relations": ["SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 77,
+      "query": "Compare the gangster film aesthetics of Scarface (1983) versus American Gangster",
+      "entities": ["Scarface", "American Gangster", "gangster"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 78,
+      "query": "How do the redemption arcs differ in The Fighter versus Warrior?",
+      "entities": ["The Fighter", "Warrior", "redemption"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 79,
+      "query": "Compare the anthology horror approaches in Creepshow versus Tales from the Crypt",
+      "entities": ["Creepshow", "Tales from the Crypt", "anthology horror"],
+      "relations": ["BELONGS_TO", "FILM_TYPE", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 80,
+      "query": "What distinguishes the mockumentary styles in This Is Spinal Tap versus What We Do in the Shadows?",
+      "entities": ["This Is Spinal Tap", "What We Do in the Shadows", "mockumentary"],
+      "relations": ["FILM_TYPE", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 81,
+      "query": "Compare the fish-out-of-water comedies in Coming to America versus Crocodile Dundee",
+      "entities": ["Coming to America", "Crocodile Dundee", "fish-out-of-water"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 82,
+      "query": "How do the parallel timeline narratives work differently in Sliding Doors versus Run Lola Run?",
+      "entities": ["Sliding Doors", "Run Lola Run", "parallel timeline"],
+      "relations": ["SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 83,
+      "query": "Compare the buddy cop dynamics in Lethal Weapon versus Bad Boys",
+      "entities": ["Lethal Weapon", "Bad Boys", "buddy cop"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 84,
+      "query": "What are the differences between the creature features Jaws versus The Meg?",
+      "entities": ["Jaws", "The Meg", "creature feature"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 85,
+      "query": "Compare the financial crisis portrayals in The Big Short versus Margin Call",
+      "entities": ["The Big Short", "Margin Call", "financial crisis"],
+      "relations": ["BASED_ON", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 86,
+      "query": "How do the body horror elements differ in The Fly versus Videodrome?",
+      "entities": ["The Fly", "Videodrome", "body horror"],
+      "relations": ["BELONGS_TO", "DIRECTED_BY", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 87,
+      "query": "Compare the road trip narratives in Thelma & Louise versus Little Miss Sunshine",
+      "entities": ["Thelma & Louise", "Little Miss Sunshine", "road trip"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 88,
+      "query": "What distinguishes the silent storytelling in A Quiet Place versus All Is Lost?",
+      "entities": ["A Quiet Place", "All Is Lost", "silent storytelling"],
+      "relations": ["SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 89,
+      "query": "Compare the satire approaches in Dr. Strangelove versus In the Loop",
+      "entities": ["Dr. Strangelove", "In the Loop", "satire"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 90,
+      "query": "How do the gladiatorial combat scenes compare in Gladiator versus 300?",
+      "entities": ["Gladiator", "300", "gladiatorial combat"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 91,
+      "query": "Compare the apocalyptic visions in Mad Max versus Waterworld",
+      "entities": ["Mad Max", "Waterworld", "apocalyptic"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 92,
+      "query": "What are the differences between the magic systems in Doctor Strange versus Harry Potter?",
+      "entities": ["Doctor Strange", "Harry Potter", "magic system"],
+      "relations": ["PART_OF_UNIVERSE", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 93,
+      "query": "Compare the journalism thriller approaches in All the President's Men versus Spotlight",
+      "entities": ["All the President's Men", "Spotlight", "journalism thriller"],
+      "relations": ["BELONGS_TO", "BASED_ON", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 94,
+      "query": "How do the dystopian youth rebellions differ in The Hunger Games versus Divergent?",
+      "entities": ["The Hunger Games", "Divergent", "dystopian"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "ADAPTED_FROM"],
+      "complexity": "high"
+    },
+    {
+      "id": 95,
+      "query": "Compare the use of long takes in Birdman versus 1917",
+      "entities": ["Birdman", "1917", "long take"],
+      "relations": ["USED_TECHNIQUE", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 96,
+      "query": "What distinguishes the treasure hunt adventures in Indiana Jones versus National Treasure?",
+      "entities": ["Indiana Jones", "National Treasure", "treasure hunt"],
+      "relations": ["BELONGS_TO", "PART_OF_SERIES", "SIMILAR_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 97,
+      "query": "Compare the artificial intelligence themes in A.I. Artificial Intelligence versus Ghost in the Shell",
+      "entities": ["A.I. Artificial Intelligence", "Ghost in the Shell", "AI"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 98,
+      "query": "How do the Christmas themes differ in Die Hard versus Home Alone?",
+      "entities": ["Die Hard", "Home Alone", "Christmas"],
+      "relations": ["BELONGS_TO", "SIMILAR_TO", "SET_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 99,
+      "query": "Compare the boarding school settings in Dead Poets Society versus The History Boys",
+      "entities": ["Dead Poets Society", "The History Boys", "boarding school"],
+      "relations": ["SET_IN", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 100,
+      "query": "What are the narrative complexity differences between Inception and Tenet by the same director?",
+      "entities": ["Inception", "Tenet", "narrative complexity", "Nolan"],
+      "relations": ["DIRECTED_BY", "SIMILAR_TO", "BELONGS_TO"],
+      "complexity": "very_high"
+    }
+  ]
+}

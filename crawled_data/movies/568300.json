@@ -1,0 +1,611 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/8GXkzHTvuj3ftethkrqW330LJKz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "http://loveyourselfinseoul.film/",
+    "id": 568300,
+    "imdb_id": "tt9448868",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "러브 유어셀프 인 서울",
+    "overview": "Shot at the Olympic Stadium in Seoul during the BTS World Tour ‘Love Yourself’ to celebrate the seven members of the global boyband and their unprecedented international phenomenon.",
+    "popularity": 1.1066,
+    "poster_path": "/1u0rtWPgYfAWmqveXOsQDvMRODD.jpg",
+    "production_companies": [
+      {
+        "id": 86824,
+        "logo_path": "/kGbzID3zHwCnhVjmMw3lKij2NKx.png",
+        "name": "Big Hit Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 7036,
+        "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+        "name": "CJ Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 128333,
+        "logo_path": "/cIFX3XS0k5UzJwOi5rvCDlpgzib.png",
+        "name": "CJ CGV",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2019-01-26",
+    "revenue": 10195760,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "BTS World Tour: Love Yourself in Seoul",
+    "video": false,
+    "vote_average": 8.247,
+    "vote_count": 451
+  },
+  "credits": {
+    "id": 568300,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544084,
+        "known_for_department": "Acting",
+        "name": "RM",
+        "original_name": "RM",
+        "popularity": 1.8095,
+        "profile_path": "/cJmaUOIuibsC0DPnUMStN4rfAwr.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "5c12e874c3a36866bd3545fa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544088,
+        "known_for_department": "Acting",
+        "name": "Jin",
+        "original_name": "진",
+        "popularity": 2.0327,
+        "profile_path": "/cothCnRmZXC63olRZ816lZoGMDc.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "5c12e88292514132c3095396",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544086,
+        "known_for_department": "Acting",
+        "name": "Suga",
+        "original_name": "슈가",
+        "popularity": 1.6854,
+        "profile_path": "/83xf9EkLK3k7CJSaXe3iVgBC6S3.jpg",
+        "cast_id": 3,
+        "character": "Himself",
+        "credit_id": "5c12e88dc3a36866c5354791",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544090,
+        "known_for_department": "Acting",
+        "name": "j-hope",
+        "original_name": "제이홉",
+        "popularity": 1.8059,
+        "profile_path": "/2xZu36Z6JFT95AIzazyRHW51dC1.jpg",
+        "cast_id": 4,
+        "character": "Himself",
+        "credit_id": "5c12e898c3a36866d83546e3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544092,
+        "known_for_department": "Acting",
+        "name": "Jimin",
+        "original_name": "지민",
+        "popularity": 2.6865,
+        "profile_path": "/x5jbcmfYPr70AKfOiKtidODjpv1.jpg",
+        "cast_id": 5,
+        "character": "Himself",
+        "credit_id": "5c12e8a4c3a36866ce354868",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544093,
+        "known_for_department": "Acting",
+        "name": "V",
+        "original_name": "뷔",
+        "popularity": 2.9535,
+        "profile_path": "/jPCklfz8cAXfvRptmeNeYBa9Myf.jpg",
+        "cast_id": 6,
+        "character": "Himself",
+        "credit_id": "5c12e8b092514132ba09590f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544095,
+        "known_for_department": "Acting",
+        "name": "Jung Kook",
+        "original_name": "정국",
+        "popularity": 1.4898,
+        "profile_path": "/2O7wrPFZtdfNJ5w6LGlIri3Xd0.jpg",
+        "cast_id": 7,
+        "character": "Himself",
+        "credit_id": "5c12e8bb0e0a26037c3b207a",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2232175,
+        "known_for_department": "Directing",
+        "name": "Son Sung-deuk",
+        "original_name": "Son Sung-deuk",
+        "popularity": 0.5132,
+        "profile_path": null,
+        "credit_id": "5c54a4b70e0a26494ddeb894",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761572,
+        "known_for_department": "Production",
+        "name": "Bang Si-hyuk",
+        "original_name": "방시혁",
+        "popularity": 0.6227,
+        "profile_path": "/wQgiytNBj3zeIS7MUtSWjLFt0JU.jpg",
+        "credit_id": "5d1d9e5da135330011093c5e",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 568300,
+    "keywords": [
+      {
+        "id": 6029,
+        "name": "concert"
+      },
+      {
+        "id": 11634,
+        "name": "live performance"
+      },
+      {
+        "id": 225273,
+        "name": "k-pop"
+      },
+      {
+        "id": 251523,
+        "name": "idol group"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          10749
+        ],
+        "id": 27,
+        "original_language": "en",
+        "original_title": "9 Songs",
+        "overview": "Matt, a young glaciologist, soars across the vast, silent, icebound immensities of the South Pole as he recalls his love affair with Lisa. They meet at a mobbed rock concert in a vast music hall - London's Brixton Academy. They are in bed at night's end. Together, over a period of several months, they pursue a mutual sexual passion whose inevitable stages unfold in counterpoint to nine live-concert songs.",
+        "popularity": 6.5403,
+        "poster_path": "/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
+        "release_date": "2004-07-16",
+        "title": "9 Songs",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 554
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          10749
+        ],
+        "id": 69,
+        "original_language": "en",
+        "original_title": "Walk the Line",
+        "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+        "popularity": 3.3588,
+        "poster_path": "/zMkD6FVikyPNnigoupO7vD5ti9p.jpg",
+        "release_date": "2005-09-13",
+        "title": "Walk the Line",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 3037
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5dJ8t6CljwZ1NUXwW1nsmEpMf8x.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 135,
+        "original_language": "en",
+        "original_title": "Dont Look Back",
+        "overview": "In this wildly entertaining vision of one of the twentieth century’s greatest artists, Bob Dylan is surrounded by teen fans, gets into heated philosophical jousts with journalists, and kicks back with fellow musicians Joan Baez, Donovan, and Alan Price.",
+        "popularity": 0.903,
+        "poster_path": "/2kd5XfH2MhFlChq7DkjxWBLoYPF.jpg",
+        "release_date": "1967-05-17",
+        "title": "Dont Look Back",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 166
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zxHSp0F0DKdHx3OPIh1rN4zApJq.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 312,
+        "original_language": "de",
+        "original_title": "Jenseits der Stille",
+        "overview": "Beyond Silence is about a family and a young girl’s coming of age story. This German film looks into the lives of the deaf and at a story about the love for music. A girl who has always had to translate speech into sign language for her deaf parents yet when her love for playing music grows strong she must decide to continue doing something she cannot share with her parents.",
+        "popularity": 0.594,
+        "poster_path": "/bfNOcXDcwzKOlJoTtQM4lsEVxS1.jpg",
+        "release_date": "1996-12-18",
+        "title": "Beyond Silence",
+        "video": false,
+        "vote_average": 6.877,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1MUfnjzUBTTEEZKaWWmIruh03Ke.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35,
+          10402
+        ],
+        "id": 464,
+        "original_language": "sv",
+        "original_title": "Så som i himmelen",
+        "overview": "A musical romantic tragedy about a famous composer who moves back to his small hometown after having had heart troubles. His search for a simple everyday life leads him into teaching the local church choir, which is not easily accepted by the town yet the choir builds a great love for their teacher.",
+        "popularity": 0.8601,
+        "poster_path": "/ygJ6RQQSmXRQLPpUKP9SCdKXSKJ.jpg",
+        "release_date": "2004-09-03",
+        "title": "As It Is in Heaven",
+        "video": false,
+        "vote_average": 7.115,
+        "vote_count": 182
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+        "genre_ids": [
+          10402,
+          35,
+          28,
+          80
+        ],
+        "id": 525,
+        "original_language": "en",
+        "original_title": "The Blues Brothers",
+        "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+        "popularity": 5.9125,
+        "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+        "release_date": "1980-06-16",
+        "title": "The Blues Brothers",
+        "video": false,
+        "vote_average": 7.722,
+        "vote_count": 4448
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xleIwr1wUlWqvFHaU1PItf0YLrZ.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 786,
+        "original_language": "en",
+        "original_title": "Almost Famous",
+        "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+        "popularity": 5.5183,
+        "poster_path": "/u1bj6bQFQqWnwbj6ndvchjFjb9z.jpg",
+        "release_date": "2000-09-15",
+        "title": "Almost Famous",
+        "video": false,
+        "vote_average": 7.496,
+        "vote_count": 2992
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nerPuceIKmnJQSNZTUMlrPJIPMn.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 659831,
+        "original_language": "en",
+        "original_title": "U2: Experience +Innocence, Live in Berlin",
+        "overview": "U2-concert on 13th November 2018 in the Mercedes-Benz-Arena, Berlin. Better known as final night of the \"eXPERIENCE + iNNOCENCE Tour\".",
+        "popularity": 0.2021,
+        "poster_path": "/u2TveMNlHzA2lVz4HUV1D4fCudY.jpg",
+        "release_date": "2018-11-13",
+        "title": "U2: Experience +Innocence, Live in Berlin",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kw2uSHLMk7pUR6e2aqujWzTS71v.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1444601,
+        "original_language": "ja",
+        "original_title": "プロジェクトセカイ COLORFUL LIVE 4th -Unison",
+        "overview": "\"Project Sekai COLORFUL LIVE 3rd - Evolve -\", a real live performance of the game held from January 24 to 26, 2025.",
+        "popularity": 0.4511,
+        "poster_path": "/7HgxKkQi8JxOJhK1JRhDcnTabIu.jpg",
+        "release_date": "2025-07-23",
+        "title": "Project Sekai COLORFUL LIVE 4th -Unison-",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jOq1i6IQKYquyWm9raDcNPGkZFj.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1058475,
+        "original_language": "en",
+        "original_title": "Tarja -  Best of Living the Dream",
+        "overview": "The \"Circus Life\" performance was recorded in January 2020 at Circul Metroplitan in Bucharest with a unique in-the-round presentation on a round stage positioned centrally in the middle of the audience and with some guests.",
+        "popularity": 0.1386,
+        "poster_path": "/pndOMkyQ1FusoVnO2BUrn8k7WNb.jpg",
+        "release_date": "2022-12-02",
+        "title": "Tarja -  Best of Living the Dream",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nkGmL2Pead37BTFJcpBzNQRsVKE.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 283347,
+        "original_language": "en",
+        "original_title": "Waylon Jennings - The Lost Outlaw Performance",
+        "overview": "On the evening of August 12, 1978, Waylon Jennings and The Waylons performed on the concert stage of the Grand Ole Opry in Nashville, Tennessee. The master recordings of this concert were never released and had been locked in the vaults of RCA Records, long forgotten since 1978. The songs embodied in this performance capture Waylon Jennings and his band at the height of the country music \"Outlaw\" period, ample evidence of the extraordinary and individualistic writing and singing talents of Waylon Jennings. Now presented for the first time in its entirety, exactly as it was recorded on August 12, 1978.",
+        "popularity": 0.1279,
+        "poster_path": "/dqAG9XyVMcgiVHCZo4DvPJzhcnU.jpg",
+        "release_date": "1978-08-12",
+        "title": "Waylon Jennings - The Lost Outlaw Performance",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/71jft7p3jnqrFTizptt5dbTK3gh.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 283559,
+        "original_language": "en",
+        "original_title": "One Direction: Where We Are - The Concert Film",
+        "overview": "Where We Are: Live from San Siro Stadium features the entire 23 track concert filmed at San Siro Stadium in Milan in June 2014, as well as 24 minutes of bonus content including backstage footage of One Direction and their crew.",
+        "popularity": 0.5088,
+        "poster_path": "/8b8DHnN9R8lRMbflfnNAV87qGZQ.jpg",
+        "release_date": "2014-10-08",
+        "title": "One Direction: Where We Are - The Concert Film",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 168
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/83FHbhAe6rhw9EbbcXPCaxaaPT5.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 464623,
+        "original_language": "en",
+        "original_title": "Ayreon: Timeline",
+        "overview": "1.The Stranger from Within  2.Valley of the Queens  3.Isis and Osiris  4.The Two Gates  5.Teaser: The Human Equation  6.Day Eleven: Love  7.Come Back to Me  8.Loser  9.Farside of the World  10.Back on Planet Earth  11.Featurette Actual Fantasy  12.Computer Eyes  13.Day One: Vigil  14.Day Three: Pain  15.The Castle Hall  16.Release Party  17.Beneath the Waves  18.Teaser 01011001  19.Featurette Epilogue: The Memory Remains",
+        "popularity": 0.1218,
+        "poster_path": "/hGXxVSDGH6WGCuKYRxBP7jwOkxr.jpg",
+        "release_date": "2008-11-17",
+        "title": "Ayreon: Timeline",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zzAuxUpfZDEspL33N3KlOCWxOLH.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 7944,
+        "original_language": "en",
+        "original_title": "Shine a Light",
+        "overview": "Martin Scorsese’s electrifying concert documentary captures The Rolling Stones live at New York’s Beacon Theatre during their A Bigger Bang tour. Filmed over two nights in 2006 with an all-star team of cinematographers, the film combines dynamic performances with archival footage and rare glimpses behind the scenes, offering a vibrant portrait of the band’s enduring energy and legacy.",
+        "popularity": 0.9504,
+        "poster_path": "/rMVrNWWaO3xAWZHFUbeamWPzVAC.jpg",
+        "release_date": "2008-04-04",
+        "title": "Shine a Light",
+        "video": false,
+        "vote_average": 6.861,
+        "vote_count": 176
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/taOoT5pTwwF4tWKDzIItDbsX1He.jpg",
+        "genre_ids": [
+          10402,
+          35,
+          53
+        ],
+        "id": 653572,
+        "original_language": "en",
+        "original_title": "The Nowhere Inn",
+        "overview": "When St. Vincent sets out to make a documentary about her music, the goal is to both reveal and revel in the unadorned truth behind her on-stage persona. But when she hires a close friend to direct, notions of reality, identity, and authenticity grow increasingly distorted and bizarre.",
+        "popularity": 0.6059,
+        "poster_path": "/saXbsVa6eylbaOCXpwGZVjn1fOd.jpg",
+        "release_date": "2021-09-16",
+        "title": "The Nowhere Inn",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2M96bXqAmayxI0czxIf0PwDJCve.jpg",
+        "genre_ids": [
+          99,
+          10402,
+          18
+        ],
+        "id": 1051502,
+        "original_language": "en",
+        "original_title": "Dennis Cleveland",
+        "overview": "A 2002 live performance of Mikel Rouse's Dennis Cleveland, a multimedia opera set entirely on a television talk show in the late 20th century.",
+        "popularity": 1.2102,
+        "poster_path": "/fCIfTDTnVINcD6wvWX8IILICa19.jpg",
+        "release_date": "2004-01-01",
+        "title": "Dennis Cleveland",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oG0duIUvQA2XqKgLtwiiVsI1RsN.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 466145,
+        "original_language": "ja",
+        "original_title": "ＳＯ　ＷＨＡＴ",
+        "overview": "In a small town, high school students in their final year try to balance their studies while also playing together in a rock band.",
+        "popularity": 0.8505,
+        "poster_path": "/jSixq6lNYgAVEdECk3kHgc4Q1Qd.jpg",
+        "release_date": "1988-07-16",
+        "title": "So What",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qCtXu9ZVUCUGmnHflIulH2qe3z1.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 27962,
+        "original_language": "en",
+        "original_title": "Metallica: Français pour une nuit",
+        "overview": "Metallica Live in Nîmes, France - over 2 hours of the greatest hits live in a breathtaking Roman Coliseum. After the global destruction that was the Death Magnetic tour, in July 2009 the four horsemen of the apocalypse rode into the Roman Coliseum in Nîmes, France and unleashed a mind-blowing set of greatest hits including Enter Sandman, Master of Puppets, Nothing Else Matters and many more!",
+        "popularity": 0.1608,
+        "poster_path": "/5BikZ4SMqdD6aShigvjQYLNtMTX.jpg",
+        "release_date": "2009-07-06",
+        "title": "Metallica: Français pour une nuit",
+        "video": true,
+        "vote_average": 8.0,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/26gr06Z8mgyGFGtFwBOWU87FQbE.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 28026,
+        "original_language": "en",
+        "original_title": "Prey for Rock & Roll",
+        "overview": "In late 1980s Los Angeles, Jacki and her all-girl punk rock band, Clam Dandy, are trying to make it big. On the verge of turning 40, Jacki decides that if the band's one last shot at the big time is unsuccessful, she will give up her dreams of stardom.",
+        "popularity": 0.5691,
+        "poster_path": "/qXXAJjWHcXbfwdlq96nHSTxCVHv.jpg",
+        "release_date": "2003-09-26",
+        "title": "Prey for Rock & Roll",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/30TVpX70vGPqVWMTp9WzA3BlEoN.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 292872,
+        "original_language": "en",
+        "original_title": "Prince: Lovesexy Live",
+        "overview": "Lovesexy Live was the fifth Prince home video to be released and second live concert released on Home Video format.  It was first released on 2 cassettes under the name of \"Lovesexy Live 1\" and \"Lovesexy Live 2\" in Europe. Confusingly Vol.1 contained the latter part of the concert, while Vol.2 contained the first part. The concert was later re-released as Lovesexy Live on one cassette (of 127 minutes) and on laserdisc.",
+        "popularity": 0.2666,
+        "poster_path": "/5MYy8U0xZpN25kiJTaI147qMbmD.jpg",
+        "release_date": "1988-09-09",
+        "title": "Prince: Lovesexy Live",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 10
+      }
+    ],
+    "total_pages": 13191,
+    "total_results": 263804
+  }
+}

@@ -1,0 +1,1153 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/dOC74DSvbBnE9117wyJzOdmG9Kz.jpg",
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 39507,
+    "imdb_id": "tt0092843",
+    "origin_country": [
+      "IE",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Dead",
+    "overview": "After a convivial holiday dinner party, things begin to unravel when a husband and wife address some prickly issues concerning their marriage.",
+    "popularity": 39.2555,
+    "poster_path": "/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg",
+    "production_companies": [
+      {
+        "id": 25760,
+        "logo_path": null,
+        "name": "Liffey Films",
+        "origin_country": "IE"
+      },
+      {
+        "id": 12360,
+        "logo_path": "/EugVVMfcbv9zxCr0C60VhD0vGY.png",
+        "name": "Vestron Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 721,
+        "logo_path": null,
+        "name": "Zenith Entertainment",
+        "origin_country": "GB"
+      },
+      {
+        "id": 6705,
+        "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+        "name": "Film4 Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 13596,
+        "logo_path": null,
+        "name": "Delta Film GmbH",
+        "origin_country": "DE"
+      },
+      {
+        "id": 5778,
+        "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+        "name": "Channel 4 Television",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1987-09-03",
+    "revenue": 4370078,
+    "runtime": 83,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A vast, merry, and uncommon tale of love.",
+    "title": "The Dead",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 181
+  },
+  "credits": {
+    "id": 39507,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5657,
+        "known_for_department": "Acting",
+        "name": "Anjelica Huston",
+        "original_name": "Anjelica Huston",
+        "popularity": 2.7236,
+        "profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg",
+        "cast_id": 4,
+        "character": "Gretta Conroy",
+        "credit_id": "52fe47209251416c9106adeb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87435,
+        "known_for_department": "Acting",
+        "name": "Donal McCann",
+        "original_name": "Donal McCann",
+        "popularity": 1.2358,
+        "profile_path": "/xGjV73QUTFPvNwWSv6R1dNqsMt.jpg",
+        "cast_id": 5,
+        "character": "Gabriel Conroy",
+        "credit_id": "52fe47209251416c9106adef",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6836,
+        "known_for_department": "Acting",
+        "name": "Dan O'Herlihy",
+        "original_name": "Dan O'Herlihy",
+        "popularity": 1.1176,
+        "profile_path": "/vhZodGF9IiHdpbU78ShpyCgBr3X.jpg",
+        "cast_id": 6,
+        "character": "Mr. Browne",
+        "credit_id": "52fe47209251416c9106adf3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79745,
+        "known_for_department": "Acting",
+        "name": "Helena Carroll",
+        "original_name": "Helena Carroll",
+        "popularity": 0.4116,
+        "profile_path": "/jtK3Vs07KuCSl4lnKTqyJVF5C1M.jpg",
+        "cast_id": 8,
+        "character": "Aunt Kate",
+        "credit_id": "52fe47209251416c9106adf7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150229,
+        "known_for_department": "Acting",
+        "name": "Cathleen Delany",
+        "original_name": "Cathleen Delany",
+        "popularity": 0.788,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Aunt Julia",
+        "credit_id": "52fe47209251416c9106ae0d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150230,
+        "known_for_department": "Acting",
+        "name": "Ingrid Craigie",
+        "original_name": "Ingrid Craigie",
+        "popularity": 0.8338,
+        "profile_path": "/3VuMQEscERIw6YrlB3dvGWcmwzA.jpg",
+        "cast_id": 13,
+        "character": "Mary Jane",
+        "credit_id": "52fe47209251416c9106ae11",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 168632,
+        "known_for_department": "Acting",
+        "name": "Donal Donnelly",
+        "original_name": "Donal Donnelly",
+        "popularity": 0.522,
+        "profile_path": "/h1xqf5rpk1I6omgjkD7pzQVUq94.jpg",
+        "cast_id": 14,
+        "character": "Freddy Malins",
+        "credit_id": "52fe47209251416c9106ae15",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17782,
+        "known_for_department": "Acting",
+        "name": "Colm Meaney",
+        "original_name": "Colm Meaney",
+        "popularity": 2.4761,
+        "profile_path": "/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg",
+        "cast_id": 15,
+        "character": "Mr. Bergin",
+        "credit_id": "52fe47209251416c9106ae19",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 939841,
+        "known_for_department": "Acting",
+        "name": "Rachael Dowling",
+        "original_name": "Rachael Dowling",
+        "popularity": 0.7413,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Lily",
+        "credit_id": "52fe47209251416c9106ae1d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31721,
+        "known_for_department": "Acting",
+        "name": "Marie Kean",
+        "original_name": "Marie Kean",
+        "popularity": 0.9326,
+        "profile_path": "/6hue8dvcTcokaV06wRl3E6kOvGX.jpg",
+        "cast_id": 18,
+        "character": "Mrs. Malins",
+        "credit_id": "5d818672d34eb300244f8e24",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2413421,
+        "known_for_department": "Acting",
+        "name": "Frank Patterson",
+        "original_name": "Frank Patterson",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bartell D'Arcy",
+        "credit_id": "5d81869ff6787a002e9d399b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2413422,
+        "known_for_department": "Acting",
+        "name": "Lyda Anderson",
+        "original_name": "Lyda Anderson",
+        "popularity": 0.0531,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Miss Daly",
+        "credit_id": "5d8186ae869e7500150b3d42",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42839,
+        "known_for_department": "Acting",
+        "name": "Kate O'Toole",
+        "original_name": "Kate O'Toole",
+        "popularity": 0.9235,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Miss Furlong",
+        "credit_id": "5d8186ba869e75002e0b42c0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51318,
+        "known_for_department": "Acting",
+        "name": "Bairbre Dowling",
+        "original_name": "Bairbre Dowling",
+        "popularity": 0.4172,
+        "profile_path": "/oXAVC6wCilPfHFBYztZaO25xIr4.jpg",
+        "cast_id": 22,
+        "character": "Miss Higgins",
+        "credit_id": "5d8186cacabfe400138a1a0c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 185437,
+        "known_for_department": "Acting",
+        "name": "Maria McDermottroe",
+        "original_name": "Maria McDermottroe",
+        "popularity": 1.0143,
+        "profile_path": "/wN8mfgIXZivRbXEjPHrSrKIwqkX.jpg",
+        "cast_id": 23,
+        "character": "Molly Ivors",
+        "credit_id": "5d8186e1cabfe400138a1a24",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30501,
+        "known_for_department": "Acting",
+        "name": "Sean McClory",
+        "original_name": "Sean McClory",
+        "popularity": 0.6618,
+        "profile_path": "/3DtG026ynOwsH9nhqwqskCrM2Bg.jpg",
+        "cast_id": 24,
+        "character": "Mr. Grace",
+        "credit_id": "5d8186e9869e75002e0b4301",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103956,
+        "known_for_department": "Acting",
+        "name": "Brendan Dillon",
+        "original_name": "Brendan Dillon",
+        "popularity": 0.7279,
+        "profile_path": "/1c8V6YpQexMcSAHlsQOERxZMTOM.jpg",
+        "cast_id": 44,
+        "character": "Cabman",
+        "credit_id": "6045b902d18572002ae9e420",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430611,
+        "known_for_department": "Acting",
+        "name": "Paul Grant",
+        "original_name": "Paul Grant",
+        "popularity": 0.4292,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "1st Young Gentleman",
+        "credit_id": "641919a10d5d8500ba1090c5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5163007,
+        "known_for_department": "Acting",
+        "name": "Dara Clarke",
+        "original_name": "Dara Clarke",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Young Lady",
+        "credit_id": "677c3a4a5c738e1c226677c7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 158939,
+        "known_for_department": "Acting",
+        "name": "Redmond Gleeson",
+        "original_name": "Redmond Gleeson",
+        "popularity": 0.8703,
+        "profile_path": "/c1IdvJK5jxZoywgUUvziHNyuFmc.jpg",
+        "cast_id": 49,
+        "character": "Nightporter at the Gresham",
+        "credit_id": "677c3a5ec2eab1faf97498b7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 194713,
+        "known_for_department": "Acting",
+        "name": "Maria Hayden",
+        "original_name": "Maria Hayden",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Miss O'Callaghan",
+        "credit_id": "684f40289ea5102d9f1eca40",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507252,
+        "known_for_department": "Acting",
+        "name": "Cormac O'Herlihy",
+        "original_name": "Cormac O'Herlihy",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Mr. Kerrigan",
+        "credit_id": "684f4047cc655a59391bf494",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5381323,
+        "known_for_department": "Acting",
+        "name": "Paul Carroll",
+        "original_name": "Paul Carroll",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "2nd Young Gentleman",
+        "credit_id": "684f40827e22f821e41bf45d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2644417,
+        "known_for_department": "Acting",
+        "name": "Patrick Gallagher",
+        "original_name": "Patrick Gallagher",
+        "popularity": 0.0679,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "3rd Young Gentleman",
+        "credit_id": "684f40aa8b5d3f30e1bb538e",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6593,
+        "known_for_department": "Directing",
+        "name": "John Huston",
+        "original_name": "John Huston",
+        "popularity": 1.8286,
+        "profile_path": "/rAqKERlZvXBiKV0tONGg5huwuJl.jpg",
+        "credit_id": "52fe47209251416c9106adfd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4031328,
+        "known_for_department": "Writing",
+        "name": "Tony Huston",
+        "original_name": "Tony Huston",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "credit_id": "6449d6292cefc2046cae9543",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14781,
+        "known_for_department": "Sound",
+        "name": "William Randall Jr.",
+        "original_name": "William Randall Jr.",
+        "popularity": 0.6502,
+        "profile_path": null,
+        "credit_id": "5e48ebb535811d0015476a04",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123431,
+        "known_for_department": "Editing",
+        "name": "James E. Nownes",
+        "original_name": "James E. Nownes",
+        "popularity": 0.4308,
+        "profile_path": null,
+        "credit_id": "5e48eb9e35811d00154769d0",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10443,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fern Buchner",
+        "original_name": "Fern Buchner",
+        "popularity": 0.3268,
+        "profile_path": null,
+        "credit_id": "5e48eb402d93750017a7f075",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17765,
+        "known_for_department": "Camera",
+        "name": "Fred Murphy",
+        "original_name": "Fred Murphy",
+        "popularity": 0.4375,
+        "profile_path": null,
+        "credit_id": "5e48eab535811d001747c21d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10644,
+        "known_for_department": "Art",
+        "name": "Josie MacAvin",
+        "original_name": "Josie MacAvin",
+        "popularity": 0.9412,
+        "profile_path": null,
+        "credit_id": "5e48eb1e1e92250018c18c51",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 958799,
+        "known_for_department": "Production",
+        "name": "Nuala Moiselle",
+        "original_name": "Nuala Moiselle",
+        "popularity": 0.435,
+        "profile_path": null,
+        "credit_id": "5e48eadd1e92250018c18bfc",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22033,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer L. Parsons",
+        "original_name": "Jennifer L. Parsons",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "credit_id": "5e48ebe0676ce2001aff5483",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10641,
+        "known_for_department": "Art",
+        "name": "Stephen B. Grimes",
+        "original_name": "Stephen B. Grimes",
+        "popularity": 0.9352,
+        "profile_path": null,
+        "credit_id": "5e48eaf01e92250015c1986c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640694,
+        "known_for_department": "Production",
+        "name": "Wieland Schulz-Keil",
+        "original_name": "Wieland Schulz-Keil",
+        "popularity": 0.8627,
+        "profile_path": null,
+        "credit_id": "5e48ea7f1e9225001dc1818e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9884,
+        "known_for_department": "Production",
+        "name": "Chris Sievernich",
+        "original_name": "Chris Sievernich",
+        "popularity": 0.2861,
+        "profile_path": "/6ooUl8VseHvDnvvs6puNTXgPvBv.jpg",
+        "credit_id": "5e48ea922d93750013a7bed3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 260646,
+        "known_for_department": "Production",
+        "name": "Tom Shaw",
+        "original_name": "Tom Shaw",
+        "popularity": 0.2588,
+        "profile_path": null,
+        "credit_id": "5e48eb6e35811d0015476991",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29800,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dorothy Jeakins",
+        "original_name": "Dorothy Jeakins",
+        "popularity": 1.1174,
+        "profile_path": "/kHubyYOC4c1H2aECOADKrhskGma.jpg",
+        "credit_id": "5e48eb2d2d93750019a7efcd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90194,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anthony Cortino",
+        "original_name": "Anthony Cortino",
+        "popularity": 0.5987,
+        "profile_path": null,
+        "credit_id": "5e48eb55676ce20015ff0c89",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 69100,
+        "known_for_department": "Production",
+        "name": "William J. Quigley",
+        "original_name": "William J. Quigley",
+        "popularity": 1.0946,
+        "profile_path": null,
+        "credit_id": "5e48ea612d93750013a7be7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16614,
+        "known_for_department": "Art",
+        "name": "J. Dennis Washington",
+        "original_name": "J. Dennis Washington",
+        "popularity": 1.0517,
+        "profile_path": null,
+        "credit_id": "5e48eaff2d93750019a7efb2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53687,
+        "known_for_department": "Editing",
+        "name": "Roberto Silvi",
+        "original_name": "Roberto Silvi",
+        "popularity": 0.462,
+        "profile_path": null,
+        "credit_id": "5e48eac71e92250018c18be7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66142,
+        "known_for_department": "Sound",
+        "name": "Kenneth Wannberg",
+        "original_name": "Kenneth Wannberg",
+        "popularity": 0.6867,
+        "profile_path": null,
+        "credit_id": "5e48ebfc2d93750015a792a4",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1826952,
+        "known_for_department": "Acting",
+        "name": "Wayne Mallory",
+        "original_name": "Wayne Mallory",
+        "popularity": 0.5214,
+        "profile_path": "/nc5zXuxH0vrCYERAH5w6nfowk90.jpg",
+        "credit_id": "5f3edc2297eab400395df4f8",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10536,
+        "known_for_department": "Sound",
+        "name": "Alex North",
+        "original_name": "Alex North",
+        "popularity": 1.4277,
+        "profile_path": "/zk2hqLyIv84pGTZsFCqXlATbABD.jpg",
+        "credit_id": "684f3fd72479c24073295050",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150228,
+        "known_for_department": "Writing",
+        "name": "James Joyce",
+        "original_name": "James Joyce",
+        "popularity": 0.5632,
+        "profile_path": "/kE3LU37wPI5lGDKFByRePwqj4eA.jpg",
+        "credit_id": "684f528ed374eef39f3fe7e8",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4802002,
+        "known_for_department": "Art",
+        "name": "Cos Egan",
+        "original_name": "Cos Egan",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "692751f352403149d5c122c2",
+        "department": "Art",
+        "job": "Props"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 39507,
+    "keywords": [
+      {
+        "id": 4729,
+        "name": "dublin, ireland"
+      },
+      {
+        "id": 156866,
+        "name": "based on short story"
+      },
+      {
+        "id": 191260,
+        "name": "dinner party"
+      },
+      {
+        "id": 236170,
+        "name": "1900s"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/oaRdRdqahtSvHK6VkOphVwGtPRN.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 221,
+        "original_language": "en",
+        "original_title": "Rebel Without a Cause",
+        "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+        "popularity": 2.4871,
+        "poster_path": "/yHStsC8rRRfIjqRN38BQsLh6S7k.jpg",
+        "release_date": "1955-10-27",
+        "title": "Rebel Without a Cause",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1719
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hFaFE7EpKTnjG3LDhoV40gd9vsU.jpg",
+        "genre_ids": [
+          10402,
+          18,
+          10749
+        ],
+        "id": 1940,
+        "original_language": "en",
+        "original_title": "Porgy and Bess",
+        "overview": "In the early 1900s, the fictional Catfish Row section of Charleston, South Carolina serves as home to a black fishing community. Crippled beggar Porgy, who travels about in a goat-drawn cart, loves the drug-addicted Bess, who lives with stevedore Crown, the local bully.",
+        "popularity": 0.6432,
+        "poster_path": "/g4zwlj8bgRYsUoF0VEwPEgldCvn.jpg",
+        "release_date": "1959-06-24",
+        "title": "Porgy and Bess",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r73OdC9TpRIknIsVyGCd5SSwplO.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1999,
+        "original_language": "en",
+        "original_title": "In the Bedroom",
+        "overview": "Summertime on the coast of Maine, \"In the Bedroom\" centers on the inner dynamics of a family in transition. Matt Fowler is a doctor practicing in his native Maine and is married to New York born Ruth Fowler, a music teacher. His son is involved in a love affair with a local single mother. As the beauty of Maine's brief and fleeting summer comes to an end, these characters find themselves in the midst of unimaginable tragedy.",
+        "popularity": 3.5635,
+        "poster_path": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+        "release_date": "2001-11-23",
+        "title": "In the Bedroom",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 387
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+        "genre_ids": [
+          10402,
+          18,
+          10749
+        ],
+        "id": 10784,
+        "original_language": "en",
+        "original_title": "Cabaret",
+        "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+        "popularity": 5.4344,
+        "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+        "release_date": "1972-02-13",
+        "title": "Cabaret",
+        "video": false,
+        "vote_average": 7.421,
+        "vote_count": 939
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 7345,
+        "original_language": "en",
+        "original_title": "There Will Be Blood",
+        "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+        "popularity": 8.4362,
+        "poster_path": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+        "release_date": "2007-12-26",
+        "title": "There Will Be Blood",
+        "video": false,
+        "vote_average": 8.08,
+        "vote_count": 7161
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rLmwVm8EjSX025UJTauIWPlwQ4.jpg",
+        "genre_ids": [
+          10752,
+          18
+        ],
+        "id": 461884,
+        "original_language": "sq",
+        "original_title": "Tokë e përgjakur",
+        "overview": "Film set in three different times. In the beginning, Miti is killed while defending his land. Then, the film focuses on his son Gjergji who fights against the Italian forces. In the end, the land is redistributed by the agrarian reform.",
+        "popularity": 0.1418,
+        "poster_path": "/oclbTkbVwQwtCsEcViT6crybuoV.jpg",
+        "release_date": "1976-02-06",
+        "title": "Bloody Land",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 1116,
+        "original_language": "en",
+        "original_title": "The Wind That Shakes the Barley",
+        "overview": "In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.",
+        "popularity": 2.3514,
+        "poster_path": "/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg",
+        "release_date": "2006-06-23",
+        "title": "The Wind That Shakes the Barley",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 864
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6SAF9estvZuFVvJBU8gCVj1kBV3.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 267822,
+        "original_language": "cs",
+        "original_title": "Hanele",
+        "overview": "Based on an autobiographical novella by Ivan Olbracht, the film tells the story of Hanele Safarová, who grows up just after the First World War in a little Ruthenian schtetl which, in true Hassidic fashion, awaits the arrival of the Messiah. But Hanele decides to follow the Zionists instead. She moves to the city to prepare for her departure to the Promised Land, where she meets a successful businessman named Ivo Karadzic, who has renounced Judaism to become a free-thinker. Their love for each other doesn’t only drive Hanele’s parents to distraction, it also threatens to destroy the entire community in the schetl.",
+        "popularity": 0.1804,
+        "poster_path": "/fVvJDL3RPh2C00i4UQvz9rknBbm.jpg",
+        "release_date": "1999-11-04",
+        "title": "Hanele",
+        "video": false,
+        "vote_average": 4.333,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6e2yeFZgtD7RKpUYEOjj5v7oAUz.jpg",
+        "genre_ids": [
+          14,
+          18
+        ],
+        "id": 842924,
+        "original_language": "en",
+        "original_title": "The Life of Chuck",
+        "overview": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
+        "popularity": 12.3518,
+        "poster_path": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+        "release_date": "2025-06-05",
+        "title": "The Life of Chuck",
+        "video": false,
+        "vote_average": 7.313,
+        "vote_count": 662
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7fQBvIoLoO2q2ox7ux03JINTfba.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 3631,
+        "original_language": "en",
+        "original_title": "Tara Road",
+        "overview": "A grieving Connecticut mother temporarily switches houses with a woman in Dublin, Ireland.",
+        "popularity": 5.1454,
+        "poster_path": "/1NFO90kY1mQ7eZg7PJj2yfJFk1d.jpg",
+        "release_date": "2005-05-11",
+        "title": "Tara Road",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 37
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 846037,
+        "original_language": "sk",
+        "original_title": "Hriech Kataríny Padychovej",
+        "overview": "Štefan Padych loses a lawsuit against Šulgan, a local innkeeper to whom he owes money. Not wanting his wife and three-year-old daughter to starve, he decides to leave for France. However, after his departure, his wife Katarína Padych commits infidelity and becomes pregnant...",
+        "popularity": 0.7005,
+        "poster_path": "/fgrf2sg3jnCh5JLgfBLGrHQmZhj.jpg",
+        "release_date": "1973-01-01",
+        "title": "Hriech Kataríny Padychovej",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/stBBSoTudhuGosaX3pcGHKWQcuS.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1238170,
+        "original_language": "hi",
+        "original_title": "आँखों की गुस्ताखियाँ",
+        "overview": "When a blind musician and a theatre artist meet on a train and travel through the majestic Himalayas, they fall in love regardless of their apparent flaws. What happens when life takes over?",
+        "popularity": 0.7636,
+        "poster_path": "/bH4aCEYqF6JMAlfulFmmG0pSN8.jpg",
+        "release_date": "2025-07-11",
+        "title": "Aankhon Ki Gustaakhiyan",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fOfcbdBQBCO4Y2hy6DfLbb30klU.jpg",
+        "genre_ids": [
+          18,
+          37,
+          10749,
+          10752,
+          28
+        ],
+        "id": 4476,
+        "original_language": "en",
+        "original_title": "Legends of the Fall",
+        "overview": "In early 20th-century Montana, Col. William Ludlow lives on a ranch in the wilderness with his sons, Alfred, Tristan, and Samuel. Eventually, the unconventional but close-knit family are bound by loyalty, tested by war, and torn apart by love, as told over the course of several decades in this epic saga.",
+        "popularity": 6.3896,
+        "poster_path": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+        "release_date": "1994-12-23",
+        "title": "Legends of the Fall",
+        "video": false,
+        "vote_average": 7.383,
+        "vote_count": 2763
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+        "genre_ids": [
+          18,
+          14,
+          10749
+        ],
+        "id": 4922,
+        "original_language": "en",
+        "original_title": "The Curious Case of Benjamin Button",
+        "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+        "popularity": 8.4961,
+        "poster_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+        "release_date": "2008-12-25",
+        "title": "The Curious Case of Benjamin Button",
+        "video": false,
+        "vote_average": 7.596,
+        "vote_count": 13414
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dskxBjNFZsn6ThCZ7vAqd5UueEl.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 3087,
+        "original_language": "en",
+        "original_title": "Yankee Doodle Dandy",
+        "overview": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+        "popularity": 0.9485,
+        "poster_path": "/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+        "release_date": "1942-05-29",
+        "title": "Yankee Doodle Dandy",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 224
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dYCmzdD0INOsNRoJOjqCLsirl4M.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 3012,
+        "original_language": "en",
+        "original_title": "The Victors",
+        "overview": "Intercutting dramatic vignettes with newsreel footage, the story follows the characters from an infantry squad as they make their way from Sicily to Germany during the end of World War II.",
+        "popularity": 3.0072,
+        "poster_path": "/bVzJNdrhSjEzeyLle0rbJaH7Xon.jpg",
+        "release_date": "1963-11-22",
+        "title": "The Victors",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aIVL5crQCBMPxKMoExiIsUDFPeR.jpg",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "id": 2277,
+        "original_language": "en",
+        "original_title": "Bicentennial Man",
+        "overview": "Richard Martin buys a gift, a new NDR-114 robot. The product is named Andrew by the youngest of the family's children. \"Bicentennial Man\" follows the life and times of Andrew, a robot purchased as a household appliance programmed to perform menial tasks. As Andrew begins to experience emotions and creative thought, the Martin family soon discovers they don't have an ordinary robot.",
+        "popularity": 4.4088,
+        "poster_path": "/wrs23eO0VEWwOQpXoOasMnlW9Y4.jpg",
+        "release_date": "1999-12-17",
+        "title": "Bicentennial Man",
+        "video": false,
+        "vote_average": 7.268,
+        "vote_count": 3801
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 459792,
+        "original_language": "es",
+        "original_title": "El último reloj",
+        "overview": "In 1829, a young man goes to London in search of his uncle, an irate watchmaker, in order to provide him with a home and a job.",
+        "popularity": 0.7607,
+        "poster_path": "/roEcOSCwMx8N36eOPLUBv3ReBuB.jpg",
+        "release_date": "1964-12-18",
+        "title": "El último reloj",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 844889,
+        "original_language": "hi",
+        "original_title": "माया",
+        "overview": "Disillusioned with his wealthy friends, a man pretends to be poor and goes to live in the slums where he falls in love with a burglar's sister.",
+        "popularity": 0.4281,
+        "poster_path": "/y9nufhmVV2u2guPbaQgZxEkCZMj.jpg",
+        "release_date": "1961-11-24",
+        "title": "Maya",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qH6e13I6ScnJ8JGkbbChYsZ7puK.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          53
+        ],
+        "id": 4657,
+        "original_language": "en",
+        "original_title": "Jindabyne",
+        "overview": "Outside the Australian town of Jindabyne, local man Stuart Kane is on a fishing trip with friends when they discover the body of a murdered girl.",
+        "popularity": 4.0406,
+        "poster_path": "/zozfpvbl8OezjqBsgFByTGkbnw8.jpg",
+        "release_date": "2006-07-20",
+        "title": "Jindabyne",
+        "video": false,
+        "vote_average": 5.46,
+        "vote_count": 75
+      }
+    ],
+    "total_pages": 14009,
+    "total_results": 280169
+  }
+}

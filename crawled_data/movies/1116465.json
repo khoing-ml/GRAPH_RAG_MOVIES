@@ -1,0 +1,963 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+    "belongs_to_collection": {
+      "id": 1452167,
+      "name": "The Myth Collection",
+      "poster_path": "/6TRuMYz8mmbBxucQbyksbOFfieY.jpg",
+      "backdrop_path": "/5GC4cUCAk5RSqVVZWsbCFh6KbEa.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "",
+    "id": 1116465,
+    "imdb_id": "tt27589902",
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "传说",
+    "overview": "An archeologist noticed that the texture of the relics discovered during the excavation of a glacier closely resembled a jade pendant seen in one of his dreams. He and his team then embark on an expedition into the depths of the glacier.",
+    "popularity": 50.4084,
+    "poster_path": "/qbImUt1d3itXcB81BCItPZlfbyr.jpg",
+    "production_companies": [
+      {
+        "id": 30148,
+        "logo_path": "/zerhOenUD6CkH8SMgZUhrDkOs4w.png",
+        "name": "Bona Film Group",
+        "origin_country": "CN"
+      },
+      {
+        "id": 235676,
+        "logo_path": null,
+        "name": "Just Creative Studio",
+        "origin_country": "HK"
+      },
+      {
+        "id": 140473,
+        "logo_path": null,
+        "name": "Shanghai Lix Entertainment",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "2024-07-05",
+    "revenue": 11242056,
+    "runtime": 129,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Legend",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 131
+  },
+  "credits": {
+    "id": 1116465,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 16.3821,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "cast_id": 1,
+        "character": "Professor Fang/Zhao Zhan",
+        "credit_id": "644382b305822404bf328722",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1532511,
+        "known_for_department": "Acting",
+        "name": "Zhang Yixing",
+        "original_name": "张艺兴",
+        "popularity": 3.4974,
+        "profile_path": "/xGkVcsvCLhHeawuCBmVwmUi6llP.jpg",
+        "cast_id": 2,
+        "character": "Wang Jing/Hua Jun",
+        "credit_id": "644382dacee2f6049f367763",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1291460,
+        "known_for_department": "Acting",
+        "name": "Gulnezer Bextiyar",
+        "original_name": "古力娜扎",
+        "popularity": 15.2409,
+        "profile_path": "/9HZkWl3glcA56J1rWlMU1TKh71q.jpg",
+        "cast_id": 3,
+        "character": "Princess Mengyun",
+        "credit_id": "644382efa06efe059ea46331",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148881,
+        "known_for_department": "Acting",
+        "name": "Aarif Rahman",
+        "original_name": "李治廷",
+        "popularity": 2.6782,
+        "profile_path": "/xIhutO65mdNEWKHusfvHZYTDITE.jpg",
+        "cast_id": 4,
+        "character": "He Boer/Hu Duna",
+        "credit_id": "6443830db3f6f502fc9e62bf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130984,
+        "known_for_department": "Acting",
+        "name": "Jerry Lee",
+        "original_name": "李晨",
+        "popularity": 1.5232,
+        "profile_path": "/29SF639O4mzp3dhIuIFcaux0Te9.jpg",
+        "cast_id": 5,
+        "character": "Lei Zhen",
+        "credit_id": "6443832905822404bf32877a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2243680,
+        "known_for_department": "Acting",
+        "name": "Peng Xiaoran",
+        "original_name": "彭小苒",
+        "popularity": 3.9316,
+        "profile_path": "/koH1Nk2jvYxUVKwRIoEFJsZwgNF.jpg",
+        "cast_id": 6,
+        "character": "Xin Ran",
+        "credit_id": "64438342b3f6f502fc9e62e3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145093,
+        "known_for_department": "Acting",
+        "name": "Shawn Dou",
+        "original_name": "窦骁",
+        "popularity": 2.8811,
+        "profile_path": "/3SN0FoX3rqFez0A5WrBZhXKsFQm.jpg",
+        "cast_id": 10,
+        "character": "Huo Nguo",
+        "credit_id": "6645ffb08a5d3d9c75eed623",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683307,
+        "known_for_department": "Acting",
+        "name": "Zheng Yecheng",
+        "original_name": "郑业成",
+        "popularity": 2.8013,
+        "profile_path": "/cYgbZiaaGa25peTsf10mvX7KoZb.jpg",
+        "cast_id": 9,
+        "character": "Ye Cheng",
+        "credit_id": "644383f4cee2f604c9368a1b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2133485,
+        "known_for_department": "Acting",
+        "name": "Ma Yuan",
+        "original_name": "马元",
+        "popularity": 1.2963,
+        "profile_path": "/pP4Yrwk7jeAbtRj8jfIPD2Pl6km.jpg",
+        "cast_id": 16,
+        "character": "Museum Curator",
+        "credit_id": "6682deaa91f58d44891e4c88",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78877,
+        "known_for_department": "Acting",
+        "name": "Ray Lui",
+        "original_name": "呂良偉",
+        "popularity": 3.135,
+        "profile_path": "/vAWHhBCWZwBKLsujgEKusfMLmCO.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6682defd835232f20149ce6e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 593167,
+        "known_for_department": "Acting",
+        "name": "Jin Qiaoqiao",
+        "original_name": "金巧巧",
+        "popularity": 1.4153,
+        "profile_path": "/wLsA8CJSUpq5NXXn9NlQgptklPw.jpg",
+        "cast_id": 18,
+        "character": "Mengyun's mother",
+        "credit_id": "6682df0d4b03bddf169b09dc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4804960,
+        "known_for_department": "Acting",
+        "name": "Ma Yanli",
+        "original_name": "Ma Yanli",
+        "popularity": 0.276,
+        "profile_path": "/39yvIP89CUy8KgRjlWEi8yV8AHE.jpg",
+        "cast_id": 19,
+        "character": "Omansa",
+        "credit_id": "6682df8bb6256939b22feb29",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2295882,
+        "known_for_department": "Acting",
+        "name": "Jia Bing",
+        "original_name": "贾冰",
+        "popularity": 3.13,
+        "profile_path": "/pum0e3d2ZVq9XZyNohZSXt46bkH.jpg",
+        "cast_id": 20,
+        "character": "Ice fishing man",
+        "credit_id": "6682dfae205efcb92a008a35",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44916,
+        "known_for_department": "Directing",
+        "name": "Stanley Tong Gwai-Lai",
+        "original_name": "唐季禮",
+        "popularity": 2.3068,
+        "profile_path": "/cunufPnRrZuYwvz8M11c3cr6GVf.jpg",
+        "cast_id": 21,
+        "character": "Investor",
+        "credit_id": "6682dfc9fd5802b14649cde5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70688,
+        "known_for_department": "Acting",
+        "name": "Kim Hee-seon",
+        "original_name": "김희선",
+        "popularity": 2.9938,
+        "profile_path": "/rYh0BhMgMKyoASkuW0SYSFqpWzX.jpg",
+        "cast_id": 11,
+        "character": "Mystery woman",
+        "credit_id": "6645ffb8a9b7488fb2a90528",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2375145,
+        "known_for_department": "Acting",
+        "name": "Alan Dawa Dolma",
+        "original_name": "阿兰·达瓦卓玛",
+        "popularity": 1.2162,
+        "profile_path": "/9aICbdFpMb6ithMZXfrqHE9pH39.jpg",
+        "cast_id": 22,
+        "character": "Han woman",
+        "credit_id": "6797f5189ca029099c2b2460",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1358974,
+        "known_for_department": "Acting",
+        "name": "Max Huang",
+        "original_name": "Max Huang",
+        "popularity": 1.849,
+        "profile_path": "/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "6797f5489ca029099c2b2473",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2582660,
+        "known_for_department": "Acting",
+        "name": "Bassem Khayati",
+        "original_name": "Bassem Khayati",
+        "popularity": 0.2539,
+        "profile_path": "/893gEsVu6CYFUfRtC9FQkXRUP0q.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "6797f56809c252e3ab23e993",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724346,
+        "known_for_department": "Acting",
+        "name": "Wang Yanlin",
+        "original_name": "王彥霖",
+        "popularity": 2.3548,
+        "profile_path": "/bl4wKqUhYdPNVg0p4rXJ2ZVO3T0.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "6797f5ae192115901e8f5569",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2243680,
+        "known_for_department": "Acting",
+        "name": "Peng Xiaoran",
+        "original_name": "彭小苒",
+        "popularity": 3.9316,
+        "profile_path": "/koH1Nk2jvYxUVKwRIoEFJsZwgNF.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "6797f5b9013209f8918f6e50",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683307,
+        "known_for_department": "Acting",
+        "name": "Zheng Yecheng",
+        "original_name": "郑业成",
+        "popularity": 2.8013,
+        "profile_path": "/cYgbZiaaGa25peTsf10mvX7KoZb.jpg",
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "6797f5c009c252e3ab23e9b7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4826744,
+        "known_for_department": "Acting",
+        "name": "Erfan Aziz",
+        "original_name": "艾尔番",
+        "popularity": 1.0405,
+        "profile_path": "/2QKhlYEdwohBkyIk69ZvELgxOqM.jpg",
+        "cast_id": 31,
+        "character": "Crown Prince of Hun",
+        "credit_id": "68a3ce71c2fa3b0ed758d6e5",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5900772,
+        "known_for_department": "Acting",
+        "name": "Li Zhiyuan",
+        "original_name": "李志远",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Security",
+        "credit_id": "694fb86542b428abdf2fc17c",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44916,
+        "known_for_department": "Directing",
+        "name": "Stanley Tong Gwai-Lai",
+        "original_name": "唐季禮",
+        "popularity": 2.3068,
+        "profile_path": "/cunufPnRrZuYwvz8M11c3cr6GVf.jpg",
+        "credit_id": "64438364cee2f6049f3677b2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44916,
+        "known_for_department": "Directing",
+        "name": "Stanley Tong Gwai-Lai",
+        "original_name": "唐季禮",
+        "popularity": 2.3068,
+        "profile_path": "/cunufPnRrZuYwvz8M11c3cr6GVf.jpg",
+        "credit_id": "6443838ccee2f6049f3677d2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46321,
+        "known_for_department": "Production",
+        "name": "Barbie Tung Wan-Si",
+        "original_name": "董韻詩",
+        "popularity": 1.4571,
+        "profile_path": "/hYsmuPJT8tY9vgjMGZNd5MRwLnU.jpg",
+        "credit_id": "6645ffdcabe7563b1591e024",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71067,
+        "known_for_department": "Production",
+        "name": "Yu Dong",
+        "original_name": "于冬",
+        "popularity": 1.2897,
+        "profile_path": "/xaUpj7EoLoWPtEmNl2RRnQSEafj.jpg",
+        "credit_id": "6645ffcd73cdb44bbf2efe7f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326148,
+        "known_for_department": "Production",
+        "name": "Homber Yin",
+        "original_name": "尹红波",
+        "popularity": 0.6027,
+        "profile_path": "/4yc9maIwOBQ6tfEhPbnbEAEGXLk.jpg",
+        "credit_id": "6645ffe9184f8262732473c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593249,
+        "known_for_department": "Crew",
+        "name": "He Jun",
+        "original_name": "何钧",
+        "popularity": 0.7502,
+        "profile_path": null,
+        "credit_id": "6645fff75ee10ef655c688f4",
+        "department": "Directing",
+        "job": "Action Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1311746,
+        "known_for_department": "Camera",
+        "name": "Chris Lee Chi-Wa",
+        "original_name": "李志華",
+        "popularity": 0.9955,
+        "profile_path": null,
+        "credit_id": "6797f67f16f0d960df23c20f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46324,
+        "known_for_department": "Sound",
+        "name": "Nathan Wang",
+        "original_name": "Nathan Wang",
+        "popularity": 0.5399,
+        "profile_path": "/9lLus0ucZaoCwpU6mjwjPyaVe95.jpg",
+        "credit_id": "6797f690013209f8918f6ece",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1116465,
+    "keywords": [
+      {
+        "id": 163070,
+        "name": "burlesque"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 325775,
+        "name": "awestruck"
+      },
+      {
+        "id": 325824,
+        "name": "hopeful"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35
+        ],
+        "id": 501929,
+        "original_language": "en",
+        "original_title": "The Mitchells vs. the Machines",
+        "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+        "popularity": 5.7546,
+        "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+        "release_date": "2021-04-22",
+        "title": "The Mitchells vs. the Machines",
+        "video": false,
+        "vote_average": 7.86,
+        "vote_count": 3200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A3DD0R6vZ5SwD0qGKaU7HL5KVat.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "id": 500916,
+        "original_language": "en",
+        "original_title": "Primal",
+        "overview": "A big-game hunter for zoos books passage on a Greek shipping freighter with a fresh haul of exotic and deadly animals from the Amazon, including a rare white Jaguar – along with a political assassin being extradited to the U.S in secret. Two days into the journey, the assassin escapes and releases the captive animals, throwing the ship into chaos.",
+        "popularity": 6.6591,
+        "poster_path": "/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
+        "release_date": "2019-12-27",
+        "title": "Primal",
+        "video": false,
+        "vote_average": 5.594,
+        "vote_count": 409
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pFLs2qFhfp7k2zgT69fTkcl0uHF.jpg",
+        "genre_ids": [
+          12,
+          35,
+          14,
+          28,
+          10751
+        ],
+        "id": 1091181,
+        "original_language": "fr",
+        "original_title": "Loups-Garous",
+        "overview": "When an old card game comes to life, a family jumps back in time to a medieval village where they must unmask werewolves to secure their return home.",
+        "popularity": 2.896,
+        "poster_path": "/nKDH9pjh1fkBcb3PNouQ0qmN6cW.jpg",
+        "release_date": "2024-10-22",
+        "title": "Family Pack",
+        "video": false,
+        "vote_average": 5.61,
+        "vote_count": 510
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cV3F1twNGuRdNyxPdPsndnSjAvQ.jpg",
+        "genre_ids": [
+          16,
+          35,
+          12
+        ],
+        "id": 1088812,
+        "original_language": "en",
+        "original_title": "SpongeBob SquarePants Presents The Tidal Zone",
+        "overview": "GrandPat travels through alternate dimensions and timelines to get home.",
+        "popularity": 1.6772,
+        "poster_path": "/nKucyECwkf7MuU1GyWcf2S8SuMQ.jpg",
+        "release_date": "2023-01-13",
+        "title": "SpongeBob SquarePants Presents The Tidal Zone",
+        "video": false,
+        "vote_average": 7.048,
+        "vote_count": 42
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aD7FXrm2GErTmzrIFBntPyhAqS9.jpg",
+        "genre_ids": [
+          53,
+          28
+        ],
+        "id": 1087891,
+        "original_language": "en",
+        "original_title": "The Amateur",
+        "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+        "popularity": 16.3656,
+        "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+        "release_date": "2025-04-09",
+        "title": "The Amateur",
+        "video": false,
+        "vote_average": 6.977,
+        "vote_count": 1423
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 505642,
+        "original_language": "en",
+        "original_title": "Black Panther: Wakanda Forever",
+        "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "popularity": 12.1042,
+        "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+        "release_date": "2022-11-09",
+        "title": "Black Panther: Wakanda Forever",
+        "video": false,
+        "vote_average": 7.02,
+        "vote_count": 7175
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          35,
+          14
+        ],
+        "id": 508965,
+        "original_language": "en",
+        "original_title": "Klaus",
+        "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
+        "popularity": 11.4131,
+        "poster_path": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+        "release_date": "2019-11-08",
+        "title": "Klaus",
+        "video": false,
+        "vote_average": 8.228,
+        "vote_count": 4503
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+        "genre_ids": [
+          16,
+          35,
+          14,
+          12,
+          10751
+        ],
+        "id": 508943,
+        "original_language": "en",
+        "original_title": "Luca",
+        "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+        "popularity": 10.3066,
+        "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+        "release_date": "2021-06-17",
+        "title": "Luca",
+        "video": false,
+        "vote_average": 7.789,
+        "vote_count": 8775
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yzoyr6nuB3ChA38MSHjYKlMpU6W.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 370076,
+        "original_language": "ta",
+        "original_title": "தெறி",
+        "overview": "When an honest cop, Vijay Kumar's family is ruthlessly slaughtered by a politician and his aides, he decides to change his identity and commits his life to bring his daughter up in a serene atmosphere. But some freak events end up compromising his identity and what he does to save his daughter and avenge the death of his family unfurls as Theri.",
+        "popularity": 1.7724,
+        "poster_path": "/76dNbqvUlYKcCudhL4sr0WzMhvw.jpg",
+        "release_date": "2016-04-14",
+        "title": "Theri",
+        "video": false,
+        "vote_average": 6.657,
+        "vote_count": 99
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gK7dV4CWk6f9OWbYk8TRhGPxGDn.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          28
+        ],
+        "id": 1341876,
+        "original_language": "en",
+        "original_title": "fruwająca FORTUNA",
+        "overview": "What are the chances of winning the lottery jackpot and then losing it instantaneously? Our unlucky hero Phaidon is about to find out, in a heart-wrenching turn of events, as fortune flies away.",
+        "popularity": 1.1101,
+        "poster_path": "/oyLiJ4DICU3YLsEBBeFFFyp3bFU.jpg",
+        "release_date": "2017-08-12",
+        "title": "Fortune Flies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oq1CCCjtXZhoUD3j9m3FPCGV7aX.jpg",
+        "genre_ids": [
+          12,
+          35,
+          16
+        ],
+        "id": 322603,
+        "original_language": "xx",
+        "original_title": "Sweet Cocoon",
+        "overview": "A story about a caterpillar undergoing metaphorphosis in a too-small cocoon.",
+        "popularity": 0.1771,
+        "poster_path": "/lh3q8g4Oa5h73C5AJ3e5PdiM3pN.jpg",
+        "release_date": "2014-09-04",
+        "title": "Sweet Cocoon",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Ad0O2lK5XHu1iBywSH039l5dGgA.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 513045,
+        "original_language": "en",
+        "original_title": "Stuber",
+        "overview": "After crashing his car, a cop who's recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city's seedy side.",
+        "popularity": 4.9951,
+        "poster_path": "/gqk7ndiGn9WUT5UDTm6KHwGTv3m.jpg",
+        "release_date": "2019-07-11",
+        "title": "Stuber",
+        "video": false,
+        "vote_average": 6.622,
+        "vote_count": 1360
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dze068iVyTADUG4WyUxL3H1k2XA.jpg",
+        "genre_ids": [
+          27,
+          14,
+          10749
+        ],
+        "id": 516850,
+        "original_language": "ru",
+        "original_title": "Русалка. Озеро мертвых",
+        "overview": "An evil Mermaid falls in love with Marina's fiancé Roman and aims to keep him away from Marina in her Kingdom of Death under water. The Mermaid is a young woman who drowned a few centuries ago. Marina only has one week to overcome her fear of the dark water, to remain human in the deathly fight with the monsters and not to become one herself.",
+        "popularity": 2.1143,
+        "poster_path": "/gGFZ84plg0TPM737j8ccpseh96l.jpg",
+        "release_date": "2018-07-12",
+        "title": "The Mermaid: Lake of the Dead",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 348
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/croOmkPszzl9p8ASq4NTYunFJ5E.jpg",
+        "genre_ids": [
+          80,
+          28,
+          35
+        ],
+        "id": 58233,
+        "original_language": "en",
+        "original_title": "Johnny English Reborn",
+        "overview": "The most prominent heads of state in the world begin gathering for a conference that could have a major impact on global politics. When MI-7 receives word that the Chinese premier has become the target of some high-powered killers, it falls on Johnny English to save the day. Armed with the latest high-tech weaponry and gadgets that would make even James Bond jealous, the once-disgraced agent uncovers evidence of a massive conspiracy involving some of the world's most powerful organisations, and vows to redeem his tarnished reputation by stopping the killers before they can strike.",
+        "popularity": 5.714,
+        "poster_path": "/1T6qnlTVkrGr0mpgZbpSwVU5FWW.jpg",
+        "release_date": "2011-09-15",
+        "title": "Johnny English Reborn",
+        "video": false,
+        "vote_average": 6.241,
+        "vote_count": 3481
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/usRMTDl5fiVyalLKKjlZIlq3CP.jpg",
+        "genre_ids": [
+          12,
+          35,
+          10751,
+          14
+        ],
+        "id": 62764,
+        "original_language": "en",
+        "original_title": "Mirror Mirror",
+        "overview": "After she spends all her money, an evil enchantress queen schemes to marry a handsome, wealthy prince. There's just one problem - he's in love with a beautiful princess, Snow White. Now, joined by seven rebellious dwarves, Snow White launches an epic battle of good vs. evil...",
+        "popularity": 4.1608,
+        "poster_path": "/eN4t5f3GdqEGVfC2XdEvBioSZKF.jpg",
+        "release_date": "2012-03-15",
+        "title": "Mirror Mirror",
+        "video": false,
+        "vote_average": 5.918,
+        "vote_count": 3240
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+        "genre_ids": [
+          53,
+          28,
+          18,
+          878
+        ],
+        "id": 61791,
+        "original_language": "en",
+        "original_title": "Rise of the Planet of the Apes",
+        "overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+        "popularity": 8.2282,
+        "poster_path": "/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+        "release_date": "2011-08-03",
+        "title": "Rise of the Planet of the Apes",
+        "video": false,
+        "vote_average": 7.338,
+        "vote_count": 12464
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lKHmCtz1EBK0H6AFVrj0SNgL9FY.jpg",
+        "genre_ids": [
+          18,
+          878,
+          28
+        ],
+        "id": 1294794,
+        "original_language": "en",
+        "original_title": "Desolation",
+        "overview": "Troy Baker in a attempt to escape the pressures of his everyday life,  finds himself in a unearthly predicament when he's promised with a with a 'opportunity of a lifetime'",
+        "popularity": 0.1732,
+        "poster_path": "/1zbfZt9g5gJsqKOySLfHoPAeIKT.jpg",
+        "release_date": "2024-05-24",
+        "title": "Desolation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ouyZPqvvl84cAERqH3LgUXRex7y.jpg",
+        "genre_ids": [
+          14,
+          10749
+        ],
+        "id": 1294816,
+        "original_language": "es",
+        "original_title": "FRIHET",
+        "overview": "",
+        "popularity": 0.5768,
+        "poster_path": "/mLtaRGzROHN8HaDLQISr2qMLp9i.jpg",
+        "release_date": "2024-05-23",
+        "title": "FRIHET",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Odg6tPxxK8iTx7M1WwN0DACPGL.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          14
+        ],
+        "id": 1109778,
+        "original_language": "pt",
+        "original_title": "Evidências do Amor",
+        "overview": "On a random night, Marco and Laura meet at a karaoke bar and sing the song \"Evidências\" together. Since then, they fell in love and formed a couple that seemed perfect, until the moment they said “yes”. Without understanding what happened, now, every time this song plays, Marco will travel through his memories with Laura.",
+        "popularity": 1.8642,
+        "poster_path": "/yrMYACPK3t6EWlUAydK1wOYlxsh.jpg",
+        "release_date": "2024-04-11",
+        "title": "Traces of Love",
+        "video": false,
+        "vote_average": 7.19,
+        "vote_count": 71
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+        "genre_ids": [
+          28,
+          12,
+          80
+        ],
+        "id": 59859,
+        "original_language": "en",
+        "original_title": "Kick-Ass 2",
+        "overview": "After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.",
+        "popularity": 4.9882,
+        "poster_path": "/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
+        "release_date": "2013-07-17",
+        "title": "Kick-Ass 2",
+        "video": false,
+        "vote_average": 6.402,
+        "vote_count": 6431
+      }
+    ],
+    "total_pages": 4655,
+    "total_results": 93094
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/xmPdcsxOXukLUcF7dJd2z2rmUpV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81915373",
+    "id": 1275945,
+    "imdb_id": "tt32138523",
+    "origin_country": [
+      "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "Avicii - I'm Tim",
+    "overview": "Before Avicii, there was Tim. Through his own words, witness how a prodigious musical talent became one of the defining artists of his generation.",
+    "popularity": 2.1939,
+    "poster_path": "/bHrkrKQxYKem0ljWHPinIQK2gxy.jpg",
+    "production_companies": [
+      {
+        "id": 144285,
+        "logo_path": null,
+        "name": "Candamo Film",
+        "origin_country": "SE"
+      },
+      {
+        "id": 2999,
+        "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+        "name": "SVT",
+        "origin_country": "SE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "release_date": "2024-06-09",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Avicii - I'm Tim",
+    "video": false,
+    "vote_average": 8.104,
+    "vote_count": 106
+  },
+  "credits": {
+    "id": 1275945,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1101345,
+        "known_for_department": "Acting",
+        "name": "Avicii",
+        "original_name": "Avicii",
+        "popularity": 0.6704,
+        "profile_path": "/ucpsHXNxj5gjb5S1caCyt1USf4K.jpg",
+        "cast_id": 1,
+        "character": "Self (archive footage)",
+        "credit_id": "6620449d6a300b016532f20f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81129,
+        "known_for_department": "Acting",
+        "name": "Chris Martin",
+        "original_name": "Chris Martin",
+        "popularity": 1.6727,
+        "profile_path": "/LK6ptUtgzijpcTGwCCXXC5cBpu.jpg",
+        "cast_id": 9,
+        "character": "Self - Coldplay",
+        "credit_id": "662145590443c901877644b6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89056,
+        "known_for_department": "Acting",
+        "name": "David Guetta",
+        "original_name": "David Guetta",
+        "popularity": 0.603,
+        "profile_path": "/o0hjTcatffqrWpYsjANhRLUYcNA.jpg",
+        "cast_id": 10,
+        "character": "Self - DJ & Producer",
+        "credit_id": "6621456887ae7b0165d80c3a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4613,
+        "known_for_department": "Acting",
+        "name": "Nile Rodgers",
+        "original_name": "Nile Rodgers",
+        "popularity": 0.4512,
+        "profile_path": "/g3ApsaEiNiuwL1k51xIXwOgvQiE.jpg",
+        "cast_id": 11,
+        "character": "Self - Artist",
+        "credit_id": "66214579e4b576017dbc667c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4660319,
+        "known_for_department": "Acting",
+        "name": "Arash Pournouri",
+        "original_name": "Arash Pournouri",
+        "popularity": 0.242,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self - Partner, Co-Producer, Co-Writer, Executive Producer & Manager 2008⁠–2016",
+        "credit_id": "662145a2e4b576017dbc6693",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1036174,
+        "known_for_department": "Acting",
+        "name": "Aloe Blacc",
+        "original_name": "Aloe Blacc",
+        "popularity": 0.4792,
+        "profile_path": "/omrVWsEh237RREqYCAZhoSSAInX.jpg",
+        "cast_id": 13,
+        "character": "Self - Singer / Songwriter",
+        "credit_id": "662145aaae38430187298c39",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227015,
+        "known_for_department": "Acting",
+        "name": "Dan Tyminski",
+        "original_name": "Dan Tyminski",
+        "popularity": 1.1679,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self - Country Artist & Singer",
+        "credit_id": "6764b95f774ac5a2857486fb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5130348,
+        "known_for_department": "Acting",
+        "name": "Joe Janiak",
+        "original_name": "Joe Janiak",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self - Songwriter",
+        "credit_id": "6764bade330bce6ec990bd37",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4346163,
+        "known_for_department": "Acting",
+        "name": "Klas Bergling",
+        "original_name": "Klas Bergling",
+        "popularity": 1.3884,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self - Tim's Father",
+        "credit_id": "6764b96687b92a43be5ddc2b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56393,
+        "known_for_department": "Acting",
+        "name": "Anki Lidén",
+        "original_name": "Anki Lidén",
+        "popularity": 1.6799,
+        "profile_path": "/oVTXH33SgZGvSamiPh53UMRyvRS.jpg",
+        "cast_id": 18,
+        "character": "Self - Tim's Mother",
+        "credit_id": "6764b96a8e9d9ccdeb90bbfb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2312162,
+        "known_for_department": "Acting",
+        "name": "Carl Falk",
+        "original_name": "Carl Falk",
+        "popularity": 0.2436,
+        "profile_path": "/ouk9hsRIvFRPKnsbaadoHj49i2R.jpg",
+        "cast_id": 19,
+        "character": "Self - Songwriter & Tim's Friend",
+        "credit_id": "6764b96f8e9d9ccdeb90bc0d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5130337,
+        "known_for_department": "Acting",
+        "name": "Filip Åkesson",
+        "original_name": "Filip Åkesson",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self - Tim's Friend",
+        "credit_id": "6764b98787b92a43be5ddc3e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4680534,
+        "known_for_department": "Acting",
+        "name": "Per Sundin",
+        "original_name": "Per Sundin",
+        "popularity": 1.3986,
+        "profile_path": "/2cxJDtWmd8fjBhzah4eu7QzmT1O.jpg",
+        "cast_id": 21,
+        "character": "Self - CEO Universal Music Nordic Region",
+        "credit_id": "6764b98c774ac5a285748713",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5130339,
+        "known_for_department": "Acting",
+        "name": "Johnny Tennander",
+        "original_name": "Johnny Tennander",
+        "popularity": 0.1465,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self - Tim's A&R 2010⁠–2018, Sony Music Publishing",
+        "credit_id": "6764b99887b92a43be5ddc4d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5130340,
+        "known_for_department": "Acting",
+        "name": "Jesse Waits",
+        "original_name": "Jesse Waits",
+        "popularity": 0.1978,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self - Tim's Friend",
+        "credit_id": "6764b9b0330bce6ec990bcaf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 999580,
+        "known_for_department": "Acting",
+        "name": "Mike Einziger",
+        "original_name": "Mike Einziger",
+        "popularity": 0.4988,
+        "profile_path": "/q8ousu5s6VCpkndCFF8n4tvLwf5.jpg",
+        "cast_id": 24,
+        "character": "Self - Artist",
+        "credit_id": "6764b9b3330bce6ec990bcb6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5130341,
+        "known_for_department": "Acting",
+        "name": "Neil Jacobson",
+        "original_name": "Neil Jacobson",
+        "popularity": 0.1603,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self - A&R Avicii, CEO Geffen Records",
+        "credit_id": "6764b9b7774ac5a28574873c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1837833,
+        "known_for_department": "Acting",
+        "name": "Salem Al Fakir",
+        "original_name": "Salem Al Fakir",
+        "popularity": 0.3644,
+        "profile_path": "/umM6DQ0kNzfxgD1jqOFbFoCh7Bl.jpg",
+        "cast_id": 26,
+        "character": "Self - Artist",
+        "credit_id": "6764b9bc330bce6ec990bcbb",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2600220,
+        "known_for_department": "Sound",
+        "name": "Vincent Pontare",
+        "original_name": "Vincent Pontare",
+        "popularity": 0.1717,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self - Artist",
+        "credit_id": "6764b9c0774ac5a285748745",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5130342,
+        "known_for_department": "Acting",
+        "name": "Christer Thordson",
+        "original_name": "Christer Thordson",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self - Representative of Tim Bergling and Avicii Music 2014⁠–2018",
+        "credit_id": "6764b9d4774ac5a28574875f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5130344,
+        "known_for_department": "Acting",
+        "name": "Katie Bain",
+        "original_name": "Katie Bain",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Self - Director, Billboard Magazine Dance",
+        "credit_id": "6764b9e0330bce6ec990bcc9",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4024031,
+        "known_for_department": "Acting",
+        "name": "Henry Plavidal",
+        "original_name": "Henry Plavidal",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Voice Over Artist - News Anchor (voice)",
+        "credit_id": "677455b50f248e850812bc65",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3125,
+        "known_for_department": "Acting",
+        "name": "Madonna",
+        "original_name": "Madonna",
+        "popularity": 2.0375,
+        "profile_path": "/d11f76gpql9RNSnyYgZ6yQr5DW7.jpg",
+        "cast_id": 42,
+        "character": "Self - Singer (archive footage)",
+        "credit_id": "677982deeca85bd508725714",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2556470,
+        "known_for_department": "Directing",
+        "name": "Henrik Burman",
+        "original_name": "Henrik Burman",
+        "popularity": 0.1126,
+        "profile_path": "/esc1CGYNxBnLU3fBoICIHGyIjF8.jpg",
+        "credit_id": "66204750ecaef50163f9b9a6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2556470,
+        "known_for_department": "Directing",
+        "name": "Henrik Burman",
+        "original_name": "Henrik Burman",
+        "popularity": 0.1126,
+        "profile_path": "/esc1CGYNxBnLU3fBoICIHGyIjF8.jpg",
+        "credit_id": "662044b33c43440149029df0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016500,
+        "known_for_department": "Editing",
+        "name": "Björn Tjärnberg",
+        "original_name": "Björn Tjärnberg",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "662045d0ecaef50130f880f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856083,
+        "known_for_department": "Editing",
+        "name": "Kalle Lindberg",
+        "original_name": "Kalle Lindberg",
+        "popularity": 0.1734,
+        "profile_path": "/lSLyRTFULgdJIG8qyAG2ifteRC4.jpg",
+        "credit_id": "662145400d11f2018701fd5c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449253,
+        "known_for_department": "Editing",
+        "name": "Orvar Anklew",
+        "original_name": "Orvar Anklew",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "662145390d11f20164017a03",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016500,
+        "known_for_department": "Editing",
+        "name": "Björn Tjärnberg",
+        "original_name": "Björn Tjärnberg",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "6763c1231c346ed1bd000e13",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1959132,
+        "known_for_department": "Production",
+        "name": "Emelie Persson",
+        "original_name": "Emelie Persson",
+        "popularity": 0.0845,
+        "profile_path": null,
+        "credit_id": "6764bd4cae1b411f405ddf2d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2317450,
+        "known_for_department": "Production",
+        "name": "Stina Schedwin",
+        "original_name": "Stina Schedwin",
+        "popularity": 0.1196,
+        "profile_path": null,
+        "credit_id": "6764bd51330bce6ec990be5d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56393,
+        "known_for_department": "Acting",
+        "name": "Anki Lidén",
+        "original_name": "Anki Lidén",
+        "popularity": 1.6799,
+        "profile_path": "/oVTXH33SgZGvSamiPh53UMRyvRS.jpg",
+        "credit_id": "677453cbfbe3722a98619802",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4346163,
+        "known_for_department": "Acting",
+        "name": "Klas Bergling",
+        "original_name": "Klas Bergling",
+        "popularity": 1.3884,
+        "profile_path": null,
+        "credit_id": "677453d0fbe3722a98619805",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2113074,
+        "known_for_department": "Production",
+        "name": "Martin Vårdstedt",
+        "original_name": "Martin Vårdstedt",
+        "popularity": 0.094,
+        "profile_path": null,
+        "credit_id": "677453e70f248e850812bc1b",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1275945,
+    "keywords": [
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 154866,
+        "name": "archive footage"
+      },
+      {
+        "id": 155170,
+        "name": "inspiring story"
+      },
+      {
+        "id": 186117,
+        "name": "dj"
+      },
+      {
+        "id": 191446,
+        "name": "inspiring"
+      },
+      {
+        "id": 227302,
+        "name": "portrait of an artist"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 342125,
+        "name": "concert footage"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4ylTQJ6U194A7Obq3aDiKCgvXRv.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 672699,
+        "original_language": "en",
+        "original_title": "Banksy and the Rise of Outlaw Art",
+        "overview": "Banksy is the world's most infamous street artist, whose political art, criminal stunts and daring invasions have outraged the establishment for over two decades. Featuring rare interviews with Banksy, this is the story of how an outlaw artist led a revolutionary new movement and built a multi-million dollar empire, while his identity remained shrouded in mystery.",
+        "popularity": 0.3239,
+        "poster_path": "/lyARw7klUsztYZh0r6UEpzfRmK5.jpg",
+        "release_date": "2020-07-23",
+        "title": "Banksy and the Rise of Outlaw Art",
+        "video": false,
+        "vote_average": 7.052,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dNFtDcFDLKwpCqOcvZNsNSZiLWf.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 293262,
+        "original_language": "en",
+        "original_title": "I Am Ali",
+        "overview": "Unprecedented access to Muhammad Ali's personal archive of \"audio journals\" as well as interviews and testimonials from his inner circle of family and friends are used to tell the legend's life story.",
+        "popularity": 1.7936,
+        "poster_path": "/tWUhh4v5NEMQwsXMtxlCUFtMfre.jpg",
+        "release_date": "2014-10-10",
+        "title": "I Am Ali",
+        "video": false,
+        "vote_average": 6.741,
+        "vote_count": 81
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 293310,
+        "original_language": "en",
+        "original_title": "Citizenfour",
+        "overview": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her.",
+        "popularity": 1.1653,
+        "poster_path": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+        "release_date": "2014-10-10",
+        "title": "Citizenfour",
+        "video": false,
+        "vote_average": 7.743,
+        "vote_count": 1370
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gL9nh0qYWFgFMPaePhKZ5xlNxiV.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 26723,
+        "original_language": "en",
+        "original_title": "Imagine: John Lennon",
+        "overview": "The biography of former Beatle, John Lennon—narrated by Lennon himself—with extensive material from Yoko Ono's personal collection, previously unseen footage from Lennon's private archives, and interviews with David Bowie, his first wife Cynthia, second wife Yoko Ono and sons Julian and Sean.",
+        "popularity": 1.6409,
+        "poster_path": "/r2wfq5fU65GRenTYrTGV3alPoNj.jpg",
+        "release_date": "1988-09-30",
+        "title": "Imagine: John Lennon",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 83
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xRPrWB3v3c2HUyc7f0NYV6lNtia.jpg",
+        "genre_ids": [
+          99,
+          35
+        ],
+        "id": 26765,
+        "original_language": "en",
+        "original_title": "Mr. Warmth: The Don Rickles Project",
+        "overview": "The documentary consists of tape of Don's show (never been filmed before), interviews with Don's contemporaries, (Steve Lawrence, Bob Newhart, Debbie Reynolds, etc.), established comedians (Billy Crystal, Rosanna Barr, Robin Williams, Chris Rock, etc.) and young comedians (Jeff Atoll, Jimmy Kimmel, Sarah Silverman, etc.).",
+        "popularity": 0.2862,
+        "poster_path": "/g2s6F0KeasorYfn3UhiEmxQQJwm.jpg",
+        "release_date": "2007-10-13",
+        "title": "Mr. Warmth: The Don Rickles Project",
+        "video": false,
+        "vote_average": 6.761,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tcHdogyWBZktk2JtO3oIqdJ24bW.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10402,
+          10751,
+          10749
+        ],
+        "id": 26840,
+        "original_language": "en",
+        "original_title": "Shrek in the Swamp Karaoke Dance Party",
+        "overview": "Shrek and his friends enjoy themselves with some Karaoke partying.",
+        "popularity": 0.999,
+        "poster_path": "/lJg4alrYfp7CDNVID4iGefT9CIn.jpg",
+        "release_date": "2001-11-02",
+        "title": "Shrek in the Swamp Karaoke Dance Party",
+        "video": false,
+        "vote_average": 6.324,
+        "vote_count": 136
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 479616,
+        "original_language": "de",
+        "original_title": "Valie Export - Ikone und Rebellin",
+        "overview": "She is the godmother of performance art. With her shocking public actions she created in the late 60s images that have burned into the general visual memory until today. The life and work of the Austrian artist Valie Export exemplify a development in art history in which women sought and found new ways and means of expression. Her work provides a feminist counterpart to the Viennese actionism of her time, which has influenced numerous artists of subsequent generations. The innovative diversity of her artistic approaches makes Valie Export an icon of 20th century art history.",
+        "popularity": 0.1844,
+        "poster_path": "/xzwUTpCD9KK3LiEwn0108oMhv7l.jpg",
+        "release_date": "2015-05-18",
+        "title": "Valie Export - Icon and Rebel",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u1OtWduhkRvGreEMWOMHDrzi29Z.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 674882,
+        "original_language": "en",
+        "original_title": "The Donut King",
+        "overview": "Cambodian refugee Ted Ngoy builds a multi-million dollar empire by baking America's favourite pastry: the doughnut.",
+        "popularity": 0.3884,
+        "poster_path": "/8eN5x0DkXB4ByG2mLIopETdTwVg.jpg",
+        "release_date": "2020-08-24",
+        "title": "The Donut King",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kg5HjHv3Lzr5R3QiMSLi8niFWEL.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1065154,
+        "original_language": "en",
+        "original_title": "Sisters",
+        "overview": "An ethereal trip, created using archival footage, subverts past expectations and defines the road ahead for two adventurous sisters. A tender reminder of how our desires can manifest as a confusing and never-ending quest and how our loved ones can anchor us in the world despite all of the momentum and commotion.  – Leonie Woodfin",
+        "popularity": 0.1392,
+        "poster_path": "/751rBIHg2bbbkdAqFxXk53tKiq9.jpg",
+        "release_date": "2023-01-25",
+        "title": "Sisters",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xb7jd5Ys7gskva49GmGbYTMW8YJ.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1263754,
+        "original_language": "en",
+        "original_title": "The Specials: A Message to You",
+        "overview": "The Specials don’t just write memorable songs - they soundtrack moments in history. This film explores how the band’s music was influenced by social, economic, and political events and how they have continued to shape contemporary music and popular culture internationally, with their message of unity and harmony in the face of ongoing political and social challenges.",
+        "popularity": 0.1593,
+        "poster_path": "/g28DKCZ7URuKQkr3yb9LDezORaF.jpg",
+        "release_date": "2024-03-19",
+        "title": "The Specials: A Message to You",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tfa23uabYghl1Km9wU5RbKM2At1.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 293570,
+        "original_language": "en",
+        "original_title": "Enemy of the Reich: The Noor Inayat Khan Story",
+        "overview": "In 1943, Noor Inayat Khan was recruited as a covert operative into Winston Churchill's Special Operations Executive. With an American mother and Indian Muslim father, she was an extremely unusual British agent. After her network collapsed, Khan became the only surviving radio operator linking the British to the French Resistance in Paris, coordinating the airdrop of weapons and agents, and the rescue of downed Allied fliers.",
+        "popularity": 0.2201,
+        "poster_path": "/7aZVDQwjXLC71ko0yX4ZeMOpBp6.jpg",
+        "release_date": "2014-02-15",
+        "title": "Enemy of the Reich: The Noor Inayat Khan Story",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 293612,
+        "original_language": "en",
+        "original_title": "Showfolk",
+        "overview": "A Vaudeville comedian still working at 100, a stunning siren who dated Reagan when he was a Democrat, a kid out of college who sold The Ten Commandments around the world, a Disney legend who met Walt when she was a little girl and spent her life with Mickey Mouse: these showbiz vets share wisdom and inspiration garnered over seven lifetimes in the business. Residing together at the Motion Picture &amp; Television Fund home, these entertainment lifers are \"bonded by the show\". These, ladies and gentlemen, are Showfolk.",
+        "popularity": 0.3506,
+        "poster_path": "/cCUlA85S7CUVlNZzN3szLyLPkW5.jpg",
+        "release_date": "2014-04-25",
+        "title": "Showfolk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 870958,
+        "original_language": "en",
+        "original_title": "Max Steiner: Maestro of Movie Music",
+        "overview": "A look at the life and work of the Austrian composer who pioneered the musical scoring of films - hundreds of them - from King Kong, to Gone with the Wind, to Casablanca and beyond.",
+        "popularity": 0.2398,
+        "poster_path": "/i4sxhF0ZwYXLtFSNPSw5zUNel7P.jpg",
+        "release_date": "2019-11-01",
+        "title": "Max Steiner: Maestro of Movie Music",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1NtbMo812pqTuqhIzieFdlf1JEt.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 26465,
+        "original_language": "en",
+        "original_title": "Big Pun: The Legacy",
+        "overview": "His rhymes caught the attention of millions. His flow is un-matched by any. His story is captivating and triumphant. \"Big Pun: The Legacy\" chronicles the life of the Grammy Nominated artist \"Big Pun\" aka Christopher Rios, a Puerto Rican from the Bronx who made history by becoming the first Latino rapper to sell over a million records.",
+        "popularity": 0.283,
+        "poster_path": "/658FHYyKEKxAR9VYnY8z2CzKkyq.jpg",
+        "release_date": "2009-09-01",
+        "title": "Big Pun: The Legacy",
+        "video": false,
+        "vote_average": 4.813,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1mlfORlfu2PtZnlEB3gMKqJy7Qp.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 26564,
+        "original_language": "en",
+        "original_title": "Crumb",
+        "overview": "This movie chronicles the life and times of R. Crumb. Robert Crumb is the cartoonist/artist who drew Keep On Truckin', Fritz the Cat, and played a major pioneering role in the genesis of underground comix. Through interviews with his mother, two brothers, wife, ex-wife and ex-girlfriends, as well as selections from his vast quantity of graphic art, we are treated to a darkly comic ride through one man's subconscious mind.",
+        "popularity": 2.5905,
+        "poster_path": "/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+        "release_date": "1994-09-10",
+        "title": "Crumb",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 273
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 478635,
+        "original_language": "sv",
+        "original_title": "Skratta Då: En Rolig Historia Om Svensk Standup ",
+        "overview": "",
+        "popularity": 0.1672,
+        "poster_path": "/647bLdBuVsVL9vOHSHPRTuWU2py.jpg",
+        "release_date": "2017-09-08",
+        "title": "Skratta Då: En Rolig Historia Om Svensk Standup ",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q0AX7EqB00CFHTD7fVoihNMHN7O.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 870799,
+        "original_language": "en",
+        "original_title": "Louis Tomlinson Presents: Away From Home | The Global Streaming Event",
+        "overview": "Join Louis Tomlinson as he undertakes his most ambitious project to date, The Away From Home Festival 2021. Following the postponement of his World Tour in 2020, Louis has announced plans to launch his own free festival in London to celebrate the return of live music in the UK. Directed by Charlie Lightening, and featuring unprecedented access, a fly-on-the-wall short film showing Louis and his team as they plan, and prepare for this momentous event. From early planning, through to the day of the show, and including unparalleled behind the scenes footage, follow Louis on the journey to The Away From Home Festival.  Then watch as Louis and his band take to the stage performing a full headline set from London's famous Crystal Palace Bowl, their first show in front of a live audience for 18 months. As the show ends, follow backstage as Louis, his band, crew and team celebrate a return to live music.",
+        "popularity": 0.1777,
+        "poster_path": "/vp06UXApYddeb49nAdDrAOWNhpY.jpg",
+        "release_date": "2021-09-04",
+        "title": "Louis Tomlinson Presents: Away From Home | The Global Streaming Event",
+        "video": true,
+        "vote_average": 9.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lcjEhufkNFP5Ou01oxZudZsNZo9.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 675598,
+        "original_language": "es",
+        "original_title": "Fangio, el hombre que domaba las máquinas",
+        "overview": "Juan Manuel Fangio was the Formula One king, winning five world championships in the early 1950s — before protective gear or safety features were used.",
+        "popularity": 0.376,
+        "poster_path": "/icVuchG6yFTPe5VM11HSFA7jmMT.jpg",
+        "release_date": "2020-03-20",
+        "title": "A Life of Speed: The Juan Manuel Fangio Story",
+        "video": false,
+        "vote_average": 7.178,
+        "vote_count": 59
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wuOtan9m4a5Y3rk3uReSkFumOaT.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1065942,
+        "original_language": "en",
+        "original_title": "Clint Eastwood: Hollywood Outlaw",
+        "overview": "Film clips and interviews with biographers and colleagues chart the prolific, six-decade career of maverick actor-director Clint Eastwood.",
+        "popularity": 0.2577,
+        "poster_path": "/uvIHPyvII6ZCmjd8vFpcxSUIgCu.jpg",
+        "release_date": "2020-10-24",
+        "title": "Clint Eastwood: Hollywood Outlaw",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 873032,
+        "original_language": "cs",
+        "original_title": "Marie Svobodová",
+        "overview": "",
+        "popularity": 0.2202,
+        "poster_path": null,
+        "release_date": "1954-01-01",
+        "title": "Marie Svobodová",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 13287,
+    "total_results": 265734
+  }
+}

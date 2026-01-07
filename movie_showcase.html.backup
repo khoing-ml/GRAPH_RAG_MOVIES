@@ -1,0 +1,1675 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎬 CineVerse - Khám Phá Thế Giới Điện Ảnh</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #e50914;
+            --secondary: #ff6b6b;
+            --dark: #0a0a0a;
+            --dark-secondary: #141414;
+            --dark-tertiary: #1f1f1f;
+            --text-primary: #ffffff;
+            --text-secondary: #b3b3b3;
+            --accent: #ffd700;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: var(--dark);
+            color: var(--text-primary);
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        /* Animated Background */
+        .animated-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a0a0f 50%, #0a0a1a 100%);
+            z-index: -1;
+        }
+
+        .stars {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+
+        .star {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: white;
+            border-radius: 50%;
+            animation: twinkle 3s infinite;
+        }
+
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 1.5rem 5%;
+            background: rgba(10, 10, 10, 0.95);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            transition: all 0.3s ease;
+        }
+
+        nav.scrolled {
+            padding: 1rem 5%;
+            box-shadow: 0 5px 30px rgba(0, 0, 0, 0.5);
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 2rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -1px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+            position: relative;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--primary);
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        .search-box {
+            position: relative;
+        }
+
+        .search-box input {
+            padding: 0.7rem 2.5rem 0.7rem 1rem;
+            border-radius: 50px;
+            border: 2px solid var(--dark-tertiary);
+            background: var(--dark-secondary);
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            width: 250px;
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: var(--primary);
+            width: 300px;
+        }
+
+        .search-box button {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            margin-top: 80px;
+            height: 90vh;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            position: absolute;
+            top: 50%;
+            left: 5%;
+            transform: translateY(-50%);
+            z-index: 2;
+            max-width: 600px;
+        }
+
+        .hero-title {
+            font-size: 4rem;
+            font-weight: 900;
+            line-height: 1.1;
+            margin-bottom: 1rem;
+            animation: fadeInUp 1s ease;
+        }
+
+        .hero-description {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            animation: fadeInUp 1s ease 0.2s both;
+        }
+
+        .hero-buttons {
+            display: flex;
+            gap: 1rem;
+            animation: fadeInUp 1s ease 0.4s both;
+        }
+
+        .btn {
+            padding: 1rem 2.5rem;
+            border-radius: 50px;
+            border: none;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #b20710;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(229, 9, 20, 0.4);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            backdrop-filter: blur(10px);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-3px);
+        }
+
+        .hero-backdrop {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to right, rgba(10, 10, 10, 0.9) 30%, transparent 70%);
+            z-index: 1;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Stats Section */
+        .stats {
+            padding: 4rem 5%;
+            background: var(--dark-secondary);
+        }
+
+        .stats-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 3rem;
+            text-align: center;
+        }
+
+        .stat-item {
+            animation: fadeInUp 1s ease both;
+        }
+
+        .stat-number {
+            font-size: 3rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Filter Section */
+        .filters {
+            padding: 2rem 5%;
+            background: var(--dark);
+        }
+
+        .filters-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 0.8rem 1.5rem;
+            border-radius: 50px;
+            border: 2px solid var(--dark-tertiary);
+            background: transparent;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            border-color: var(--primary);
+            color: var(--text-primary);
+            background: var(--primary);
+        }
+
+        .sort-dropdown {
+            margin-left: auto;
+            padding: 0.8rem 1.5rem;
+            border-radius: 50px;
+            border: 2px solid var(--dark-tertiary);
+            background: var(--dark-secondary);
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+
+        /* Movies Grid */
+        .movies-section {
+            padding: 3rem 5%;
+            min-height: 100vh;
+        }
+
+        .section-header {
+            max-width: 1400px;
+            margin: 0 auto 2rem;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+        }
+
+        .section-subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .movies-grid {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .movie-card {
+            position: relative;
+            border-radius: 15px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            background: var(--dark-secondary);
+            animation: fadeIn 0.6s ease both;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: scale(0.95); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        .movie-card:hover {
+            transform: translateY(-15px) scale(1.02);
+            box-shadow: 0 20px 50px rgba(229, 9, 20, 0.3);
+        }
+
+        .movie-poster {
+            width: 100%;
+            height: 375px;
+            object-fit: cover;
+            transition: transform 0.4s ease;
+        }
+
+        .movie-card:hover .movie-poster {
+            transform: scale(1.1);
+        }
+
+        .movie-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 1.5rem;
+            background: linear-gradient(to top, rgba(10, 10, 10, 0.95) 0%, transparent 100%);
+            transform: translateY(100%);
+            transition: transform 0.4s ease;
+        }
+
+        .movie-card:hover .movie-overlay {
+            transform: translateY(0);
+        }
+
+        .movie-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }
+
+        .movie-info {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .movie-rating {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        .movie-year {
+            color: var(--text-secondary);
+        }
+
+        .movie-genres {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .genre-tag {
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            background: rgba(229, 9, 20, 0.2);
+            color: var(--primary);
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .rating-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(10, 10, 10, 0.9);
+            backdrop-filter: blur(10px);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            font-weight: 700;
+            font-size: 0.9rem;
+            z-index: 10;
+        }
+
+        .rating-star {
+            color: var(--accent);
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 2000;
+            backdrop-filter: blur(10px);
+            overflow-y: auto;
+            animation: modalFadeIn 0.3s ease;
+        }
+
+        @keyframes modalFadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .modal-content {
+            background: var(--dark-secondary);
+            border-radius: 20px;
+            max-width: 900px;
+            width: 100%;
+            position: relative;
+            animation: modalSlideUp 0.4s ease;
+            overflow: hidden;
+        }
+
+        @keyframes modalSlideUp {
+            from { transform: translateY(50px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            cursor: pointer;
+            z-index: 10;
+            transition: all 0.3s ease;
+        }
+
+        .modal-close:hover {
+            background: var(--primary);
+            transform: rotate(90deg);
+        }
+
+        .modal-backdrop {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+
+        .modal-body {
+            padding: 2rem;
+        }
+
+        .modal-header {
+            margin-bottom: 1.5rem;
+        }
+
+        .modal-title {
+            font-size: 2.5rem;
+            font-weight: 900;
+            margin-bottom: 1rem;
+        }
+
+        .modal-meta {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+
+        .modal-rating {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--accent);
+        }
+
+        .modal-overview {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 2rem;
+        }
+
+        .modal-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .detail-item h4 {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+        }
+
+        .detail-item p {
+            font-size: 1rem;
+            font-weight: 600;
+        }
+
+        .cast-list {
+            display: flex;
+            gap: 1rem;
+            overflow-x: auto;
+            padding: 1rem 0;
+        }
+
+        .cast-item {
+            min-width: 120px;
+            text-align: center;
+        }
+
+        .cast-photo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 0.5rem;
+            border: 3px solid var(--dark-tertiary);
+        }
+
+        .cast-name {
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .cast-character {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 4rem;
+        }
+
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--dark-tertiary);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Scroll to top */
+        .scroll-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: var(--primary);
+            color: white;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+
+        .scroll-top.visible {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .scroll-top:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(229, 9, 20, 0.4);
+        }
+
+        /* Chat Button */
+        .chat-button {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 65px;
+            height: 65px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            border: none;
+            font-size: 1.8rem;
+            cursor: pointer;
+            box-shadow: 0 10px 30px rgba(229, 9, 20, 0.5);
+            transition: all 0.3s ease;
+            z-index: 1500;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .chat-button:hover {
+            transform: scale(1.1);
+            box-shadow: 0 15px 40px rgba(229, 9, 20, 0.6);
+        }
+
+        .chat-button.active {
+            background: var(--dark-secondary);
+        }
+
+        /* Chat Popup */
+        .chat-popup {
+            position: fixed;
+            bottom: 110px;
+            right: 30px;
+            width: 420px;
+            height: 600px;
+            background: var(--dark-secondary);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+            display: none;
+            flex-direction: column;
+            z-index: 1500;
+            overflow: hidden;
+            animation: slideUp 0.4s ease;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .chat-popup.active {
+            display: flex;
+        }
+
+        .chat-header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            padding: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .chat-header-icon {
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+        .chat-header-info h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.2rem;
+        }
+
+        .chat-header-info p {
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+
+        .chat-messages {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .chat-messages::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .chat-messages::-webkit-scrollbar-track {
+            background: var(--dark-tertiary);
+        }
+
+        .chat-messages::-webkit-scrollbar-thumb {
+            background: var(--primary);
+            border-radius: 10px;
+        }
+
+        .chat-message {
+            display: flex;
+            gap: 0.8rem;
+            animation: messageSlide 0.3s ease;
+        }
+
+        @keyframes messageSlide {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .chat-message.user {
+            flex-direction: row-reverse;
+        }
+
+        .chat-avatar {
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            flex-shrink: 0;
+        }
+
+        .chat-message.bot .chat-avatar {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+        }
+
+        .chat-message.user .chat-avatar {
+            background: var(--dark-tertiary);
+        }
+
+        .chat-bubble {
+            max-width: 70%;
+            padding: 1rem 1.2rem;
+            border-radius: 18px;
+            line-height: 1.5;
+            word-wrap: break-word;
+        }
+
+        .chat-message.bot .chat-bubble {
+            background: var(--dark-tertiary);
+            border-bottom-left-radius: 4px;
+        }
+
+        .chat-message.user .chat-bubble {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border-bottom-right-radius: 4px;
+        }
+
+        .chat-time {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-top: 0.3rem;
+            opacity: 0.7;
+        }
+
+        .typing-indicator {
+            display: flex;
+            gap: 0.4rem;
+            padding: 1rem 1.2rem;
+            background: var(--dark-tertiary);
+            border-radius: 18px;
+            width: fit-content;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--text-secondary);
+            animation: typingBounce 1.4s infinite;
+        }
+
+        .typing-dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .typing-dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes typingBounce {
+            0%, 60%, 100% {
+                transform: translateY(0);
+            }
+            30% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .chat-input-container {
+            padding: 1rem;
+            background: var(--dark-tertiary);
+            display: flex;
+            gap: 0.8rem;
+            align-items: center;
+        }
+
+        .chat-input {
+            flex: 1;
+            padding: 1rem;
+            border-radius: 25px;
+            border: 2px solid transparent;
+            background: var(--dark-secondary);
+            color: var(--text-primary);
+            font-size: 0.95rem;
+            transition: border-color 0.3s ease;
+            resize: none;
+            max-height: 120px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .chat-input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .chat-send-btn {
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border: none;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .chat-send-btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 5px 20px rgba(229, 9, 20, 0.5);
+        }
+
+        .chat-send-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .chat-suggestions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            padding: 0 1.5rem 1rem;
+        }
+
+        .suggestion-chip {
+            padding: 0.6rem 1rem;
+            border-radius: 20px;
+            background: var(--dark-tertiary);
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+        }
+
+        .suggestion-chip:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .welcome-message {
+            text-align: center;
+            padding: 2rem 1.5rem;
+            color: var(--text-secondary);
+        }
+
+        .welcome-message h4 {
+            color: var(--text-primary);
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .welcome-message p {
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark-secondary);
+            padding: 3rem 5%;
+            margin-top: 5rem;
+        }
+
+        .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .footer-logo {
+            font-size: 2rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+        }
+
+        .footer-text {
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .social-link {
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: var(--dark-tertiary);
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .social-link:hover {
+            background: var(--primary);
+            transform: translateY(-5px);
+        }
+
+        .copyright {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--dark-tertiary);
+            padding-top: 2rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+
+            .hero-description {
+                font-size: 1rem;
+            }
+
+            .movies-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                gap: 1rem;
+            }
+
+            .movie-poster {
+                height: 225px;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .search-box input {
+                width: 150px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="animated-bg"></div>
+    <div class="stars" id="stars"></div>
+
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <div class="logo">🎬 CineVerse</div>
+            <div class="nav-links">
+                <a href="#home">Trang Chủ</a>
+                <a href="#trending">Thịnh Hành</a>
+                <a href="#top-rated">Đánh Giá Cao</a>
+                <a href="#genres">Thể Loại</a>
+            </div>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Tìm kiếm phim...">
+                <button onclick="searchMovies()">🔍</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-backdrop"></div>
+        <div class="hero-content">
+            <h1 class="hero-title">Khám Phá<br/>Thế Giới Điện Ảnh</h1>
+            <p class="hero-description">
+                Hơn 650+ bộ phim đẳng cấp từ khắp nơi trên thế giới. 
+                Trải nghiệm những câu chuyện tuyệt vời nhất của điện ảnh.
+            </p>
+            <div class="hero-buttons">
+                <a href="#movies" class="btn btn-primary">Khám Phá Ngay</a>
+                <a href="#trending" class="btn btn-secondary">Phim Thịnh Hành</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats">
+        <div class="stats-container">
+            <div class="stat-item">
+                <div class="stat-number" id="totalMovies">654</div>
+                <div class="stat-label">Bộ Phim</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">50+</div>
+                <div class="stat-label">Thể Loại</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">4.8⭐</div>
+                <div class="stat-label">Đánh Giá Trung Bình</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">2024</div>
+                <div class="stat-label">Cập Nhật Liên Tục</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filters" id="genres">
+        <div class="filters-container">
+            <button class="filter-btn active" onclick="filterByGenre('all')">Tất Cả</button>
+            <button class="filter-btn" onclick="filterByGenre('Action')">Hành Động</button>
+            <button class="filter-btn" onclick="filterByGenre('Drama')">Chính Kịch</button>
+            <button class="filter-btn" onclick="filterByGenre('Comedy')">Hài</button>
+            <button class="filter-btn" onclick="filterByGenre('Thriller')">Kinh Dị</button>
+            <button class="filter-btn" onclick="filterByGenre('Science Fiction')">Khoa Học Viễn Tưởng</button>
+            <button class="filter-btn" onclick="filterByGenre('Romance')">Tình Cảm</button>
+            <select class="sort-dropdown" onchange="sortMovies(this.value)">
+                <option value="rating">Đánh Giá Cao Nhất</option>
+                <option value="year">Mới Nhất</option>
+                <option value="title">Tên A-Z</option>
+            </select>
+        </div>
+    </section>
+
+    <!-- Movies Section -->
+    <section class="movies-section" id="movies">
+        <div class="section-header">
+            <h2 class="section-title">Khám Phá Phim Hay</h2>
+            <p class="section-subtitle">Bộ sưu tập phim được tuyển chọn kỹ lưỡng</p>
+        </div>
+        <div class="movies-grid" id="moviesGrid">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Đang tải phim...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal -->
+    <div class="modal" id="movieModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">×</button>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Scroll to Top -->
+    <button class="scroll-top" id="scrollTop" onclick="scrollToTop()">↑</button>
+
+    <!-- Chat Button -->
+    <button class="chat-button" id="chatButton" onclick="toggleChat()">
+        💬
+    </button>
+
+    <!-- Chat Popup -->
+    <div class="chat-popup" id="chatPopup">
+        <div class="chat-header">
+            <div class="chat-header-icon">🤖</div>
+            <div class="chat-header-info">
+                <h3>CineBot AI</h3>
+                <p>Trợ lý phim thông minh</p>
+            </div>
+        </div>
+        
+        <div class="chat-messages" id="chatMessages">
+            <div class="welcome-message">
+                <h4>👋 Xin chào!</h4>
+                <p>Tôi là CineBot - trợ lý AI chuyên về phim ảnh. Hãy hỏi tôi bất cứ điều gì về phim!</p>
+            </div>
+        </div>
+
+        <div class="chat-suggestions" id="chatSuggestions">
+            <div class="suggestion-chip" onclick="sendSuggestion('Gợi ý phim hành động hay')">
+                🎬 Phim hành động hay
+            </div>
+            <div class="suggestion-chip" onclick="sendSuggestion('Phim nào có Leonardo DiCaprio?')">
+                🌟 Phim của DiCaprio
+            </div>
+            <div class="suggestion-chip" onclick="sendSuggestion('Phim khoa học viễn tưởng đánh giá cao')">
+                🚀 Sci-Fi hay nhất
+            </div>
+        </div>
+        
+        <div class="chat-input-container">
+            <textarea 
+                class="chat-input" 
+                id="chatInput" 
+                placeholder="Hỏi về phim, diễn viên, đạo diễn..."
+                rows="1"
+                onkeypress="handleChatKeypress(event)"
+            ></textarea>
+            <button class="chat-send-btn" id="sendBtn" onclick="sendMessage()">
+                ➤
+            </button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">🎬 CineVerse</div>
+            <p class="footer-text">
+                Nền tảng khám phá và đánh giá phim ảnh hàng đầu<br/>
+                Được xây dựng với ❤️ bằng GraphRAG Technology
+            </p>
+            <div class="social-links">
+                <a href="#" class="social-link">📘</a>
+                <a href="#" class="social-link">📷</a>
+                <a href="#" class="social-link">🐦</a>
+                <a href="#" class="social-link">▶️</a>
+            </div>
+            <p class="copyright">
+                © 2026 CineVerse. All rights reserved. | Powered by TMDB API
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        let allMovies = [];
+        let filteredMovies = [];
+        let currentGenre = 'all';
+
+        // Generate stars
+        function generateStars() {
+            const starsContainer = document.getElementById('stars');
+            for (let i = 0; i < 100; i++) {
+                const star = document.createElement('div');
+                star.className = 'star';
+                star.style.left = Math.random() * 100 + '%';
+                star.style.top = Math.random() * 100 + '%';
+                star.style.animationDelay = Math.random() * 3 + 's';
+                starsContainer.appendChild(star);
+            }
+        }
+
+        // Navbar scroll effect
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 100) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+
+            // Scroll to top button
+            const scrollTop = document.getElementById('scrollTop');
+            if (window.scrollY > 500) {
+                scrollTop.classList.add('visible');
+            } else {
+                scrollTop.classList.remove('visible');
+            }
+        });
+
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Load movies
+        async function loadMovies() {
+            console.log('🎬 Loading movies...');
+            try {
+                const response = await fetch('/crawled_data/movies_index.json');
+                console.log('📡 Response status:', response.status);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                console.log('✅ Loaded movies:', data.total_movies);
+                
+                allMovies = data.movies;
+                filteredMovies = allMovies;
+                displayMovies(filteredMovies);
+            } catch (error) {
+                console.error('❌ Error loading movies:', error);
+                document.getElementById('moviesGrid').innerHTML = 
+                    '<p style="text-align: center; color: var(--text-secondary);">Không thể tải dữ liệu phim. Lỗi: ' + error.message + '</p>';
+            }
+        }
+
+        function displayMovies(movies) {
+            console.log('🎨 Displaying', movies.length, 'movies');
+            const grid = document.getElementById('moviesGrid');
+            
+            if (!grid) {
+                console.error('❌ Movies grid element not found!');
+                return;
+            }
+            
+            grid.innerHTML = '';
+
+            if (!movies || movies.length === 0) {
+                grid.innerHTML = '<p style="text-align: center; color: var(--text-secondary);">Không có phim nào</p>';
+                return;
+            }
+
+            movies.forEach((movie, index) => {
+                const card = document.createElement('div');
+                card.className = 'movie-card';
+                card.style.animationDelay = `${index * 0.05}s`;
+                card.onclick = () => openMovieDetail(movie.id);
+
+                const posterUrl = movie.poster_url || 'https://via.placeholder.com/300x450?text=No+Poster';
+                
+                card.innerHTML = `
+                    <img src="${posterUrl}" alt="${movie.title}" class="movie-poster" 
+                         onerror="this.src='https://via.placeholder.com/300x450?text=${encodeURIComponent(movie.title)}'">
+                    <div class="rating-badge">
+                        <span class="rating-star">⭐</span>
+                        ${movie.rating.toFixed(1)}
+                    </div>
+                    <div class="movie-overlay">
+                        <h3 class="movie-title">${movie.title}</h3>
+                        <div class="movie-info">
+                            <span class="movie-rating">
+                                ⭐ ${movie.rating.toFixed(1)}
+                            </span>
+                            <span class="movie-year">${movie.year}</span>
+                        </div>
+                        <div class="movie-genres">
+                            ${movie.genres.slice(0, 2).map(genre => 
+                                `<span class="genre-tag">${genre}</span>`
+                            ).join('')}
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        function filterByGenre(genre) {
+            currentGenre = genre;
+            
+            // Update active button
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            if (genre === 'all') {
+                filteredMovies = allMovies;
+            } else {
+                filteredMovies = allMovies.filter(movie => 
+                    movie.genres.includes(genre)
+                );
+            }
+            displayMovies(filteredMovies);
+        }
+
+        function sortMovies(sortBy) {
+            let sorted = [...filteredMovies];
+            
+            switch(sortBy) {
+                case 'rating':
+                    sorted.sort((a, b) => b.rating - a.rating);
+                    break;
+                case 'year':
+                    sorted.sort((a, b) => parseInt(b.year) - parseInt(a.year));
+                    break;
+                case 'title':
+                    sorted.sort((a, b) => a.title.localeCompare(b.title));
+                    break;
+            }
+            
+            displayMovies(sorted);
+        }
+
+        function searchMovies() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            
+            if (!searchTerm) {
+                filteredMovies = currentGenre === 'all' ? allMovies : 
+                    allMovies.filter(movie => movie.genres.includes(currentGenre));
+            } else {
+                const baseMovies = currentGenre === 'all' ? allMovies : 
+                    allMovies.filter(movie => movie.genres.includes(currentGenre));
+                    
+                filteredMovies = baseMovies.filter(movie =>
+                    movie.title.toLowerCase().includes(searchTerm)
+                );
+            }
+            
+            displayMovies(filteredMovies);
+        }ole.log('🎬 Opening movie:', movieId);
+            const modal = document.getElementById('movieModal');
+            const modalBody = document.getElementById('modalBody');
+            
+            modal.classList.add('active');
+            modalBody.innerHTML = '<div class="loading"><div class="spinner"></div><p>Đang tải thông tin...</p></div>';
+
+            try {
+                const response = await fetch(`/crawled_data/movies/${movieId}.json`);
+                console.log('📡 Movie detail response:', response.status);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+            }
+        });
+
+        async function openMovieDetail(movieId) {
+            const modal = document.getElementById('movieModal');
+            const modalBody = document.getElementById('modalBody');
+            
+            modal.classList.add('active');
+            modalBody.innerHTML = '<div class="loading"><div class="spinner"></div><p>Đang tải thông tin...</p></div>';
+
+            try {
+                const response = await fetch(`crawled_data/movies/${movieId}.json`);
+                const data = await response.json();
+                const movie = data.movie;
+
+                const backdropUrl = movie.backdrop_path ? 
+                    `https://image.tmdb.org/t/p/original${movie.backdrop_path}` : 
+                    movie.poster_path ? `https://image.tmdb.org/t/p/original${movie.poster_path}` :
+                    'https://via.placeholder.com/900x400?text=No+Image';
+
+                const cast = data.credits?.cast?.slice(0, 8) || [];
+
+                modalBody.innerHTML = `
+                    <img src="${backdropUrl}" alt="${movie.title}" class="modal-backdrop" 
+                         onerror="this.src='https://via.placeholder.com/900x400?text=${encodeURIComponent(movie.title)}'">
+                    <div class="modal-body">
+                        <div class="modal-header">
+                            <h2 class="modal-title">${movie.title}</h2>
+                            <div class="modal-meta">
+                                <span class="modal-rating">
+                                    ⭐ ${movie.vote_average?.toFixed(1) || 'N/A'}
+                                </span>
+                                <span class="movie-year">${movie.release_date?.split('-')[0] || 'N/A'}</span>
+                                <span class="movie-year">${movie.runtime ? movie.runtime + ' phút' : ''}</span>
+                            </div>
+                            <div class="movie-genres">
+                                ${movie.genres?.map(genre => 
+                                    `<span class="genre-tag">${genre.name}</span>`
+                                ).join('') || ''}
+                            </div>
+                        </div>
+                        
+                        <p class="modal-overview">${movie.overview || 'Không có mô tả'}</p>
+                        
+                        <div class="modal-details">
+                            <div class="detail-item">
+                                <h4>Đạo Diễn</h4>
+                                <p>${data.credits?.crew?.find(c => c.job === 'Director')?.name || 'N/A'}</p>
+                            </div>
+                            <div class="detail-item">
+                                <h4>Ngân Sách</h4>
+                                <p>${movie.budget ? '$' + movie.budget.toLocaleString() : 'N/A'}</p>
+                            </div>
+                            <div class="detail-item">
+                                <h4>Doanh Thu</h4>
+                                <p>${movie.revenue ? '$' + movie.revenue.toLocaleString() : 'N/A'}</p>
+
+        // =================== CHAT FUNCTIONALITY ===================
+        
+        let chatHistory = [];
+        const API_BASE = 'http://localhost:8001';
+
+        function toggleChat() {
+            const chatPopup = document.getElementById('chatPopup');
+            const chatButton = document.getElementById('chatButton');
+            
+            chatPopup.classList.toggle('active');
+            chatButton.classList.toggle('active');
+            
+            if (chatPopup.classList.contains('active')) {
+                document.getElementById('chatInput').focus();
+                // Hide suggestions after first interaction
+                if (chatHistory.length > 0) {
+                    document.getElementById('chatSuggestions').style.display = 'none';
+                }
+            }
+        }
+
+        function sendSuggestion(text) {
+            document.getElementById('chatInput').value = text;
+            sendMessage();
+        }
+
+        function handleChatKeypress(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                sendMessage();
+            }
+        }
+
+        async function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const message = input.value.trim();
+            
+            if (!message) return;
+            
+            // Clear input
+            input.value = '';
+            
+            // Hide suggestions
+            document.getElementById('chatSuggestions').style.display = 'none';
+            
+            // Add user message to chat
+            addMessageToChat('user', message);
+            
+            // Show typing indicator
+            const typingId = showTypingIndicator();
+            
+            // Disable send button
+            const sendBtn = document.getElementById('sendBtn');
+            sendBtn.disabled = true;
+            
+            try {
+                const response = await fetch(`${API_BASE}/api/chat`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: message,
+                        history: chatHistory
+                    })
+                });
+                
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                
+                const data = await response.json();
+                
+                // Remove typing indicator
+                removeTypingIndicator(typingId);
+                
+                // Add bot response
+                addMessageToChat('bot', data.response);
+                
+                // Update history
+                chatHistory.push({
+                    role: 'user',
+                    content: message,
+                    time: new Date().toISOString()
+                });
+                chatHistory.push({
+                    role: 'assistant',
+                    content: data.response,
+                    time: new Date().toISOString()
+                });
+                
+            } catch (error) {
+                console.error('Error sending message:', error);
+                removeTypingIndicator(typingId);
+                addMessageToChat('bot', '⚠️ Xin lỗi, có lỗi xảy ra khi kết nối với server. Vui lòng kiểm tra:\n\n1. Server đã chạy chưa? (python main_api.py)\n2. API đang chạy ở port 8001?\n3. CORS đã được cấu hình đúng chưa?');
+            } finally {
+                sendBtn.disabled = false;
+            }
+        }
+
+        function addMessageToChat(role, content) {
+            const messagesContainer = document.getElementById('chatMessages');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `chat-message ${role}`;
+            
+            const time = new Date().toLocaleTimeString('vi-VN', { 
+                hour: '2-digit', 
+                minute: '2-digit' 
+            });
+            
+            const avatar = role === 'bot' ? '🤖' : '👤';
+            
+            // Format content with basic markdown support
+            const formattedContent = formatMessage(content);
+            
+            messageDiv.innerHTML = `
+                <div class="chat-avatar">${avatar}</div>
+                <div>
+                    <div class="chat-bubble">${formattedContent}</div>
+                    <div class="chat-time">${time}</div>
+                </div>
+            `;
+            
+            messagesContainer.appendChild(messageDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        function formatMessage(content) {
+            // Simple markdown-like formatting
+            let formatted = content
+                // Bold
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                // Italic
+                .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                // Line breaks
+                .replace(/\n/g, '<br/>');
+            
+            return formatted;
+        }
+
+        function showTypingIndicator() {
+            const messagesContainer = document.getElementById('chatMessages');
+            const typingDiv = document.createElement('div');
+            const typingId = 'typing-' + Date.now();
+            typingDiv.id = typingId;
+            typingDiv.className = 'chat-message bot';
+            
+            typingDiv.innerHTML = `
+                <div class="chat-avatar">🤖</div>
+                <div class="typing-indicator">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            `;
+            
+            messagesContainer.appendChild(typingDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            
+            return typingId;
+        }
+
+        function removeTypingIndicator(typingId) {
+            const typingDiv = document.getElementById(typingId);
+            if (typingDiv) {
+                typingDiv.remove();
+            }
+        }
+
+        // Auto-resize textarea
+        const chatInput = document.getElementById('chatInput');
+        chatInput.addEventListener('input', function() {
+            this.style.height = 'auto';
+            this.style.height = Math.min(this.scrollHeight, 120) + 'px';
+        });
+
+        // Close chat when clicking outside
+        document.addEventListener('click', (e) => {
+            const chatPopup = document.getElementById('chatPopup');
+            const chatButton = document.getElementById('chatButton');
+            
+            if (chatPopup.classList.contains('active') && 
+                !chatPopup.contains(e.target) && 
+                !chatButton.contains(e.target)) {
+                toggleChat();
+            }
+        });
+    </script>
+</body>
+</html>

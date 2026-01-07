@@ -1,0 +1,1532 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/cBgJJS19kVxedaLWPBbAi7Mh8wM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/predator-killer-of-killers",
+    "id": 1376434,
+    "imdb_id": "tt36463894",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Predator: Killer of Killers",
+    "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+    "popularity": 20.2718,
+    "poster_path": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 840,
+        "logo_path": null,
+        "name": "Lawrence Gordon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 185309,
+        "logo_path": null,
+        "name": "Toberoff Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-06-05",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The hunt begins.",
+    "title": "Predator: Killer of Killers",
+    "video": false,
+    "vote_average": 7.853,
+    "vote_count": 1025
+  },
+  "credits": {
+    "id": 1376434,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1679770,
+        "known_for_department": "Acting",
+        "name": "Lindsay LaVanchy",
+        "original_name": "Lindsay LaVanchy",
+        "popularity": 1.3588,
+        "profile_path": "/izTspHKOpOAslVtlOsMv89o0rNe.jpg",
+        "cast_id": 20,
+        "character": "Ursa (voice)",
+        "credit_id": "67f6ab7a7b43bdce20ade20f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113308,
+        "known_for_department": "Acting",
+        "name": "Louis Ozawa",
+        "original_name": "Louis Ozawa",
+        "popularity": 1.6904,
+        "profile_path": "/hPND74J7MQFUFCMS1zsDO7LSWzC.jpg",
+        "cast_id": 21,
+        "character": "Kenji / Kiyoshi (voice)",
+        "credit_id": "67f6aba5cce7690230acf28c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53184,
+        "known_for_department": "Acting",
+        "name": "Rick Gonzalez",
+        "original_name": "Rick Gonzalez",
+        "popularity": 2.0907,
+        "profile_path": "/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg",
+        "cast_id": 22,
+        "character": "Torres (voice)",
+        "credit_id": "67f6abbfd81748ccff991921",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2712,
+        "known_for_department": "Acting",
+        "name": "Michael Biehn",
+        "original_name": "Michael Biehn",
+        "popularity": 2.4821,
+        "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg",
+        "cast_id": 19,
+        "character": "Vandy (voice)",
+        "credit_id": "67f6ab57de5e4dec62acf883",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1047370,
+        "known_for_department": "Acting",
+        "name": "Doug Cockle",
+        "original_name": "Doug Cockle",
+        "popularity": 0.5399,
+        "profile_path": "/sQGrr2Sjn5o9hrKvcFEnCyTuNw4.jpg",
+        "cast_id": 24,
+        "character": "Einar (voice)",
+        "credit_id": "683e76dc8ff65fc839f2babb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445715,
+        "known_for_department": "Acting",
+        "name": "Damien C. Haas",
+        "original_name": "Damien C. Haas",
+        "popularity": 1.0833,
+        "profile_path": "/gOOCnM2q0bsY8FvjrLxCY4FlMGI.jpg",
+        "cast_id": 25,
+        "character": "Anders (voice)",
+        "credit_id": "683e77238ec5f697bd68b0f3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1681573,
+        "known_for_department": "Acting",
+        "name": "Lauren Holt",
+        "original_name": "Lauren Holt",
+        "popularity": 0.7031,
+        "profile_path": "/2dPQDpa9Q3tWUOlFiGspxFAOw6l.jpg",
+        "cast_id": 26,
+        "character": "Freya (voice)",
+        "credit_id": "683e7737f24d849af5ad8449",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1043835,
+        "known_for_department": "Acting",
+        "name": "Jeff Leach",
+        "original_name": "Jeff Leach",
+        "popularity": 0.2205,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Ivar (voice)",
+        "credit_id": "683e775bb6c87dbf05fdb9c1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83272,
+        "known_for_department": "Acting",
+        "name": "Cherami Leigh",
+        "original_name": "Cherami Leigh",
+        "popularity": 0.6023,
+        "profile_path": "/4Vko4QYXn3K8dhxbgAYGSwo8jjT.jpg",
+        "cast_id": 28,
+        "character": "Young Ursa (voice)",
+        "credit_id": "683e776bf198ae2001f2ba9e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5480011,
+        "known_for_department": "Acting",
+        "name": "Alessa Luz Martinez",
+        "original_name": "Alessa Luz Martinez",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Delgado (voice)",
+        "credit_id": "683e778a7335d1f780ad8476",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449707,
+        "known_for_department": "Acting",
+        "name": "Piotr Michael",
+        "original_name": "Piotr Michael",
+        "popularity": 1.0593,
+        "profile_path": "/r9ddS7WpHoLLb0KMEeRE3QSECnW.jpg",
+        "cast_id": 30,
+        "character": "Gunnar (voice)",
+        "credit_id": "683e7799776b5bf5e07bb022",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80823,
+        "known_for_department": "Acting",
+        "name": "Andrew Morgado",
+        "original_name": "Andrew Morgado",
+        "popularity": 0.8485,
+        "profile_path": "/rDkWTPcsFtw5MQCi1qxSXXZlXG2.jpg",
+        "cast_id": 31,
+        "character": "Chief Zoran (voice)",
+        "credit_id": "683e77a7b4893aa2b468a39e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684099,
+        "known_for_department": "Acting",
+        "name": "Brock Powell",
+        "original_name": "Brock Powell",
+        "popularity": 2.255,
+        "profile_path": "/8ge9ffuWkfzNup1XW6p5qaIouLa.jpg",
+        "cast_id": 32,
+        "character": "Krivich Prisoner (voice)",
+        "credit_id": "683e77bf46d574fbc47f492a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215617,
+        "known_for_department": "Acting",
+        "name": "Felix Solis",
+        "original_name": "Felix Solis",
+        "popularity": 1.7573,
+        "profile_path": "/hEiRxsPybmlmoynqw3UeA9AiSEY.jpg",
+        "cast_id": 33,
+        "character": "Torres' Dad (voice)",
+        "credit_id": "683e77ce6a62f930a528950b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304592,
+        "known_for_department": "Writing",
+        "name": "Britton Watkins",
+        "original_name": "Britton Watkins",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Warlord Predator (voice)",
+        "credit_id": "683e77f0f198ae2001f2baa2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 219579,
+        "known_for_department": "Acting",
+        "name": "Alex Albrecht",
+        "original_name": "Alex Albrecht",
+        "popularity": 0.3222,
+        "profile_path": "/za1kf4W5Q8qlh7f53deEZyXXUhU.jpg",
+        "cast_id": 35,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e790f145a5f33b368a237",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232443,
+        "known_for_department": "Acting",
+        "name": "James Bannon",
+        "original_name": "James Bannon",
+        "popularity": 0.263,
+        "profile_path": "/x65p2K75bqPhYT5CS2EmIY1yUc5.jpg",
+        "cast_id": 36,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e791b2243f6b024fdb8d1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1243113,
+        "known_for_department": "Acting",
+        "name": "Jeff Cannata",
+        "original_name": "Jeff Cannata",
+        "popularity": 0.2433,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69308f520f1cf678ed572f96",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228940,
+        "known_for_department": "Acting",
+        "name": "Jonathan Dixon",
+        "original_name": "Jonathan Dixon",
+        "popularity": 0.4811,
+        "profile_path": "/yPCrlMlTkrICvAfVYLdZsDCm3sa.jpg",
+        "cast_id": 38,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e7933e6288940ae7f463a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102777,
+        "known_for_department": "Acting",
+        "name": "Mel Fair",
+        "original_name": "Mel Fair",
+        "popularity": 0.5829,
+        "profile_path": "/9Q9sIiikHS5HvDO89KscfnruZrb.jpg",
+        "cast_id": 39,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79406d5809b1fb289513",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 106983,
+        "known_for_department": "Acting",
+        "name": "Mary Louise Gemmill",
+        "original_name": "Mary Louise Gemmill",
+        "popularity": 0.1986,
+        "profile_path": "/f1hPxCh4NopzwSQfxHIldxYINbX.jpg",
+        "cast_id": 40,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e794b6a62f930a528950f",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636658,
+        "known_for_department": "Editing",
+        "name": "Stefan Grube",
+        "original_name": "Stefan Grube",
+        "popularity": 1.0415,
+        "profile_path": "/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg",
+        "cast_id": 41,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e795a70e7b0c382f2bb3b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2666823,
+        "known_for_department": "Acting",
+        "name": "David Heckel",
+        "original_name": "David Heckel",
+        "popularity": 0.3666,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e7961d035ba8c0268a801",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707343,
+        "known_for_department": "Acting",
+        "name": "Eiji Inoue",
+        "original_name": "Eiji Inoue",
+        "popularity": 0.557,
+        "profile_path": "/ad0JTlWFMVsHny8skQGGKPL7spw.jpg",
+        "cast_id": 43,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e796ed36911e2007f4778",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61530,
+        "known_for_department": "Acting",
+        "name": "Bjorn Johnson",
+        "original_name": "Bjorn Johnson",
+        "popularity": 1.1131,
+        "profile_path": "/79sydsg0dilQHyBfIOAJgQBsfRV.jpg",
+        "cast_id": 44,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79773b60bce91d538856",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5480034,
+        "known_for_department": "Acting",
+        "name": "Rett Keeter",
+        "original_name": "Rett Keeter",
+        "popularity": 0.075,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e798fd764063f52ad8396",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502451,
+        "known_for_department": "Acting",
+        "name": "James Taku Leung",
+        "original_name": "James Taku Leung",
+        "popularity": 1.5389,
+        "profile_path": "/WLXW0hGrHkTwTI33dovxJOVFFi.jpg",
+        "cast_id": 46,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e7999a1b0e17e1e7bafa0",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4757633,
+        "known_for_department": "Acting",
+        "name": "Isaias Alexander Miranda",
+        "original_name": "Isaias Alexander Miranda",
+        "popularity": 0.9807,
+        "profile_path": "/9tNTM5gQdDZaEGjDvVywfPZDshu.jpg",
+        "cast_id": 47,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79a1bd31116436fcab25",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1502452,
+        "known_for_department": "Acting",
+        "name": "Yumi Mizui",
+        "original_name": "Yumi Mizui",
+        "popularity": 1.1291,
+        "profile_path": "/s09Tk67xL8FfGBXWStLJZnflixo.jpg",
+        "cast_id": 48,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79aa1c9e61268c7f46ae",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112606,
+        "known_for_department": "Writing",
+        "name": "Micho Rutare",
+        "original_name": "Micho Rutare",
+        "popularity": 1.5197,
+        "profile_path": "/y1Yoz5lHVdrBLSWSJn0tFdRRHjb.jpg",
+        "cast_id": 49,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79c4736b801985fcabe6",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 167638,
+        "known_for_department": "Acting",
+        "name": "Justin Shenkarow",
+        "original_name": "Justin Shenkarow",
+        "popularity": 1.8335,
+        "profile_path": "/uxy54aFyWM1Bow5P9EAY4iCyMbu.jpg",
+        "cast_id": 50,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79e16a62f930a5289513",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111512,
+        "known_for_department": "Acting",
+        "name": "Jerry Trainor",
+        "original_name": "Jerry Trainor",
+        "popularity": 2.8705,
+        "profile_path": "/7rZX87iBEYEQ3ZngaNVi3eyxNTT.jpg",
+        "cast_id": 51,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79f35e80d04ceb289387",
+        "order": 31
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2185973,
+        "known_for_department": "Acting",
+        "name": "Toru Uchikado",
+        "original_name": "Toru Uchikado",
+        "popularity": 0.2317,
+        "profile_path": "/fZMInggBDhNxogsVxCQ5icKXUnh.jpg",
+        "cast_id": 52,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e79fa54ec6aed0128927e",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105288,
+        "known_for_department": "Production",
+        "name": "Bernie Van De Yacht",
+        "original_name": "Bernie Van De Yacht",
+        "popularity": 2.0343,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Additional Voices (voice)",
+        "credit_id": "683e7a07736b801985fcabea",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94022,
+        "known_for_department": "Acting",
+        "name": "Matthew Wolf",
+        "original_name": "Matthew Wolf",
+        "popularity": 0.483,
+        "profile_path": "/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg",
+        "cast_id": 56,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6841c0deabfc1e2df828a01f",
+        "order": 34
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568322,
+        "known_for_department": "Directing",
+        "name": "Dan Trachtenberg",
+        "original_name": "Dan Trachtenberg",
+        "popularity": 1.7251,
+        "profile_path": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
+        "credit_id": "671a92075be9e8759da7024d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092,
+        "known_for_department": "Writing",
+        "name": "Jim Thomas",
+        "original_name": "Jim Thomas",
+        "popularity": 1.0316,
+        "profile_path": null,
+        "credit_id": "671a9217e833d92ef05fec5d",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094,
+        "known_for_department": "Writing",
+        "name": "John Thomas",
+        "original_name": "John Thomas",
+        "popularity": 1.5729,
+        "profile_path": null,
+        "credit_id": "671a9227e833d92ef05fec64",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1933513,
+        "known_for_department": "Visual Effects",
+        "name": "Joshua Wassung",
+        "original_name": "Joshua Wassung",
+        "popularity": 0.5511,
+        "profile_path": null,
+        "credit_id": "67f54eef31c9f27299ad6a4a",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568322,
+        "known_for_department": "Directing",
+        "name": "Dan Trachtenberg",
+        "original_name": "Dan Trachtenberg",
+        "popularity": 1.7251,
+        "profile_path": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
+        "credit_id": "67f54fa0a5471a51ee999d53",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2043,
+        "known_for_department": "Production",
+        "name": "John Davis",
+        "original_name": "John Davis",
+        "popularity": 1.409,
+        "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+        "credit_id": "67f54fe78cfccf7bafd988ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568322,
+        "known_for_department": "Directing",
+        "name": "Dan Trachtenberg",
+        "original_name": "Dan Trachtenberg",
+        "popularity": 1.7251,
+        "profile_path": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
+        "credit_id": "67f5500ea5471a51ee999d77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102630,
+        "known_for_department": "Production",
+        "name": "Marc Toberoff",
+        "original_name": "Marc Toberoff",
+        "popularity": 0.5259,
+        "profile_path": "/tNgHmElWNYdstPhKqh6P78rDurZ.jpg",
+        "credit_id": "67f550227b43bdce20ad951c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1725893,
+        "known_for_department": "Production",
+        "name": "Ben Rosenblatt",
+        "original_name": "Ben Rosenblatt",
+        "popularity": 0.5417,
+        "profile_path": null,
+        "credit_id": "67f55035eddec28b03addd61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1093,
+        "known_for_department": "Production",
+        "name": "Lawrence Gordon",
+        "original_name": "Lawrence Gordon",
+        "popularity": 2.2084,
+        "profile_path": "/jOZiaeFrl837bTO7wMdCNIaQSL.jpg",
+        "credit_id": "67f5504a1bb047289999b094",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092,
+        "known_for_department": "Writing",
+        "name": "Jim Thomas",
+        "original_name": "Jim Thomas",
+        "popularity": 1.0316,
+        "profile_path": null,
+        "credit_id": "67f5506031c9f27299ad6b6b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094,
+        "known_for_department": "Writing",
+        "name": "John Thomas",
+        "original_name": "John Thomas",
+        "popularity": 1.5729,
+        "profile_path": null,
+        "credit_id": "67f550858cfccf7bafd9896d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636658,
+        "known_for_department": "Editing",
+        "name": "Stefan Grube",
+        "original_name": "Stefan Grube",
+        "popularity": 1.0415,
+        "profile_path": "/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg",
+        "credit_id": "67f550971bb047289999b0da",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112606,
+        "known_for_department": "Writing",
+        "name": "Micho Rutare",
+        "original_name": "Micho Rutare",
+        "popularity": 1.5197,
+        "profile_path": "/y1Yoz5lHVdrBLSWSJn0tFdRRHjb.jpg",
+        "credit_id": "67f551ed1bb047289999b21e",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1550633,
+        "known_for_department": "Production",
+        "name": "Jessica Sherman",
+        "original_name": "Jessica Sherman",
+        "popularity": 0.7476,
+        "profile_path": "/5whht0G9m1f1Uqpz0M390xMd4Ol.jpg",
+        "credit_id": "67f58a3f8cfccf7bafd99d3b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40825,
+        "known_for_department": "Sound",
+        "name": "Benjamin Wallfisch",
+        "original_name": "Benjamin Wallfisch",
+        "popularity": 0.8045,
+        "profile_path": "/dWcshjk0OUi3stGFFrwZIsYKZfQ.jpg",
+        "credit_id": "683c9ca973da683064d216d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112606,
+        "known_for_department": "Writing",
+        "name": "Micho Rutare",
+        "original_name": "Micho Rutare",
+        "popularity": 1.5197,
+        "profile_path": "/y1Yoz5lHVdrBLSWSJn0tFdRRHjb.jpg",
+        "credit_id": "6841bfcb9d1693de237f5659",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636658,
+        "known_for_department": "Editing",
+        "name": "Stefan Grube",
+        "original_name": "Stefan Grube",
+        "popularity": 1.0415,
+        "profile_path": "/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg",
+        "credit_id": "6841bfea41f0e6898f1b015a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4204187,
+        "known_for_department": "Editing",
+        "name": "Jesse Harbold",
+        "original_name": "Jesse Harbold",
+        "popularity": 0.1616,
+        "profile_path": null,
+        "credit_id": "68443f7f2435c5cb9d30109c",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2683838,
+        "known_for_department": "Editing",
+        "name": "Michelle Gold",
+        "original_name": "Michelle Gold",
+        "popularity": 0.1052,
+        "profile_path": null,
+        "credit_id": "68444034e9853a7c1ebb287c",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2068883,
+        "known_for_department": "Editing",
+        "name": "Zack Rosenblatt",
+        "original_name": "Zack Rosenblatt",
+        "popularity": 0.1235,
+        "profile_path": null,
+        "credit_id": "6844419b58216a1685fd5574",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2884222,
+        "known_for_department": "Editing",
+        "name": "John Caldwell",
+        "original_name": "John Caldwell",
+        "popularity": 1.5899,
+        "profile_path": null,
+        "credit_id": "684441feb68cba1afa1ea084",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5165105,
+        "known_for_department": "Production",
+        "name": "Aari Reich",
+        "original_name": "Aari Reich",
+        "popularity": 0.1705,
+        "profile_path": null,
+        "credit_id": "68444e5c9966b96afcde6786",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5489891,
+        "known_for_department": "Visual Effects",
+        "name": "Dustin Warnock",
+        "original_name": "Dustin Warnock",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6844560449572790b6301163",
+        "department": "Visual Effects",
+        "job": "Head of Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1933995,
+        "known_for_department": "Art",
+        "name": "Joel Chang",
+        "original_name": "Joel Chang",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "6844578066e16a5a39205ad6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5243669,
+        "known_for_department": "Crew",
+        "name": "Amee Carter",
+        "original_name": "Amee Carter",
+        "popularity": 0.1697,
+        "profile_path": null,
+        "credit_id": "684457bb2b0d732083de67ec",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5489915,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Lin",
+        "original_name": "Eric Lin",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "6844594ffc6300d7b33fc045",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5489916,
+        "known_for_department": "Visual Effects",
+        "name": "Víctor Pesquera",
+        "original_name": "Víctor Pesquera",
+        "popularity": 0.3102,
+        "profile_path": null,
+        "credit_id": "6844599566e16a5a39205ae5",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2003083,
+        "known_for_department": "Visual Effects",
+        "name": "Sebastien Wojda",
+        "original_name": "Sebastien Wojda",
+        "popularity": 0.6476,
+        "profile_path": null,
+        "credit_id": "684459f25b8d2a1845bb296f",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1733875,
+        "known_for_department": "Editing",
+        "name": "J. Cody Baker",
+        "original_name": "J. Cody Baker",
+        "popularity": 0.2892,
+        "profile_path": null,
+        "credit_id": "68445cb89e85afcb97341fa9",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3324629,
+        "known_for_department": "Production",
+        "name": "Marlène Torest",
+        "original_name": "Marlène Torest",
+        "popularity": 0.2144,
+        "profile_path": null,
+        "credit_id": "68448fed30c20391ce205bf2",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1376434,
+    "keywords": [
+      {
+        "id": 1196,
+        "name": "florida"
+      },
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 1297,
+        "name": "predator"
+      },
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 3193,
+        "name": "harpoon"
+      },
+      {
+        "id": 3203,
+        "name": "pilot"
+      },
+      {
+        "id": 3385,
+        "name": "cryogenics"
+      },
+      {
+        "id": 5895,
+        "name": "vikings (norsemen)"
+      },
+      {
+        "id": 10201,
+        "name": "death of father"
+      },
+      {
+        "id": 9706,
+        "name": "anthology"
+      },
+      {
+        "id": 10278,
+        "name": "ninja"
+      },
+      {
+        "id": 14926,
+        "name": "katana sword"
+      },
+      {
+        "id": 14949,
+        "name": "stick fight"
+      },
+      {
+        "id": 18098,
+        "name": "samurai sword"
+      },
+      {
+        "id": 162533,
+        "name": "torso cut in half"
+      },
+      {
+        "id": 162913,
+        "name": "broken down car"
+      },
+      {
+        "id": 185650,
+        "name": "beheaded"
+      },
+      {
+        "id": 186804,
+        "name": "shipyard"
+      },
+      {
+        "id": 191168,
+        "name": "fight to death"
+      },
+      {
+        "id": 192962,
+        "name": "alien attack"
+      },
+      {
+        "id": 198754,
+        "name": "feudal japan"
+      },
+      {
+        "id": 207748,
+        "name": "ninja warrior"
+      },
+      {
+        "id": 208156,
+        "name": "frantic"
+      },
+      {
+        "id": 227147,
+        "name": "underwater fight"
+      },
+      {
+        "id": 229607,
+        "name": "female warrior"
+      },
+      {
+        "id": 231277,
+        "name": "alien technology"
+      },
+      {
+        "id": 238140,
+        "name": "forced to kill"
+      },
+      {
+        "id": 239615,
+        "name": "airplane flight"
+      },
+      {
+        "id": 240237,
+        "name": "mother son relationship"
+      },
+      {
+        "id": 280828,
+        "name": "cloaking device"
+      },
+      {
+        "id": 325811,
+        "name": "excited"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "id": 168,
+        "original_language": "en",
+        "original_title": "Star Trek IV: The Voyage Home",
+        "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+        "popularity": 3.2981,
+        "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+        "release_date": "1986-11-26",
+        "title": "Star Trek IV: The Voyage Home",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 1586
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7PoWlbQg7ZxgwofFRrkytvpLvJD.jpg",
+        "genre_ids": [
+          878,
+          28,
+          53
+        ],
+        "id": 169,
+        "original_language": "en",
+        "original_title": "Predator 2",
+        "overview": "A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.",
+        "popularity": 13.8584,
+        "poster_path": "/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
+        "release_date": "1990-11-21",
+        "title": "Predator 2",
+        "video": false,
+        "vote_average": 6.297,
+        "vote_count": 3640
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 187,
+        "original_language": "en",
+        "original_title": "Sin City",
+        "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+        "popularity": 8.7786,
+        "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+        "release_date": "2005-04-01",
+        "title": "Sin City",
+        "video": false,
+        "vote_average": 7.461,
+        "vote_count": 8602
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP6WiYHQUUXo6ZaXI06enkMsxkF.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28
+        ],
+        "id": 246,
+        "original_language": "ja",
+        "original_title": "座頭市",
+        "overview": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
+        "popularity": 2.7254,
+        "poster_path": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg",
+        "release_date": "2003-09-06",
+        "title": "Zatoichi",
+        "video": false,
+        "vote_average": 7.233,
+        "vote_count": 921
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bbvsFqZfS9doc1ewbJCV7eFjoqV.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1042179,
+        "original_language": "en",
+        "original_title": "Worst Laid Plans",
+        "overview": "Three tales of vacation-themed horror adapted from the bestselling book by Grindhouse Press.",
+        "popularity": 0.1856,
+        "poster_path": "/z2XLK9OW0P4EsNAmAvJQmE2f1ZE.jpg",
+        "release_date": "2022-12-03",
+        "title": "Worst Laid Plans",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 22,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
+        "popularity": 21.3741,
+        "poster_path": "/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
+        "release_date": "2003-07-09",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "video": false,
+        "vote_average": 7.818,
+        "vote_count": 21722
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lV2UQv1qmiZA0tWsVjgFLD6z2uG.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 82,
+        "original_language": "en",
+        "original_title": "Miami Vice",
+        "overview": "A case involving drug lords and murder in South Florida takes a personal turn for undercover detectives Sonny Crockett and Ricardo Tubbs. Unorthodox Crockett gets involved romantically with the Chinese-Cuban wife of a trafficker of arms and drugs, while Tubbs deals with an assault on those he loves.",
+        "popularity": 3.1071,
+        "poster_path": "/1KGD2g0wOc7WBfHc5G19reLHQxk.jpg",
+        "release_date": "2006-07-27",
+        "title": "Miami Vice",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1900
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 85,
+        "original_language": "en",
+        "original_title": "Raiders of the Lost Ark",
+        "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+        "popularity": 15.092,
+        "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+        "release_date": "1981-06-12",
+        "title": "Raiders of the Lost Ark",
+        "video": false,
+        "vote_average": 7.922,
+        "vote_count": 13271
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "id": 104,
+        "original_language": "de",
+        "original_title": "Lola rennt",
+        "overview": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+        "popularity": 3.3424,
+        "poster_path": "/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+        "release_date": "1998-08-20",
+        "title": "Run Lola Run",
+        "video": false,
+        "vote_average": 7.297,
+        "vote_count": 2466
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 106,
+        "original_language": "en",
+        "original_title": "Predator",
+        "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+        "popularity": 35.687,
+        "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+        "release_date": "1987-06-12",
+        "title": "Predator",
+        "video": false,
+        "vote_average": 7.543,
+        "vote_count": 8739
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28
+        ],
+        "id": 149,
+        "original_language": "ja",
+        "original_title": "AKIRA",
+        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+        "popularity": 7.5812,
+        "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+        "release_date": "1988-06-10",
+        "title": "Akira",
+        "video": false,
+        "vote_average": 7.939,
+        "vote_count": 4595
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5wd3q65hN5WMQyftej6krZMvlhu.jpg",
+        "genre_ids": [
+          28,
+          12
+        ],
+        "id": 456460,
+        "original_language": "ja",
+        "original_title": "ベストガイ",
+        "overview": "Two pilots compete to be the best jet fighter. A commander with a troublesome past, a female director who wants a good scoop, a competition that is looking for their best guy.",
+        "popularity": 0.6962,
+        "poster_path": "/zTJvlDFP7K9j16flYiGlr0IDJgB.jpg",
+        "release_date": "1990-12-15",
+        "title": "BEST GUY",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          28,
+          80
+        ],
+        "id": 456506,
+        "original_language": "ja",
+        "original_title": "昭和残侠伝 人斬り唐獅子",
+        "overview": "This is the sixth film in the Brutal Tales of Chivalry series",
+        "popularity": 1.2078,
+        "poster_path": "/kx3IMlWZkP8EuU3WZjdd6AsGedN.jpg",
+        "release_date": "1969-11-28",
+        "title": "Brutal Tales of Chivalry 6",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+        "genre_ids": [
+          18,
+          80,
+          28
+        ],
+        "id": 272,
+        "original_language": "en",
+        "original_title": "Batman Begins",
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "popularity": 17.3432,
+        "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "release_date": "2005-06-10",
+        "title": "Batman Begins",
+        "video": false,
+        "vote_average": 7.72,
+        "vote_count": 22096
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 346,
+        "original_language": "ja",
+        "original_title": "七人の侍",
+        "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+        "popularity": 11.2593,
+        "poster_path": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+        "release_date": "1954-04-26",
+        "title": "Seven Samurai",
+        "video": false,
+        "vote_average": 8.453,
+        "vote_count": 4067
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xvq1RLaiwSdHwPHe7WUhqZa1rCA.jpg",
+        "genre_ids": [
+          12,
+          878,
+          28,
+          27
+        ],
+        "id": 395,
+        "original_language": "en",
+        "original_title": "AVP: Alien vs. Predator",
+        "overview": "When scientists discover something near Antarctica that appears to be a buried Pyramid, they send a research team out to investigate. Little do they know that they are about to step into a hunting ground where Aliens are grown as sport for the Predator race.",
+        "popularity": 7.1873,
+        "poster_path": "/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg",
+        "release_date": "2004-08-12",
+        "title": "AVP: Alien vs. Predator",
+        "video": false,
+        "vote_average": 5.948,
+        "vote_count": 4785
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9aA7y5LAI99dT0dL3ZHjCPvfohX.jpg",
+        "genre_ids": [
+          53,
+          35,
+          27
+        ],
+        "id": 278332,
+        "original_language": "tl",
+        "original_title": "Shake, Rattle & Roll IV",
+        "overview": "Three unrelated stories of horror include a substitute teacher who preys on a small school; neighborhood children being abducted by a tree-dwelling monster; and a group of Manila residents plagued by attacks from a Manananggal.",
+        "popularity": 0.1837,
+        "poster_path": "/e9fXTTBXepWM42mefFFc4XkcJ4.jpg",
+        "release_date": "1992-12-25",
+        "title": "Shake, Rattle & Roll IV",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kqnwiTdVjW2Fc8OSjfKlW0V1BKA.jpg",
+        "genre_ids": [
+          53,
+          35,
+          27
+        ],
+        "id": 278336,
+        "original_language": "tl",
+        "original_title": "Shake, Rattle & Roll V",
+        "overview": "Three tales of unbridled terror follow a couple vacation on a secluded island where strange forces are at work to keep them there; a young woman whose boyfriend is ill meets a handsome young man in the woods who seems to exhibit magical powers that can cure her sick friend, on the condition that she stay with him forever; and a family who move into a new apartment, unaware of a supernatural tragedy that occurred there.",
+        "popularity": 0.1437,
+        "poster_path": "/yRAUUaqjC9osL6jZm4huhViJhYM.jpg",
+        "release_date": "1994-12-25",
+        "title": "Shake, Rattle & Roll V",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gfR3GEClL7WrNpQOg8mcPhM8fx6.jpg",
+        "genre_ids": [
+          28,
+          18,
+          36
+        ],
+        "id": 11645,
+        "original_language": "ja",
+        "original_title": "乱",
+        "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+        "popularity": 6.4369,
+        "poster_path": "/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg",
+        "release_date": "1985-06-01",
+        "title": "Ran",
+        "video": false,
+        "vote_average": 8.046,
+        "vote_count": 1721
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bMNHiwzjlg9FJNyxZ1zNFKZ9MTT.jpg",
+        "genre_ids": [
+          12,
+          27,
+          53
+        ],
+        "id": 11237,
+        "original_language": "en",
+        "original_title": "Anacondas: The Hunt for the Blood Orchid",
+        "overview": "A scientific expedition sets out for Borneo to seek a flower called the Blood Orchid, which could grant extended life. Meanwhile, they run afoul of snakes and each other.",
+        "popularity": 6.8329,
+        "poster_path": "/ceMVASYCqV8dcdh20AcWf0lrJ8g.jpg",
+        "release_date": "2004-08-25",
+        "title": "Anacondas: The Hunt for the Blood Orchid",
+        "video": false,
+        "vote_average": 5.489,
+        "vote_count": 1059
+      }
+    ],
+    "total_pages": 9333,
+    "total_results": 186657
+  }
+}

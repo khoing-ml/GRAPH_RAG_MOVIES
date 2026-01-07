@@ -1,0 +1,1131 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
+    "belongs_to_collection": {
+      "id": 1172926,
+      "name": "The Strangers (Remake) Collection",
+      "poster_path": "/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
+      "backdrop_path": "/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+    },
+    "budget": 8000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://thestrangers.movie",
+    "id": 1010756,
+    "imdb_id": "tt28671344",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Strangers: Chapter 2",
+    "overview": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
+    "popularity": 26.2745,
+    "poster_path": "/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
+    "production_companies": [
+      {
+        "id": 175756,
+        "logo_path": null,
+        "name": "Sherbone Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 9987,
+        "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+        "name": "Lipsync Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 229418,
+        "logo_path": null,
+        "name": "Stream Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 200342,
+        "logo_path": null,
+        "name": "Fifth Element Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-09-25",
+    "revenue": 21921749,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Survival was just the beginning.",
+    "title": "The Strangers: Chapter 2",
+    "video": false,
+    "vote_average": 5.992,
+    "vote_count": 188
+  },
+  "credits": {
+    "id": 1010756,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1592855,
+        "known_for_department": "Acting",
+        "name": "Madelaine Petsch",
+        "original_name": "Madelaine Petsch",
+        "popularity": 2.7747,
+        "profile_path": "/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg",
+        "cast_id": 4,
+        "character": "Maya",
+        "credit_id": "64fcb916f85958013a8dcb09",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1798797,
+        "known_for_department": "Acting",
+        "name": "Froy Gutierrez",
+        "original_name": "Froy Gutierrez",
+        "popularity": 1.8903,
+        "profile_path": "/8sCm6Jl8jDUwRBin6k7CIFIm0yg.jpg",
+        "cast_id": 21,
+        "character": "Ryan",
+        "credit_id": "67444848d4014c2db7709454",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222122,
+        "known_for_department": "Acting",
+        "name": "Gabriel Basso",
+        "original_name": "Gabriel Basso",
+        "popularity": 3.6898,
+        "profile_path": "/6jHYQf6Y37BEouavp03WWpWpFyR.jpg",
+        "cast_id": 31,
+        "character": "Gregory",
+        "credit_id": "685bd74b03937d80e70434ba",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1921268,
+        "known_for_department": "Acting",
+        "name": "Ema Horvath",
+        "original_name": "Ema Horvath",
+        "popularity": 1.1162,
+        "profile_path": "/4YindT5cKhekpAilc6q0scQeUQx.jpg",
+        "cast_id": 29,
+        "character": "Shelly",
+        "credit_id": "685bd715586c3d9ec481489d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4067297,
+        "known_for_department": "Acting",
+        "name": "Brooke Lena Johnson",
+        "original_name": "Brooke Lena Johnson",
+        "popularity": 0.3944,
+        "profile_path": "/gcidhYtCeH19FdpMjbVgjvBhbtA.jpg",
+        "cast_id": 20,
+        "character": "Nurse Danica",
+        "credit_id": "6744483c9a2f382cbd35f944",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3901,
+        "known_for_department": "Acting",
+        "name": "Richard Brake",
+        "original_name": "Richard Brake",
+        "popularity": 3.0811,
+        "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+        "cast_id": 18,
+        "character": "Sheriff Rotter",
+        "credit_id": "6712d49825c70b8b1d67e835",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3188261,
+        "known_for_department": "Acting",
+        "name": "Pedro Leandro",
+        "original_name": "Pedro Leandro",
+        "popularity": 0.2552,
+        "profile_path": "/2mqNYfAKoazh2cWwPmSKLUuqzuV.jpg",
+        "cast_id": 27,
+        "character": "Deputy Walters",
+        "credit_id": "6744488e4c3822726f31ee42",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076119,
+        "known_for_department": "Acting",
+        "name": "Rachel Shenton",
+        "original_name": "Rachel Shenton",
+        "popularity": 2.2224,
+        "profile_path": "/AuFmd6sNQWA5CHYx8cRbVApBaKs.jpg",
+        "cast_id": 19,
+        "character": "Debbie",
+        "credit_id": "67444832d8db7dd1ba4584ec",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4067293,
+        "known_for_department": "Acting",
+        "name": "Florian Clare",
+        "original_name": "Florian Clare",
+        "popularity": 0.2873,
+        "profile_path": "/tIc7RUBajP2ALxNQ53osDeLLaDm.jpg",
+        "cast_id": 22,
+        "character": "Chris Sampson",
+        "credit_id": "67444854dae2e6a93825e0af",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405269,
+        "known_for_department": "Acting",
+        "name": "Janis Ahern",
+        "original_name": "Janis Ahern",
+        "popularity": 0.4386,
+        "profile_path": "/v88XlcZTujKf7OYfHRAYmSpPAyq.jpg",
+        "cast_id": 23,
+        "character": "Carol",
+        "credit_id": "674448619f40a7aaf6ea548c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3390906,
+        "known_for_department": "Acting",
+        "name": "Pablo Sandstrom",
+        "original_name": "Pablo Sandstrom",
+        "popularity": 0.184,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Neil",
+        "credit_id": "6744486ed4014c2db7709462",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453290,
+        "known_for_department": "Acting",
+        "name": "JR Esposito",
+        "original_name": "JR Esposito",
+        "popularity": 1.9931,
+        "profile_path": "/zPlXdFuXUz7TP6IBgQh5IdEXfbc.jpg",
+        "cast_id": 25,
+        "character": "Dr. Tate",
+        "credit_id": "67444877dae2e6a93825e0dc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615696,
+        "known_for_department": "Acting",
+        "name": "Sara Freedland",
+        "original_name": "Sara Freedland",
+        "popularity": 0.3681,
+        "profile_path": "/zqUz6zJTLowFVwOar0HN4T20O3y.jpg",
+        "cast_id": 26,
+        "character": "Annie",
+        "credit_id": "6744488383158b0b2647e6ac",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3771171,
+        "known_for_department": "Acting",
+        "name": "Jamie Taylor Ballesta",
+        "original_name": "Jamie Taylor Ballesta",
+        "popularity": 0.5073,
+        "profile_path": "/aug00YMDO9mnHpsZ0bRsPQScljT.jpg",
+        "cast_id": 28,
+        "character": "Dollface Photo Double",
+        "credit_id": "6786531d62e8fa629dbb0dd2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1058080,
+        "known_for_department": "Acting",
+        "name": "Ben Cartwright",
+        "original_name": "Ben Cartwright",
+        "popularity": 0.7867,
+        "profile_path": "/et81kCfsFf4kHCPgLfg96eX9Bok.jpg",
+        "cast_id": 45,
+        "character": "Rudy",
+        "credit_id": "68f23b422a5778fa690e487a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1278601,
+        "known_for_department": "Production",
+        "name": "Stevee Davies",
+        "original_name": "Stevee Davies",
+        "popularity": 0.3282,
+        "profile_path": "/3Wck1WgvZzU8WmTRHMdY6pU5Vpp.jpg",
+        "cast_id": 46,
+        "character": "Dougie",
+        "credit_id": "68f23b6ce3a217d0d674f7bf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3250136,
+        "known_for_department": "Acting",
+        "name": "Ella Bruccoleri",
+        "original_name": "Ella Bruccoleri",
+        "popularity": 1.0384,
+        "profile_path": "/xVqbUOELKqxhEdqAz5IXhFYp7Uy.jpg",
+        "cast_id": 47,
+        "character": "Jasmine",
+        "credit_id": "68f23b8ef88712287fec5a89",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5613942,
+        "known_for_department": "Acting",
+        "name": "Nola Wallace",
+        "original_name": "Nola Wallace",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Young Pinup Girl",
+        "credit_id": "68f23ba926a0fb44904d1fc8",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3880510,
+        "known_for_department": "Acting",
+        "name": "Pippa Blaylock",
+        "original_name": "Pippa Blaylock",
+        "popularity": 0.3822,
+        "profile_path": "/vZ6iih6ladCVmYXO80owBR8dozi.jpg",
+        "cast_id": 49,
+        "character": "Young Tamara",
+        "credit_id": "68f23bc2dd0ce2c7c374f7b6",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5754813,
+        "known_for_department": "Acting",
+        "name": "Jake Cogman",
+        "original_name": "Jake Cogman",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Young Scarecrow",
+        "credit_id": "68f23bd2a4ff7e11b2ec5912",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5754814,
+        "known_for_department": "Acting",
+        "name": "Vincent Zaninovich",
+        "original_name": "Vincent Zaninovich",
+        "popularity": 0.1338,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "The Orderly",
+        "credit_id": "68f23c1c94be5ff3d777daee",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2548051,
+        "known_for_department": "Acting",
+        "name": "Lily Knight",
+        "original_name": "Lily Knight",
+        "popularity": 0.4334,
+        "profile_path": "/pHTJUOP0qmYXw9KX9iElAe2sayy.jpg",
+        "cast_id": 52,
+        "character": "Shar (Farmer Woman)",
+        "credit_id": "68f23c41424f58ef3177dc12",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5754816,
+        "known_for_department": "Acting",
+        "name": "Eric Hathern",
+        "original_name": "Eric Hathern",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Radio Preacher (voice)",
+        "credit_id": "68f23c642a5778fa690e488c",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2871317,
+        "known_for_department": "Acting",
+        "name": "Milo Callaghan",
+        "original_name": "Milo Callaghan",
+        "popularity": 1.6278,
+        "profile_path": "/jRPVXcIc3nfRbWPe5NQODVl9N10.jpg",
+        "cast_id": 55,
+        "character": "Wayne",
+        "credit_id": "68f23c7465eed7e789591198",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5754817,
+        "known_for_department": "Acting",
+        "name": "William Lee Rayner",
+        "original_name": "William Lee Rayner",
+        "popularity": 0.0816,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Cook",
+        "credit_id": "68f23c90d3dbea8cb0df730a",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 529302,
+        "known_for_department": "Acting",
+        "name": "Joplin Sibtain",
+        "original_name": "Joplin Sibtain",
+        "popularity": 1.6523,
+        "profile_path": "/j6iUdkOduPqK16nlmMUzC59viz9.jpg",
+        "cast_id": 57,
+        "character": "Billy Bufford",
+        "credit_id": "68f23cae7adfa59eeeb23277",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2140794,
+        "known_for_department": "Acting",
+        "name": "Brian Law",
+        "original_name": "Brian Law",
+        "popularity": 0.8983,
+        "profile_path": "/lQYZlNIzOpNNFUztBp4QVwpFusr.jpg",
+        "cast_id": 58,
+        "character": "EMT Driver",
+        "credit_id": "68f23cd6969c29404d59120a",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16938,
+        "known_for_department": "Directing",
+        "name": "Renny Harlin",
+        "original_name": "Renny Harlin",
+        "popularity": 1.5973,
+        "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+        "credit_id": "632a79013d7454007af14e61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61921,
+        "known_for_department": "Production",
+        "name": "Courtney Solomon",
+        "original_name": "Courtney Solomon",
+        "popularity": 1.8921,
+        "profile_path": "/xujLAPgpM1JXLqE0X4mWVrPTmqd.jpg",
+        "credit_id": "632a7b563d7454007d04ce99",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665616,
+        "known_for_department": "Art",
+        "name": "Matt Curtis",
+        "original_name": "Matt Curtis",
+        "popularity": 2.1922,
+        "profile_path": "/ijoE4C3RQvaLqaDSxkDiEgpQXNv.jpg",
+        "credit_id": "6596da6c5cc11d7a3b7d1a2f",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1592855,
+        "known_for_department": "Acting",
+        "name": "Madelaine Petsch",
+        "original_name": "Madelaine Petsch",
+        "popularity": 2.7747,
+        "profile_path": "/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg",
+        "credit_id": "667095415aef8bdc95cf731d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66074,
+        "known_for_department": "Directing",
+        "name": "Bryan Bertino",
+        "original_name": "Bryan Bertino",
+        "popularity": 2.098,
+        "profile_path": "/8vGpQ5cQZMJEttCxOWiPjYENNpc.jpg",
+        "credit_id": "66a6ae5bd73c74841f65efae",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21036,
+        "known_for_department": "Production",
+        "name": "Roy Lee",
+        "original_name": "Roy Lee",
+        "popularity": 1.0035,
+        "profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+        "credit_id": "670c4d9eb15d97b1a93cc81b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61927,
+        "known_for_department": "Production",
+        "name": "Christopher Milburn",
+        "original_name": "Christopher Milburn",
+        "popularity": 0.1772,
+        "profile_path": "/vTrf7vO2aJd9nooNJnNTbQAbhWr.jpg",
+        "credit_id": "685bd832f3daf2cd2994e1e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46088,
+        "known_for_department": "Production",
+        "name": "Mark Canton",
+        "original_name": "Mark Canton",
+        "popularity": 1.4673,
+        "profile_path": "/7OiY4eak3DztX0lSj4cbmKLQuaj.jpg",
+        "credit_id": "685bd85e585b12283c814875",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126235,
+        "known_for_department": "Camera",
+        "name": "José David Montero",
+        "original_name": "José David Montero",
+        "popularity": 0.6212,
+        "profile_path": null,
+        "credit_id": "685bd8e3d63b4f41c206f32f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179681,
+        "known_for_department": "Acting",
+        "name": "Vladimir Orlov",
+        "original_name": "Владимир Орлов",
+        "popularity": 0.971,
+        "profile_path": "/nIj93cuhUGMjEZeFgVNVSgaieoo.jpg",
+        "credit_id": "6884dd61e088d578c78a6bd1",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4724805,
+        "known_for_department": "Crew",
+        "name": "Olivia Kreutzova",
+        "original_name": "Olivia Kreutzova",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "credit_id": "6884dd73ee63f2da1116bd1d",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718333,
+        "known_for_department": "Acting",
+        "name": "Letizia Fabbri",
+        "original_name": "Letizia Fabbri",
+        "popularity": 0.4712,
+        "profile_path": null,
+        "credit_id": "6884dd7c8af0071dab8a68dc",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4373189,
+        "known_for_department": "Directing",
+        "name": "Léa Cochet",
+        "original_name": "Léa Cochet",
+        "popularity": 0.1395,
+        "profile_path": null,
+        "credit_id": "6884dd8d3f67cfd7aa55eed2",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1463658,
+        "known_for_department": "Crew",
+        "name": "Hannah Betts",
+        "original_name": "Hannah Betts",
+        "popularity": 0.3389,
+        "profile_path": "/90zcpWAKLSP9wOtaAKGu2ejRVXl.jpg",
+        "credit_id": "6884dd93dc231ac119f784de",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364109,
+        "known_for_department": "Editing",
+        "name": "Michelle Harrison",
+        "original_name": "Michelle Harrison",
+        "popularity": 0.2319,
+        "profile_path": null,
+        "credit_id": "68c352e16b7f0bbafd2488fe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33290,
+        "known_for_department": "Sound",
+        "name": "Justin Burnett",
+        "original_name": "Justin Burnett",
+        "popularity": 0.7721,
+        "profile_path": null,
+        "credit_id": "68d9436f7148e624a1b99d23",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127148,
+        "known_for_department": "Writing",
+        "name": "Alan Freedland",
+        "original_name": "Alan Freedland",
+        "popularity": 0.4588,
+        "profile_path": "/96eZLUm3VvtPC4hpYfPlngfItoO.jpg",
+        "credit_id": "68e6fd0e555fbeab245f5fac",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127146,
+        "known_for_department": "Writing",
+        "name": "Alan R. Cohen",
+        "original_name": "Alan R. Cohen",
+        "popularity": 0.2473,
+        "profile_path": "/xlJoaaVnrcfo8f4HAaDvxWc5Q1t.jpg",
+        "credit_id": "68e6fd1bc7c1e92f6e30bbff",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1010756,
+    "keywords": [
+      {
+        "id": 1546,
+        "name": "ambulance"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 11612,
+        "name": "hospital"
+      },
+      {
+        "id": 12339,
+        "name": "slasher"
+      },
+      {
+        "id": 161184,
+        "name": "reboot"
+      },
+      {
+        "id": 358773,
+        "name": "masked maniac"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 163,
+        "original_language": "en",
+        "original_title": "Ocean's Twelve",
+        "overview": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life ... but that's proven to be a challenge. Casino owner Terry Benedict demands that Danny Ocean return the money, plus millions more in interest. Unable to come up the cash, the crew is forced to come together to pull off another series of heists, this time in Rome, Paris, and Amsterdam – but a Europol agent is hot on their heels.",
+        "popularity": 8.1187,
+        "poster_path": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+        "release_date": "2004-12-09",
+        "title": "Ocean's Twelve",
+        "video": false,
+        "vote_average": 6.565,
+        "vote_count": 7672
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
+        "genre_ids": [
+          27,
+          53,
+          878
+        ],
+        "id": 170,
+        "original_language": "en",
+        "original_title": "28 Days Later",
+        "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+        "popularity": 16.5304,
+        "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+        "release_date": "2002-10-31",
+        "title": "28 Days Later",
+        "video": false,
+        "vote_average": 7.236,
+        "vote_count": 8053
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gznaK2DnntjQKkK5Sp0OEkVYCp8.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 298,
+        "original_language": "en",
+        "original_title": "Ocean's Thirteen",
+        "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+        "popularity": 7.49,
+        "poster_path": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+        "release_date": "2007-06-05",
+        "title": "Ocean's Thirteen",
+        "video": false,
+        "vote_average": 6.725,
+        "vote_count": 6693
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 377,
+        "original_language": "en",
+        "original_title": "A Nightmare on Elm Street",
+        "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+        "popularity": 9.8348,
+        "poster_path": "/avHGIO93jgCZLf33ec2aahgZJX6.jpg",
+        "release_date": "1984-11-09",
+        "title": "A Nightmare on Elm Street",
+        "video": false,
+        "vote_average": 7.338,
+        "vote_count": 5542
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7hN4MAlz386PpEwzTNcj88F1JCw.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 10984,
+        "original_language": "en",
+        "original_title": "Valentine",
+        "overview": "Four friends start to receive morbid Valentine cards and realise they are being stalked by someone they had spurned 13 years ago. A masked killer is on the loose and Valentine's day is soon approaching.",
+        "popularity": 1.9166,
+        "poster_path": "/jMtWV4FixMGTgUjbr9NFVEANGYQ.jpg",
+        "release_date": "2001-02-02",
+        "title": "Valentine",
+        "video": false,
+        "vote_average": 5.553,
+        "vote_count": 585
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cFFCNDLLJqPIsQDMH9dlniYDiIT.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 10987,
+        "original_language": "en",
+        "original_title": "Halloween: The Curse of Michael Myers",
+        "overview": "Six years after being presumed dead in a fire, and just as the town prepares to finally celebrate Halloween again, Michael Myers returns to Haddonfield to continue his reign of terror.",
+        "popularity": 2.4889,
+        "poster_path": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+        "release_date": "1995-09-29",
+        "title": "Halloween: The Curse of Michael Myers",
+        "video": false,
+        "vote_average": 5.15,
+        "vote_count": 1202
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6oIOl5HMRTPsjjlZaU32yqeronP.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1243101,
+        "original_language": "tr",
+        "original_title": "Katala: Oyun Gecesi",
+        "overview": "Four popular members of a cheerleading team decide to go to a lake house for a fun weekend. For fun, the girls summon the spirit of a serial killer who lived centuries ago and spread terror. However, the session suddenly becomes terrifying and they are forced to face the consequences of their mistake.",
+        "popularity": 0.1913,
+        "poster_path": "/mPdd36pemCsOVWRclG5U2utmSc2.jpg",
+        "release_date": "2024-04-26",
+        "title": "Katala: Game Night",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53
+        ],
+        "id": 850158,
+        "original_language": "te",
+        "original_title": "రాక్షసుడు 2",
+        "overview": "",
+        "popularity": 0.2839,
+        "poster_path": "/rDkw5D1BNnFUcRPomzvdr47KktU.jpg",
+        "release_date": "",
+        "title": "Rakshasudu 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fUKqrS9KFFa19urCsfhYkMJFOYe.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 278358,
+        "original_language": "ta",
+        "original_title": "விஸ்வரூபம் II",
+        "overview": "RAW agent Wisam Ahmad Kashmiri prevents an al-Qaida terrorist from executing a massive attack on New York. He must now wade through further traps and conspiracies to thwart a new plot against three democratic nations.",
+        "popularity": 2.4419,
+        "poster_path": "/ghBzFUq3naFwwInKnDL7QLbbkUA.jpg",
+        "release_date": "2018-08-09",
+        "title": "Vishwaroopam II",
+        "video": false,
+        "vote_average": 5.45,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 11586,
+        "original_language": "en",
+        "original_title": "Exorcist II: The Heretic",
+        "overview": "Bizarre nightmares plague Regan MacNeil four years after her possession and exorcism. Has the demon returned? And if so, can the combined faith and knowledge of a Vatican investigator and a research specialist free her from its grasp?",
+        "popularity": 2.9148,
+        "poster_path": "/g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg",
+        "release_date": "1977-06-17",
+        "title": "Exorcist II: The Heretic",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 767
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/reKKVrgeaKozpODdLCbhEQAhN0x.jpg",
+        "genre_ids": [
+          53,
+          9648,
+          18
+        ],
+        "id": 11588,
+        "original_language": "en",
+        "original_title": "The I Inside",
+        "overview": "When Simon awakens in the hospital after surviving a near-fatal accident, amnesia has erased the last two years from his memory. He learns that his brother was killed, he has married a woman he doesn't remember and he's haunted by strange visions of the woman he loved.",
+        "popularity": 1.0095,
+        "poster_path": "/vGPMhj7Pp2bxubm7JsCyTB3Tg6Z.jpg",
+        "release_date": "2004-03-21",
+        "title": "The I Inside",
+        "video": false,
+        "vote_average": 5.931,
+        "vote_count": 276
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qKF9GwtJbi2rob8kZBmGcQGAaMo.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          14
+        ],
+        "id": 11596,
+        "original_language": "en",
+        "original_title": "New Nightmare",
+        "overview": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+        "popularity": 3.6534,
+        "poster_path": "/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg",
+        "release_date": "1994-10-13",
+        "title": "New Nightmare",
+        "video": false,
+        "vote_average": 6.458,
+        "vote_count": 1529
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 280092,
+        "original_language": "en",
+        "original_title": "Insidious: Chapter 3",
+        "overview": "A twisted new tale of terror begins for a teenage girl and her family, and revealing more mysteries of the otherworldly realm, 'The Further'.",
+        "popularity": 3.7681,
+        "poster_path": "/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+        "release_date": "2015-05-28",
+        "title": "Insidious: Chapter 3",
+        "video": false,
+        "vote_average": 6.282,
+        "vote_count": 3526
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eZOt0qAmxwCXyJHLgEIEKdjQVM8.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 11249,
+        "original_language": "en",
+        "original_title": "Seed of Chucky",
+        "overview": "This time around, Chucky and his homicidal honey, Tiffany, are brought back to life by their orphan offspring, Glen. Then the horror goes Hollywood as Chucky unleashes his own brand of murderous mayhem!",
+        "popularity": 5.0057,
+        "poster_path": "/vd9K93gQ9whMKjXzADZanxWpIXM.jpg",
+        "release_date": "2004-11-12",
+        "title": "Seed of Chucky",
+        "video": false,
+        "vote_average": 5.499,
+        "vote_count": 1714
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/LKPqhxZa1t9om2TxyXKtdakg9A.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 11281,
+        "original_language": "en",
+        "original_title": "Halloween II",
+        "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+        "popularity": 3.0937,
+        "poster_path": "/xyBX7rFmNB4nM2RBW3042RQPFG2.jpg",
+        "release_date": "1981-10-30",
+        "title": "Halloween II",
+        "video": false,
+        "vote_average": 6.577,
+        "vote_count": 2185
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pkZyudy6PLofZUQhNhoPH49Qxah.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 11306,
+        "original_language": "en",
+        "original_title": "Extreme Measures",
+        "overview": "Guy Luthan, a British doctor working at a hospital in New York, starts making unwelcome enquiries when the body of a man who died in his emergency room disappears. After the trail leads Luthan to the door of an eminent surgeon at the hospital, Luthan soon finds himself in extreme danger people who want the hospital's secret to remain undiscovered.",
+        "popularity": 3.9293,
+        "poster_path": "/uowP2Nw2mLpQni1vtbUb1LUSiP0.jpg",
+        "release_date": "1996-09-27",
+        "title": "Extreme Measures",
+        "video": false,
+        "vote_average": 5.976,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hpBmWuj3Rn8m8ZzEUaJ2T5Dyk49.jpg",
+        "genre_ids": [
+          16,
+          27
+        ],
+        "id": 1244933,
+        "original_language": "en",
+        "original_title": "Bunnyhood",
+        "overview": "What could possibly be more important than feeding your daughter?",
+        "popularity": 1.8076,
+        "poster_path": "/1DtpEkTTuq4zYmcl9SrsRuIxbut.jpg",
+        "release_date": "2024-02-22",
+        "title": "Bunnyhood",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qNf28DAHAj0JiECIvs3rwneu2FK.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 11675,
+        "original_language": "en",
+        "original_title": "Halloween H20: 20 Years Later",
+        "overview": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed name, where she works as the headmistress of a private school. But it's not far enough to escape Myers, who soon discovers her whereabouts. As Halloween descends upon Laurie's peaceful community, a feeling of dread weighs upon her -- with good reason.",
+        "popularity": 3.2401,
+        "poster_path": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+        "release_date": "1998-08-05",
+        "title": "Halloween H20: 20 Years Later",
+        "video": false,
+        "vote_average": 6.041,
+        "vote_count": 1752
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3f5rBEc6ioRBO2CATDt4sKjEJnY.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 278924,
+        "original_language": "en",
+        "original_title": "Mechanic: Resurrection",
+        "overview": "Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents.",
+        "popularity": 5.9433,
+        "poster_path": "/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+        "release_date": "2016-08-25",
+        "title": "Mechanic: Resurrection",
+        "video": false,
+        "vote_average": 6.034,
+        "vote_count": 3549
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s6cgAveWCam2hYgdPhD3WbrjSBt.jpg",
+        "genre_ids": [
+          28,
+          53,
+          27,
+          80,
+          14,
+          9648
+        ],
+        "id": 9456,
+        "original_language": "en",
+        "original_title": "The Crow: Salvation",
+        "overview": "Alex Corvis, a man wrongly executed for the murder of his girlfriend, returns from the dead and sets out to find the real killer.",
+        "popularity": 3.1293,
+        "poster_path": "/5JkLJ0HS1hGxZHok9pjBcLCpLuX.jpg",
+        "release_date": "2000-01-23",
+        "title": "The Crow: Salvation",
+        "video": false,
+        "vote_average": 5.475,
+        "vote_count": 396
+      }
+    ],
+    "total_pages": 5687,
+    "total_results": 113731
+  }
+}

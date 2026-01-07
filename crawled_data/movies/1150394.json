@@ -1,0 +1,293 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/jSFbnXR2vDQ0K8v0qYHt5aPCSyl.jpg",
+    "belongs_to_collection": {
+      "id": 519564,
+      "name": "Las Leyendas Collection",
+      "poster_path": "/tzhx0tecvg5Fp4PO0PfCkWJma3t.jpg",
+      "backdrop_path": "/7ZTX0TkJzGCtr381f7rEK3nu09e.jpg"
+    },
+    "budget": 1100000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1150394,
+    "imdb_id": "tt28283972",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La Leyenda de los Chaneques",
+    "overview": "Five years after giving up his powers and separating from his friends, Leo San Juan has started a new life trying to focus on his family and their bakery, staying away from danger and adventures. However, Leo knows that his plans are rarely fulfilled and this time is no exception: while traveling with Nando to Veracruz, things start to get weird, and from the depths of the Tuxtlas jungle, an ancient curse has returned and only Leo can face it.",
+    "popularity": 2.3533,
+    "poster_path": "/4f9ghI3utknpeBZSAzNuIKKATOA.jpg",
+    "production_companies": [
+      {
+        "id": 9965,
+        "logo_path": "/sxA2AfKijRSS1dxcXejJ27wg20H.png",
+        "name": "Ánima Estudios",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2023-07-14",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Leyenda de los Chaneques",
+    "video": false,
+    "vote_average": 8.368,
+    "vote_count": 253
+  },
+  "credits": {
+    "id": 1150394,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379379,
+        "known_for_department": "Acting",
+        "name": "Benny Emmanuel",
+        "original_name": "Benny Emmanuel",
+        "popularity": 1.1244,
+        "profile_path": "/rSqiumttAOg08Auypm5Z7FpdvMS.jpg",
+        "cast_id": 1,
+        "character": "Leo San Juan (voice)",
+        "credit_id": "64ac587fb686b900edfa8d90",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127665,
+        "known_for_department": "Acting",
+        "name": "Emilio Treviño",
+        "original_name": "Emilio Treviño",
+        "popularity": 0.5106,
+        "profile_path": "/7FKIeNXd05F2RRuWGypNRhp1wvG.jpg",
+        "cast_id": 2,
+        "character": "Nando San Juan (voice)",
+        "credit_id": "64ac588b8a0e9b011d8c2fab",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4172442,
+        "known_for_department": "Acting",
+        "name": "Jorge Rafael",
+        "original_name": "Jorge Rafael",
+        "popularity": 0.1221,
+        "profile_path": "/2dFgA7gxKRSQWT6lnKIAkopE7MO.jpg",
+        "cast_id": 17,
+        "character": "Diego (voice)",
+        "credit_id": "64b9ac353009aa00c5b798c6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379378,
+        "known_for_department": "Acting",
+        "name": "Mayté Cordero",
+        "original_name": "Mayté Cordero",
+        "popularity": 0.4983,
+        "profile_path": "/pDl6KR069aG5eRY9dHwrkyqsWUx.jpg",
+        "cast_id": 16,
+        "character": "Teodora Villavicencio (voice)",
+        "credit_id": "64b99c6aefd3c200aed6ad59",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2016900,
+        "known_for_department": "Acting",
+        "name": "Annie Rojas",
+        "original_name": "Annie Rojas",
+        "popularity": 0.2103,
+        "profile_path": "/n6wZezP3kN0EKP3hX5fA8L1j0Vl.jpg",
+        "cast_id": 5,
+        "character": "Xóchitl Ahuactzin (voice)",
+        "credit_id": "64ac594566a0d300e374eedb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590312,
+        "known_for_department": "Acting",
+        "name": "Eduardo España",
+        "original_name": "Eduardo España",
+        "popularity": 0.7327,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Evaristo",
+        "credit_id": "64ac58a36a344800c9fc1e7b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172908,
+        "known_for_department": "Directing",
+        "name": "Andrés Couturier",
+        "original_name": "Andrés Couturier",
+        "popularity": 2.1856,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Don Andrés",
+        "credit_id": "64ac597d3e2ec8010dacdfc8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1303720,
+        "known_for_department": "Acting",
+        "name": "Alejandro Villeli",
+        "original_name": "Alejandro Villeli",
+        "popularity": 0.3867,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Chamán",
+        "credit_id": "64ac5a0b43494f00e66b8422",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483822,
+        "known_for_department": "Acting",
+        "name": "Gabriel Basurto",
+        "original_name": "Gabriel Basurto",
+        "popularity": 0.1136,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Alebrije",
+        "credit_id": "64ac5a416a344800ea8d8c54",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471751,
+        "known_for_department": "Production",
+        "name": "Fernando de Fuentes Sainz",
+        "original_name": "Fernando De Fuentes Sainz",
+        "popularity": 0.7713,
+        "profile_path": null,
+        "credit_id": "64ac5ae93e2ec800af7e99d8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2428569,
+        "known_for_department": "Writing",
+        "name": "David Israel Hernández",
+        "original_name": "David Israel Hernández",
+        "popularity": 0.2952,
+        "profile_path": null,
+        "credit_id": "64ac5ac9e24b9300c6b007ac",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1452263,
+        "known_for_department": "Sound",
+        "name": "Leoncio Lara",
+        "original_name": "Leoncio Lara",
+        "popularity": 0.7298,
+        "profile_path": null,
+        "credit_id": "64ac5b1343494f01032ba2d7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1190547,
+        "known_for_department": "Production",
+        "name": "Jose C. Garcia de Letona",
+        "original_name": "José C. García de Letona",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "64ac5afc66a0d300ade93d24",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2510372,
+        "known_for_department": "Directing",
+        "name": "Marvick Núñez",
+        "original_name": "Marvick Núñez",
+        "popularity": 0.427,
+        "profile_path": null,
+        "credit_id": "64ac5a928a0e9b00adab02d6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317574,
+        "known_for_department": "Directing",
+        "name": "Alberto Rodríguez",
+        "original_name": "Alberto Rodríguez",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "credit_id": "64ac5aac8a0e9b00c6cc0df0",
+        "department": "Directing",
+        "job": "Co-Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1150394,
+    "keywords": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  }
+}

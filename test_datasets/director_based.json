@@ -1,0 +1,706 @@
+{
+  "category": "director_based",
+  "description": "Complex queries about directors, their works, styles, and collaborations",
+  "test_cases": [
+    {
+      "id": 1,
+      "query": "What are the common themes in Christopher Nolan's films and which actors has he worked with most frequently?",
+      "entities": ["Christopher Nolan"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 2,
+      "query": "Which directors have made both action and drama films with Tom Hanks?",
+      "entities": ["Tom Hanks", "action", "drama"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 3,
+      "query": "Find directors who have worked with both Leonardo DiCaprio and Tom Hardy in different films",
+      "entities": ["Leonardo DiCaprio", "Tom Hardy"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 4,
+      "query": "What genres does Quentin Tarantino typically direct and which of his films has the highest rating?",
+      "entities": ["Quentin Tarantino"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 5,
+      "query": "Which directors have made more than 3 science fiction films between 2010 and 2020?",
+      "entities": ["science fiction", "2010", "2020"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 6,
+      "query": "Compare the directing styles of Steven Spielberg and Martin Scorsese based on their genre preferences",
+      "entities": ["Steven Spielberg", "Martin Scorsese"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 7,
+      "query": "Which directors have collaborated with the same cinematographer across multiple films?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "WORKED_WITH"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 8,
+      "query": "Find directors who started with low-budget films and later directed blockbusters",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 9,
+      "query": "What is the average rating of films directed by Denis Villeneuve and which actors appear in most of them?",
+      "entities": ["Denis Villeneuve"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 10,
+      "query": "Which female directors have won or been nominated for major awards in the thriller genre?",
+      "entities": ["thriller", "female"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "WON_AWARD"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 11,
+      "query": "Find directors who have remade or adapted films originally made by other directors",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "ADAPTED_FROM"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 12,
+      "query": "Which directors have worked in both Hollywood and international cinema with critical acclaim?",
+      "entities": ["Hollywood", "international"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 13,
+      "query": "What are the signature visual elements in Wes Anderson's films and which production designers has he collaborated with?",
+      "entities": ["Wes Anderson"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 14,
+      "query": "Which directors have the most consistent high ratings across their entire filmography?",
+      "entities": [],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 15,
+      "query": "Find directors who have made successful franchises and identify the common elements in their approach",
+      "entities": ["franchise"],
+      "relations": ["DIRECTED_BY", "PART_OF_SERIES"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 16,
+      "query": "Which directors transitioned from other roles in film industry and how did it influence their directing style?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "PREVIOUS_ROLE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 17,
+      "query": "Compare the evolution of James Cameron's films from the 1980s to recent years",
+      "entities": ["James Cameron", "1980s"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 18,
+      "query": "Which directors have consistently worked with the same composer and what genres do they typically make together?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "MUSIC_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 19,
+      "query": "Find directors who have successfully directed both action sequences and emotional dramatic scenes",
+      "entities": ["action", "drama"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 20,
+      "query": "Which Asian directors have gained international recognition and what genres are they known for?",
+      "entities": ["Asian"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 21,
+      "query": "What is the relationship between Ridley Scott's science fiction films and his historical epics in terms of visual style?",
+      "entities": ["Ridley Scott", "science fiction", "historical"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 22,
+      "query": "Which directors have directed actors who later became directors themselves?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 23,
+      "query": "Find directors whose debut films won major awards and compare them to their subsequent works",
+      "entities": ["debut"],
+      "relations": ["DIRECTED_BY", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 24,
+      "query": "Which directors have the longest gaps between films and did the quality improve or decline?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 25,
+      "query": "Compare the thriller films directed by David Fincher and how they differ from his other genre works",
+      "entities": ["David Fincher", "thriller"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 26,
+      "query": "Which directors have successfully transitioned from independent films to major studio productions?",
+      "entities": ["independent", "studio"],
+      "relations": ["DIRECTED_BY", "PRODUCED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 27,
+      "query": "Find directors who have directed multiple actors to Oscar-winning performances",
+      "entities": ["Oscar"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "WON_AWARD"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 28,
+      "query": "What are the recurring narrative structures in Christopher Nolan's films and which writers has he collaborated with?",
+      "entities": ["Christopher Nolan"],
+      "relations": ["DIRECTED_BY", "WRITTEN_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 29,
+      "query": "Which directors have made films in more than 5 different genres successfully?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 30,
+      "query": "Compare the career trajectories of Guillermo del Toro and Alfonso Cuarón",
+      "entities": ["Guillermo del Toro", "Alfonso Cuarón"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN", "WON_AWARD"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 31,
+      "query": "Which directors have consistently used practical effects over CGI and in what genres?",
+      "entities": ["practical effects", "CGI"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "USED_TECHNIQUE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 32,
+      "query": "Find directors who have made both animated and live-action films successfully",
+      "entities": ["animated", "live-action"],
+      "relations": ["DIRECTED_BY", "FILM_TYPE"],
+      "complexity": "high"
+    },
+    {
+      "id": 33,
+      "query": "Which directors have the most distinctive editing styles and who are their regular editors?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "EDITED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 34,
+      "query": "Compare the horror films of Jordan Peele and how they differ from traditional horror directors",
+      "entities": ["Jordan Peele", "horror"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 35,
+      "query": "Which directors have made biographical films and how accurate were their portrayals?",
+      "entities": ["biographical"],
+      "relations": ["DIRECTED_BY", "BASED_ON"],
+      "complexity": "high"
+    },
+    {
+      "id": 36,
+      "query": "Find directors who have directed their own screenplays and compare them to films directed from others' scripts",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "WRITTEN_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 37,
+      "query": "Which directors have the most international cast diversity in their films?",
+      "entities": ["international"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 38,
+      "query": "Compare the use of music in films by Edgar Wright versus other action-comedy directors",
+      "entities": ["Edgar Wright", "action", "comedy"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "MUSIC_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 39,
+      "query": "Which directors have successfully directed films in languages other than their native language?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "LANGUAGE"],
+      "complexity": "high"
+    },
+    {
+      "id": 40,
+      "query": "Find directors whose films have launched the careers of now-famous actors",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "DEBUT"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 41,
+      "query": "Which directors have adapted the most literary works and which authors do they prefer?",
+      "entities": ["literary", "adapted"],
+      "relations": ["DIRECTED_BY", "ADAPTED_FROM", "WRITTEN_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 42,
+      "query": "Compare the cinematography preferences of Roger Deakins' frequent director collaborators",
+      "entities": ["Roger Deakins"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 43,
+      "query": "Which directors have the highest box office to budget ratios and what genres do they work in?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 44,
+      "query": "Find directors who have directed sequels better than the original films",
+      "entities": ["sequel"],
+      "relations": ["DIRECTED_BY", "SEQUEL_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 45,
+      "query": "Which directors have influenced modern filmmaking the most based on citations by other directors?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "INFLUENCED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 46,
+      "query": "Compare the thriller filmographies of Alfred Hitchcock and Brian De Palma",
+      "entities": ["Alfred Hitchcock", "Brian De Palma", "thriller"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 47,
+      "query": "Which directors have won multiple Academy Awards and in which categories?",
+      "entities": ["Academy Awards"],
+      "relations": ["DIRECTED_BY", "WON_AWARD"],
+      "complexity": "medium"
+    },
+    {
+      "id": 48,
+      "query": "Find directors who have successfully revived forgotten genres or film styles",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 49,
+      "query": "Which directors have the most consistent collaboration with the same production team across films?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "WORKED_WITH"],
+      "complexity": "high"
+    },
+    {
+      "id": 50,
+      "query": "Compare the science fiction films of Stanley Kubrick and Andrei Tarkovsky in terms of philosophical themes",
+      "entities": ["Stanley Kubrick", "Andrei Tarkovsky", "science fiction"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 51,
+      "query": "Which directors have directed films set in the most diverse time periods?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "SET_IN_YEAR"],
+      "complexity": "medium"
+    },
+    {
+      "id": 52,
+      "query": "Find directors who have successfully transitioned from music videos or commercials to feature films",
+      "entities": ["music video", "commercial"],
+      "relations": ["DIRECTED_BY", "PREVIOUS_WORK"],
+      "complexity": "high"
+    },
+    {
+      "id": 53,
+      "query": "Which directors have the most recognizable visual signatures that can be identified without credits?",
+      "entities": [],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 54,
+      "query": "Compare the war films directed by Steven Spielberg and how they approach historical accuracy",
+      "entities": ["Steven Spielberg", "war"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "BASED_ON"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 55,
+      "query": "Which directors have made films that became cult classics despite initial box office failure?",
+      "entities": ["cult classic"],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 56,
+      "query": "Find directors who have directed both lead actors from romantic comedy to dramatic roles",
+      "entities": ["romantic comedy", "drama"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 57,
+      "query": "Which directors have the most films in the IMDb Top 250 and what genres are they?",
+      "entities": ["IMDb Top 250"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 58,
+      "query": "Compare the heist film techniques of Steven Soderbergh across his Ocean's trilogy",
+      "entities": ["Steven Soderbergh", "heist", "Ocean's"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "PART_OF_SERIES"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 59,
+      "query": "Which directors have successfully balanced critical acclaim with commercial success throughout their careers?",
+      "entities": [],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 60,
+      "query": "Find directors who have made documentaries as well as narrative films",
+      "entities": ["documentary", "narrative"],
+      "relations": ["DIRECTED_BY", "FILM_TYPE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 61,
+      "query": "Which directors have pioneered new filming techniques or technologies?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "USED_TECHNIQUE"],
+      "complexity": "high"
+    },
+    {
+      "id": 62,
+      "query": "Compare the filmmaking approaches of Terrence Malick and how they evolved over decades",
+      "entities": ["Terrence Malick"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 63,
+      "query": "Which directors have directed films in the same franchise with different approaches?",
+      "entities": ["franchise"],
+      "relations": ["DIRECTED_BY", "PART_OF_SERIES"],
+      "complexity": "high"
+    },
+    {
+      "id": 64,
+      "query": "Find directors who have worked with child actors most successfully",
+      "entities": ["child actor"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 65,
+      "query": "Which directors have made the most films based on true events and how accurate are they?",
+      "entities": ["true events"],
+      "relations": ["DIRECTED_BY", "BASED_ON"],
+      "complexity": "high"
+    },
+    {
+      "id": 66,
+      "query": "Compare the career choices of Paul Thomas Anderson and how his collaborations shaped his style",
+      "entities": ["Paul Thomas Anderson"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 67,
+      "query": "Which directors have successfully directed in both television and film with equal acclaim?",
+      "entities": ["television", "film"],
+      "relations": ["DIRECTED_BY", "MEDIUM"],
+      "complexity": "high"
+    },
+    {
+      "id": 68,
+      "query": "Find directors whose films consistently feature strong female protagonists across different genres",
+      "entities": ["female protagonist"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 69,
+      "query": "Which directors have the most distinctive use of color palettes and how does it relate to their genre choices?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 70,
+      "query": "Compare the action choreography in films by different Hong Kong directors",
+      "entities": ["Hong Kong", "action"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 71,
+      "query": "Which directors have made the most successful film adaptations of video games or comic books?",
+      "entities": ["video game", "comic book"],
+      "relations": ["DIRECTED_BY", "ADAPTED_FROM"],
+      "complexity": "high"
+    },
+    {
+      "id": 72,
+      "query": "Find directors who have directed multiple films that won Best Foreign Language Film at the Oscars",
+      "entities": ["Best Foreign Language Film", "Oscar"],
+      "relations": ["DIRECTED_BY", "WON_AWARD"],
+      "complexity": "high"
+    },
+    {
+      "id": 73,
+      "query": "Which directors have the most recognizable use of music and sound design in their films?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "MUSIC_BY", "SOUND_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 74,
+      "query": "Compare the neo-noir films of different contemporary directors and their influences",
+      "entities": ["neo-noir"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "INFLUENCED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 75,
+      "query": "Which directors have made successful ensemble cast films and how do they manage multiple storylines?",
+      "entities": ["ensemble cast"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 76,
+      "query": "Find directors who have consistently worked with non-professional actors",
+      "entities": ["non-professional actor"],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 77,
+      "query": "Which directors have directed the most films that became Broadway musicals or stage adaptations?",
+      "entities": ["Broadway", "stage adaptation"],
+      "relations": ["DIRECTED_BY", "ADAPTED_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 78,
+      "query": "Compare the visual effects usage in James Cameron's films versus practical effects directors",
+      "entities": ["James Cameron", "visual effects", "practical effects"],
+      "relations": ["DIRECTED_BY", "USED_TECHNIQUE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 79,
+      "query": "Which directors have successfully directed actors in foreign languages different from their own?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "LANGUAGE"],
+      "complexity": "high"
+    },
+    {
+      "id": 80,
+      "query": "Find directors whose films have the most cohesive thematic trilogies",
+      "entities": ["trilogy"],
+      "relations": ["DIRECTED_BY", "PART_OF_SERIES"],
+      "complexity": "medium"
+    },
+    {
+      "id": 81,
+      "query": "Which directors have directed the most remakes and how do they compare to originals?",
+      "entities": ["remake"],
+      "relations": ["DIRECTED_BY", "REMAKE_OF"],
+      "complexity": "high"
+    },
+    {
+      "id": 82,
+      "query": "Compare the psychological thriller approaches of directors like Darren Aronofsky and David Lynch",
+      "entities": ["Darren Aronofsky", "David Lynch", "psychological thriller"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 83,
+      "query": "Which directors have the most films that launched successful franchises?",
+      "entities": ["franchise"],
+      "relations": ["DIRECTED_BY", "PART_OF_SERIES"],
+      "complexity": "medium"
+    },
+    {
+      "id": 84,
+      "query": "Find directors who have successfully directed period pieces across different historical eras",
+      "entities": ["period piece"],
+      "relations": ["DIRECTED_BY", "SET_IN_YEAR"],
+      "complexity": "high"
+    },
+    {
+      "id": 85,
+      "query": "Which directors have worked with the same screenwriter on multiple successful films?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "WRITTEN_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 86,
+      "query": "Compare the superhero films directed by different directors and their unique approaches",
+      "entities": ["superhero"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 87,
+      "query": "Which directors have made the most successful low-budget indie films that became mainstream hits?",
+      "entities": ["low-budget", "indie"],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 88,
+      "query": "Find directors who have directed films that sparked social or political discussions",
+      "entities": [],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 89,
+      "query": "Which directors have the most distinctive use of long takes and continuous shots?",
+      "entities": ["long take", "continuous shot"],
+      "relations": ["DIRECTED_BY", "USED_TECHNIQUE"],
+      "complexity": "high"
+    },
+    {
+      "id": 90,
+      "query": "Compare the coming-of-age films by different directors and their cultural contexts",
+      "entities": ["coming-of-age"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 91,
+      "query": "Which directors have successfully directed in multiple film industries globally?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "COUNTRY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 92,
+      "query": "Find directors whose films have been studied most in film schools and why",
+      "entities": [],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 93,
+      "query": "Which directors have directed the most anthology films or episodic movies?",
+      "entities": ["anthology"],
+      "relations": ["DIRECTED_BY", "FILM_TYPE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 94,
+      "query": "Compare the Western films of Sergio Leone and modern Western directors",
+      "entities": ["Sergio Leone", "Western"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 95,
+      "query": "Which directors have successfully revitalized actors' careers through their casting choices?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "ACTED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 96,
+      "query": "Find directors who have made films that became film festival favorites versus commercial successes",
+      "entities": ["film festival"],
+      "relations": ["DIRECTED_BY", "PREMIERED_AT"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 97,
+      "query": "Which directors have the most unique narrative structures breaking conventional storytelling?",
+      "entities": [],
+      "relations": ["DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 98,
+      "query": "Compare the horror-comedy films of Sam Raimi and how they influenced the genre",
+      "entities": ["Sam Raimi", "horror", "comedy"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "INFLUENCED"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 99,
+      "query": "Which directors have worked with the same casting director throughout their careers?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "CASTING_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 100,
+      "query": "Find directors whose debut films set the tone for their entire career trajectory",
+      "entities": ["debut"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    }
+  ]
+}

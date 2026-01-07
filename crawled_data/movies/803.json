@@ -1,0 +1,810 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/cnl95VtUon66J1PLRPpsgYgwHF7.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "homepage": "",
+    "id": 803,
+    "imdb_id": "tt0048434",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Nuit et Brouillard",
+    "overview": "Filmmaker Alain Resnais documents the atrocities behind the walls of Hitler's concentration camps.",
+    "popularity": 2.9187,
+    "poster_path": "/2iWYQia8enOai7QEO3TvenleD7r.jpg",
+    "production_companies": [
+      {
+        "id": 6116,
+        "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+        "name": "Argos films",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1956-01-29",
+    "revenue": 0,
+    "runtime": 32,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Night and Fog",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 539
+  },
+  "credits": {
+    "id": 803,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11989,
+        "known_for_department": "Acting",
+        "name": "Michel Bouquet",
+        "original_name": "Michel Bouquet",
+        "popularity": 0.6996,
+        "profile_path": "/gO5k3d51j7rvYatUUo3WvgvgACO.jpg",
+        "cast_id": 9,
+        "character": "Narrator (voice) (uncredited)",
+        "credit_id": "52fe4278c3a36847f802146d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11990,
+        "known_for_department": "Acting",
+        "name": "Reinhard Heydrich",
+        "original_name": "Reinhard Heydrich",
+        "popularity": 0.1863,
+        "profile_path": "/rUzM67pzMO71JwHeDjhrXBvsxA8.jpg",
+        "cast_id": 10,
+        "character": "Self (archive footage) (uncredited)",
+        "credit_id": "52fe4278c3a36847f8021471",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11991,
+        "known_for_department": "Acting",
+        "name": "Heinrich Himmler",
+        "original_name": "Heinrich Himmler",
+        "popularity": 0.7406,
+        "profile_path": "/Aljparz5AOPTPrgVFDFahutWBak.jpg",
+        "cast_id": 11,
+        "character": "Self (archive footage) (uncredited)",
+        "credit_id": "52fe4278c3a36847f8021475",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10279,
+        "known_for_department": "Acting",
+        "name": "Adolf Hitler",
+        "original_name": "Adolf Hitler",
+        "popularity": 1.396,
+        "profile_path": "/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg",
+        "cast_id": 12,
+        "character": "Self (archive footage) (uncredited)",
+        "credit_id": "52fe4278c3a36847f8021479",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11992,
+        "known_for_department": "Acting",
+        "name": "Julius Streicher",
+        "original_name": "Julius Streicher",
+        "popularity": 0.4991,
+        "profile_path": "/2C649ovCwt0aPkr3MFHTCevMosM.jpg",
+        "cast_id": 13,
+        "character": "Self (archive footage) (uncredited)",
+        "credit_id": "52fe4278c3a36847f802147d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11983,
+        "known_for_department": "Directing",
+        "name": "Alain Resnais",
+        "original_name": "Alain Resnais",
+        "popularity": 0.5704,
+        "profile_path": "/q5LF4OZ7BhNH44Jb9UDg3af57R9.jpg",
+        "credit_id": "52fe4278c3a36847f8021445",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11984,
+        "known_for_department": "Writing",
+        "name": "Jean Cayrol",
+        "original_name": "Jean Cayrol",
+        "popularity": 0.1324,
+        "profile_path": "/zyLQgWf7XPq1hVPj6VEVrRDKKjt.jpg",
+        "credit_id": "52fe4278c3a36847f802144b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11985,
+        "known_for_department": "Production",
+        "name": "Philippe Lifchitz",
+        "original_name": "Philippe Lifchitz",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "52fe4278c3a36847f8021451",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304,
+        "known_for_department": "Production",
+        "name": "Anatole Dauman",
+        "original_name": "Anatole Dauman",
+        "popularity": 0.2674,
+        "profile_path": "/6OMlQTVM3D2lKiVt6eccx7JIMCP.jpg",
+        "credit_id": "52fe4278c3a36847f8021457",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11986,
+        "known_for_department": "Production",
+        "name": "Samy Halfon",
+        "original_name": "Samy Halfon",
+        "popularity": 0.1547,
+        "profile_path": null,
+        "credit_id": "52fe4278c3a36847f802145d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11632,
+        "known_for_department": "Sound",
+        "name": "Hanns Eisler",
+        "original_name": "Hanns Eisler",
+        "popularity": 1.9563,
+        "profile_path": "/wtV0rzTPS5npiEN3JeXsb2czTFa.jpg",
+        "credit_id": "52fe4278c3a36847f8021483",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11983,
+        "known_for_department": "Directing",
+        "name": "Alain Resnais",
+        "original_name": "Alain Resnais",
+        "popularity": 0.5704,
+        "profile_path": "/q5LF4OZ7BhNH44Jb9UDg3af57R9.jpg",
+        "credit_id": "562d239692514140060069e1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9956,
+        "known_for_department": "Directing",
+        "name": "Chris Marker",
+        "original_name": "Chris Marker",
+        "popularity": 0.8688,
+        "profile_path": "/tANkr6duvSREi5pmuiMG47Xqdwp.jpg",
+        "credit_id": "562d23cfc3a3681b6100876a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1167681,
+        "known_for_department": "Directing",
+        "name": "André Heinrich",
+        "original_name": "André Heinrich",
+        "popularity": 1.9799,
+        "profile_path": "/rUSb5tlNO5y3vsIeh9mk7TkxhVp.jpg",
+        "credit_id": "562d23e5c3a3681b520081f1",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44019,
+        "known_for_department": "Editing",
+        "name": "Anne Sarraute",
+        "original_name": "Anne Sarraute",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "credit_id": "562d24b2925141285700806a",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.4226,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "562d24f7925141284c00851b",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.4226,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "65b1f89dab1bc70185a8a856",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2463628,
+        "known_for_department": "Directing",
+        "name": "Jean-Charles Lauthe",
+        "original_name": "Jean-Charles Lauthe",
+        "popularity": 0.0446,
+        "profile_path": null,
+        "credit_id": "5dd6ed0b3faba00019f758a7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2463633,
+        "known_for_department": "Sound",
+        "name": "Jacqueline Chasney",
+        "original_name": "Jacqueline Chasney",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5dd6edc912aabc00138ca45c",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2068510,
+        "known_for_department": "Camera",
+        "name": "Henry Ferrand",
+        "original_name": "Henry Ferrand",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "5dd6ee5012aabc00168cae7c",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9956,
+        "known_for_department": "Directing",
+        "name": "Chris Marker",
+        "original_name": "Chris Marker",
+        "popularity": 0.8688,
+        "profile_path": "/tANkr6duvSREi5pmuiMG47Xqdwp.jpg",
+        "credit_id": "5dd6ee917f1d83001562fb42",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 612897,
+        "known_for_department": "Directing",
+        "name": "Henri Colpi",
+        "original_name": "Henri Colpi",
+        "popularity": 0.3681,
+        "profile_path": "/sUZl1MEF2OBdiluF3QLWkR8DVt1.jpg",
+        "credit_id": "5dd6eedcb5bc210013c202c2",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11988,
+        "known_for_department": "Camera",
+        "name": "Ghislain Cloquet",
+        "original_name": "Ghislain Cloquet",
+        "popularity": 0.514,
+        "profile_path": null,
+        "credit_id": "5fed03c90fb398003ebc9457",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9752,
+        "known_for_department": "Camera",
+        "name": "Sacha Vierny",
+        "original_name": "Sacha Vierny",
+        "popularity": 0.8219,
+        "profile_path": null,
+        "credit_id": "5fed03d015a4a1003d5c3bea",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 803,
+    "keywords": [
+      {
+        "id": 434,
+        "name": "destruction of a civilization"
+      },
+      {
+        "id": 2652,
+        "name": "nazi"
+      },
+      {
+        "id": 74,
+        "name": "germany"
+      },
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 1968,
+        "name": "prisoner of war"
+      },
+      {
+        "id": 2450,
+        "name": "auschwitz-birkenau concentration camp"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/e2FMKxErqYXkfAIhREscf3jKilG.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1429241,
+        "original_language": "en",
+        "original_title": "Le Mural",
+        "overview": "A documentary short by Barbara Bingley-Verseman about the creation of a monumental outdoor mural by her twin sister, LA-based Kat Bing, and Parisian artist Kekli in the lead up to the Paris 2024 Olympics",
+        "popularity": 0.6076,
+        "poster_path": "/qawO5RNmedYRQw0HqSmQgegAqtG.jpg",
+        "release_date": "2024-09-26",
+        "title": "Le Mural",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 456509,
+        "original_language": "en",
+        "original_title": "Wings Up",
+        "overview": "Clark Gable stars in this propaganda short about the Officers Candidate School of the Army Air Forces.",
+        "popularity": 0.616,
+        "poster_path": "/sNSeRlsa78LdvzvBWeds2hvAIVE.jpg",
+        "release_date": "1943-05-27",
+        "title": "Wings Up",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fy9DOJO07EaVun1HcGdjFAVdtkt.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 286,
+        "original_language": "de",
+        "original_title": "Deutschland. Ein Sommermärchen",
+        "overview": "A documentary of the German national soccer team’s 2006 World Cup experience that changed the face of modern Germany.",
+        "popularity": 0.3677,
+        "poster_path": "/pQ7p8zGxy0OTy6RwDA0Y2mlqmdu.jpg",
+        "release_date": "2006-10-03",
+        "title": "Germany: A Summer's Fairytale",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 387,
+        "original_language": "de",
+        "original_title": "Das Boot",
+        "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+        "popularity": 5.1805,
+        "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+        "release_date": "1981-09-17",
+        "title": "Das Boot",
+        "video": false,
+        "vote_average": 8.085,
+        "vote_count": 2402
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kLDi7ST92diaAzISLgd94BYO6Zw.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 160,
+        "original_language": "fr",
+        "original_title": "L'arrivée d'un train à La Ciotat",
+        "overview": "A group of people are standing along the platform of a railway station in La Ciotat, waiting for a train. One is seen coming, at some distance, and eventually stops at the platform. Doors of the railway-cars open and attendants help passengers off and on.  Popular legend has it that, when this film was shown, the first-night audience fled the café in terror, fearing being run over by the \"approaching\" train. This legend has since been identified as promotional embellishment, though there is evidence to suggest that people were astounded at the capabilities of the Lumières' cinématographe.",
+        "popularity": 1.1414,
+        "poster_path": "/m5HSlaNCzwV95rAriDmT19el5h1.jpg",
+        "release_date": "1896-06-30",
+        "title": "The Arrival of a Train at La Ciotat",
+        "video": false,
+        "vote_average": 7.099,
+        "vote_count": 514
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ec15vIk7ZUWshu82U3fcha1Knqn.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1233059,
+        "original_language": "de",
+        "original_title": "Wir waren in der AfD - Aussteiger berichten",
+        "overview": "The AfD, founded in 2013, is a right-wing party that has become increasingly radicalized in recent years. To illustrate this, only those who enthusiastically joined the party in its early years are heard. They describe what they looked for and found in the party, but also how and why they left, disillusioned and frightened by the AfD's developments. How did they experience the party's radicalization process? How did friends and family react? When and why did they decide to turn their back on the party? How difficult was the exit process? The documentary provides an illuminating inside view of this party, which has been driving the established parties and the political establishment ahead of it for over ten years, gives viewers a unique look into the AfD's chronicle and world of thought and is at the same time a film about the mechanisms of political radicalization.",
+        "popularity": 0.1003,
+        "poster_path": "/9PDD4eN346WPbmtosxEN7sq9oY6.jpg",
+        "release_date": "2024-01-18",
+        "title": "Wir waren in der AfD - Aussteiger berichten",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 424,
+        "original_language": "en",
+        "original_title": "Schindler's List",
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "popularity": 15.7602,
+        "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "release_date": "1993-12-15",
+        "title": "Schindler's List",
+        "video": false,
+        "vote_average": 8.565,
+        "vote_count": 16961
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 895,
+        "original_language": "ru",
+        "original_title": "Андрей Рублёв",
+        "overview": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
+        "popularity": 3.6322,
+        "poster_path": "/910xRIUmNJrWH2hkQifBJtoPp5R.jpg",
+        "release_date": "1966-12-16",
+        "title": "Andrei Rublev",
+        "video": false,
+        "vote_average": 7.964,
+        "vote_count": 908
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+        "genre_ids": [
+          36,
+          10752,
+          18,
+          12
+        ],
+        "id": 967,
+        "original_language": "en",
+        "original_title": "Spartacus",
+        "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+        "popularity": 6.5693,
+        "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+        "release_date": "1960-10-13",
+        "title": "Spartacus",
+        "video": false,
+        "vote_average": 7.535,
+        "vote_count": 2301
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s90zsx8QQmgkXVhM6TJEYAaWy2I.jpg",
+        "genre_ids": [
+          12,
+          18,
+          36
+        ],
+        "id": 978,
+        "original_language": "en",
+        "original_title": "Seven Years in Tibet",
+        "overview": "Austrian mountaineer Heinrich Harrer journeys to the Himalayas without his family to head an expedition in 1939. But when World War II breaks out, the arrogant Harrer falls into Allied forces' hands as a prisoner of war. He escapes with a fellow detainee and makes his way to Lhasa, Tibet, where he meets the 14-year-old Dalai Lama, whose friendship ultimately transforms his outlook on life.",
+        "popularity": 5.129,
+        "poster_path": "/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg",
+        "release_date": "1997-09-12",
+        "title": "Seven Years in Tibet",
+        "video": false,
+        "vote_average": 7.16,
+        "vote_count": 3026
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          99
+        ],
+        "id": 270125,
+        "original_language": "en",
+        "original_title": "State of Bacon",
+        "overview": "State of Bacon tells the kinda real but mostly fake tale of an oddball group of characters leading up to the annual Blue Ribbon Bacon Festival. Bacon-enthusiasts, Governor Branstad, a bacon queen, Hacksaw Jim Duggan, members of PETA, and an envoy of Icelanders are not excluded from this bacon party and during the course of the film become intertwined with the organizers of the festival to show that bacon diplomacy is not dead.",
+        "popularity": 0.1776,
+        "poster_path": "/oAiaYaOXBwEzpCoErSam8SO6zwi.jpg",
+        "release_date": "2014-05-15",
+        "title": "State of Bacon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1234276,
+        "original_language": "de",
+        "original_title": "Brot der Wüste",
+        "overview": "Short documentary by Peter Fleischmann",
+        "popularity": 0.1929,
+        "poster_path": null,
+        "release_date": "1962-10-20",
+        "title": "Brot der Wüste",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9eHg5qX7LkjW2Zrejvap2RmFGlD.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 777,
+        "original_language": "fr",
+        "original_title": "La Grande Illusion",
+        "overview": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Maréchal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+        "popularity": 1.1475,
+        "poster_path": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+        "release_date": "1937-06-04",
+        "title": "Grand Illusion",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 750
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AsXHPS2U58MDAkoEJUT7Vlxndfu.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 783,
+        "original_language": "en",
+        "original_title": "Gandhi",
+        "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+        "popularity": 7.617,
+        "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+        "release_date": "1982-12-01",
+        "title": "Gandhi",
+        "video": false,
+        "vote_average": 7.56,
+        "vote_count": 2438
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 826,
+        "original_language": "en",
+        "original_title": "The Bridge on the River Kwai",
+        "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+        "popularity": 3.9866,
+        "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+        "release_date": "1957-10-11",
+        "title": "The Bridge on the River Kwai",
+        "video": false,
+        "vote_average": 7.817,
+        "vote_count": 2276
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wSMaPDDwqfYbwg1GX9B5MaMnmxe.jpg",
+        "genre_ids": [
+          18,
+          10752,
+          36,
+          10749
+        ],
+        "id": 853,
+        "original_language": "en",
+        "original_title": "Enemy at the Gates",
+        "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+        "popularity": 5.795,
+        "poster_path": "/cHRAbVdsCWFaQrswRsBP7Bn255W.jpg",
+        "release_date": "2001-02-28",
+        "title": "Enemy at the Gates",
+        "video": false,
+        "vote_average": 7.419,
+        "vote_count": 3909
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o6f1sJ0ZYg6TA2tMgoHdupB68QB.jpg",
+        "genre_ids": [
+          28,
+          10752,
+          36
+        ],
+        "id": 855,
+        "original_language": "en",
+        "original_title": "Black Hawk Down",
+        "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+        "popularity": 10.2107,
+        "poster_path": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+        "release_date": "2001-12-28",
+        "title": "Black Hawk Down",
+        "video": false,
+        "vote_average": 7.388,
+        "vote_count": 6148
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+        "genre_ids": [
+          10752,
+          18,
+          36
+        ],
+        "id": 857,
+        "original_language": "en",
+        "original_title": "Saving Private Ryan",
+        "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+        "popularity": 14.655,
+        "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+        "release_date": "1998-07-24",
+        "title": "Saving Private Ryan",
+        "video": false,
+        "vote_average": 8.221,
+        "vote_count": 16757
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1441549,
+        "original_language": "de",
+        "original_title": "Frühraucher",
+        "overview": "Jean, a schoolboy who started smoking at the age of 8, talks about his addiction. Jean's smoking career is an example of how addiction develops. In a futile attempt to give up smoking again at the age of 18, Jean comes to the frustrating realization that the addiction has him in its grip.",
+        "popularity": 0.4115,
+        "poster_path": null,
+        "release_date": "1996-01-01",
+        "title": "Frühraucher",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 656686,
+        "original_language": "pt",
+        "original_title": "Apiyemiyekî?",
+        "overview": "Apiyemiyekî? addresses the genocide of the Waimiri-Atroari people in 1970s, when during the Brazilian dictatorship indigenous lands in the mid-west were invaded for the construction of the national road BR-174 and the installation of a mining company. Illustrations about the period, created by the indigenous population, including children, reveal a traumatic history, referring us to the present day.",
+        "popularity": 0.5637,
+        "poster_path": "/1R8xD9UltlT3zbldv9qRo0THGC2.jpg",
+        "release_date": "2020-01-23",
+        "title": "Apiyemiyekî?",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 8
+      }
+    ],
+    "total_pages": 13178,
+    "total_results": 263551
+  }
+}

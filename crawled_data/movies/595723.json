@@ -1,0 +1,100 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/wskGUSDuoqMthGykScl1ivROk8M.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 595723,
+    "imdb_id": "tt10128616",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Franco Escamilla: bienvenido al mundo",
+    "overview": "Comedian Franco Escamilla shares stories about parenting his children when they get into trouble, with reflections on gender, friendship and romance.",
+    "popularity": 0.3265,
+    "poster_path": "/h7rzOEh1gvGRIjehKnOHcMV0YQ3.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2019-04-17",
+    "revenue": 0,
+    "runtime": 54,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Franco Escamilla: bienvenido al mundo",
+    "video": false,
+    "vote_average": 8.443,
+    "vote_count": 131
+  },
+  "credits": {
+    "id": 595723,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021651,
+        "known_for_department": "Acting",
+        "name": "Franco Escamilla",
+        "original_name": "Franco Escamilla",
+        "popularity": 1.1229,
+        "profile_path": "/ruB2oWA78u4TlMeCb82TU9beL2G.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "5ec781456c849200212b60c9",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021651,
+        "known_for_department": "Acting",
+        "name": "Franco Escamilla",
+        "original_name": "Franco Escamilla",
+        "popularity": 1.1229,
+        "profile_path": "/ruB2oWA78u4TlMeCb82TU9beL2G.jpg",
+        "credit_id": "6509eb15cadb6b00fe43ce25",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2062093,
+        "known_for_department": "Directing",
+        "name": "Ulises Valencia",
+        "original_name": "Ulises Valencia",
+        "popularity": 0.2366,
+        "profile_path": null,
+        "credit_id": "5fea78e85ad76b003ac9e4b1",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 595723,
+    "keywords": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  }
+}

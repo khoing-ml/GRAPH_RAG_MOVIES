@@ -1,0 +1,1298 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+    "belongs_to_collection": null,
+    "budget": 2777000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/wizard-oz",
+    "id": 630,
+    "imdb_id": "tt0032138",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Wizard of Oz",
+    "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
+    "popularity": 14.0446,
+    "poster_path": "/lbezZTzzOcomu2ezKJBUsIPtqA6.jpg",
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1939-08-15",
+    "revenue": 33754967,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "We're off to see the Wizard, the wonderful Wizard of Oz!",
+    "title": "The Wizard of Oz",
+    "video": false,
+    "vote_average": 7.59,
+    "vote_count": 5948
+  },
+  "credits": {
+    "id": 630,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9066,
+        "known_for_department": "Acting",
+        "name": "Judy Garland",
+        "original_name": "Judy Garland",
+        "popularity": 3.4911,
+        "profile_path": "/vUsMDyRhHYUdayQosHhBF6knWGh.jpg",
+        "cast_id": 19,
+        "character": "Dorothy Gale",
+        "credit_id": "52fe4261c3a36847f8019bdb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9068,
+        "known_for_department": "Acting",
+        "name": "Ray Bolger",
+        "original_name": "Ray Bolger",
+        "popularity": 1.5392,
+        "profile_path": "/43GZ1i6m905Q0r0qe99lgUUPX5O.jpg",
+        "cast_id": 21,
+        "character": "\"Hunk\" / Scarecrow",
+        "credit_id": "52fe4261c3a36847f8019be3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9070,
+        "known_for_department": "Acting",
+        "name": "Jack Haley",
+        "original_name": "Jack Haley",
+        "popularity": 1.4003,
+        "profile_path": "/bvZMv9OeLQT67zpprx5Og3QIDEA.jpg",
+        "cast_id": 23,
+        "character": "\"Hickory\" / Tin Man",
+        "credit_id": "52fe4261c3a36847f8019beb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9069,
+        "known_for_department": "Acting",
+        "name": "Bert Lahr",
+        "original_name": "Bert Lahr",
+        "popularity": 1.8521,
+        "profile_path": "/ArYiG2D7IWRrTZorgUQZyrhkdjj.jpg",
+        "cast_id": 22,
+        "character": "\"Zeke\" / Cowardly Lion",
+        "credit_id": "52fe4261c3a36847f8019be7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9067,
+        "known_for_department": "Acting",
+        "name": "Frank Morgan",
+        "original_name": "Frank Morgan",
+        "popularity": 1.3679,
+        "profile_path": "/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg",
+        "cast_id": 20,
+        "character": "Professor Marvel / The Wizard of Oz",
+        "credit_id": "52fe4261c3a36847f8019bdf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9072,
+        "known_for_department": "Acting",
+        "name": "Margaret Hamilton",
+        "original_name": "Margaret Hamilton",
+        "popularity": 1.1489,
+        "profile_path": "/e2tJi7ziy5HCNO6pnpAXoxhnlfg.jpg",
+        "cast_id": 25,
+        "character": "Miss Gulch / Wicked Witch of the West",
+        "credit_id": "52fe4261c3a36847f8019bf3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9071,
+        "known_for_department": "Acting",
+        "name": "Billie Burke",
+        "original_name": "Billie Burke",
+        "popularity": 0.9308,
+        "profile_path": "/gciSUzrGMI1BHDxiElw8KEcIOVW.jpg",
+        "cast_id": 24,
+        "character": "Glinda",
+        "credit_id": "52fe4261c3a36847f8019bef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8517,
+        "known_for_department": "Acting",
+        "name": "Charley Grapewin",
+        "original_name": "Charley Grapewin",
+        "popularity": 0.9699,
+        "profile_path": "/xROPwMkTUgweYQFhbTsvklIMhlw.jpg",
+        "cast_id": 26,
+        "character": "Uncle Henry",
+        "credit_id": "52fe4261c3a36847f8019bf7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1318970,
+        "known_for_department": "Acting",
+        "name": "Pat Walshe",
+        "original_name": "Pat Walshe",
+        "popularity": 1.9569,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Nikko",
+        "credit_id": "555a3638c3a368777400c743",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9073,
+        "known_for_department": "Acting",
+        "name": "Clara Blandick",
+        "original_name": "Clara Blandick",
+        "popularity": 1.0005,
+        "profile_path": "/1V1QarPPNpJak9WKuF4RzmtiasW.jpg",
+        "cast_id": 27,
+        "character": "Auntie Em",
+        "credit_id": "52fe4261c3a36847f8019bfb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179846,
+        "known_for_department": "Acting",
+        "name": "Terry",
+        "original_name": "Terry",
+        "popularity": 0.5782,
+        "profile_path": "/zwc87wu62LGTiWkt3XB7jeBBYJn.jpg",
+        "cast_id": 43,
+        "character": "Toto",
+        "credit_id": "555a364b925141410100084b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5460,
+        "known_for_department": "Acting",
+        "name": "Adriana Caselotti",
+        "original_name": "Adriana Caselotti",
+        "popularity": 0.797,
+        "profile_path": "/7nOCtRQnfH6RQ39IZBDffIadgR7.jpg",
+        "cast_id": 122,
+        "character": "Juliet (voice) (uncredited)",
+        "credit_id": "5d7bac0d069f0e559331f046",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511,
+        "known_for_department": "Acting",
+        "name": "Harry Earles",
+        "original_name": "Harry Earles",
+        "popularity": 0.7465,
+        "profile_path": "/yQtJnvqYQ3tH3U6o4xqS4weZ14b.jpg",
+        "cast_id": 123,
+        "character": "Lollipop Guild Member (uncredited)",
+        "credit_id": "5dcff0f2b76cbb001378edb3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127193,
+        "known_for_department": "Acting",
+        "name": "Jerry Maren",
+        "original_name": "Jerry Maren",
+        "popularity": 0.4429,
+        "profile_path": "/rgqSqrVkCsUpKccZ9gemgZIEiXZ.jpg",
+        "cast_id": 116,
+        "character": "Lollipop Guild Member (uncredited)",
+        "credit_id": "5b1bf66cc3a36848e701c97f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1935,
+        "known_for_department": "Acting",
+        "name": "Buddy Ebsen",
+        "original_name": "Buddy Ebsen",
+        "popularity": 2.6856,
+        "profile_path": "/iY3zvIzWDhsrcYoL6jjGONp4Wjv.jpg",
+        "cast_id": 196,
+        "character": "Tin Man (singing voice) (uncredited)",
+        "credit_id": "65d3b3a1498bc2017a70be1c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468767,
+        "known_for_department": "Acting",
+        "name": "Parnell St. Aubin",
+        "original_name": "Parnell St. Aubin",
+        "popularity": 0.0739,
+        "profile_path": null,
+        "cast_id": 117,
+        "character": "Munchkin (uncredited)",
+        "credit_id": "5ba2b40cc3a368742d00ec8f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31771,
+        "known_for_department": "Acting",
+        "name": "Billy Bletcher",
+        "original_name": "Billy Bletcher",
+        "popularity": 0.5115,
+        "profile_path": "/ncapDtCeDsMJxEKFXocJTFfnpau.jpg",
+        "cast_id": 124,
+        "character": "Mayor / Lollipop Guild Member (voice) (uncredited)",
+        "credit_id": "5f9083f9278d8a003735cafc",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5462,
+        "known_for_department": "Acting",
+        "name": "Pinto Colvig",
+        "original_name": "Pinto Colvig",
+        "popularity": 0.9943,
+        "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg",
+        "cast_id": 125,
+        "character": "Munchkins (voice) (uncredited)",
+        "credit_id": "5f908412e74146003a9b41a6",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9074,
+        "known_for_department": "Acting",
+        "name": "Charles Becker",
+        "original_name": "Charles Becker",
+        "popularity": 0.2191,
+        "profile_path": null,
+        "cast_id": 126,
+        "character": "Munchkin Mayor (uncredited)",
+        "credit_id": "5fac5cbd397561003f9261fc",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13558,
+        "known_for_department": "Acting",
+        "name": "Mitchell Lewis",
+        "original_name": "Mitchell Lewis",
+        "popularity": 0.9673,
+        "profile_path": "/u8t8u4huDqvZKvcBwQKxOFIJiT5.jpg",
+        "cast_id": 159,
+        "character": "Captain of the Winkie Guard (uncredited)",
+        "credit_id": "622e456e498bc200792101a5",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130467,
+        "known_for_department": "Acting",
+        "name": "Buster Brodie",
+        "original_name": "Buster Brodie",
+        "popularity": 0.9503,
+        "profile_path": "/tASBdwuftOiPb5qXfWoTw3PPm9N.jpg",
+        "cast_id": 160,
+        "character": "Winged Monkey (uncredited)",
+        "credit_id": "622e4635afe2240046227bc3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1233127,
+        "known_for_department": "Acting",
+        "name": "Ethelreda Leopold",
+        "original_name": "Ethelreda Leopold",
+        "popularity": 0.5493,
+        "profile_path": "/iXBiZQGxvQwTtBSacddJ0lEMTaC.jpg",
+        "cast_id": 161,
+        "character": "Emerald City Manicurist (uncredited)",
+        "credit_id": "622e4869498bc20079210be7",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102426,
+        "known_for_department": "Acting",
+        "name": "Billy Curtis",
+        "original_name": "Billy Curtis",
+        "popularity": 1.1631,
+        "profile_path": "/wd7cYNVLEEHgLaH63meBRA1aylE.jpg",
+        "cast_id": 162,
+        "character": "Munchkin (uncredited)",
+        "credit_id": "627620eb61bac400a927aba0",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 148595,
+        "known_for_department": "Acting",
+        "name": "Eleanor Keaton",
+        "original_name": "Eleanor Keaton",
+        "popularity": 0.5906,
+        "profile_path": "/gwzHiSznA3FnFYUdnOwqzPltjMB.jpg",
+        "cast_id": 166,
+        "character": "Ozmite (uncredited)",
+        "credit_id": "645258e633ad8f0155468ccd",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97985,
+        "known_for_department": "Acting",
+        "name": "Angelo Rossitto",
+        "original_name": "Angelo Rossitto",
+        "popularity": 1.0014,
+        "profile_path": "/rq7EWZ2rHOmA1WIOdOfjRXP9lrK.jpg",
+        "cast_id": 197,
+        "character": "Munchkin Villager (uncredited)",
+        "credit_id": "65d3b3c6bbcae00163039f72",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2129114,
+        "known_for_department": "Acting",
+        "name": "Meinhardt Raabe",
+        "original_name": "Meinhardt Raabe",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "cast_id": 210,
+        "character": "Coroner Munchkin (uncredited)",
+        "credit_id": "67d2cd76325e62b3d160a559",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5703527,
+        "known_for_department": "Acting",
+        "name": "Elaine Merk Binder",
+        "original_name": "Elaine Merk Binder",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 212,
+        "character": "Munchkin (uncredited)",
+        "credit_id": "68d097d78bf23943b4749ca2",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9054,
+        "known_for_department": "Directing",
+        "name": "Mervyn LeRoy",
+        "original_name": "Mervyn LeRoy",
+        "popularity": 1.9057,
+        "profile_path": "/xRdJwuUptfFYVR8K6yyMhPgOVmP.jpg",
+        "credit_id": "52fe4260c3a36847f8019b95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9053,
+        "known_for_department": "Writing",
+        "name": "Florence Ryerson",
+        "original_name": "Florence Ryerson",
+        "popularity": 0.9441,
+        "profile_path": "/921qr8f8LZODclUsd6GxwOqeIwJ.jpg",
+        "credit_id": "52fe4260c3a36847f8019b89",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9057,
+        "known_for_department": "Camera",
+        "name": "Harold Rosson",
+        "original_name": "Harold Rosson",
+        "popularity": 1.7872,
+        "profile_path": "/qqxZGn4yf5TKAQBTdFIv7zMy4F3.jpg",
+        "credit_id": "52fe4260c3a36847f8019ba7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9058,
+        "known_for_department": "Editing",
+        "name": "Blanche Sewell",
+        "original_name": "Blanche Sewell",
+        "popularity": 0.6533,
+        "profile_path": null,
+        "credit_id": "52fe4260c3a36847f8019bad",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9064,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adrian",
+        "original_name": "Adrian",
+        "popularity": 0.2888,
+        "profile_path": "/7T9PaMDMuoUOBQzk9QRgdciYjZQ.jpg",
+        "credit_id": "52fe4261c3a36847f8019bd7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9049,
+        "known_for_department": "Directing",
+        "name": "Victor Fleming",
+        "original_name": "Victor Fleming",
+        "popularity": 1.1496,
+        "profile_path": "/kwMaOpQnirmXFEuvP0t7Zc94sqj.jpg",
+        "credit_id": "52fe4260c3a36847f8019b77",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9052,
+        "known_for_department": "Writing",
+        "name": "Noel Langley",
+        "original_name": "Noel Langley",
+        "popularity": 0.684,
+        "profile_path": "/tBgIv5a39c1t115BKC4Tz7Nj5TY.jpg",
+        "credit_id": "52fe4260c3a36847f8019b83",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1505,
+        "known_for_department": "Writing",
+        "name": "Edgar Allan Woolf",
+        "original_name": "Edgar Allan Woolf",
+        "popularity": 0.5319,
+        "profile_path": "/vAeUxn8OMD89OraC4Qo2xjP69jZ.jpg",
+        "credit_id": "52fe4260c3a36847f8019b8f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9062,
+        "known_for_department": "Art",
+        "name": "Cedric Gibbons",
+        "original_name": "Cedric Gibbons",
+        "popularity": 1.7205,
+        "profile_path": "/4490hNfDKQPh0pIn8GBSQ0UARMX.jpg",
+        "credit_id": "52fe4261c3a36847f8019bcb",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9063,
+        "known_for_department": "Art",
+        "name": "Edwin B. Willis",
+        "original_name": "Edwin B. Willis",
+        "popularity": 0.3545,
+        "profile_path": "/b4hSs5KLFXxSrvvA923VjdmywMl.jpg",
+        "credit_id": "52fe4261c3a36847f8019bd1",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29984,
+        "known_for_department": "Crew",
+        "name": "A. Arnold Gillespie",
+        "original_name": "A. Arnold Gillespie",
+        "popularity": 1.0284,
+        "profile_path": "/7UIJuELSJ4yV4MSlRl6EYbzT8Ti.jpg",
+        "credit_id": "58891726c3a36859ec013003",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9052,
+        "known_for_department": "Writing",
+        "name": "Noel Langley",
+        "original_name": "Noel Langley",
+        "popularity": 0.684,
+        "profile_path": "/tBgIv5a39c1t115BKC4Tz7Nj5TY.jpg",
+        "credit_id": "58891671c3a36859e6011e65",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060367,
+        "known_for_department": "Writing",
+        "name": "E.Y. Harburg",
+        "original_name": "E.Y. Harburg",
+        "popularity": 0.367,
+        "profile_path": "/x8q8LAziMHWywnSfp4iPV2yhAsE.jpg",
+        "credit_id": "64210adb23be4600df99385c",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9051,
+        "known_for_department": "Writing",
+        "name": "L. Frank Baum",
+        "original_name": "L. Frank Baum",
+        "popularity": 0.6733,
+        "profile_path": "/wEbznMtXaENm0km024CSG3iBJu2.jpg",
+        "credit_id": "6742fea09f40a7aaf6ea2ead",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9049,
+        "known_for_department": "Directing",
+        "name": "Victor Fleming",
+        "original_name": "Victor Fleming",
+        "popularity": 1.1496,
+        "profile_path": "/kwMaOpQnirmXFEuvP0t7Zc94sqj.jpg",
+        "credit_id": "6797672e760f51e17d2b32e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34229,
+        "known_for_department": "Sound",
+        "name": "George Bassman",
+        "original_name": "George Bassman",
+        "popularity": 1.9689,
+        "profile_path": null,
+        "credit_id": "679768fe760f51e17d2b33c0",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1592140,
+        "known_for_department": "Sound",
+        "name": "Murray Cutter",
+        "original_name": "Murray Cutter",
+        "popularity": 0.2714,
+        "profile_path": null,
+        "credit_id": "6797690c64431257a38f4c37",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1532469,
+        "known_for_department": "Sound",
+        "name": "Paul Marquardt",
+        "original_name": "Paul Marquardt",
+        "popularity": 2.1299,
+        "profile_path": null,
+        "credit_id": "67976920760f51e17d2b33ce",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20152,
+        "known_for_department": "Acting",
+        "name": "Ken Darby",
+        "original_name": "Ken Darby",
+        "popularity": 0.6615,
+        "profile_path": null,
+        "credit_id": "679769379ca029099c2b0c66",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124433,
+        "known_for_department": "Directing",
+        "name": "Bobby Connolly",
+        "original_name": "Bobby Connolly",
+        "popularity": 1.4034,
+        "profile_path": null,
+        "credit_id": "6797698409c252e3ab23ced0",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130186,
+        "known_for_department": "Camera",
+        "name": "Allen M. Davey",
+        "original_name": "Allen M. Davey",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "679769d0c7b01b72c7240889",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27969,
+        "known_for_department": "Sound",
+        "name": "Douglas Shearer",
+        "original_name": "Douglas Shearer",
+        "popularity": 0.8377,
+        "profile_path": "/tw536317kcFJ6Uft0GHHF0mKjSN.jpg",
+        "credit_id": "67976a4009c252e3ab23cf32",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9060,
+        "known_for_department": "Art",
+        "name": "William A. Horning",
+        "original_name": "William A. Horning",
+        "popularity": 0.945,
+        "profile_path": null,
+        "credit_id": "67976a8e3f7fcf67d08f5b63",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13986,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jack Dawn",
+        "original_name": "Jack Dawn",
+        "popularity": 1.5441,
+        "profile_path": null,
+        "credit_id": "67976afa3ae355c4788f334c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9056,
+        "known_for_department": "Sound",
+        "name": "Harold Arlen",
+        "original_name": "Harold Arlen",
+        "popularity": 0.4506,
+        "profile_path": "/kaarxhfr010sfrIBJtDzidjzwSB.jpg",
+        "credit_id": "67976b3f3f7fcf67d08f5bae",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 630,
+    "keywords": [
+      {
+        "id": 616,
+        "name": "witch"
+      },
+      {
+        "id": 704,
+        "name": "adolescence"
+      },
+      {
+        "id": 1566,
+        "name": "dreams"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1308,
+        "name": "secret identity"
+      },
+      {
+        "id": 2043,
+        "name": "lion"
+      },
+      {
+        "id": 2213,
+        "name": "tornado"
+      },
+      {
+        "id": 2214,
+        "name": "twister"
+      },
+      {
+        "id": 3151,
+        "name": "scarecrow"
+      },
+      {
+        "id": 3289,
+        "name": "villain"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 7658,
+        "name": "kansas, usa"
+      },
+      {
+        "id": 11409,
+        "name": "imaginary land"
+      },
+      {
+        "id": 13001,
+        "name": "cowardliness"
+      },
+      {
+        "id": 15149,
+        "name": "monkey"
+      },
+      {
+        "id": 166726,
+        "name": "female villain"
+      },
+      {
+        "id": 170362,
+        "name": "fantasy world"
+      },
+      {
+        "id": 177912,
+        "name": "wizard"
+      },
+      {
+        "id": 190531,
+        "name": "speculative"
+      },
+      {
+        "id": 206008,
+        "name": "hourglass"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      },
+      {
+        "id": 238526,
+        "name": "red shoes"
+      },
+      {
+        "id": 246466,
+        "name": "based on young adult novel"
+      },
+      {
+        "id": 249813,
+        "name": "tin man"
+      },
+      {
+        "id": 269808,
+        "name": "introspective"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 364135,
+        "name": "trying to get home"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "id": 168,
+        "original_language": "en",
+        "original_title": "Star Trek IV: The Voyage Home",
+        "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+        "popularity": 3.2981,
+        "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+        "release_date": "1986-11-26",
+        "title": "Star Trek IV: The Voyage Home",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 1586
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 199,
+        "original_language": "en",
+        "original_title": "Star Trek: First Contact",
+        "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+        "popularity": 5.5884,
+        "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+        "release_date": "1996-11-22",
+        "title": "Star Trek: First Contact",
+        "video": false,
+        "vote_average": 7.298,
+        "vote_count": 1884
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+        "genre_ids": [
+          18,
+          53,
+          12
+        ],
+        "id": 204,
+        "original_language": "fr",
+        "original_title": "Le Salaire de la peur",
+        "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+        "popularity": 3.1867,
+        "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+        "release_date": "1953-04-22",
+        "title": "The Wages of Fear",
+        "video": false,
+        "vote_average": 8.004,
+        "vote_count": 1040
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+        "genre_ids": [
+          53,
+          12
+        ],
+        "id": 213,
+        "original_language": "en",
+        "original_title": "North by Northwest",
+        "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+        "popularity": 6.1604,
+        "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+        "release_date": "1959-08-06",
+        "title": "North by Northwest",
+        "video": false,
+        "vote_average": 7.978,
+        "vote_count": 4368
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+        "genre_ids": [
+          14,
+          18,
+          53,
+          9648,
+          10749
+        ],
+        "id": 251,
+        "original_language": "en",
+        "original_title": "Ghost",
+        "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+        "popularity": 9.5659,
+        "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+        "release_date": "1990-07-13",
+        "title": "Ghost",
+        "video": false,
+        "vote_average": 7.227,
+        "vote_count": 5852
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35
+        ],
+        "id": 252,
+        "original_language": "en",
+        "original_title": "Willy Wonka & the Chocolate Factory",
+        "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+        "popularity": 11.4746,
+        "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+        "release_date": "1971-06-29",
+        "title": "Willy Wonka & the Chocolate Factory",
+        "video": false,
+        "vote_average": 7.483,
+        "vote_count": 3829
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s4H3XiCwHrjtMP4cBCO5L5tDVg3.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10751
+        ],
+        "id": 257,
+        "original_language": "en",
+        "original_title": "Oliver Twist",
+        "overview": "When 9-year-old orphan Oliver Twist dares to ask his cruel taskmaster, Mr. Bumble, for a second serving of gruel, he's hired out as an apprentice. Escaping that dismal fate, young Oliver falls in with the street urchin known as the Artful Dodger and his criminal mentor, Fagin. When kindly Mr. Brownlow takes Oliver in, Fagin's evil henchman Bill Sikes plots to kidnap the boy.",
+        "popularity": 5.1774,
+        "poster_path": "/zhPdYZ3x2uanhM1SyBj4CuL6hSa.jpg",
+        "release_date": "2005-09-23",
+        "title": "Oliver Twist",
+        "video": false,
+        "vote_average": 6.746,
+        "vote_count": 1218
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 35,
+        "original_language": "en",
+        "original_title": "The Simpsons Movie",
+        "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+        "popularity": 11.2901,
+        "poster_path": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+        "release_date": "2007-07-25",
+        "title": "The Simpsons Movie",
+        "video": false,
+        "vote_average": 7.016,
+        "vote_count": 8367
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 58,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+        "popularity": 16.6783,
+        "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "release_date": "2006-07-06",
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "video": false,
+        "vote_average": 7.375,
+        "vote_count": 16786
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+        "genre_ids": [
+          12,
+          53,
+          878
+        ],
+        "id": 74,
+        "original_language": "en",
+        "original_title": "War of the Worlds",
+        "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+        "popularity": 10.3838,
+        "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+        "release_date": "2005-06-28",
+        "title": "War of the Worlds",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 8889
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 87,
+        "original_language": "en",
+        "original_title": "Indiana Jones and the Temple of Doom",
+        "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+        "popularity": 9.5703,
+        "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+        "release_date": "1984-05-23",
+        "title": "Indiana Jones and the Temple of Doom",
+        "video": false,
+        "vote_average": 7.303,
+        "vote_count": 9846
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 120,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "popularity": 34.0767,
+        "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "release_date": "2001-12-18",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "video": false,
+        "vote_average": 8.427,
+        "vote_count": 26776
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 121,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+        "popularity": 29.1238,
+        "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "release_date": "2002-12-18",
+        "title": "The Lord of the Rings: The Two Towers",
+        "video": false,
+        "vote_average": 8.411,
+        "vote_count": 23239
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 122,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+        "popularity": 29.8106,
+        "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "release_date": "2003-12-17",
+        "title": "The Lord of the Rings: The Return of the King",
+        "video": false,
+        "vote_average": 8.492,
+        "vote_count": 25817
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/TXSxV23MWYkezZ3219gtgcSX6n.jpg",
+        "genre_ids": [
+          12,
+          16,
+          14
+        ],
+        "id": 123,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings",
+        "overview": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
+        "popularity": 5.2596,
+        "poster_path": "/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+        "release_date": "1978-11-15",
+        "title": "The Lord of the Rings",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 1017
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "id": 129,
+        "original_language": "ja",
+        "original_title": "千と千尋の神隠し",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "popularity": 23.1345,
+        "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "release_date": "2001-07-20",
+        "title": "Spirited Away",
+        "video": false,
+        "vote_average": 8.534,
+        "vote_count": 17780
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+        "genre_ids": [
+          12,
+          35,
+          80
+        ],
+        "id": 134,
+        "original_language": "en",
+        "original_title": "O Brother, Where Art Thou?",
+        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+        "popularity": 4.7357,
+        "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+        "release_date": "2000-08-30",
+        "title": "O Brother, Where Art Thou?",
+        "video": false,
+        "vote_average": 7.318,
+        "vote_count": 4432
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+        "genre_ids": [
+          18,
+          14,
+          10749
+        ],
+        "id": 144,
+        "original_language": "de",
+        "original_title": "Der Himmel über Berlin",
+        "overview": "Two angels glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed, but never interacting with them. When one falls in love with lonely trapeze artist, the angel longs to experience life in the physical world and finds that it might be possible for him to take human form.",
+        "popularity": 2.9516,
+        "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+        "release_date": "1987-09-23",
+        "title": "Wings of Desire",
+        "video": false,
+        "vote_average": 7.773,
+        "vote_count": 1449
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28,
+          10749
+        ],
+        "id": 146,
+        "original_language": "zh",
+        "original_title": "卧虎藏龍",
+        "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+        "popularity": 9.5615,
+        "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+        "release_date": "2000-07-06",
+        "title": "Crouching Tiger, Hidden Dragon",
+        "video": false,
+        "vote_average": 7.433,
+        "vote_count": 3454
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d8ykdViWaxSSN5ZdAUGrDAhmROF.jpg",
+        "genre_ids": [
+          14,
+          10751,
+          18
+        ],
+        "id": 456483,
+        "original_language": "en",
+        "original_title": "Wonderwell",
+        "overview": "In an idyllic Italian village, a young American girl on the threshold of adolescence is swept into a timeless magical adventure in Wonderwell.",
+        "popularity": 0.7661,
+        "poster_path": "/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg",
+        "release_date": "2023-06-23",
+        "title": "Wonderwell",
+        "video": false,
+        "vote_average": 5.448,
+        "vote_count": 29
+      }
+    ],
+    "total_pages": 4498,
+    "total_results": 89948
+  }
+}

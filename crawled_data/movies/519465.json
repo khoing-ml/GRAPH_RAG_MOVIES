@@ -1,0 +1,952 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/e5lxpaVyazQX723A3svR17WxckP.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 519465,
+    "imdb_id": "tt8378126",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Dronningen",
+    "overview": "Anne, a brilliant and dedicated advocacy lawyer specialising in society’s most vulnerable, children and young adults, lives what appears to be the picture-perfect life with her doctor-husband, Peter, and their twin daughters. When her estranged teenage stepson, Gustav, moves in with them, Anne’s escalating desire leads her down a dangerous rabbit hole which, once exposed, unleashes a sequence of events destined to destroy her world.",
+    "popularity": 16.746,
+    "poster_path": "/dfFVDIgovEfQZn53VRKLV2JQnRJ.jpg",
+    "production_companies": [
+      {
+        "id": 119,
+        "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+        "name": "DR",
+        "origin_country": "DK"
+      },
+      {
+        "id": 2999,
+        "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+        "name": "SVT",
+        "origin_country": "SE"
+      },
+      {
+        "id": 235,
+        "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+        "name": "Nordisk Film Denmark",
+        "origin_country": "DK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      },
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "release_date": "2019-03-27",
+    "revenue": 0,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Queen of Hearts",
+    "video": false,
+    "vote_average": 6.871,
+    "vote_count": 353
+  },
+  "credits": {
+    "id": 519465,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4460,
+        "known_for_department": "Acting",
+        "name": "Trine Dyrholm",
+        "original_name": "Trine Dyrholm",
+        "popularity": 1.9445,
+        "profile_path": "/ntUn5eKFlQxbjPci5A99qJOjulY.jpg",
+        "cast_id": 0,
+        "character": "Anne",
+        "credit_id": "5ada44f5c3a3686a23000886",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1428295,
+        "known_for_department": "Acting",
+        "name": "Gustav Lindh",
+        "original_name": "Gustav Lindh",
+        "popularity": 1.5512,
+        "profile_path": "/qbCsiIl0C0E1vYvLXqK2T98bvyO.jpg",
+        "cast_id": 1,
+        "character": "Gustav",
+        "credit_id": "5ada45070e0a262d3c0008a6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143391,
+        "known_for_department": "Acting",
+        "name": "Magnus Krepper",
+        "original_name": "Magnus Krepper",
+        "popularity": 1.7687,
+        "profile_path": "/xFN9sb8S2fjcUtbWvzTxoLH4QUJ.jpg",
+        "cast_id": 2,
+        "character": "Peter",
+        "credit_id": "5ada4513c3a3686a190009d0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407274,
+        "known_for_department": "Acting",
+        "name": "Liv Esmår Dannemann",
+        "original_name": "Liv Esmår Dannemann",
+        "popularity": 0.8913,
+        "profile_path": "/bcw4a48dmeeDn2cQvy3XRB7ClOO.jpg",
+        "cast_id": 16,
+        "character": "Frida",
+        "credit_id": "5d7631132ea6b90013c103d0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407273,
+        "known_for_department": "Acting",
+        "name": "Silja Esmår Dannemann",
+        "original_name": "Silja Esmår Dannemann",
+        "popularity": 0.9532,
+        "profile_path": "/lB5S8dy00sxsOxpOvb0EJZ9Tn6m.jpg",
+        "cast_id": 15,
+        "character": "Fanny",
+        "credit_id": "5d7630ef2ea6b90012c10a8b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407275,
+        "known_for_department": "Acting",
+        "name": "Stine Gyldenkerne",
+        "original_name": "Stine Gyldenkerne",
+        "popularity": 0.3126,
+        "profile_path": "/dML08k8tNLn66oKG6ZtTqpZD9zy.jpg",
+        "cast_id": 17,
+        "character": "Lina",
+        "credit_id": "5d76312a12970c00129b93cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73214,
+        "known_for_department": "Acting",
+        "name": "Preben Kristensen",
+        "original_name": "Preben Kristensen",
+        "popularity": 0.3207,
+        "profile_path": "/6kB691r8wZSiM5sYupPulczZ6pb.jpg",
+        "cast_id": 12,
+        "character": "Erik",
+        "credit_id": "5b3a714ac3a3684561016cac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 582051,
+        "known_for_department": "Acting",
+        "name": "Frederikke Dahl Hansen",
+        "original_name": "Frederikke Dahl Hansen",
+        "popularity": 0.9457,
+        "profile_path": "/6LSQFl8ywMKrwlmeGU3H842ejek.jpg",
+        "cast_id": 3,
+        "character": "Cecilie",
+        "credit_id": "5ada454992514123120008d2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1518350,
+        "known_for_department": "Acting",
+        "name": "Ella Solgaard",
+        "original_name": "Ella Solgaard",
+        "popularity": 1.2777,
+        "profile_path": "/te6KJFqoxwRFN2hN9K9P2Gvn6ZW.jpg",
+        "cast_id": 13,
+        "character": "Sara",
+        "credit_id": "5b3a715ec3a368483b00d35f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2038233,
+        "known_for_department": "Acting",
+        "name": "Carla Philip Røder",
+        "original_name": "Carla Philip Røder",
+        "popularity": 0.5431,
+        "profile_path": "/brbXQv5vR3tmV8qQoRJSCH4R7CI.jpg",
+        "cast_id": 19,
+        "character": "Amanda",
+        "credit_id": "5d7631572ea6b90012c10af6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407277,
+        "known_for_department": "Acting",
+        "name": "Peter Khouri",
+        "original_name": "Peter Khouri",
+        "popularity": 0.1803,
+        "profile_path": "/aPs9hIMK8NQAmdgNWAHm327rZHh.jpg",
+        "cast_id": 21,
+        "character": "Janus",
+        "credit_id": "5d7632bb5294e70010f52c54",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582347,
+        "known_for_department": "Acting",
+        "name": "Mads Knarreborg",
+        "original_name": "Mads Knarreborg",
+        "popularity": 0.4738,
+        "profile_path": "/1ztJvsh2CnuWaPaIHbwF3i4hhos.jpg",
+        "cast_id": 20,
+        "character": "Thomas",
+        "credit_id": "5d76328b5294e7000ef5333b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2130931,
+        "known_for_department": "Acting",
+        "name": "Marie Dalsgaard",
+        "original_name": "Marie Dalsgaard",
+        "popularity": 0.9767,
+        "profile_path": "/kC9rKdXgFDD9E99GrWGuWkPxDSS.jpg",
+        "cast_id": 22,
+        "character": "Ellen",
+        "credit_id": "5d7632d15294e7000ef533c8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2117343,
+        "known_for_department": "Acting",
+        "name": "Elias Budde Christensen",
+        "original_name": "Elias Budde Christensen",
+        "popularity": 0.3207,
+        "profile_path": "/3tcDtPuEV9PyDOvOM9E3PDHtkxc.jpg",
+        "cast_id": 18,
+        "character": "Boy in Court",
+        "credit_id": "5d76314312970c00139b9a98",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407278,
+        "known_for_department": "Acting",
+        "name": "Noel Bouhon Kiertzer",
+        "original_name": "Noel Bouhon Kiertzer",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Lucas",
+        "credit_id": "5d7632e52ea6b90010c10674",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407279,
+        "known_for_department": "Acting",
+        "name": "Nessie Beik",
+        "original_name": "Nessie Beik",
+        "popularity": 0.2041,
+        "profile_path": "/bc8StDxOoqzSwAREtJIwpjKD2mG.jpg",
+        "cast_id": 25,
+        "character": "Social Worker",
+        "credit_id": "5d7633102ea6b90010c106a7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407280,
+        "known_for_department": "Acting",
+        "name": "Stanley Bakar",
+        "original_name": "Stanley Bakar",
+        "popularity": 0.2816,
+        "profile_path": "/tmbNECsbXC2aWv9hHquDNYmqWS6.jpg",
+        "cast_id": 26,
+        "character": "Assistant",
+        "credit_id": "5d7633385294e7000ef53448",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407281,
+        "known_for_department": "Acting",
+        "name": "Anders Hedegaard Andersen",
+        "original_name": "Anders Hedegaard Andersen",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Clerk",
+        "credit_id": "5d7633495294e7000ef5345d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934697,
+        "known_for_department": "Acting",
+        "name": "Mathias Rahbæk",
+        "original_name": "Mathias Rahbæk",
+        "popularity": 0.499,
+        "profile_path": "/emnfJytY3flFltux4d091mKZAmd.jpg",
+        "cast_id": 34,
+        "character": "Defendant",
+        "credit_id": "66d98521779e1ff192bf6c9b",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574550,
+        "known_for_department": "Directing",
+        "name": "Ali Abbasi",
+        "original_name": "Ali Abbasi",
+        "popularity": 1.4635,
+        "profile_path": "/1mwdpvwjAG1NkvUwpdBMEMJnjK2.jpg",
+        "credit_id": "628436cb0859b4009a859ed0",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1290996,
+        "known_for_department": "Directing",
+        "name": "May el-Toukhy",
+        "original_name": "May el-Toukhy",
+        "popularity": 2.0573,
+        "profile_path": "/5DlwQ6AZBEYsnBQXbXMxvwYklkC.jpg",
+        "credit_id": "5ada45680e0a262d48000a51",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1290996,
+        "known_for_department": "Directing",
+        "name": "May el-Toukhy",
+        "original_name": "May el-Toukhy",
+        "popularity": 2.0573,
+        "profile_path": "/5DlwQ6AZBEYsnBQXbXMxvwYklkC.jpg",
+        "credit_id": "5ada458392514123cf0009c7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1517987,
+        "known_for_department": "Writing",
+        "name": "Maren Louise Käehne",
+        "original_name": "Maren Louise Käehne",
+        "popularity": 0.8594,
+        "profile_path": "/bOKtkaxtC5IqkcsRQzDdg4BBblO.jpg",
+        "credit_id": "5ada4592c3a3686a230008ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1372319,
+        "known_for_department": "Production",
+        "name": "Caroline Blanco",
+        "original_name": "Caroline Blanco",
+        "popularity": 0.1507,
+        "profile_path": "/4rHxm827k9A52k2MN0WBulRREud.jpg",
+        "credit_id": "5ada45a30e0a262d4500097b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1994076,
+        "known_for_department": "Editing",
+        "name": "Rasmus Stensgaard Madsen",
+        "original_name": "Rasmus Stensgaard Madsen",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "5ada45d50e0a262d48000aa4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1616244,
+        "known_for_department": "Camera",
+        "name": "Jasper Spanning",
+        "original_name": "Jasper Spanning",
+        "popularity": 0.5169,
+        "profile_path": "/2VcCGuNpDPrs8RNPcvvNrqq1l6n.jpg",
+        "credit_id": "6498c63db3440900e27268b0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141885,
+        "known_for_department": "Production",
+        "name": "Rene Ezra",
+        "original_name": "Rene Ezra",
+        "popularity": 0.3381,
+        "profile_path": null,
+        "credit_id": "5ca2529e9251411a16096392",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077404,
+        "known_for_department": "Sound",
+        "name": "Jon Ekstrand",
+        "original_name": "Jon Ekstrand",
+        "popularity": 0.3825,
+        "profile_path": null,
+        "credit_id": "602dba372cde98003c2e53e5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mia Stensgaard",
+        "original_name": "Mia Stensgaard",
+        "popularity": 0.1734,
+        "profile_path": "/ni5B49wkqyqK1xOXrTsAFKcVjKW.jpg",
+        "credit_id": "602dba5087e63e00409496d9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1443980,
+        "known_for_department": "Crew",
+        "name": "Jon Truelsen",
+        "original_name": "Jon Truelsen",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "602dba5ea14bef004064054f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2972056,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rebecca Richmond",
+        "original_name": "Rebecca Richmond",
+        "popularity": 0.6217,
+        "profile_path": "/daRaQcH7Q3RnvAmvJdf9Pf9CHPP.jpg",
+        "credit_id": "602dba6d8ac3d0003fcda80d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1499110,
+        "known_for_department": "Visual Effects",
+        "name": "Katharina Bormann",
+        "original_name": "Katharina Bormann",
+        "popularity": 0.7114,
+        "profile_path": null,
+        "credit_id": "68f0330fcdef0a1d751e1e80",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 519465,
+    "keywords": [
+      {
+        "id": 10909,
+        "name": "lawyer"
+      },
+      {
+        "id": 33841,
+        "name": "incest"
+      },
+      {
+        "id": 157799,
+        "name": "older woman younger man relationship"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 207767,
+        "name": "erotic thriller"
+      },
+      {
+        "id": 230960,
+        "name": "unfaithful wife"
+      },
+      {
+        "id": 282667,
+        "name": "age-gap relationship"
+      },
+      {
+        "id": 292860,
+        "name": "stepmother stepson relationship"
+      },
+      {
+        "id": 350361,
+        "name": "stepmother stepson incest"
+      },
+      {
+        "id": 350362,
+        "name": "stepmother stepson sex"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 295058,
+        "original_language": "sl",
+        "original_title": "Drevo",
+        "overview": "A family finds itself in a dead-end situation. They are only safe behind the walls of their own house and yard. As time vanishes from their home, the shelter slowly turns into a prison. However, nothing can keep the children from dreaming and yearning to be free and the urge to make a decision seems inevitable.",
+        "popularity": 0.5292,
+        "poster_path": "/csgcLVs2udCdkwFZsjS6Z9K4Gya.jpg",
+        "release_date": "2014-07-07",
+        "title": "The Tree",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Mu8h4RSr6RwQ1qhQWPvf3U7Z77.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 28200,
+        "original_language": "en",
+        "original_title": "Sylvia",
+        "overview": "Story of the relationship between the poets Ted Hughes and Sylvia Plath.",
+        "popularity": 3.623,
+        "poster_path": "/fEhrg0uQqhmHUDRqODxxvRPipfB.jpg",
+        "release_date": "2003-10-17",
+        "title": "Sylvia",
+        "video": false,
+        "vote_average": 5.721,
+        "vote_count": 118
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z3iOv6d4emyQ5W30mQ64NAFITWI.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 26645,
+        "original_language": "sv",
+        "original_title": "Se upp för dårarna",
+        "overview": "Two girls from different backgrounds, one an immigrant from Turkey and the other a girl who needs to get out of her father's shadow, apply to the police academy, where they become close friends.",
+        "popularity": 0.3478,
+        "poster_path": "/2sQlcnBvCnhLXoF6rknxFdeUWbJ.jpg",
+        "release_date": "2007-02-16",
+        "title": "Se upp för dårarna",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aDuAML6poOEohOnhL53PZZ1MgJY.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 26718,
+        "original_language": "en",
+        "original_title": "'G' Men",
+        "overview": "James “Brick” Davis, a struggling attorney, owes his education to a mobster, but always has refused to get involved with the underworld. When a friend of his is gunned down by a notorious criminal, Brick decides to abandon the exercise of the law and join the Department of Justice to capture the murderer.",
+        "popularity": 2.597,
+        "poster_path": "/6jY4xH5SDNrRIxlYoXskXniO2Zl.jpg",
+        "release_date": "1935-05-04",
+        "title": "'G' Men",
+        "video": false,
+        "vote_average": 6.58,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 293302,
+        "original_language": "fr",
+        "original_title": "Mouvements du désir",
+        "overview": "During the long train ride from Montreal to Vancouver, a man and woman find themselves increasingly attracted to each other.",
+        "popularity": 0.2378,
+        "poster_path": "/rcuBzN3DaoxOBSEnbvRhzPWB6EL.jpg",
+        "release_date": "1994-01-01",
+        "title": "Desire in Motion",
+        "video": false,
+        "vote_average": 4.375,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ozi8n3xEY6oVcABbWgNF7jHFPlm.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10770
+        ],
+        "id": 293319,
+        "original_language": "en",
+        "original_title": "On the Line",
+        "overview": "A female police detective tries to track down a gang of teenage bank robbers while dealing with sexual harassment on the job, and her troubled home life.",
+        "popularity": 0.3626,
+        "poster_path": "/zfBlv6X0eD4gABA9NFYNKKA7pn1.jpg",
+        "release_date": "1998-01-15",
+        "title": "On the Line",
+        "video": false,
+        "vote_average": 2.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gftDU03xnFig2yrNYrNFPCBMQZC.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10749
+        ],
+        "id": 28005,
+        "original_language": "en",
+        "original_title": "Kama Sutra: A Tale of Love",
+        "overview": "Tara and Maya are two inseparable friends in India. Their tastes, habits, and hobbies are the same. Years later, the two have matured, but have maintained their friendship. Tara gets married to the local prince, Raj Singh, who soon succeeds the throne as the sole heir. After the marriage, Raj gets bored of Tara and starts seeking another female to satisfy his sexual needs. He notices Maya and is instantly attracted to her. He has her included as one of his courtesans, and is intimate with her. Watch what happens when Tara finds out and the extent she will go to keep her marriage intact.",
+        "popularity": 2.101,
+        "poster_path": "/sptijXzApZhbOyqYq9P7627RAYw.jpg",
+        "release_date": "1997-02-28",
+        "title": "Kama Sutra: A Tale of Love",
+        "video": false,
+        "vote_average": 5.714,
+        "vote_count": 182
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1GjAbK6NzFcd6s2nMh9gvT1xosk.jpg",
+        "genre_ids": [
+          10751,
+          18,
+          80
+        ],
+        "id": 28011,
+        "original_language": "nl",
+        "original_title": "Afblijven",
+        "overview": "Melissa is a 15-year-old girl who loves to dance. Her parents think she is taking classes in classical ballet, but once at the dance school she devotes herself to the hip-hop dance classes. Melissa is good friends with Jordi and he is very happy for Melissa when she is asked to dance in the music video of the famous rapper Brainpower.  But because of bad influences, her life becomes a nightmare. Until her real friends decide to get her out of there.",
+        "popularity": 0.2031,
+        "poster_path": "/yCrdAWHHfRDbOyaTtpzLC8mZa5C.jpg",
+        "release_date": "2006-10-04",
+        "title": "XTC Just Don't Do It",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AuzHbhkKF9p8fQbuzW2pIkScboP.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 28031,
+        "original_language": "en",
+        "original_title": "If These Walls Could Talk 2",
+        "overview": "The stories of three lesbian couples -- who live in the same house at different periods of time -- who are at a crossroads in their lives. In 1961, Edith loses her lover, Abby, to a stroke. Linda and Amy struggle with feminist issues in 1972. And, in 2000, Kal and Fran try to have a baby with the help of sperm donor.",
+        "popularity": 1.0567,
+        "poster_path": "/1bwmJfLJVoxmj96qKVuE9oSmEUS.jpg",
+        "release_date": "2000-03-05",
+        "title": "If These Walls Could Talk 2",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 107
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1t0SonlKEQy4XHZcIu0SgQNrdJ5.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          53
+        ],
+        "id": 28054,
+        "original_language": "en",
+        "original_title": "Suburbia",
+        "overview": "When household tensions and a sense of worthlessness overcome Evan, he finds escape when he clings with the orphans of a throw-away society. The runaways hold on to each other like a family until a tragedy tears them apart.",
+        "popularity": 0.9365,
+        "poster_path": "/vydIE7nizxO04ER9EcDdbdaHh8c.jpg",
+        "release_date": "1984-04-13",
+        "title": "Suburbia",
+        "video": false,
+        "vote_average": 6.67,
+        "vote_count": 91
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 479352,
+        "original_language": "de",
+        "original_title": "Winterjagd",
+        "overview": "On a cold, wintry night, Lena shows up on the doorstep of the Rossberg family mansion. She claims her car has broken down, but her arrival is intentional. Lena is in pursuit of Anselm Rossberg, an aged Auschwitz guard who lives with his daughter, Maria. Anselm and Maria both deny Anselm's past, but Lena is determined to get him to confess, even as her own weapon is turned on her and she is forced into a moral dilemma.",
+        "popularity": 1.8293,
+        "poster_path": "/2JNBrMxGnA1bUiaZQIRTLFQMYA7.jpg",
+        "release_date": "2019-06-26",
+        "title": "Winter Hunt",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b6iDOptpBemFfuje06QwdOL9NIC.jpg",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 479393,
+        "original_language": "pl",
+        "original_title": "Wieża. Jasny dzień.",
+        "overview": "Mula lives with her husband, sick mother and daughter Nina in a countryside house. At the weekend before Nina’s First Holy Communion, her brother with his family come for a visit together with Kaja – Mula’s younger sister, who disappeared suddenly 6 years earlier. Kaja is Nina’s biological mother. Mula is afraid that unstable Kaja might want to take her daughter away.",
+        "popularity": 1.2906,
+        "poster_path": "/mewV4AFR8Vn7BJnfuChNwmJkCPa.jpg",
+        "release_date": "2018-03-23",
+        "title": "Tower. A Bright Day.",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xVYMbXGlAATDkxJexiQZRwik3CE.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 293370,
+        "original_language": "en",
+        "original_title": "Manhattan Cocktail",
+        "overview": "Nancy Carroll stars in Manhattan Cocktail as Babs, a college coed who dreams of becoming a famous actress. Joining up with her campus chums Fred (Richard Arlen) and Bob (Danny O'Shea), likewise aspiring thespians, Babes heads to Broadway with stars in her eyes. The winsome threesome are quickly disillusioned by the heartless machinations of nasty producer Renov (Paul Lukas) and his harridan wife (Lilyan Tashman). Before the plot proper gets under way, the audience is regaled with a cute \"mythological\" prologue, featuring the same three leading actors. Manhattan Cocktail was a silent picture, except for two brief musical numbers showcasing Nancy Carroll.",
+        "popularity": 2.297,
+        "poster_path": "/1oExWan8XbqAIu5NFNt8bvaGjb5.jpg",
+        "release_date": "1928-11-24",
+        "title": "Manhattan Cocktail",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 293443,
+        "original_language": "sq",
+        "original_title": "Bota",
+        "overview": "Bota (Albanian for “the world”) is a cafe situated on the edge of a vast area of marshland in a remote part of Albania, and it is here that the lives of the protagonists intersect in this compelling debut by Iris Elezi and Thomas Logoreci. The directors skilfully exploit the genius loci of the desolate landscape and, aided by a period score and beguiling long shots, they flawlessly evoke the atmosphere of a place where the past still encroaches upon people’s lives.",
+        "popularity": 2.3798,
+        "poster_path": "/mblQ22hDZas0h2JLe1zk8ktCQq7.jpg",
+        "release_date": "2014-07-05",
+        "title": "Bota",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          99,
+          18
+        ],
+        "id": 293444,
+        "original_language": "fi",
+        "original_title": "Eedenistä pohjoiseen",
+        "overview": "Garden Lovers is a documentary love story about Finnish couples who have a passion for gardening. The film with comic undertones looks at their stories behind the hedges.  The garden provides a framework for tales of relationship conflicts and joys; it depicts the many ways in which life can flourish; it gives strength and unites, but it also becomes a meeting place for farewells. There is an invisible bond that grows between the couples in the film; they comment and comfort each other with their own stories.",
+        "popularity": 0.6567,
+        "poster_path": "/cGY5EdngG6OlvqKWh4SBlEqqlJQ.jpg",
+        "release_date": "2014-03-07",
+        "title": "Garden Lovers",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sJ1wBKCkQX9bRk6DnZxOVn51NwT.jpg",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 26738,
+        "original_language": "en",
+        "original_title": "Rage",
+        "overview": "A schoolboy uses his cellphone camera to shoot intimate interviews with people working at a New York fashion house and secretly posts them on the internet. Result: a bitterly funny expose of an industry in crisis, during a week in which an accident on the runway becomes a murder investigation, and denial leads to devastation.",
+        "popularity": 3.4521,
+        "poster_path": "/atqccoctqnvjj9yepJMxytbRvqf.jpg",
+        "release_date": "2009-09-24",
+        "title": "Rage",
+        "video": false,
+        "vote_average": 3.469,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mo0NlwRLaV8DBUi6Tdn0ymIHe7K.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 26744,
+        "original_language": "en",
+        "original_title": "Force of Evil",
+        "overview": "Lawyer Joe Morse wants to consolidate all the small-time numbers racket operators into one big powerful operation. But his elder brother Leo is one of these small-time operators who wants to stay that way, preferring not to deal with the gangsters who dominate the big-time.",
+        "popularity": 1.7304,
+        "poster_path": "/x33LVKf4yWdjMeczJkzE5sIw4VG.jpg",
+        "release_date": "1950-08-24",
+        "title": "Force of Evil",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 128
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 26808,
+        "original_language": "en",
+        "original_title": "Beau Brummell: This Charming Man",
+        "overview": "This BBC historical drama stars James Purefoy as Beau Brummell, the original sharp-dressed dandy of 18th-century London. A socialite responsible for inventing the modern suit, Brummell befriends and restyles Prince Regent of Wales.",
+        "popularity": 0.6166,
+        "poster_path": "/m75OrZOBfde2nxcPbo6a3ZznHas.jpg",
+        "release_date": "2006-06-19",
+        "title": "Beau Brummell: This Charming Man",
+        "video": false,
+        "vote_average": 5.214,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nE5GrbmJWM6q8BjcqY0GyQVoo8f.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 26810,
+        "original_language": "fr",
+        "original_title": "Brodeuses",
+        "overview": "French drama, the debut film from writer-director Eléonore Faucher. Teenager Claire (Lola Naymark) discovers she is pregnant and decides to keep it a secret. Abandoning her dead-end supermarket job, she is taken on as an apprentice by couturiere Madame Mélikian (Ariane Ascaride), who is grieving over the death of her own child. As the two women work together, they soon develop a supportive and fam",
+        "popularity": 2.2684,
+        "poster_path": "/j9mUn7MfTUWdM4VthTcTPQE4Bdo.jpg",
+        "release_date": "2004-05-14",
+        "title": "A Common Thread",
+        "video": false,
+        "vote_average": 6.355,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wE87f2Ls5te6BJcxGkZPFEmfiEu.jpg",
+        "genre_ids": [
+          10402,
+          80,
+          18
+        ],
+        "id": 26837,
+        "original_language": "en",
+        "original_title": "B-Girl",
+        "overview": "A young female breakdancer, Angel, moves to Los Angeles after an attack by an ex-boyfriend nearly ends her dance career forever. B-Girl follows Angel through recovery and acceptance of a new life as she busts a move into the male-centric world of underground hip hop.",
+        "popularity": 0.611,
+        "poster_path": "/kgPoFMvfrvNBT0HQtqZ5vcMzT.jpg",
+        "release_date": "2009-07-29",
+        "title": "B-Girl",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 30
+      }
+    ],
+    "total_pages": 14436,
+    "total_results": 288705
+  }
+}

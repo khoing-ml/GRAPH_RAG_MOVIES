@@ -1,0 +1,1018 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/sb6YO8QwlJYJZCYroVWV0psNmXL.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "http://simonmovie.com",
+    "id": 1105832,
+    "imdb_id": "tt13580840",
+    "origin_country": [
+      "US",
+      "VE"
+    ],
+    "original_language": "en",
+    "original_title": "Simón",
+    "overview": "Simón, a Venezuelan freedom fighter exiled in Miami, copes not only with trauma, but also deep guilt over a choice he must make: stay in Miami and start a new life, or return home to the losing fight against a tyrannical regime.",
+    "popularity": 1.6658,
+    "poster_path": "/9ltmI5Mef0NHWm4Nxcpm6hT8VhY.jpg",
+    "production_companies": [
+      {
+        "id": 223729,
+        "logo_path": "/cgI1VHrrFvwX1lURve1HYHYIAoa.png",
+        "name": "Black Hole Enterprises",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "VE",
+        "name": "Venezuela"
+      }
+    ],
+    "release_date": "2023-04-15",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Simón",
+    "video": false,
+    "vote_average": 8.286,
+    "vote_count": 159
+  },
+  "credits": {
+    "id": 1105832,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1868022,
+        "known_for_department": "Acting",
+        "name": "Christian McGaffney",
+        "original_name": "Christian McGaffney",
+        "popularity": 0.9043,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Simón",
+        "credit_id": "64fa9117af58cb011bf23147",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2563138,
+        "known_for_department": "Acting",
+        "name": "Jana Nawartschi",
+        "original_name": "Jana Nawartschi",
+        "popularity": 0.2026,
+        "profile_path": "/28AteuzbQHBSREtGoIwTi1D8C93.jpg",
+        "cast_id": 3,
+        "character": "Melissa",
+        "credit_id": "64fa9145db4ed61038537ab0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1491540,
+        "known_for_department": "Acting",
+        "name": "Luis Silva",
+        "original_name": "Luis Silva",
+        "popularity": 0.1947,
+        "profile_path": "/9YeIyfVPXh08bR6lPmXNB0IFy8y.jpg",
+        "cast_id": 4,
+        "character": "Joaquín",
+        "credit_id": "64fbc3aadc1cb400c8bf7f10",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261770,
+        "known_for_department": "Acting",
+        "name": "Roberto Jaramillo",
+        "original_name": "Roberto Jaramillo",
+        "popularity": 0.1679,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Chucho",
+        "credit_id": "64fbc413a284eb01006d4dbf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085560,
+        "known_for_department": "Acting",
+        "name": "Franklin Vírgüez",
+        "original_name": "Franklin Vírgüez",
+        "popularity": 0.5121,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Colonel Lugo",
+        "credit_id": "64fbc462e0ca7f012eb6c3b5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1022409,
+        "known_for_department": "Acting",
+        "name": "Prakriti Maduro",
+        "original_name": "Prakriti Maduro",
+        "popularity": 0.1968,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Helena",
+        "credit_id": "64fbc492f8595800e2afdc3f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261774,
+        "known_for_department": "Acting",
+        "name": "Pedro Pablo Borras",
+        "original_name": "Pedro Pablo Borras",
+        "popularity": 0.2152,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Main Guard",
+        "credit_id": "64fbc4eaffc9de0edf5e9586",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2531073,
+        "known_for_department": "Acting",
+        "name": "Sallie Glaner",
+        "original_name": "Sallie Glaner",
+        "popularity": 0.4474,
+        "profile_path": "/jLyBwUxvBGBhe8ifIg5mv7LosSa.jpg",
+        "cast_id": 9,
+        "character": "Dr. Moore",
+        "credit_id": "64fbc50ff85958011ca0459a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2893156,
+        "known_for_department": "Acting",
+        "name": "Conlan Kisilewicz",
+        "original_name": "Conlan Kisilewicz",
+        "popularity": 0.3826,
+        "profile_path": "/m6B3SD5dBxg8CSDi3g62jTmFpIU.jpg",
+        "cast_id": 10,
+        "character": "Jordan",
+        "credit_id": "64fbc536ffc9de0ee2070d73",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1494308,
+        "known_for_department": "Acting",
+        "name": "Carlos Guerrero",
+        "original_name": "Carlos Guerrero",
+        "popularity": 2.6357,
+        "profile_path": "/jnoivE0GOWq1j67xO0qTri8SPFe.jpg",
+        "cast_id": 11,
+        "character": "Papo",
+        "credit_id": "64fbc56af8595800ff50a7ea",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261775,
+        "known_for_department": "Acting",
+        "name": "Sofia Riba",
+        "original_name": "Sofia Riba",
+        "popularity": 0.088,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Chloe",
+        "credit_id": "64fbc599ffc9de0ee174b9dd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2917520,
+        "known_for_department": "Acting",
+        "name": "Gabriel Bonilla",
+        "original_name": "Gabriel Bonilla",
+        "popularity": 0.5116,
+        "profile_path": "/uEf3IegtSRGx0jm2ZHncl0pfP9t.jpg",
+        "cast_id": 13,
+        "character": "Pharmacist Helson",
+        "credit_id": "64fbc5c1a284eb00ad11eba9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1864300,
+        "known_for_department": "Acting",
+        "name": "José Ramón Barreto",
+        "original_name": "José Ramón Barreto",
+        "popularity": 0.7489,
+        "profile_path": "/pQ0o3dMnpMtA7RcVEpYmsP3siYs.jpg",
+        "cast_id": 14,
+        "character": "Antonio",
+        "credit_id": "64fbc5faf85958013a8d62e2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3360916,
+        "known_for_department": "Acting",
+        "name": "Mike Boland",
+        "original_name": "Mike Boland",
+        "popularity": 0.2608,
+        "profile_path": "/2maHj6Ma7mepSq4A8t4ilPNav9o.jpg",
+        "cast_id": 15,
+        "character": "Mateo",
+        "credit_id": "64fbc611db4ed6104307106e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261776,
+        "known_for_department": "Acting",
+        "name": "Arianne Giron",
+        "original_name": "Arianne Giron",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Adriana",
+        "credit_id": "64fbc629e0ca7f012eb6c532",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4105179,
+        "known_for_department": "Acting",
+        "name": "Isairis Rodríguez",
+        "original_name": "Isairis Rodríguez",
+        "popularity": 0.0971,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Raquel",
+        "credit_id": "64fbc667ffc9de0ee174bad8",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261777,
+        "known_for_department": "Acting",
+        "name": "Kellianne Rae Jordan",
+        "original_name": "Kellianne Rae Jordan",
+        "popularity": 0.0481,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Officer Hill",
+        "credit_id": "64fbc68cefea7a0137d04163",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2033918,
+        "known_for_department": "Acting",
+        "name": "Suzanne Kovi",
+        "original_name": "Suzanne Kovi",
+        "popularity": 0.2232,
+        "profile_path": "/qwCOY3jlMFjg0kh4He3sm6DYBsX.jpg",
+        "cast_id": 19,
+        "character": "Lawyer",
+        "credit_id": "64fbc6a8ffc9de0ee174bb28",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115731,
+        "known_for_department": "Acting",
+        "name": "Wynn Reichert",
+        "original_name": "Wynn Reichert",
+        "popularity": 1.1662,
+        "profile_path": "/mWWW52hCHcyDsoXQCZ51IT3YFbr.jpg",
+        "cast_id": 20,
+        "character": "Professor",
+        "credit_id": "64fbc6dadb4ed610363cf062",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195588,
+        "known_for_department": "Acting",
+        "name": "Erik Anthony Russo",
+        "original_name": "Erik Anthony Russo",
+        "popularity": 0.8495,
+        "profile_path": "/3owRz5P5xyE3YaEOPW0qBStY7uB.jpg",
+        "cast_id": 21,
+        "character": "Officer Benítez",
+        "credit_id": "64fbc71bdb4ed610339ff825",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261779,
+        "known_for_department": "Acting",
+        "name": "Edward Tovar",
+        "original_name": "Edward Tovar",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Juanchi",
+        "credit_id": "64fbc72ee0ca7f00ae3d62de",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205570,
+        "known_for_department": "Directing",
+        "name": "Diego Vincentini",
+        "original_name": "Diego Vincentini",
+        "popularity": 0.2925,
+        "profile_path": "/74nAiKd2piLRpPjuFSDpUe1c9E3.jpg",
+        "credit_id": "64fbc796f8595800adc92866",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261780,
+        "known_for_department": "Production",
+        "name": "Jorge González",
+        "original_name": "Jorge González",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "64fbc881efea7a0137d04381",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 567736,
+        "known_for_department": "Writing",
+        "name": "Marcel Rasquin",
+        "original_name": "Marcel Rasquin",
+        "popularity": 0.0844,
+        "profile_path": null,
+        "credit_id": "64fbc89ae0ca7f00ae3d640c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2038617,
+        "known_for_department": "Production",
+        "name": "Lauren Herrel",
+        "original_name": "Lauren Herrel",
+        "popularity": 0.2233,
+        "profile_path": null,
+        "credit_id": "64fbc91be0ca7f014f6e837e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1320487,
+        "known_for_department": "Editing",
+        "name": "Heath Ryan",
+        "original_name": "Heath Ryan",
+        "popularity": 1.0111,
+        "profile_path": null,
+        "credit_id": "64fbc976a284eb00ad11eeef",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261781,
+        "known_for_department": "Production",
+        "name": "Rafael E. Rodríguez",
+        "original_name": "Rafael E. Rodríguez",
+        "popularity": 0.074,
+        "profile_path": null,
+        "credit_id": "64fbc99ae0ca7f014f6e83e1",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67947,
+        "known_for_department": "Sound",
+        "name": "Freddy Sheinfeld",
+        "original_name": "Freddy Sheinfeld",
+        "popularity": 0.437,
+        "profile_path": null,
+        "credit_id": "64fbc9bcefea7a00fd192c14",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205570,
+        "known_for_department": "Directing",
+        "name": "Diego Vincentini",
+        "original_name": "Diego Vincentini",
+        "popularity": 0.2925,
+        "profile_path": "/74nAiKd2piLRpPjuFSDpUe1c9E3.jpg",
+        "credit_id": "64fbca0ddc1cb400b0baf171",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2038617,
+        "known_for_department": "Production",
+        "name": "Lauren Herrel",
+        "original_name": "Lauren Herrel",
+        "popularity": 0.2233,
+        "profile_path": null,
+        "credit_id": "64fbca2cf85958011ca04abe",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261782,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marcos Duran",
+        "original_name": "Marcos Duran",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "64fbca7ba284eb011d5f7a8e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4261783,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carla Barrios",
+        "original_name": "Carla Barrios",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "64fbca98ffc9de0ee20712ab",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1864245,
+        "known_for_department": "Directing",
+        "name": "Arturo Manuitt",
+        "original_name": "Arturo Manuitt",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "64fbcad0e0ca7f012eb6c8cf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205570,
+        "known_for_department": "Directing",
+        "name": "Diego Vincentini",
+        "original_name": "Diego Vincentini",
+        "popularity": 0.2925,
+        "profile_path": "/74nAiKd2piLRpPjuFSDpUe1c9E3.jpg",
+        "credit_id": "64fc7604f8595800e2b034d4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205570,
+        "known_for_department": "Directing",
+        "name": "Diego Vincentini",
+        "original_name": "Diego Vincentini",
+        "popularity": 0.2925,
+        "profile_path": "/74nAiKd2piLRpPjuFSDpUe1c9E3.jpg",
+        "credit_id": "642305b48d22fc0084045c45",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4073700,
+        "known_for_department": "Sound",
+        "name": "Dawid Konecki",
+        "original_name": "Dawid Konecki",
+        "popularity": 0.4365,
+        "profile_path": null,
+        "credit_id": "670003fd67c6fb09fff80f9b",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2927234,
+        "known_for_department": "Camera",
+        "name": "Horacio Martinez",
+        "original_name": "Horacio Martinez",
+        "popularity": 0.0528,
+        "profile_path": null,
+        "credit_id": "67000413c9a10d46ea7cd64f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2119481,
+        "known_for_department": "Sound",
+        "name": "Jacek Wiśniewski",
+        "original_name": "Jacek Wiśniewski",
+        "popularity": 0.424,
+        "profile_path": null,
+        "credit_id": "67011dd3e84eeb35a0f84ccc",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4073703,
+        "known_for_department": "Sound",
+        "name": "Ewa Mazurkiewicz",
+        "original_name": "Ewa Mazurkiewicz",
+        "popularity": 0.2677,
+        "profile_path": null,
+        "credit_id": "67057a162ae7eb9084c0293e",
+        "department": "Sound",
+        "job": "Foley Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1105832,
+    "keywords": [
+      {
+        "id": 430,
+        "name": "venezuela"
+      },
+      {
+        "id": 2226,
+        "name": "exodus"
+      },
+      {
+        "id": 6711,
+        "name": "crisis"
+      },
+      {
+        "id": 33416,
+        "name": "power politics"
+      },
+      {
+        "id": 163119,
+        "name": "injustice"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+        "genre_ids": [
+          18,
+          53,
+          12
+        ],
+        "id": 204,
+        "original_language": "fr",
+        "original_title": "Le Salaire de la peur",
+        "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+        "popularity": 3.1867,
+        "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+        "release_date": "1953-04-22",
+        "title": "The Wages of Fear",
+        "video": false,
+        "vote_average": 8.004,
+        "vote_count": 1040
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hstCltaESxcX3pQzja8mlmkPaRn.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 854554,
+        "original_language": "es",
+        "original_title": "El hoyo en la cerca",
+        "overview": "As every year, the Los Pinos school, a prestigious school of the confessional type, sends its students on retreat to the countryside. Under the watchful eye of teachers and priests, the children are led on the path of their physical and moral development. Through the gaze of several middle and upper class teenagers, the film shows how their upbringing affects the future of society itself.",
+        "popularity": 0.2249,
+        "poster_path": "/cmGuT8BOzBFFVzv752PUV6UgVqq.jpg",
+        "release_date": "2021-10-04",
+        "title": "The Hole in the Fence",
+        "video": false,
+        "vote_average": 5.969,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cvTmNqTn7Or7cIq5Rl93gbiGpXm.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 7872,
+        "original_language": "en",
+        "original_title": "The Road to Guantanamo",
+        "overview": "Part drama, part documentary, The Road to Guantánamo focuses on the Tipton Three, a trio of British Muslims who were held in Guantanamo Bay for two years until they were released without charge.",
+        "popularity": 0.2867,
+        "poster_path": "/deM5htQLvRjcRkeIFtaOdd5TDrC.jpg",
+        "release_date": "2006-03-09",
+        "title": "The Road to Guantanamo",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 123
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z0Yh4N38FUntBln5YMgHGtrimOZ.jpg",
+        "genre_ids": [
+          12,
+          16,
+          18,
+          10751
+        ],
+        "id": 9837,
+        "original_language": "en",
+        "original_title": "The Prince of Egypt",
+        "overview": "The strong bond between two brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+        "popularity": 7.9632,
+        "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+        "release_date": "1998-12-16",
+        "title": "The Prince of Egypt",
+        "video": false,
+        "vote_average": 7.301,
+        "vote_count": 4201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9fxljwrE3gYiFaSNNXnubMa1fvb.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 10525,
+        "original_language": "en",
+        "original_title": "Forget Paris",
+        "overview": "Mickey Gordon is a basketball referee who travels to France to bury his father. Ellen Andrews is an American living in Paris who works for the airline he flies on. They meet and fall in love, but their relationship goes through many difficult patches.",
+        "popularity": 1.1488,
+        "poster_path": "/c2RwGHqWwvh7nmRKpdIyYUWMEvP.jpg",
+        "release_date": "1995-05-19",
+        "title": "Forget Paris",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 159
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/77VU24S6REfA0W602m5EPYhN2Ze.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 849892,
+        "original_language": "en",
+        "original_title": "Ballads of the Exodus",
+        "overview": "The life of Moses as told through the Book of Exodus, the imagination of a dying boy, and the ballads of his father.",
+        "popularity": 0.1981,
+        "poster_path": "/3jiZsHy2DDt9BmdiA1OQetRMdj6.jpg",
+        "release_date": "2020-06-04",
+        "title": "Ballads of the Exodus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qwpkykpdPFycZBhjOQvA0xYluCT.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18,
+          27
+        ],
+        "id": 8332,
+        "original_language": "de",
+        "original_title": "Antikörper",
+        "overview": "When a notorious German serial killer is captured after committing some of the most heinous acts against humanity ever imaginable, a farmer and police officer from a sleepy rural community on the outskirts of Berlin is drawn into the case as he searches for the answers to a murder that has shaken his tight-knit community.",
+        "popularity": 2.3796,
+        "poster_path": "/wIQP8C3yz8E4J1La9ehIy4Yta6e.jpg",
+        "release_date": "2005-04-24",
+        "title": "Antibodies",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 184
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z0ZAEC2aZuflzua3HOSygVzE6Jq.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1394,
+        "original_language": "ru",
+        "original_title": "Ностальгия",
+        "overview": "A Russian poet, Andrei and his interpreter, Eugenia travel to Italy to research the life of an 18th-century composer.",
+        "popularity": 1.8109,
+        "poster_path": "/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+        "release_date": "1983-05-01",
+        "title": "Nostalgia",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 583
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/au7H9GPpefI5zgw7xvMhpgxt0gR.jpg",
+        "genre_ids": [
+          878,
+          28,
+          18,
+          14,
+          53
+        ],
+        "id": 1236295,
+        "original_language": "en",
+        "original_title": "Planetquake",
+        "overview": "A tectonic shift deep below the Mariana Trench causes a series of ever escalating earthquakes. If a team of leading seismologists fails to stop the disaster, the events will break apart the Earth, resulting in billions of casualties. Finally, someone’s paying attention to our leading seismologists.",
+        "popularity": 2.1124,
+        "poster_path": "/5szPceoDBlWf5T1LEJSY0WRX3BM.jpg",
+        "release_date": "2024-01-26",
+        "title": "Planetquake",
+        "video": false,
+        "vote_average": 4.688,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AjE0eLKSJ8SmHg9aiTaSuX5Od6R.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1567,
+        "original_language": "fr",
+        "original_title": "Seul contre tous",
+        "overview": "After completing jail time for beating up a man who tried to seduce his mentally-handicapped teenage daughter, The Butcher wants to start life anew. He institutionalizes his daughter and moves to the Lille suburbs with his mistress, who promises him a new butcher shop. Learning that she lied, The Butcher returns to Paris to find his daughter.",
+        "popularity": 1.4472,
+        "poster_path": "/4kMB2AAcDQ5diRuh7NTxuS90bx7.jpg",
+        "release_date": "1999-02-17",
+        "title": "I Stand Alone",
+        "video": false,
+        "vote_average": 7.406,
+        "vote_count": 559
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hi6Hbc66aFlMfN25aYGb4ABWeK1.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1432506,
+        "original_language": "es",
+        "original_title": "Año Nuevo",
+        "overview": "Alex spends his first new year's eve after his father's death, evoking many feelings he thought he had left behind. With the support of his family he tries to move on.",
+        "popularity": 0.2089,
+        "poster_path": "/wyn7KvHCwS31jEaCUeCZSOzYDFW.jpg",
+        "release_date": "2024-12-31",
+        "title": "New Year",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vjk591bbl41hZ1LDutsDZO63ggL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 5602,
+        "original_language": "fr",
+        "original_title": "Dupont Lajoie",
+        "overview": "Georges Lajoie is a Parisian café owner. As every summer, Georges, his wife Ginette and grown-up son Léon go on holiday to Loulou's campsite, where they meet up with the Schumacher family (whose father is a bailiff) and the Colin family (who sells bras in the markets). This year, their peace is slightly disturbed by the proximity of a construction site where foreign workers are employed.  Xenophobic comments are made. One evening at the ball, a fight breaks out between Lajoie, Albert Schumacher and two algerian immigrant workers...",
+        "popularity": 3.2974,
+        "poster_path": "/4Yo9YU2bHI0ujOWxgi1koeSMuqb.jpg",
+        "release_date": "1975-02-26",
+        "title": "The Common Man",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vvkb1AkCZxj6c0rLuzX3GYwmYWu.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 4243,
+        "original_language": "de",
+        "original_title": "Das Herz ist ein dunkler Wald",
+        "overview": "A woman's life is destroyed when she discovers that her husband has another family.",
+        "popularity": 0.4047,
+        "poster_path": "/uWOa9qGJSU4FLINSm2eGEbvjgWW.jpg",
+        "release_date": "2007-12-27",
+        "title": "The Heart Is a Dark Forest",
+        "video": false,
+        "vote_average": 5.538,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          28,
+          53
+        ],
+        "id": 1237601,
+        "original_language": "es",
+        "original_title": "Papeles",
+        "overview": "Trapped in the middle of the world-shaking Panama Papers scandal, Ana Mendez must fight the system, the global media and her own ethical compass to try to restore her reputation and save her family.",
+        "popularity": 2.3561,
+        "poster_path": "/fZfE2pjLfXFhO7h2Rj6fpccM4Ba.jpg",
+        "release_date": "2025-04-10",
+        "title": "Papers",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/96FxdcLo8IgxATcwkxheBSUQlAO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 281650,
+        "original_language": "es",
+        "original_title": "El Regreso",
+        "overview": "El Regreso is a venezuelan movie written and directed by Patricia Ortega, which tells the story of a Wayuu girl that survived the slaughter of his people, in Bahía Portete from the Colombian Guajira, and therefore, she is forced to grow in a unknown world to her.",
+        "popularity": 0.6603,
+        "poster_path": "/rn5WJUxL5qgkOmE0Gg8cXgVDtFX.jpg",
+        "release_date": "2013-08-23",
+        "title": "The Return",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iwcvWOyT04GHLSevuFROL3SGSb6.jpg",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "id": 17707,
+        "original_language": "en",
+        "original_title": "Brokedown Palace",
+        "overview": "Best friends Alice and Darlene take a trip to Thailand after graduating high school. In Thailand, they meet a captivating Australian man, who calls himself Nick Parks. Darlene is particularly smitten with Nick and convinces Alice to take Nick up on his offer to treat the two of them to what amounts to a day trip to Hong Kong. In the airport, the girls are seized by the police and shocked to discover that one of their bags contains heroin.",
+        "popularity": 5.1641,
+        "poster_path": "/pWxoggA0KCS5oMPDOjIDYZYzryE.jpg",
+        "release_date": "1999-08-13",
+        "title": "Brokedown Palace",
+        "video": false,
+        "vote_average": 6.43,
+        "vote_count": 402
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ldrPNqXFaK1Qful4L3Im4UbKP7f.jpg",
+        "genre_ids": [
+          12,
+          18
+        ],
+        "id": 17227,
+        "original_language": "fr",
+        "original_title": "Jacquou le Croquant",
+        "overview": "In 1815, young Jacquou lives an idyllic peasant life with his parents in the Périgord region of France.  But one day, his childhood happiness is cruelly ended when his father is arrested, after a dispute with the arrogant Count de Nansac.  With both his parents dead, Jacquou is adopted by Bonal, a kind priest, under whose influence he grows into an assured, morally upright young man.  Now an adult, Jacquou has one desire.  To repay the Count de Nansac for the evil he once inflicted on his parents...",
+        "popularity": 0.6162,
+        "poster_path": "/jVLkOarUiKvFSLGSTQYGkdpwN2j.jpg",
+        "release_date": "2007-01-17",
+        "title": "Jacquou the Rebel",
+        "video": false,
+        "vote_average": 6.503,
+        "vote_count": 146
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hDjaIuuOscXjsbCVETnJ9MLbt3j.jpg",
+        "genre_ids": [
+          18,
+          27,
+          10752,
+          10751
+        ],
+        "id": 470756,
+        "original_language": "ru",
+        "original_title": "Krisis",
+        "overview": "Dimitri Venkov’s Krisis is based on a Facebook discussion on December 8, 2013, the day on which pro-European demonstrators in Kiev started to demolish statues of Vladimir Lenin. The film reenacts debates between Russian and Ukrainian artists during the protests, revealing deep aesthetic, historical, and political divisions.",
+        "popularity": 0.6006,
+        "poster_path": "/3MhLGWUU69ZLO37nkUC6rs5DSI7.jpg",
+        "release_date": "2016-02-12",
+        "title": "Krisis",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l6RKD2IjmGvtauSvx1xs2UY6CqU.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 10868,
+        "original_language": "en",
+        "original_title": "The Accused",
+        "overview": "Out drinking one night after a fight with her boyfriend, three men brutally rape Sarah Tobias in a bar while people watch and cheer. District Attorney Kathryn Murphy takes the case; however, she allows the rapists to receive a mild sentence. A distraught Sarah decides to seek punishment for the men who witnessed and encouraged the rape. To get justice, Sarah must take the stand and revisit the night of her attack.",
+        "popularity": 2.649,
+        "poster_path": "/5DlWHYb5Q65GaHYHDo6PqGOuoF1.jpg",
+        "release_date": "1988-10-14",
+        "title": "The Accused",
+        "video": false,
+        "vote_average": 7.07,
+        "vote_count": 656
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wA0TlvRkpp2bDM0lvtGkXpJbFh8.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 11151,
+        "original_language": "en",
+        "original_title": "Maroa",
+        "overview": "Eleven-year-old petty criminal Maroa lives with her violent grandmother Brigida in Caracas. After her boyfriend Carlos is involved in a shooting, Maroa is arrested and sent to a school where Joaquin conducts the youth orchestra, and he asks the naturally talented Maroa to join. Days now revolve around the classes that Joaquin, the shy and unconventional teacher, gives her. He is immediately interested in this talented young girl, who lacks all notion of discipline. Joaquin, the only person to offer hope in the midst of her rejection, finds that through Maroa, his world has also changed forever.",
+        "popularity": 3.4101,
+        "poster_path": "/yM9ACFvYTdc9bGoCpRfGhlhZoT4.jpg",
+        "release_date": "2005-01-01",
+        "title": "Maroa",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 5
+      }
+    ],
+    "total_pages": 13977,
+    "total_results": 279529
+  }
+}

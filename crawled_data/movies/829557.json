@@ -1,0 +1,1120 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+    "belongs_to_collection": {
+      "id": 829561,
+      "name": "365 Days Collection",
+      "poster_path": "/AkYEOw8PSpUxx9w5a6WL60QKSYF.jpg",
+      "backdrop_path": "/yxnx4pBJgUqrmygFmAKwnL4EVI7.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81397576",
+    "id": 829557,
+    "imdb_id": "tt12996154",
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "365 dni: Ten dzień",
+    "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+    "popularity": 20.1924,
+    "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+    "production_companies": [
+      {
+        "id": 113069,
+        "logo_path": "/xdOWWeuVPyy1rUZW7DWJUz16vuF.png",
+        "name": "Ekipa",
+        "origin_country": "PL"
+      },
+      {
+        "id": 133440,
+        "logo_path": "/affIuBGXZHwRdnk893aMhEeavAQ.png",
+        "name": "Open Mind Production",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "2022-04-26",
+    "revenue": 0,
+    "runtime": 111,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Oh Yes.",
+    "title": "365 Days: This Day",
+    "video": false,
+    "vote_average": 5.929,
+    "vote_count": 1803
+  },
+  "credits": {
+    "id": 829557,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2511949,
+        "known_for_department": "Acting",
+        "name": "Anna-Maria Sieklucka",
+        "original_name": "Anna-Maria Sieklucka",
+        "popularity": 4.2865,
+        "profile_path": "/6ZqAE1XTtspfshatfNaBVHSu1fx.jpg",
+        "cast_id": 9,
+        "character": "Laura Torricelli",
+        "credit_id": "609e72f701432500795c584f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2349355,
+        "known_for_department": "Acting",
+        "name": "Michele Morrone",
+        "original_name": "Michele Morrone",
+        "popularity": 9.5876,
+        "profile_path": "/saKjzGAuw8Fiutlv9LweLjAti0Z.jpg",
+        "cast_id": 10,
+        "character": "Massimo Torricelli / Adriano Torricelli",
+        "credit_id": "609e73045b370d0057027000",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3090060,
+        "known_for_department": "Acting",
+        "name": "Simone Susinna",
+        "original_name": "Simone Susinna",
+        "popularity": 3.0367,
+        "profile_path": "/ave6292vdlcySUKee9T3oMUVhvY.jpg",
+        "cast_id": 12,
+        "character": "Marcelo 'Nacho' Matos",
+        "credit_id": "609e73275b370d00418ab0a2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1637039,
+        "known_for_department": "Acting",
+        "name": "Magdalena Lamparska",
+        "original_name": "Magdalena Lamparska",
+        "popularity": 1.485,
+        "profile_path": "/52eglsEGV71N5LcWj6I0YqGw8ke.jpg",
+        "cast_id": 11,
+        "character": "Olga",
+        "credit_id": "609e731522f5d7005861a3c8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1616974,
+        "known_for_department": "Acting",
+        "name": "Otar Saralidze",
+        "original_name": "Otar Saralidze",
+        "popularity": 0.9267,
+        "profile_path": "/fqY7p0kotc9uuwB7UF3aYXXmY0R.jpg",
+        "cast_id": 13,
+        "character": "Domenico",
+        "credit_id": "609e73a92cde980029cd9b48",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 934801,
+        "known_for_department": "Acting",
+        "name": "Natasza Urbańska",
+        "original_name": "Natasza Urbańska",
+        "popularity": 1.4671,
+        "profile_path": "/56Nc4WIey8Qhkf6QUgv1VnmRJJr.jpg",
+        "cast_id": 20,
+        "character": "Anna",
+        "credit_id": "626eaf9cd7107e4aa126e8fc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 275949,
+        "known_for_department": "Acting",
+        "name": "Ramón Langa",
+        "original_name": "Ramón Langa",
+        "popularity": 0.435,
+        "profile_path": "/xqF6bJrJOOac88IVgPVVl3fX869.jpg",
+        "cast_id": 19,
+        "character": "Don Fernando Matos",
+        "credit_id": "626eae74162bc300a82608c7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 259737,
+        "known_for_department": "Acting",
+        "name": "Ewa Kasprzyk",
+        "original_name": "Ewa Kasprzyk",
+        "popularity": 0.3144,
+        "profile_path": "/hNqsUYiFNYZrKKG9mXlEl3EfuPY.jpg",
+        "cast_id": 17,
+        "character": "Klara",
+        "credit_id": "626eade76f53e1005105fd48",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1573532,
+        "known_for_department": "Acting",
+        "name": "Dariusz Jakubowski",
+        "original_name": "Dariusz Jakubowski",
+        "popularity": 1.3339,
+        "profile_path": "/bVsDOkPEBGUitIfvWIGoiZufWke.jpg",
+        "cast_id": 18,
+        "character": "Tomasz",
+        "credit_id": "626eae23c74eba2e0a684b96",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192152,
+        "known_for_department": "Production",
+        "name": "Tomasz Mandes",
+        "original_name": "Tomasz Mandes",
+        "popularity": 0.9976,
+        "profile_path": "/wmYwPfWSXfjXpwvljvXEX8h0wfC.jpg",
+        "cast_id": 21,
+        "character": "Tommaso",
+        "credit_id": "626eafb765e0a200525f761a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2310022,
+        "known_for_department": "Writing",
+        "name": "Blanka Lipińska",
+        "original_name": "Blanka Lipińska",
+        "popularity": 1.5165,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Elena",
+        "credit_id": "626eafc8fcadb439e6ae76b4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2298697,
+        "known_for_department": "Acting",
+        "name": "Natalia Siwiec",
+        "original_name": "Natalia Siwiec",
+        "popularity": 0.6999,
+        "profile_path": "/mSqUf3osymu6okOKaxDrUk5MxpD.jpg",
+        "cast_id": 23,
+        "character": "Emi",
+        "credit_id": "626eb09ec56d2d5103097bcc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2545647,
+        "known_for_department": "Acting",
+        "name": "Karolina Pisarek",
+        "original_name": "Karolina Pisarek",
+        "popularity": 0.1606,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Amelia",
+        "credit_id": "626eb0edc74eba2e0b237842",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66964,
+        "known_for_department": "Acting",
+        "name": "Robert Wabich",
+        "original_name": "Robert Wabich",
+        "popularity": 0.4256,
+        "profile_path": "/29pY83Nue2zmJhtzBUdbgtEJmA1.jpg",
+        "cast_id": 25,
+        "character": "Priest",
+        "credit_id": "626eb0fd245dbe3381a565a6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2208547,
+        "known_for_department": "Acting",
+        "name": "Sławomir Mandes",
+        "original_name": "Sławomir Mandes",
+        "popularity": 0.2402,
+        "profile_path": "/uOh9UqF3CD4FWl2qBXnSlS9g8VF.jpg",
+        "cast_id": 26,
+        "character": "Italian Man",
+        "credit_id": "626eb25fa24c5017bd1ed98c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583950,
+        "known_for_department": "Acting",
+        "name": "Rafał Iwaniuk",
+        "original_name": "Rafał Iwaniuk",
+        "popularity": 0.699,
+        "profile_path": "/hGtysKzuduIvzKVzyVHZdWBYB4b.jpg",
+        "cast_id": 27,
+        "character": "Laura's bodyguard",
+        "credit_id": "626eb26a245dbe337f449083",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623097,
+        "known_for_department": "Acting",
+        "name": "Natalia Karpińska",
+        "original_name": "Natalia Karpińska",
+        "popularity": 0.2782,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "660725eb021cee016347eba8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2750273,
+        "known_for_department": "Acting",
+        "name": "Adrianna Chlebicka",
+        "original_name": "Adrianna Chlebicka",
+        "popularity": 0.5246,
+        "profile_path": "/u46k8j7k73tkP6HFXU902uQrzTR.jpg",
+        "cast_id": 41,
+        "character": "Monika Grabarczyk (archive footage) (uncredited)",
+        "credit_id": "669660bc158e7317a8df7efe",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140653,
+        "known_for_department": "Acting",
+        "name": "Tomasz Karolak",
+        "original_name": "Tomasz Karolak",
+        "popularity": 0.5404,
+        "profile_path": "/yyFyALFiui8fBgBPwlciBHbrPCK.jpg",
+        "cast_id": 42,
+        "character": "School Principal (archive footage) (uncredited)",
+        "credit_id": "669660c57c2c9fca477b8d0f",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2671432,
+        "known_for_department": "Production",
+        "name": "Ewa Lewandowska",
+        "original_name": "Ewa Lewandowska",
+        "popularity": 0.2951,
+        "profile_path": null,
+        "credit_id": "609e7281e6357100597394ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192152,
+        "known_for_department": "Production",
+        "name": "Tomasz Mandes",
+        "original_name": "Tomasz Mandes",
+        "popularity": 0.9976,
+        "profile_path": "/wmYwPfWSXfjXpwvljvXEX8h0wfC.jpg",
+        "credit_id": "609e7246e18e3f0058dbac52",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192152,
+        "known_for_department": "Production",
+        "name": "Tomasz Mandes",
+        "original_name": "Tomasz Mandes",
+        "popularity": 0.9976,
+        "profile_path": "/wmYwPfWSXfjXpwvljvXEX8h0wfC.jpg",
+        "credit_id": "609e7290e635710079ebf733",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2319918,
+        "known_for_department": "Production",
+        "name": "Maciej Kawulski",
+        "original_name": "Maciej Kawulski",
+        "popularity": 0.3434,
+        "profile_path": "/fum2f5LxXdT1oTh09l7Nefbbgaw.jpg",
+        "credit_id": "609e729fe18e3f0058dbac99",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2310022,
+        "known_for_department": "Writing",
+        "name": "Blanka Lipińska",
+        "original_name": "Blanka Lipińska",
+        "popularity": 1.5165,
+        "profile_path": null,
+        "credit_id": "609e72c3f5c82400791b8955",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3526765,
+        "known_for_department": "Writing",
+        "name": "Mojca Tirš",
+        "original_name": "Mojca Tirš",
+        "popularity": 0.4796,
+        "profile_path": null,
+        "credit_id": "6269fc611d78f2005289c85b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3531999,
+        "known_for_department": "Sound",
+        "name": "Patryk Komór",
+        "original_name": "Patryk Komór",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "credit_id": "626ebb32cb71b813f8fd1dd6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2671431,
+        "known_for_department": "Editing",
+        "name": "Marcin Drewnowski",
+        "original_name": "Marcin Drewnowski",
+        "popularity": 0.1486,
+        "profile_path": null,
+        "credit_id": "626eb2f4a24c5017bed9962c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2692723,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Grzegorz Szczuka",
+        "original_name": "Grzegorz Szczuka",
+        "popularity": 0.5537,
+        "profile_path": null,
+        "credit_id": "626ebaf9d7107e4aa1272035",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3466703,
+        "known_for_department": "Art",
+        "name": "Joanna Białousz",
+        "original_name": "Joanna Białousz",
+        "popularity": 0.2131,
+        "profile_path": null,
+        "credit_id": "626eb3235f2b8d00642066bf",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2310022,
+        "known_for_department": "Writing",
+        "name": "Blanka Lipińska",
+        "original_name": "Blanka Lipińska",
+        "popularity": 1.5165,
+        "profile_path": null,
+        "credit_id": "626eb2b35f2b8d0064206536",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3466703,
+        "known_for_department": "Art",
+        "name": "Joanna Białousz",
+        "original_name": "Joanna Białousz",
+        "popularity": 0.2131,
+        "profile_path": null,
+        "credit_id": "626eb313162bc30050561e62",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2290375,
+        "known_for_department": "Camera",
+        "name": "Bartek Cierlica",
+        "original_name": "Bartek Cierlica",
+        "popularity": 2.0947,
+        "profile_path": null,
+        "credit_id": "626eb2e06f53e1009cf3e352",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3448279,
+        "known_for_department": "Sound",
+        "name": "Dominic Buczkowski-Wojtaszek",
+        "original_name": "Dominic Buczkowski-Wojtaszek",
+        "popularity": 0.6458,
+        "profile_path": null,
+        "credit_id": "626ebb4bcb71b813f664e7a4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192152,
+        "known_for_department": "Production",
+        "name": "Tomasz Mandes",
+        "original_name": "Tomasz Mandes",
+        "popularity": 0.9976,
+        "profile_path": "/wmYwPfWSXfjXpwvljvXEX8h0wfC.jpg",
+        "credit_id": "626eb302c74eba2e0a686304",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88253,
+        "known_for_department": "Directing",
+        "name": "Barbara Białowąs",
+        "original_name": "Barbara Białowąs",
+        "popularity": 0.5867,
+        "profile_path": "/vhf5l82ItqfVTwioqlZv1ab0v19.jpg",
+        "credit_id": "629f8413a8b2ca006608ce1d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192152,
+        "known_for_department": "Production",
+        "name": "Tomasz Mandes",
+        "original_name": "Tomasz Mandes",
+        "popularity": 0.9976,
+        "profile_path": "/wmYwPfWSXfjXpwvljvXEX8h0wfC.jpg",
+        "credit_id": "629f84507e12f050e4bc2da8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412130,
+        "known_for_department": "Camera",
+        "name": "Krzysztof Szymański",
+        "original_name": "Krzysztof Szymański",
+        "popularity": 0.2908,
+        "profile_path": null,
+        "credit_id": "656dfd0f05a5330100f39786",
+        "department": "Camera",
+        "job": "Camera Car"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4355800,
+        "known_for_department": "Editing",
+        "name": "Maciej Mika",
+        "original_name": "Maciej Mika",
+        "popularity": 0.1083,
+        "profile_path": null,
+        "credit_id": "66f70dd1675798e92e9202c7",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4073703,
+        "known_for_department": "Sound",
+        "name": "Ewa Mazurkiewicz",
+        "original_name": "Ewa Mazurkiewicz",
+        "popularity": 0.2677,
+        "profile_path": null,
+        "credit_id": "67057e2b322d3ea8311d6172",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4371958,
+        "known_for_department": "Crew",
+        "name": "Maciej Zakliczyński",
+        "original_name": "Maciej Zakliczyński",
+        "popularity": 0.2688,
+        "profile_path": null,
+        "credit_id": "671cbeff34c0fabd681cac08",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3452553,
+        "known_for_department": "Production",
+        "name": "Leszek Wiśniewski",
+        "original_name": "Leszek Wiśniewski",
+        "popularity": 0.3149,
+        "profile_path": "/hrmGICUqdyXZ8smiQp3TjwtRlPj.jpg",
+        "credit_id": "677283d298f2f82fc4926e68",
+        "department": "Production",
+        "job": "Extras Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887793,
+        "known_for_department": "Production",
+        "name": "Magdalena Tomanek",
+        "original_name": "Magdalena Tomanek",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "681ba947c4bf30434ec69b5b",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412818,
+        "known_for_department": "Sound",
+        "name": "Damian Skoczyk",
+        "original_name": "Damian Skoczyk",
+        "popularity": 0.4667,
+        "profile_path": null,
+        "credit_id": "685d661cd8d761d98c1557b8",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412818,
+        "known_for_department": "Sound",
+        "name": "Damian Skoczyk",
+        "original_name": "Damian Skoczyk",
+        "popularity": 0.4667,
+        "profile_path": null,
+        "credit_id": "685d662314bb27bb64744885",
+        "department": "Sound",
+        "job": "Songs"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 829557,
+    "keywords": [
+      {
+        "id": 3149,
+        "name": "gangster"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 158713,
+        "name": "bdsm"
+      },
+      {
+        "id": 189141,
+        "name": "rich man poor woman"
+      },
+      {
+        "id": 267122,
+        "name": "sex"
+      },
+      {
+        "id": 296713,
+        "name": "erotique"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/oehzS54FyGstwTdZCh3ALlJar5u.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 4561,
+        "original_language": "fr",
+        "original_title": "Histoire d'O",
+        "overview": "The beautiful O is taken by her boyfriend, Rene, to a bizarre retreat, where she is trained in bondage and sexual perversion...",
+        "popularity": 4.2661,
+        "poster_path": "/x2hnSba2iyMHDPHrH1G1LB2K6lz.jpg",
+        "release_date": "1975-08-27",
+        "title": "The Story of O",
+        "video": false,
+        "vote_average": 5.497,
+        "vote_count": 170
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pan4JB2oiawY0tsbMq48BcEqJvN.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 3982,
+        "original_language": "it",
+        "original_title": "Il dolce e l'amaro",
+        "overview": "Saro, a young Sicilian thug, that from jobs assigned by his godfather, won the favor of leaders of Cosa Nostra, becoming a \"man of honor\".",
+        "popularity": 0.1267,
+        "poster_path": "/e5sa1pmtZu9DbHjeqbB4tbwPEmL.jpg",
+        "release_date": "2007-09-04",
+        "title": "The Sweet and the Bitter",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4xAxAvrcnelGOBA5mQsW0aEHpqW.jpg",
+        "genre_ids": [
+          18,
+          28,
+          53
+        ],
+        "id": 4105,
+        "original_language": "en",
+        "original_title": "Black Rain",
+        "overview": "Two New York cops get involved in a gang war between members of the Yakuza, the Japanese Mafia. They arrest one of their killers and are ordered to escort him back to Japan. However, in Japan he manages to escape, and as they try to track him down, they get deeper and deeper into the Japanese Mafia scene and they have to learn that they can only win by playing the game—the Japanese way.",
+        "popularity": 3.3123,
+        "poster_path": "/funhGWt9ee3Uwb6Ar8SGCCvbJdV.jpg",
+        "release_date": "1989-09-22",
+        "title": "Black Rain",
+        "video": false,
+        "vote_average": 6.582,
+        "vote_count": 1181
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zbhWaoDOuWQShwZgp3k7CNTLG4c.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 4112,
+        "original_language": "en",
+        "original_title": "Blondie Johnson",
+        "overview": "A Depression-downtrodden waif uses her brains instead of her body to rise from  tyro con artist to crime boss.",
+        "popularity": 2.8224,
+        "poster_path": "/rc3SKbFiyvC3zmb19oGEHGivSGS.jpg",
+        "release_date": "1933-02-25",
+        "title": "Blondie Johnson",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdlD6VqDBU73HHE2eItUz1bv8lv.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 4155,
+        "original_language": "en",
+        "original_title": "Paul and Michelle",
+        "overview": "Taking place approximately three years after the events in Friends, Paul and Michelle follows the family of Paul Harrison and Michelle Latour-Harrison after they have been reunited. Paul has to cope with the difficulties he faces balancing work, college, and trying to maintain their family as well as a new love interest for Michelle.",
+        "popularity": 0.4622,
+        "poster_path": "/A6UvtkJNaq01fBQ1g7bLCHE3qNF.jpg",
+        "release_date": "1974-03-15",
+        "title": "Paul and Michelle",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p9PdDRIiQfjGtg21xHOPVD7jZyy.jpg",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "id": 6071,
+        "original_language": "en",
+        "original_title": "Kiss of Death",
+        "overview": "Jimmy Kilmartin's an ex-con who's trying to go straight. But he can't say no to a quick driving job because his so-called friend's life is threatened. The job is for Little Junior Brown, a violent and powerful villain. When things go wrong, Jimmy is left to do the time, and his whole life is turned upside-down, but if that wasn't enough, the cops won't leave Jimmy alone when he gets out... They want Little Junior Brown.",
+        "popularity": 2.4368,
+        "poster_path": "/2cCxEqeIy6Q8HgVjfT7obOnF5Zi.jpg",
+        "release_date": "1995-04-21",
+        "title": "Kiss of Death",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 346
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 6075,
+        "original_language": "en",
+        "original_title": "Carlito's Way",
+        "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+        "popularity": 5.138,
+        "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+        "release_date": "1993-11-10",
+        "title": "Carlito's Way",
+        "video": false,
+        "vote_average": 7.826,
+        "vote_count": 3360
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          28
+        ],
+        "id": 1048714,
+        "original_language": "te",
+        "original_title": "Untitled RRR Sequel",
+        "overview": "Sequel to S. S. Rajamouli's smash hit 'RRR,' plot unkown.",
+        "popularity": 0.3265,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Untitled RRR Sequel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/teKPSU5AMM38oFHqPvGasViQzKQ.jpg",
+        "genre_ids": [
+          18,
+          27,
+          53
+        ],
+        "id": 10320,
+        "original_language": "en",
+        "original_title": "The Ring Two",
+        "overview": "After the ordeal with Samara, Rachel and Aiden move to a rural town. But soon Rachel learns about the death of a girl in a similar fashion. To save Aiden, she must dig into Samara's past even further.",
+        "popularity": 2.8623,
+        "poster_path": "/bHbz7z2pecTawhkqLpuC2m0qywe.jpg",
+        "release_date": "2005-03-10",
+        "title": "The Ring Two",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 2387
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jmf9dLoKVDDwEB2cb0OJ9fEGbHy.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 10327,
+        "original_language": "en",
+        "original_title": "Legally Blonde 2: Red, White & Blonde",
+        "overview": "Now a rising young lawyer, Elle Woods is about to make partner at her firm, but when she finds out her dog's relatives are being used as cosmetic test subjects, she heads to Washington D.C. to fight for animal rights.",
+        "popularity": 7.4316,
+        "poster_path": "/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg",
+        "release_date": "2003-07-02",
+        "title": "Legally Blonde 2: Red, White & Blonde",
+        "video": false,
+        "vote_average": 5.715,
+        "vote_count": 1700
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nmly11JCqU9WhbjYwKWXoWDsCgI.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 10367,
+        "original_language": "en",
+        "original_title": "Wild Things 2",
+        "overview": "Two Florida high school vixens hatch a murderous plan to win an inheritance, but they hadn't bargained for an escalating whirlpool of blackmail and sexual games with a sleazy insurance investigator who has his own plans for the money.",
+        "popularity": 2.311,
+        "poster_path": "/3aoRiK4Q36kS4kYWWeF1CG4HhZr.jpg",
+        "release_date": "2004-02-19",
+        "title": "Wild Things 2",
+        "video": false,
+        "vote_average": 5.22,
+        "vote_count": 209
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8zmWwgtiPCWBzxCiRHdmBZoPvXc.jpg",
+        "genre_ids": [
+          28,
+          18,
+          53,
+          80
+        ],
+        "id": 10394,
+        "original_language": "en",
+        "original_title": "Gangster No. 1",
+        "overview": "An old gangster is advised that Freddie Mays would leave jail after thirty years in prison. His mood changes and he recalls when he was a young punk and who joined Freddie's gang—a man he both envied and ultimately betrayed.",
+        "popularity": 1.1209,
+        "poster_path": "/t8eUSsD2reaIR9qmklU7O2GCVn4.jpg",
+        "release_date": "2000-06-09",
+        "title": "Gangster No. 1",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 221
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o4XkGHM8DT5uFJRG2mzjUMAi0SA.jpg",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "id": 9834,
+        "original_language": "en",
+        "original_title": "The Net 2.0",
+        "overview": "The life of a young computer systems analyst is thrown into turmoil after arriving in Istanbul to start a new job. She soon finds her passport missing, her credit cards useless, her bank account empty and her identity stolen. As the story progresses we find people and events may not be what they seem.",
+        "popularity": 1.2392,
+        "poster_path": "/7ofTl14cmpu5hCeD2HWh2T5QFH5.jpg",
+        "release_date": "2006-02-15",
+        "title": "The Net 2.0",
+        "video": false,
+        "vote_average": 5.093,
+        "vote_count": 91
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Crr6NUGAhfLM2ybjcq1dtN8YUl.jpg",
+        "genre_ids": [
+          12,
+          28,
+          35,
+          10749
+        ],
+        "id": 10303,
+        "original_language": "en",
+        "original_title": "The Jewel of the Nile",
+        "overview": "Joan Wilder is thrust back into a world of murder, chases, foreign intrigue... and love. This time out she's duped by a duplicitous Arab dignitary who brings her to the Middle East, ostensibly to write a book about his life. Of course, he's up to no good, and Joan is just another pawn in his wicked game. But Jack Colton and his sidekick Ralph show up to help our intrepid heroine save the day.",
+        "popularity": 3.5934,
+        "poster_path": "/6VjsIhnIcrz2XdQVHdsMj5DdSa1.jpg",
+        "release_date": "1985-08-01",
+        "title": "The Jewel of the Nile",
+        "video": false,
+        "vote_average": 6.21,
+        "vote_count": 1229
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          36
+        ],
+        "id": 277216,
+        "original_language": "en",
+        "original_title": "Straight Outta Compton",
+        "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+        "popularity": 5.0952,
+        "poster_path": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+        "release_date": "2015-08-11",
+        "title": "Straight Outta Compton",
+        "video": false,
+        "vote_average": 7.782,
+        "vote_count": 4100
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1eMvglbY3wpl4nl09eYLtfstV2I.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 9740,
+        "original_language": "en",
+        "original_title": "Hannibal",
+        "overview": "After having successfully eluded the authorities for years, Hannibal peacefully lives in Italy in disguise as an art scholar. Trouble strikes again when he's discovered leaving a deserving few dead in the process. He returns to America to make contact with now disgraced Agent Clarice Starling, who is suffering the wrath of a malicious FBI rival as well as the media.",
+        "popularity": 1.5269,
+        "poster_path": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+        "release_date": "2001-02-08",
+        "title": "Hannibal",
+        "video": false,
+        "vote_average": 6.769,
+        "vote_count": 5031
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/css92P5JvODJEWXp38Eo7qZdFd6.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 10841,
+        "original_language": "de",
+        "original_title": "Steiner - Das Eiserne Kreuz Teil II",
+        "overview": "Starting in late May 1944, during the German retreat on the Eastern Front, Captain Stransky (Helmut Griem) orders Sergeant Steiner (Richard Burton) to blow up a railway tunnel to prevent Russian forces from using it. Steiner's platoon fails in its mission by coming up against a Russian tank. Steiner then takes a furlough to Paris just as the Allies launch their invasion of Normandy.",
+        "popularity": 0.6051,
+        "poster_path": "/n0XQXNSbDsHaJYHwuPPa8IfjmBY.jpg",
+        "release_date": "1979-03-01",
+        "title": "Breakthrough",
+        "video": false,
+        "vote_average": 5.703,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dDoZ09a78iobAUBCA1KyWgtiAcp.jpg",
+        "genre_ids": [
+          18,
+          27,
+          53
+        ],
+        "id": 1440100,
+        "original_language": "id",
+        "original_title": "Sosok Ketiga: Lintrik",
+        "overview": "After six months of marriage, Andin begins to notice many oddities in her marriage. From the beginning, Uncle Bagyo suspected the marriage was rushed, and together with Amara—Andin's younger sister who also inherited the mystical arts—he often noticed disturbing, odd signs.  Their suspicions were proven correct when it was revealed that Ario, Andin's husband, had been having a special relationship with Naura, a wealthy woman in their town who was trying to steal Ario completely from Andin using the Lintrik love spell, a dangerous mystical power that dragged Andin and her family into endless supernatural terror. What will happen to Andin and Ario's marriage going forward?",
+        "popularity": 0.7843,
+        "poster_path": "/oVCHHviQsspqEu4FyT4nFbtvWNH.jpg",
+        "release_date": "2025-11-06",
+        "title": "Sosok Ketiga: Lintrik",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ifHgVh5c7B3mbq5CfkzwsyMRmpG.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35
+        ],
+        "id": 11013,
+        "original_language": "en",
+        "original_title": "Secretary",
+        "overview": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+        "popularity": 7.3518,
+        "poster_path": "/mdRXSE7ho185SZlXj0JSwuecEd3.jpg",
+        "release_date": "2002-09-20",
+        "title": "Secretary",
+        "video": false,
+        "vote_average": 6.791,
+        "vote_count": 1815
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2GK6KVgIAKrqjqg9VPAm5qdOly.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53,
+          18
+        ],
+        "id": 11053,
+        "original_language": "it",
+        "original_title": "Piedone a Hong Kong",
+        "overview": "Inspector Rizzo is accused of drug trafficking. In order to clear his name he has to find out who is the person, from a Mafia ring, who has infiltrated his police department.",
+        "popularity": 1.0633,
+        "poster_path": "/pQuv3NrVxFFAtkVrcoHtNM8qHSt.jpg",
+        "release_date": "1975-03-28",
+        "title": "Flatfoot in Hong Kong",
+        "video": false,
+        "vote_average": 6.225,
+        "vote_count": 149
+      }
+    ],
+    "total_pages": 15441,
+    "total_results": 308820
+  }
+}

@@ -1,0 +1,1114 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/7UCuHP7UXMwRCoFd5j56dvLnDP6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 120301,
+    "imdb_id": "tt0044560",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Dos tipos de cuidado",
+    "overview": "Jorge Bueno and Pedro Malo are best friends who consider giving up their womanizing ways when they each fall in love. As fate would have it, Pedro Malo unexpectedly marries Jorge Bueno's girlfriend, and the conflict between the former buddies begins.",
+    "popularity": 0.39,
+    "poster_path": "/86WaWg7M6M9HKEl1CWodmC5VJHQ.jpg",
+    "production_companies": [
+      {
+        "id": 85096,
+        "logo_path": null,
+        "name": "Cinematográfica Atlántida",
+        "origin_country": "MX"
+      },
+      {
+        "id": 5153,
+        "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
+        "name": "Estudios Churubusco Azteca",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1953-11-05",
+    "revenue": 0,
+    "runtime": 111,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dos tipos de cuidado",
+    "video": false,
+    "vote_average": 8.33,
+    "vote_count": 106
+  },
+  "credits": {
+    "id": 120301,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187176,
+        "known_for_department": "Acting",
+        "name": "Jorge Negrete",
+        "original_name": "Jorge Negrete",
+        "popularity": 1.4678,
+        "profile_path": "/7YqZRvCwfbKyETi8FdIr3LLrnxy.jpg",
+        "cast_id": 6,
+        "character": "Jorge Bueno",
+        "credit_id": "52fe4a45c3a368484e149d67",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106080,
+        "known_for_department": "Acting",
+        "name": "Pedro Infante",
+        "original_name": "Pedro Infante",
+        "popularity": 3.1262,
+        "profile_path": "/sfbbx0ZJiEdMPhSSK11qHMApD4H.jpg",
+        "cast_id": 12,
+        "character": "Pedro Malo",
+        "credit_id": "544e0b8e0e0a2608c500416a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1031916,
+        "known_for_department": "Acting",
+        "name": "Carmelita González",
+        "original_name": "Carmelita González",
+        "popularity": 0.3326,
+        "profile_path": "/bK3RoyHqSxcddVR5D7Us8RfwBaV.jpg",
+        "cast_id": 8,
+        "character": "Rosario",
+        "credit_id": "52fe4a45c3a368484e149d6f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1052818,
+        "known_for_department": "Acting",
+        "name": "Yolanda Varela",
+        "original_name": "Yolanda Varela",
+        "popularity": 0.4618,
+        "profile_path": "/obdrGezzd09xAWDLVvHxmlu4pus.jpg",
+        "cast_id": 9,
+        "character": "María",
+        "credit_id": "52fe4a45c3a368484e149d73",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013066,
+        "known_for_department": "Acting",
+        "name": "Carlos Orellana",
+        "original_name": "Carlos Orellana",
+        "popularity": 0.4774,
+        "profile_path": "/ao1wCvwDDMm5lVAisXkOgRUF6B4.jpg",
+        "cast_id": 10,
+        "character": "Don Elías",
+        "credit_id": "52fe4a45c3a368484e149d77",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223079,
+        "known_for_department": "Acting",
+        "name": "José Elías Moreno",
+        "original_name": "José Elías Moreno",
+        "popularity": 0.7108,
+        "profile_path": "/7HBXZQ7j7wsjrnc1qD6HUGuNPvF.jpg",
+        "cast_id": 11,
+        "character": "El General",
+        "credit_id": "52fe4a45c3a368484e149d7b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1520751,
+        "known_for_department": "Acting",
+        "name": "Queta Lavat",
+        "original_name": "Queta Lavat",
+        "popularity": 0.6991,
+        "profile_path": "/pgi7ncNXN7ZDvkNZM6LYLbVomaw.jpg",
+        "cast_id": 14,
+        "character": "Genoveva",
+        "credit_id": "59013c5192514155b5003cb1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30305,
+        "known_for_department": "Acting",
+        "name": "Arturo Soto Rangel",
+        "original_name": "Arturo Soto Rangel",
+        "popularity": 0.7078,
+        "profile_path": "/o9LAqiN0SYstzYDgl2uIZBcSYw2.jpg",
+        "cast_id": 15,
+        "character": "Doctor",
+        "credit_id": "59013c6792514155d2003ebb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31880,
+        "known_for_department": "Acting",
+        "name": "Mimí Derba",
+        "original_name": "Mimí Derba",
+        "popularity": 0.3952,
+        "profile_path": "/1YZfMSTNYmNtyl3tzS4so29ehQe.jpg",
+        "cast_id": 16,
+        "character": "Doña Josefa",
+        "credit_id": "59013c7e92514155b5003ccc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1458464,
+        "known_for_department": "Acting",
+        "name": "Manuel Noriega",
+        "original_name": "Manuel Noriega",
+        "popularity": 1.7348,
+        "profile_path": "/f6FlR5Jz0jMLtInIdD8nQq5aQx9.jpg",
+        "cast_id": 17,
+        "character": "Rosario's Doctor",
+        "credit_id": "59013c94c3a36810c6003d22",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11978,
+        "known_for_department": "Acting",
+        "name": "Jesús García Navarro",
+        "original_name": "Jesús García Navarro",
+        "popularity": 1.7768,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Chucho (uncredited)",
+        "credit_id": "59021943c3a3684066000d77",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 940920,
+        "known_for_department": "Acting",
+        "name": "Maruja Grifell",
+        "original_name": "Maruja Grifell",
+        "popularity": 0.5239,
+        "profile_path": "/4VUV08Gdqxe1CsgKmbqdxHhGIqK.jpg",
+        "cast_id": 19,
+        "character": "Matilde (uncredited)",
+        "credit_id": "590219579251410aa3000e22",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1553918,
+        "known_for_department": "Acting",
+        "name": "Jesús Gómez",
+        "original_name": "Jesús Gómez",
+        "popularity": 0.0877,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Man in Canteen (uncredited)",
+        "credit_id": "5902197a9251410aa3000e36",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1514445,
+        "known_for_department": "Acting",
+        "name": "Leonor Gómez",
+        "original_name": "Leonor Gómez",
+        "popularity": 0.1638,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Anastasia (uncredited)",
+        "credit_id": "5902199bc3a36840ed000eaa",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1058994,
+        "known_for_department": "Acting",
+        "name": "Jaime Jiménez Pons",
+        "original_name": "Jaime Jiménez Pons",
+        "popularity": 2.0427,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Joven (uncredited)",
+        "credit_id": "590219bfc3a36840be000d97",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722583,
+        "known_for_department": "Acting",
+        "name": "José Luis Moreno",
+        "original_name": "José Luis Moreno",
+        "popularity": 0.1315,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Messenger (uncredited)",
+        "credit_id": "590219f69251410acb000d64",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 589792,
+        "known_for_department": "Acting",
+        "name": "Ana Bertha Lepe",
+        "original_name": "Ana Bertha Lepe",
+        "popularity": 0.4435,
+        "profile_path": "/7gYRVyyV6EVYK66C7ue1bjwu02X.jpg",
+        "cast_id": 24,
+        "character": "Party Guest (uncredited)",
+        "credit_id": "59021a21c3a36840db000f45",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671585,
+        "known_for_department": "Acting",
+        "name": "Concepción Martínez",
+        "original_name": "Concepción Martínez",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Party Guest (uncredited)",
+        "credit_id": "59021a379251410ab4000dda",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1673664,
+        "known_for_department": "Acting",
+        "name": "Carlos Robles Gil",
+        "original_name": "Carlos Robles Gil",
+        "popularity": 0.2449,
+        "profile_path": "/syYZhZ8J2MkEoKPjxPV4A3rIqCj.jpg",
+        "cast_id": 26,
+        "character": "Party Guest (uncredited)",
+        "credit_id": "59021a529251410ad0000ddd",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1721484,
+        "known_for_department": "Acting",
+        "name": "Kika Meyer",
+        "original_name": "Kika Meyer",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Woman Dancing with Pedro (uncredited)",
+        "credit_id": "59021a779251410aa3000ef1",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52236,
+        "known_for_department": "Acting",
+        "name": "José Muñoz",
+        "original_name": "José Muñoz",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Tiburcio (uncredited)",
+        "credit_id": "59021a909251410a9b000e96",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719359,
+        "known_for_department": "Acting",
+        "name": "Pepe Nava",
+        "original_name": "Pepe Nava",
+        "popularity": 0.2136,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Poker Player (uncredited)",
+        "credit_id": "59021aab9251410ad0000e25",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1696768,
+        "known_for_department": "Acting",
+        "name": "Manuel Sánchez Navarro",
+        "original_name": "Manuel Sánchez Navarro",
+        "popularity": 0.5671,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Poker Player (uncredited)",
+        "credit_id": "59021ac99251410acb000e04",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1514313,
+        "known_for_department": "Acting",
+        "name": "Humberto Rodríguez",
+        "original_name": "Humberto Rodríguez",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Eulalio (uncredited)",
+        "credit_id": "59021ae49251410a95000eac",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97967,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodríguez",
+        "original_name": "Ismael Rodríguez",
+        "popularity": 0.6727,
+        "profile_path": "/eF1S9TOq8MxYGztz7U9Rwp5hjqH.jpg",
+        "credit_id": "52fe4a44c3a368484e149d4b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1071756,
+        "known_for_department": "Production",
+        "name": "David Negrete",
+        "original_name": "David Negrete",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "52fe4a45c3a368484e149d5d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013066,
+        "known_for_department": "Acting",
+        "name": "Carlos Orellana",
+        "original_name": "Carlos Orellana",
+        "popularity": 0.4774,
+        "profile_path": "/ao1wCvwDDMm5lVAisXkOgRUF6B4.jpg",
+        "credit_id": "52fe4a45c3a368484e149d57",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97967,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodríguez",
+        "original_name": "Ismael Rodríguez",
+        "popularity": 0.6727,
+        "profile_path": "/eF1S9TOq8MxYGztz7U9Rwp5hjqH.jpg",
+        "credit_id": "52fe4a45c3a368484e149d51",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066869,
+        "known_for_department": "Camera",
+        "name": "Ignacio Torres",
+        "original_name": "Ignacio Torres",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "credit_id": "54509e1a0e0a263a10003c25",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31872,
+        "known_for_department": "Production",
+        "name": "Antonio Guerrero Tello",
+        "original_name": "Antonio Guerrero Tello",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "59021b99c3a3684090000f0a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511311,
+        "known_for_department": "Sound",
+        "name": "James L. Fields",
+        "original_name": "James L. Fields",
+        "popularity": 0.8518,
+        "profile_path": null,
+        "credit_id": "59021be8c3a3684066000f43",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619427,
+        "known_for_department": "Directing",
+        "name": "Pedro López",
+        "original_name": "Pedro López",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "credit_id": "59021cf39251410a910010ac",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302496,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosa Guerrero",
+        "original_name": "Rosa Guerrero",
+        "popularity": 0.1458,
+        "profile_path": null,
+        "credit_id": "59021b759251410a91000f81",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027100,
+        "known_for_department": "Sound",
+        "name": "Manuel Esperón",
+        "original_name": "Manuel Esperón",
+        "popularity": 0.1664,
+        "profile_path": null,
+        "credit_id": "59021b1ac3a36840ed000fc5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1637899,
+        "known_for_department": "Camera",
+        "name": "Pablo Ríos",
+        "original_name": "Pablo Ríos",
+        "popularity": 0.2152,
+        "profile_path": null,
+        "credit_id": "59021c73c3a368409d000fbc",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1679848,
+        "known_for_department": "Editing",
+        "name": "Pedro Velázquez",
+        "original_name": "Pedro Velázquez",
+        "popularity": 0.1442,
+        "profile_path": null,
+        "credit_id": "59021ca99251410acb000f7d",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31875,
+        "known_for_department": "Camera",
+        "name": "Ignacio Romero",
+        "original_name": "Ignacio Romero",
+        "popularity": 0.1355,
+        "profile_path": null,
+        "credit_id": "59021c5fc3a36840be000f50",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31867,
+        "known_for_department": "Editing",
+        "name": "Gloria Schoemann",
+        "original_name": "Gloria Schoemann",
+        "popularity": 2.127,
+        "profile_path": "/h9CmBSbhe19hfpsLocKefPmB6X1.jpg",
+        "credit_id": "59021b2d9251410ab4000e8d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31874,
+        "known_for_department": "Sound",
+        "name": "Galdino R. Samperio",
+        "original_name": "Galdino R. Samperio",
+        "popularity": 0.357,
+        "profile_path": null,
+        "credit_id": "59021bf99251410a9b000f9d",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1421191,
+        "known_for_department": "Lighting",
+        "name": "Daniel López",
+        "original_name": "Daniel López",
+        "popularity": 0.2148,
+        "profile_path": null,
+        "credit_id": "59021c4dc3a36840ed0010d1",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12886,
+        "known_for_department": "Art",
+        "name": "José Rodríguez Granada",
+        "original_name": "José Rodríguez Granada",
+        "popularity": 0.1244,
+        "profile_path": null,
+        "credit_id": "59021b41c3a3684066000ecc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077283,
+        "known_for_department": "Directing",
+        "name": "Mario Llorca",
+        "original_name": "Mario Llorca",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "credit_id": "59021bbcc3a36840ed001041",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31873,
+        "known_for_department": "Sound",
+        "name": "José B. Carles",
+        "original_name": "José B. Carles",
+        "popularity": 0.0877,
+        "profile_path": null,
+        "credit_id": "59021bdac3a3684107000e1d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1664328,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Juana Lepe",
+        "original_name": "Juana Lepe",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "59021b539251410aa3000f94",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302495,
+        "known_for_department": "Crew",
+        "name": "Jorge Benavides",
+        "original_name": "Jorge Benavides",
+        "popularity": 0.1518,
+        "profile_path": null,
+        "credit_id": "59021c29c3a3684066000f77",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 120301,
+    "keywords": [
+      {
+        "id": 534,
+        "name": "mexico"
+      },
+      {
+        "id": 2752,
+        "name": "ranch"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 9799,
+        "name": "romcom"
+      },
+      {
+        "id": 9823,
+        "name": "rivalry"
+      },
+      {
+        "id": 9713,
+        "name": "friends"
+      },
+      {
+        "id": 12990,
+        "name": "singing"
+      },
+      {
+        "id": 231473,
+        "name": "charro"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 194,
+        "original_language": "fr",
+        "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+        "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+        "popularity": 9.7332,
+        "poster_path": "/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg",
+        "release_date": "2001-04-25",
+        "title": "Amélie",
+        "video": false,
+        "vote_average": 7.914,
+        "vote_count": 12096
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 196,
+        "original_language": "en",
+        "original_title": "Back to the Future Part III",
+        "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+        "popularity": 11.6582,
+        "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "release_date": "1990-05-25",
+        "title": "Back to the Future Part III",
+        "video": false,
+        "vote_average": 7.489,
+        "vote_count": 11219
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35
+        ],
+        "id": 252,
+        "original_language": "en",
+        "original_title": "Willy Wonka & the Chocolate Factory",
+        "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+        "popularity": 11.4746,
+        "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+        "release_date": "1971-06-29",
+        "title": "Willy Wonka & the Chocolate Factory",
+        "video": false,
+        "vote_average": 7.483,
+        "vote_count": 3829
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6ph3pU9LaWr84g2GHlurvuEzYnW.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 268037,
+        "original_language": "es",
+        "original_title": "Ñeñeñe",
+        "overview": "Mario has prepared something for Cristina, but she doesn't seem very interested in knowing what it is.",
+        "popularity": 1.8139,
+        "poster_path": "/up3M8f4UhOfayL7nbIOoizGGevr.jpg",
+        "release_date": "2014-05-07",
+        "title": "Ñeñeñe",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 99,
+        "original_language": "es",
+        "original_title": "Todo sobre mi madre",
+        "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+        "popularity": 2.3785,
+        "poster_path": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+        "release_date": "1999-04-16",
+        "title": "All About My Mother",
+        "video": false,
+        "vote_average": 7.63,
+        "vote_count": 2001
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yg9W3bFUMbTYrmB3N1gXI9IuI1a.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1843,
+        "original_language": "en",
+        "original_title": "Dig!",
+        "overview": "A documentary on the once promising American rock bands The Brian Jonestown Massacre and The Dandy Warhols. The friendship between respective founders, Anton Newcombe and Courtney Taylor, escalated into bitter rivalry as the Dandy Warhols garnered major international success while the Brian Jonestown Massacre imploded in a haze of drugs.",
+        "popularity": 3.3524,
+        "poster_path": "/lTE7ODSgIvYUBNhkSnW3qL2h4mi.jpg",
+        "release_date": "2004-05-14",
+        "title": "Dig!",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 66
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jyaCqYH5gLEp0Z9oZJ8nQrQM9pA.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1845,
+        "original_language": "en",
+        "original_title": "2 Days in Paris",
+        "overview": "Marion and Jack try to rekindle their relationship with a visit to Paris, home of Marion's parents — and several of her ex-boyfriends.",
+        "popularity": 2.0205,
+        "poster_path": "/4yf8vcgJtADTTPP0Ltq2KhqLfdE.jpg",
+        "release_date": "2007-02-09",
+        "title": "2 Days in Paris",
+        "video": false,
+        "vote_average": 6.244,
+        "vote_count": 406
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukShYvWPLrGBFdy1CvnKXR79oRV.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 1901,
+        "original_language": "en",
+        "original_title": "In Good Company",
+        "overview": "Dan Foreman is a seasoned advertisement sales executive at a high-ranking publication when a corporate takeover results in him being placed under naive supervisor Carter Duryea, who is half his age. Matters are made worse when Dan's new supervisor becomes romantically involved with his daughter an 18 year-old college student Alex.",
+        "popularity": 2.6186,
+        "poster_path": "/5H3fbU4NlHPbLf3MUFZwPdmD3nS.jpg",
+        "release_date": "2004-12-29",
+        "title": "In Good Company",
+        "video": false,
+        "vote_average": 6.034,
+        "vote_count": 662
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hFaFE7EpKTnjG3LDhoV40gd9vsU.jpg",
+        "genre_ids": [
+          10402,
+          18,
+          10749
+        ],
+        "id": 1940,
+        "original_language": "en",
+        "original_title": "Porgy and Bess",
+        "overview": "In the early 1900s, the fictional Catfish Row section of Charleston, South Carolina serves as home to a black fishing community. Crippled beggar Porgy, who travels about in a goat-drawn cart, loves the drug-addicted Bess, who lives with stevedore Crown, the local bully.",
+        "popularity": 0.6432,
+        "poster_path": "/g4zwlj8bgRYsUoF0VEwPEgldCvn.jpg",
+        "release_date": "1959-06-24",
+        "title": "Porgy and Bess",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1236308,
+        "original_language": "te",
+        "original_title": "The Trip",
+        "overview": "A Gang of Four. Plan for a Trip. What next?",
+        "popularity": 0.2683,
+        "poster_path": "/uSlJlfIt3IMLbhw6z8hSxDxHKK5.jpg",
+        "release_date": "2023-08-19",
+        "title": "The Trip",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6TmdYhlnM7OEITeuzcrX8XVlnp2.jpg",
+        "genre_ids": [
+          35,
+          53,
+          9648
+        ],
+        "id": 1958,
+        "original_language": "fr",
+        "original_title": "8 femmes",
+        "overview": "Eight women gather to celebrate Christmas in a snowbound cottage, only to find the family patriarch dead with a knife in his back. Trapped in the house, every woman becomes a suspect, each having her own motive and secret.",
+        "popularity": 1.847,
+        "poster_path": "/1oNcapDn0U9Y2CFbvxOc1ebuwav.jpg",
+        "release_date": "2002-02-06",
+        "title": "8 Women",
+        "video": false,
+        "vote_average": 6.896,
+        "vote_count": 1038
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qykc21PjbISZCmpKedY76fojV1I.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1967,
+        "original_language": "en",
+        "original_title": "Ask the Dust",
+        "overview": "Mexican beauty Camilla hopes to rise above her station by marrying a wealthy American. That is complicated by meeting Arturo Bandini, a first-generation Italian hoping to land a writing career and a blue-eyed blonde on his arm.",
+        "popularity": 1.9424,
+        "poster_path": "/iuJZyJNiQxnmMBBqu40mF0a2nuv.jpg",
+        "release_date": "2006-02-02",
+        "title": "Ask the Dust",
+        "video": false,
+        "vote_average": 5.375,
+        "vote_count": 156
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bfiTuF059P9Rsy2I61gGmcCCKWs.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 1968,
+        "original_language": "en",
+        "original_title": "Fools Rush In",
+        "overview": "After a one night stand with Alex, Isabel realizes that she is pregnant and they decide to get married. However, along with the marriage comes compromise of one's own cultural traditions.",
+        "popularity": 1.8966,
+        "poster_path": "/tcRaMjWoF8K7h1LqOH7FOOLRQ3e.jpg",
+        "release_date": "1997-02-14",
+        "title": "Fools Rush In",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 587
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vmDpLofmDgDx3KXTNzRc6dYROim.jpg",
+        "genre_ids": [
+          28,
+          35,
+          37,
+          80
+        ],
+        "id": 1969,
+        "original_language": "en",
+        "original_title": "Bandidas",
+        "overview": "When a ruthless robber baron takes away everything they cherish, a rough-and-tumble, idealistic peasant and a sophisticated heiress embark on a quest for justice, vengeance…and a few good heists.",
+        "popularity": 2.4432,
+        "poster_path": "/31wgXG6OxDaXbp5IzyNoUJdVS5e.jpg",
+        "release_date": "2006-01-18",
+        "title": "Bandidas",
+        "video": false,
+        "vote_average": 6.029,
+        "vote_count": 1149
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gdQCvXF7TpBez8F4Ud6Chw94oJ3.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 2012,
+        "original_language": "de",
+        "original_title": "Stellet Licht",
+        "overview": "Johan and his family are Mennonites from the north of Mexico. Against the law of God and Man, Johan falls in love with another woman.",
+        "popularity": 2.8398,
+        "poster_path": "/kniOoQky3GX9ljyzobwRUGFgQUT.jpg",
+        "release_date": "2007-10-02",
+        "title": "Silent Light",
+        "video": false,
+        "vote_average": 6.844,
+        "vote_count": 122
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h6D695KwxdjFWteDwZ6LHOfICr6.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 2018,
+        "original_language": "en",
+        "original_title": "The Wedding Planner",
+        "overview": "San Francisco's premiere wedding planner, Mary Fiore is rescued from an accident by the man of her dreams, pediatrician Steve Edison, only to find he is the fiancé of her latest client. As Mary continues making their wedding arrangements, she and Steve are put into a string of uncomfortable situations that force them to face their mutual attraction.",
+        "popularity": 3.6367,
+        "poster_path": "/2dMX1NIgT4JEHqck5eflp6tRaCc.jpg",
+        "release_date": "2001-01-26",
+        "title": "The Wedding Planner",
+        "video": false,
+        "vote_average": 5.926,
+        "vote_count": 1777
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gCYvQJ1MhyK4kYFnjpNbNqQtaYc.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 2064,
+        "original_language": "en",
+        "original_title": "While You Were Sleeping",
+        "overview": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
+        "popularity": 6.66,
+        "poster_path": "/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+        "release_date": "1995-04-21",
+        "title": "While You Were Sleeping",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1941
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n0vzpcFYe1c9AcOyCPMvrlL4uEX.jpg",
+        "genre_ids": [
+          10402,
+          18
+        ],
+        "id": 2115,
+        "original_language": "en",
+        "original_title": "Light of Day",
+        "overview": "Cleveland siblings rise with a rock band while coping with personal problems.",
+        "popularity": 0.9384,
+        "poster_path": "/hFXnASDyZd3i9TOuBPUtJRvfZsK.jpg",
+        "release_date": "1987-02-06",
+        "title": "Light of Day",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 57
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3IUIWrpfD5wyxsFjiG4Y7cQ4EPl.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 2136,
+        "original_language": "de",
+        "original_title": "Gib Gas - Ich will Spaß",
+        "overview": "The pert Tina is sick of school and the muff in her Bavarian village. She wants to go with Tino - attendant of a visiting auto-scooter - who has to leave the place for dubious reasons. However he lets her down and leaves alone. Now Tina persuades fellow student Robby, who has a crush on her, to take her on a random trip with his motor-scooter. It seems only to be a matter of time until he realizes that she's just using him to follow her boyfriend - or will the shy Robby manage to win her heart on their chaotic journey?",
+        "popularity": 0.2288,
+        "poster_path": "/6XCcGD4YGw6XDhzqaPE8lM2EAZQ.jpg",
+        "release_date": "1983-02-03",
+        "title": "Hangin' Out",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jvi17hmMc6q1CllpuOl6t3vQKMo.jpg",
+        "genre_ids": [
+          35,
+          10402
+        ],
+        "id": 2145,
+        "original_language": "de",
+        "original_title": "Der Formel Eins Film",
+        "overview": "Young Tina has a big dream, she wants to become a successful pop singer. That's why she tries her luck in the music show 'Formel Eins'. There she meets all kinds of stars like Falco, Meat Loaf, Die Toten Hosen and Pia Zadora and of course the presenter Ingolf Lück. The result is a colorful mix-up and the question arises as to whether Tina can make her dream come true.",
+        "popularity": 0.3788,
+        "poster_path": "/e6DotwO3UW4d5F64EEhzV2MR2dw.jpg",
+        "release_date": "1985-07-05",
+        "title": "Feel the Motion",
+        "video": false,
+        "vote_average": 2.7,
+        "vote_count": 10
+      }
+    ],
+    "total_pages": 13109,
+    "total_results": 262166
+  }
+}

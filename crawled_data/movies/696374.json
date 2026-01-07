@@ -1,0 +1,606 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/nIkcTtuhmkl1GZO2LfZi7SwFz7F.jpg",
+    "belongs_to_collection": {
+      "id": 729322,
+      "name": "Gabriel's Inferno Collection",
+      "poster_path": "/LdSn17U6ybhtPJT3S6fTNRni5Y.jpg",
+      "backdrop_path": "/hXF55codODfnzTZDExbUbfFmA9y.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://watch.passionflix.com/watch/fc15dc25-cf48-4d4f-aa8e-9afb032233cc",
+    "id": 696374,
+    "imdb_id": "tt11316854",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gabriel's Inferno",
+    "overview": "An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel's Inferno is a captivating and wildly passionate tale of one man's escape from his own personal hell as he tries to earn the impossible--forgiveness and love.",
+    "popularity": 3.7082,
+    "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+    "production_companies": [
+      {
+        "id": 92153,
+        "logo_path": "/psjvYkjjgAPtS8utnFYDM8t8yi7.png",
+        "name": "PassionFlix",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-05-29",
+    "revenue": 0,
+    "runtime": 122,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gabriel's Inferno",
+    "video": false,
+    "vote_average": 8.402,
+    "vote_count": 2439
+  },
+  "credits": {
+    "id": 696374,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1312450,
+        "known_for_department": "Acting",
+        "name": "Melanie Zanetti",
+        "original_name": "Melanie Zanetti",
+        "popularity": 2.1721,
+        "profile_path": "/lbUQ7ilvBtWMU23reKsHg3jRmsf.jpg",
+        "cast_id": 2,
+        "character": "Julianne Mitchell",
+        "credit_id": "5ea1c702713ed4002450fa16",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544002,
+        "known_for_department": "Acting",
+        "name": "Giulio Berruti",
+        "original_name": "Giulio Berruti",
+        "popularity": 3.2215,
+        "profile_path": "/cCOWVvjQ1TblPvM7TgMBqMczkOX.jpg",
+        "cast_id": 3,
+        "character": "Gabriel Emerson",
+        "credit_id": "5ea1c724bdc34c002023c899",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73659,
+        "known_for_department": "Acting",
+        "name": "Kurt McKinney",
+        "original_name": "Kurt McKinney",
+        "popularity": 1.6403,
+        "profile_path": "/setj0mgP81HdUdBiXF4SU5Gs1Dx.jpg",
+        "cast_id": 4,
+        "character": "Tom Mitchell",
+        "credit_id": "5ea1c74aec455200273d19dc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1188681,
+        "known_for_department": "Acting",
+        "name": "Agnes Albright",
+        "original_name": "Agnes Albright",
+        "popularity": 0.7067,
+        "profile_path": "/39laAb3lRSVQv4NtXzIwuowuFry.jpg",
+        "cast_id": 5,
+        "character": "Paulina",
+        "credit_id": "5ea1c77cec455200213d1a14",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2595115,
+        "known_for_department": "Acting",
+        "name": "Margaux Brooke",
+        "original_name": "Margaux Brooke",
+        "popularity": 0.8455,
+        "profile_path": "/leLl5l6KnjMdg5O48FhDfB7GquI.jpg",
+        "cast_id": 6,
+        "character": "Christa Peterson",
+        "credit_id": "5ea1c78fec455200213d1a22",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326237,
+        "known_for_department": "Acting",
+        "name": "Ned Van Zandt",
+        "original_name": "Ned Van Zandt",
+        "popularity": 0.634,
+        "profile_path": "/lJK2Bk79xhP133piZ03p4d6rsD0.jpg",
+        "cast_id": 7,
+        "character": "Professor Jeremy Martin",
+        "credit_id": "5ea1c7a7bdc34c002623c860",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1314554,
+        "known_for_department": "Acting",
+        "name": "Vanessa Kai",
+        "original_name": "Vanessa Kai",
+        "popularity": 0.5512,
+        "profile_path": "/dhOphvlGOJKwh8jfg33QlmXbc44.jpg",
+        "cast_id": 18,
+        "character": "Dr. Ling",
+        "credit_id": "67fc019ea04f530b5c9998f7",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3219345,
+        "known_for_department": "Art",
+        "name": "Mindy Smith",
+        "original_name": "Mindy Smith",
+        "popularity": 0.1171,
+        "profile_path": null,
+        "credit_id": "612fec5acffeed00202b9ee5",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935563,
+        "known_for_department": "Production",
+        "name": "Tosca Musk",
+        "original_name": "Tosca Musk",
+        "popularity": 1.4955,
+        "profile_path": "/1tWccsh9uR9mK3Q0e4PZKe0e6eB.jpg",
+        "credit_id": "63118647e63571008a769107",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3156541,
+        "known_for_department": "Production",
+        "name": "Lino Ruggiero",
+        "original_name": "Lino Ruggiero",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "6311864c8c7b0f0082bd60aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1845009,
+        "known_for_department": "Production",
+        "name": "Michael Buttiglieri",
+        "original_name": "Michael Buttiglieri",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "631186540d2944007e841385",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680443,
+        "known_for_department": "Sound",
+        "name": "Ben Collier",
+        "original_name": "Ben Collier",
+        "popularity": 0.4648,
+        "profile_path": null,
+        "credit_id": "6311865be63571008a76910e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1041072,
+        "known_for_department": "Editing",
+        "name": "Margaret Goodspeed",
+        "original_name": "Margaret Goodspeed",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "credit_id": "63118667126ec3007e188648",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22143,
+        "known_for_department": "Camera",
+        "name": "Denis Maloney",
+        "original_name": "Denis Maloney",
+        "popularity": 0.3082,
+        "profile_path": null,
+        "credit_id": "6311866b8c7b0f0082bd60b3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972687,
+        "known_for_department": "Writing",
+        "name": "Mary Pocrnic",
+        "original_name": "Mary Pocrnic",
+        "popularity": 0.5007,
+        "profile_path": null,
+        "credit_id": "6311867be78687007a3c5560",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1412043,
+        "known_for_department": "Art",
+        "name": "Traci Hays",
+        "original_name": "Traci Hays",
+        "popularity": 1.3247,
+        "profile_path": "/8d1L4MQUvirdq285vYmosa07YAD.jpg",
+        "credit_id": "63118684126ec3007b3ec0f1",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935563,
+        "known_for_department": "Production",
+        "name": "Tosca Musk",
+        "original_name": "Tosca Musk",
+        "popularity": 1.4955,
+        "profile_path": "/1tWccsh9uR9mK3Q0e4PZKe0e6eB.jpg",
+        "credit_id": "5ea1c6d466f2d2001a3c01ef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2693030,
+        "known_for_department": "Writing",
+        "name": "Sylvain Reynard",
+        "original_name": "Sylvain Reynard",
+        "popularity": 1.1901,
+        "profile_path": null,
+        "credit_id": "5ef6b9abfa4046003404ad2e",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 696374,
+    "keywords": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hiBxiRLmIxpztEXsnXXEvPGHsyb.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 500104,
+        "original_language": "en",
+        "original_title": "Aristotle and Dante Discover the Secrets of the Universe",
+        "overview": "Two teenage Mexican-American loners in 1987 El Paso explore a new, unusual friendship and the difficult road to self-discovery.",
+        "popularity": 1.3979,
+        "poster_path": "/nqZx3FONbencjbjImxjJTCBn9Fw.jpg",
+        "release_date": "2023-09-08",
+        "title": "Aristotle and Dante Discover the Secrets of the Universe",
+        "video": false,
+        "vote_average": 7.559,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1232636,
+        "original_language": "lv",
+        "original_title": "Scortum",
+        "overview": "The relationships between two people are never easy. Especially when complicated by their professions. We are used to think that profession or occupation puts a stamp or a mask on peoples' personality. He is a pastor, she is a prostitute. Everything's clear. But underneath he is a man, she is a woman. Simple and difficult in the same time. Short film \"Scortum\" tells the story of the mazy relationships between sin and happiness which can never be solved.",
+        "popularity": 1.8379,
+        "poster_path": null,
+        "release_date": "2007-05-30",
+        "title": "Scortum",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1232164,
+        "original_language": "ru",
+        "original_title": "Кошка на раскалённой крыше",
+        "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son.",
+        "popularity": 0.2614,
+        "poster_path": "/eujC2wstws70OKUKUbmjhj4sLE9.jpg",
+        "release_date": "1989-01-01",
+        "title": "Cat on a Hot Tin Roof",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sIGM3XQPR9zsuAaQe8V66k8tJbI.jpg",
+        "genre_ids": [
+          18,
+          12,
+          10751,
+          35
+        ],
+        "id": 1232170,
+        "original_language": "en",
+        "original_title": "Bad Timing",
+        "overview": "Nancy Savoca’s second student film follows two twelve-year olds, Bobby (Joey D’Arelli) and Denise (Kelly Cinnante) who run away to Hollywood. They land at an open mic night in a New Jersey bar where Bobby’s aunt and uncle (once aspiring actors) lay out the realities of life as a working actor. The film was inspired by performers Savoca met while making her first student film, most notably William DaPrato. Filled with wry humor and quiet revelations about the pursuit of artistic dreams, Bad Timing also features Marianne Leone and the on-screen debut of future Academy Award winner Chris Cooper.",
+        "popularity": 0.1209,
+        "poster_path": "/6BlujzTOVEKBsMqXT8lPm2SDcAV.jpg",
+        "release_date": "1982-12-31",
+        "title": "Bad Timing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1232174,
+        "original_language": "en",
+        "original_title": "Honey",
+        "overview": "Away at college for the first time, a young girl's world is opened when she meets and falls for a girl in her residence hall. (Re-release of 2017 short).",
+        "popularity": 0.2875,
+        "poster_path": "/bLrwCPDMnuNPPws1ZALRHBIznKQ.jpg",
+        "release_date": "2024-03-01",
+        "title": "Honey",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2eM39zwVMRJhUs3oKTmxHMGcLEO.jpg",
+        "genre_ids": [
+          16,
+          18,
+          27
+        ],
+        "id": 1232176,
+        "original_language": "ja",
+        "original_title": "極彩色肉筆絵巻 座敷牢",
+        "overview": "Harada's current project based on true stories, including events the director went through himself.",
+        "popularity": 0.2214,
+        "poster_path": "/uNqtIuAkDh1E8ZjsbmJR6g9zxNP.jpg",
+        "release_date": "2025-05-09",
+        "title": "Zashikiro",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749
+        ],
+        "id": 1232177,
+        "original_language": "ko",
+        "original_title": "자위하는 어린여자",
+        "overview": "A female college student is masturbating by imagining many things while watching a movie: imagining sex between a sister-in-law and her brother-in-law, imagining sex between a daughter-in-law and her father-in-law, etc. While she was masturbating, she moaned loudly and was caught by her stepbrother. The woman's body gets hot and cannot hold it, so she seduces her stepbrother.",
+        "popularity": 1.874,
+        "poster_path": "/e4XOezdSBreGBZ6ypGd4lffkNjw.jpg",
+        "release_date": "2023-12-26",
+        "title": "Young Woman Masturbating",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1RVva9P6yYmwlA66cH96Yz3yY7g.jpg",
+        "genre_ids": [
+          10749
+        ],
+        "id": 1232186,
+        "original_language": "ko",
+        "original_title": "사무적인 관계",
+        "overview": "Dong-sik and Jeong-mi, a married couple who run a multi-level company, make a huge amount of money through fraud, where they trick their victims using romance scams. The couple recruited Mi-yeon and Won-woo for the job. Later, Dong-sik and Jeong-mi develop feelings for Mi-yeon and Won-woo as the couple gets tired of each other. They begin relationships with their recruits by buying their favor with money.",
+        "popularity": 0.6405,
+        "poster_path": "/fpYdOJ5T2gf8XQgzDrPgQ8dnTVV.jpg",
+        "release_date": "2023-09-15",
+        "title": "Business Relationship",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dPQVy4FmB36EsQfRqSFmIjme9ZE.jpg",
+        "genre_ids": [
+          10749
+        ],
+        "id": 1232188,
+        "original_language": "ko",
+        "original_title": "팬티 검사하는 아내의 집착",
+        "overview": "Hae-won is a wife who is pathologically obsessed with her husband. When her husband, In-seong, goes to work or is out of her sight, she constantly calls him and monitors his every move. One day, Hae-won invited her best friend, Song-joo, to their house to hang out, but she began to suspect that the relationship between Song-ju and In-seong was strange, and ends up threatening her best friend's life when she comes to clear up her misunderstanding.",
+        "popularity": 0.6163,
+        "poster_path": "/o7jhTVssthyDQNWjSOz0vpR63G4.jpg",
+        "release_date": "2023-12-07",
+        "title": "Wife's Obsession With Checking Underwear",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          18,
+          10770
+        ],
+        "id": 1232207,
+        "original_language": "ru",
+        "original_title": "Месье Ленуар, который...",
+        "overview": "After Monsieur Lenoir commits a terrible crime, his family members gather together to discuss their damage control options.",
+        "popularity": 0.4021,
+        "poster_path": "/vxEsnzci3ocP3tLG1drlOrHgZ.jpg",
+        "release_date": "1984-05-12",
+        "title": "Monsieur Lenoir, Who...",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pXs3GE1LzDO2xUX2S4sO6iBAA5H.jpg",
+        "genre_ids": [
+          28,
+          18,
+          10749
+        ],
+        "id": 1232219,
+        "original_language": "te",
+        "original_title": "మిస్టర్‌ బచ్చన్",
+        "overview": "Just four days before wedding, a fiercely honest Income Tax officer Bachchan’s life takes a dramatic turn when he is reinstated from suspension and tasked with raiding the home of the powerful and ruthless politician Mutyam Jaggaiah.",
+        "popularity": 0.6787,
+        "poster_path": "/55TWpe9GvJEx2dq8fWoroIbJRvI.jpg",
+        "release_date": "2024-08-15",
+        "title": "Mr Bachchan",
+        "video": false,
+        "vote_average": 2.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6pqJ5v7Q49aUZYtjnKqoJs2PTaf.jpg",
+        "genre_ids": [
+          10749
+        ],
+        "id": 1232221,
+        "original_language": "ko",
+        "original_title": "사위 사랑은 장모 4",
+        "overview": "Joon-yeon and So-hyeon are living together with Joon-yeon's young and pretty mother-in-law for a while after his father-in-law remarries. One day, Joon-yeon is left home alone with his mother-in-law due to So-hyeon and her father-in-law's sudden business trip. The mother-in-law seduces her handsome son-in-law on a hot night. Unable to forget the sex he had with his mother-in-law, Joon-yeon even plans to have a threesome with his wife and his mother-in-law.",
+        "popularity": 1.0978,
+        "poster_path": "/o3yMT5okmLA3x9rTe5tCrqke1oI.jpg",
+        "release_date": "2023-12-26",
+        "title": "Mother-in-law in Love With Son-in-law 4",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TCzK7zRQt5ilJhUVUdMDnbLRva.jpg",
+        "genre_ids": [
+          10749
+        ],
+        "id": 1232226,
+        "original_language": "ko",
+        "original_title": "남편의 S선물",
+        "overview": "So-hee is a young wife who relieves her husband, who is crippled from the waist down, every night with her own hands. However, she feels lonely every night. One day, after she satisfied her husband's needs, her husband caught her masturbating without him knowing. Seeing that his wife is unable to satisfy her lust because of his disability, he makes an unexpected proposal.",
+        "popularity": 2.4607,
+        "poster_path": "/heXkrxW0Zaow88O3SCcbwxxYKsf.jpg",
+        "release_date": "2023-12-22",
+        "title": "My Husband's Gift",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sq07TPUrruUkLsU0apGchnRmWlN.jpg",
+        "genre_ids": [
+          14,
+          36,
+          18
+        ],
+        "id": 1232232,
+        "original_language": "te",
+        "original_title": "కన్నప్ప",
+        "overview": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+        "popularity": 1.102,
+        "poster_path": "/6LhE7IwhXgaNi33l0ltYahIB91i.jpg",
+        "release_date": "2025-06-26",
+        "title": "Kannappa",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1232233,
+        "original_language": "ru",
+        "original_title": "Село Степанчиково и его обитатели",
+        "overview": "The film is based on the story of Fyodor Mikhailovich Dostoevsky. A sad story about how the demagogue and idler Foma Opiskin lived in the house of Colonel Rostanev, took possession of the souls and minds of educated, intelligent people.",
+        "popularity": 0.2479,
+        "poster_path": "/2i5QLDEGrKUgV2ILzcXL71Qwq7G.jpg",
+        "release_date": "1989-01-01",
+        "title": "The Village of Stepanchikovo and Its Inhabitants",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 15337,
+    "total_results": 306738
+  }
+}

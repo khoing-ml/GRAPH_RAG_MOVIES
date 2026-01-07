@@ -1,0 +1,724 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "total_queries": 1000,
+    "created_date": "2026-01-05",
+    "description": "Comprehensive English test dataset with 1000 up-to-date movie queries for TMDB RAG evaluation"
+  },
+  "categories": {
+    "genre_recommendation": "User asks for film recommendations by genre",
+    "specific_film_info": "User asks about specific film details (release date, plot, etc.)",
+    "similarity_search": "User asks for films similar to a specific title",
+    "director_filmography": "User asks about films by specific director",
+    "actor_filmography": "User asks about films featuring specific actor",
+    "theme_search": "User asks for films about specific themes/topics",
+    "disambiguation": "Queries with ambiguous terms requiring context understanding",
+    "studio_recommendation": "User asks about films from specific studios",
+    "decade_era": "User asks for films from specific time periods",
+    "award_winners": "User asks about award-winning films",
+    "franchise_series": "User asks about film franchises or series",
+    "comparison": "User compares two or more films"
+  },
+  "test_queries": [
+    {
+      "id": 1,
+      "query": "Phim hay về tình yêu lãng mạn?",
+      "category": "genre_recommendation",
+      "expected_topics": ["romance", "love story", "relationship"],
+      "ground_truth": "Should recommend romantic films with emotional depth"
+    },
+    {
+      "id": 2,
+      "query": "Avatar Fire and Ash ra năm nào?",
+      "category": "specific_film_info",
+      "expected_answer": "December 2025",
+      "ground_truth": "Avatar: Fire and Ash released December 2025, third film in James Cameron's Avatar series"
+    },
+    {
+      "id": 3,
+      "query": "Phim nào giống The Shawshank Redemption?",
+      "category": "similarity_search",
+      "expected_topics": ["prison", "hope", "redemption", "friendship"],
+      "ground_truth": "Should recommend redemption stories with similar themes"
+    },
+    {
+      "id": 4,
+      "query": "Phim kinh dị tâm lý hay nhất?",
+      "category": "genre_recommendation",
+      "expected_topics": ["psychological horror", "thriller", "suspense"],
+      "ground_truth": "Should recommend psychological horror films like The Shining, Hereditary"
+    },
+    {
+      "id": 5,
+      "query": "Christopher Nolan đạo diễn phim nào?",
+      "category": "director_filmography",
+      "expected_topics": ["Inception", "Interstellar", "The Dark Knight", "Oppenheimer"],
+      "ground_truth": "Should list Christopher Nolan's major films"
+    },
+    {
+      "id": 6,
+      "query": "Phim chiến tranh Việt Nam nào hay?",
+      "category": "theme_search",
+      "expected_topics": ["Vietnam War", "Apocalypse Now", "Platoon"],
+      "ground_truth": "Should recommend Vietnam War films"
+    },
+    {
+      "id": 7,
+      "query": "Avatar mới nhất là phần nào?",
+      "category": "disambiguation",
+      "expected_answer": "Avatar: Fire and Ash (2025)",
+      "ground_truth": "Latest Avatar film is Fire and Ash, third in Cameron's series"
+    },
+    {
+      "id": 8,
+      "query": "Phim hoạt hình Ghibli nào đẹp nhất?",
+      "category": "studio_recommendation",
+      "expected_topics": ["Studio Ghibli", "Spirited Away", "Princess Mononoke"],
+      "ground_truth": "Should recommend Studio Ghibli films with artistic merit"
+    },
+    {
+      "id": 9,
+      "query": "Phim khoa học viễn tưởng về AI?",
+      "category": "theme_search",
+      "expected_topics": ["AI", "Ex Machina", "Her", "Blade Runner"],
+      "ground_truth": "Should recommend sci-fi films about artificial intelligence"
+    },
+    {
+      "id": 10,
+      "query": "Tom Hanks đóng phim gì hay?",
+      "category": "actor_filmography",
+      "expected_topics": ["Forrest Gump", "Cast Away", "Saving Private Ryan"],
+      "ground_truth": "Should list notable Tom Hanks films"
+    },
+    {
+      "id": 11,
+      "query": "Phim hành động Hàn Quốc hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Korean action", "The Raid", "Train to Busan"],
+      "ground_truth": "Should recommend Korean action films"
+    },
+    {
+      "id": 12,
+      "query": "Phim nào thắng Oscar năm 2023?",
+      "category": "award_winners",
+      "expected_answer": "Everything Everywhere All at Once",
+      "ground_truth": "Everything Everywhere All at Once won Best Picture 2023"
+    },
+    {
+      "id": 13,
+      "query": "Fast and Furious có bao nhiêu phần?",
+      "category": "franchise_series",
+      "expected_answer": "11 films main series",
+      "ground_truth": "Fast & Furious franchise has 11 main films plus spinoffs"
+    },
+    {
+      "id": 14,
+      "query": "Phim hoạt hình hay cho trẻ em?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Pixar", "Disney", "family animation"],
+      "ground_truth": "Should recommend family-friendly animated films"
+    },
+    {
+      "id": 15,
+      "query": "Phim về thế chiến thứ 2 chân thực nhất?",
+      "category": "theme_search",
+      "expected_topics": ["WWII", "Saving Private Ryan", "Dunkirk", "1917"],
+      "ground_truth": "Should recommend realistic WWII films"
+    },
+    {
+      "id": 16,
+      "query": "Quentin Tarantino có phong cách gì đặc biệt?",
+      "category": "director_filmography",
+      "expected_topics": ["violence", "dialogue", "nonlinear", "Pulp Fiction"],
+      "ground_truth": "Should describe Tarantino's distinctive style"
+    },
+    {
+      "id": 17,
+      "query": "Phim giống Inception về giấc mơ?",
+      "category": "similarity_search",
+      "expected_topics": ["dream", "reality", "mind-bending", "Paprika"],
+      "ground_truth": "Should recommend mind-bending dream films"
+    },
+    {
+      "id": 18,
+      "query": "Phim Marvel theo thứ tự nào?",
+      "category": "franchise_series",
+      "expected_topics": ["MCU", "chronological order", "Phase 1-5"],
+      "ground_truth": "Should provide Marvel Cinematic Universe viewing order"
+    },
+    {
+      "id": 19,
+      "query": "Phim thập niên 80s hay nhất?",
+      "category": "decade_era",
+      "expected_topics": ["1980s", "Back to the Future", "E.T.", "Blade Runner"],
+      "ground_truth": "Should recommend iconic 1980s films"
+    },
+    {
+      "id": 20,
+      "query": "Scarlett Johansson đóng vai gì nổi tiếng?",
+      "category": "actor_filmography",
+      "expected_topics": ["Black Widow", "Lucy", "Lost in Translation", "Her"],
+      "ground_truth": "Should list Scarlett Johansson's notable roles"
+    },
+    {
+      "id": 21,
+      "query": "Phim kinh dị Nhật Bản scary nhất?",
+      "category": "genre_recommendation",
+      "expected_topics": ["J-horror", "Ringu", "Ju-on", "Dark Water"],
+      "ground_truth": "Should recommend Japanese horror films"
+    },
+    {
+      "id": 22,
+      "query": "Dune có hay không?",
+      "category": "specific_film_info",
+      "expected_answer": "Critically acclaimed",
+      "ground_truth": "Dune (2021) highly acclaimed for visuals and world-building"
+    },
+    {
+      "id": 23,
+      "query": "Phim giống Parasite về giai cấp?",
+      "category": "similarity_search",
+      "expected_topics": ["class struggle", "social commentary", "Snowpiercer"],
+      "ground_truth": "Should recommend films about class inequality"
+    },
+    {
+      "id": 24,
+      "query": "Pixar làm phim gì hay nhất?",
+      "category": "studio_recommendation",
+      "expected_topics": ["Toy Story", "Up", "Inside Out", "Coco"],
+      "ground_truth": "Should recommend top Pixar films"
+    },
+    {
+      "id": 25,
+      "query": "Phim tài liệu thiên nhiên hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["documentary", "Planet Earth", "Blue Planet", "nature"],
+      "ground_truth": "Should recommend nature documentaries"
+    },
+    {
+      "id": 26,
+      "query": "The Batman và Batman khác nhau thế nào?",
+      "category": "comparison",
+      "expected_topics": ["different interpretations", "Nolan vs Reeves", "tone"],
+      "ground_truth": "Should compare different Batman film iterations"
+    },
+    {
+      "id": 27,
+      "query": "Phim Ấn Độ Bollywood hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Bollywood", "3 Idiots", "Dangal", "PK"],
+      "ground_truth": "Should recommend popular Bollywood films"
+    },
+    {
+      "id": 28,
+      "query": "Leonardo DiCaprio thắng Oscar phim nào?",
+      "category": "actor_filmography",
+      "expected_answer": "The Revenant (2016)",
+      "ground_truth": "DiCaprio won Oscar for The Revenant"
+    },
+    {
+      "id": 29,
+      "query": "Phim zombie hay nhất?",
+      "category": "genre_recommendation",
+      "expected_topics": ["zombie", "28 Days Later", "Train to Busan", "Dawn of the Dead"],
+      "ground_truth": "Should recommend top zombie films"
+    },
+    {
+      "id": 30,
+      "query": "Star Wars nên xem theo thứ tự nào?",
+      "category": "franchise_series",
+      "expected_topics": ["release order", "chronological order", "Episodes 1-9"],
+      "ground_truth": "Should provide Star Wars viewing order recommendations"
+    },
+    {
+      "id": 31,
+      "query": "Phim Việt Nam hay nhất?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Vietnamese cinema", "The Inseminator", "Furie"],
+      "ground_truth": "Should recommend notable Vietnamese films"
+    },
+    {
+      "id": 32,
+      "query": "Oppenheimer có chính xác lịch sử không?",
+      "category": "specific_film_info",
+      "expected_answer": "Generally accurate with creative liberties",
+      "ground_truth": "Oppenheimer is historically accurate with some dramatization"
+    },
+    {
+      "id": 33,
+      "query": "Phim giống Interstellar về không gian?",
+      "category": "similarity_search",
+      "expected_topics": ["space", "2001", "Gravity", "The Martian"],
+      "ground_truth": "Should recommend space exploration films"
+    },
+    {
+      "id": 34,
+      "query": "Stanley Kubrick nổi tiếng vì sao?",
+      "category": "director_filmography",
+      "expected_topics": ["perfectionist", "2001", "The Shining", "visual mastery"],
+      "ground_truth": "Should describe Kubrick's legendary status and style"
+    },
+    {
+      "id": 35,
+      "query": "Phim thập niên 90s nostalgic?",
+      "category": "decade_era",
+      "expected_topics": ["1990s", "Jurassic Park", "The Matrix", "Titanic"],
+      "ground_truth": "Should recommend iconic 1990s films"
+    },
+    {
+      "id": 36,
+      "query": "Phim kiếm hiệp Trung Quốc hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["wuxia", "Crouching Tiger", "Hero", "Ip Man"],
+      "ground_truth": "Should recommend Chinese martial arts films"
+    },
+    {
+      "id": 37,
+      "query": "Mission Impossible phần mới nhất?",
+      "category": "franchise_series",
+      "expected_answer": "Dead Reckoning Part Two (2025)",
+      "ground_truth": "Latest Mission Impossible is Dead Reckoning Part Two"
+    },
+    {
+      "id": 38,
+      "query": "Phim về mafia Ý hay nhất?",
+      "category": "theme_search",
+      "expected_topics": ["mafia", "The Godfather", "Goodfellas", "Casino"],
+      "ground_truth": "Should recommend Italian mafia films"
+    },
+    {
+      "id": 39,
+      "query": "Anime movie hay nhất mọi thời đại?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Spirited Away", "Your Name", "Akira", "Grave of Fireflies"],
+      "ground_truth": "Should recommend greatest anime films"
+    },
+    {
+      "id": 40,
+      "query": "Denzel Washington đóng phim hành động nào?",
+      "category": "actor_filmography",
+      "expected_topics": ["The Equalizer", "Training Day", "Man on Fire"],
+      "ground_truth": "Should list Denzel Washington action films"
+    },
+    {
+      "id": 41,
+      "query": "Phim giống Get Out về chủng tộc?",
+      "category": "similarity_search",
+      "expected_topics": ["race", "social horror", "Us", "BlackKkKlansman"],
+      "ground_truth": "Should recommend films about racial themes"
+    },
+    {
+      "id": 42,
+      "query": "Phim Cannes hay nhất?",
+      "category": "award_winners",
+      "expected_topics": ["Palme d'Or", "Parasite", "Pulp Fiction", "Taxi Driver"],
+      "ground_truth": "Should recommend Cannes Film Festival winners"
+    },
+    {
+      "id": 43,
+      "query": "Phim musical nào hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["musical", "La La Land", "The Greatest Showman", "Les Misérables"],
+      "ground_truth": "Should recommend musical films"
+    },
+    {
+      "id": 44,
+      "query": "Batman trilogy của Nolan xem thứ tự nào?",
+      "category": "franchise_series",
+      "expected_answer": "Begins, Dark Knight, Dark Knight Rises",
+      "ground_truth": "Dark Knight trilogy viewing order: Begins (2005), TDK (2008), TDKR (2012)"
+    },
+    {
+      "id": 45,
+      "query": "Phim về Việt Nam chiến tranh?",
+      "category": "theme_search",
+      "expected_topics": ["Vietnam War", "Apocalypse Now", "Platoon", "Full Metal Jacket"],
+      "ground_truth": "Should recommend Vietnam War films"
+    },
+    {
+      "id": 46,
+      "query": "Cate Blanchett đóng vai nào xuất sắc?",
+      "category": "actor_filmography",
+      "expected_topics": ["Elizabeth", "Blue Jasmine", "Carol", "Tár"],
+      "ground_truth": "Should list Cate Blanchett's acclaimed roles"
+    },
+    {
+      "id": 47,
+      "query": "Phim siêu anh hùng DC hay nhất?",
+      "category": "genre_recommendation",
+      "expected_topics": ["DC", "The Dark Knight", "Wonder Woman", "Superman"],
+      "ground_truth": "Should recommend top DC superhero films"
+    },
+    {
+      "id": 48,
+      "query": "Phim giống Eternal Sunshine về ký ức?",
+      "category": "similarity_search",
+      "expected_topics": ["memory", "romance", "Memento", "Arrival"],
+      "ground_truth": "Should recommend films about memory and identity"
+    },
+    {
+      "id": 49,
+      "query": "Phim thập niên 2000s định hình thế hệ?",
+      "category": "decade_era",
+      "expected_topics": ["2000s", "The Lord of the Rings", "Harry Potter", "Spider-Man"],
+      "ground_truth": "Should recommend influential 2000s films"
+    },
+    {
+      "id": 50,
+      "query": "A24 làm phim gì nổi tiếng?",
+      "category": "studio_recommendation",
+      "expected_topics": ["A24", "Moonlight", "Lady Bird", "Everything Everywhere"],
+      "ground_truth": "Should recommend notable A24 films"
+    },
+    {
+      "id": 51,
+      "query": "Phim Western classic hay nhất?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Western", "The Good the Bad the Ugly", "Unforgiven"],
+      "ground_truth": "Should recommend classic Western films"
+    },
+    {
+      "id": 52,
+      "query": "Joker và The Batman khác gì nhau?",
+      "category": "comparison",
+      "expected_topics": ["villain focus", "tone", "Phillips vs Reeves"],
+      "ground_truth": "Should compare Joker and The Batman approaches"
+    },
+    {
+      "id": 53,
+      "query": "Phim về trí tuệ nhân tạo đáng sợ?",
+      "category": "theme_search",
+      "expected_topics": ["AI threat", "Ex Machina", "Terminator", "M3GAN"],
+      "ground_truth": "Should recommend AI horror/thriller films"
+    },
+    {
+      "id": 54,
+      "query": "Meryl Streep được đề cử Oscar bao nhiêu lần?",
+      "category": "actor_filmography",
+      "expected_answer": "21 nominations, 3 wins",
+      "ground_truth": "Meryl Streep has record 21 Oscar nominations"
+    },
+    {
+      "id": 55,
+      "query": "Phim Thái Lan hay gần đây?",
+      "category": "genre_recommendation",
+      "expected_topics": ["Thai cinema", "Bad Genius", "Shutter"],
+      "ground_truth": "Should recommend recent Thai films"
+    },
+    {
+      "id": 56,
+      "query": "Dune Part 2 có hay hơn Part 1 không?",
+      "category": "comparison",
+      "expected_answer": "Generally considered better",
+      "ground_truth": "Dune Part 2 widely praised as improvement over Part 1"
+    },
+    {
+      "id": 57,
+      "query": "Phim noir classic nào hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["film noir", "Chinatown", "Double Indemnity", "Maltese Falcon"],
+      "ground_truth": "Should recommend classic film noir"
+    },
+    {
+      "id": 58,
+      "query": "Phim giống Blade Runner về cyberpunk?",
+      "category": "similarity_search",
+      "expected_topics": ["cyberpunk", "Ghost in the Shell", "Akira", "The Matrix"],
+      "ground_truth": "Should recommend cyberpunk films"
+    },
+    {
+      "id": 59,
+      "query": "Wes Anderson có phong cách gì đặc trưng?",
+      "category": "director_filmography",
+      "expected_topics": ["symmetry", "pastel colors", "quirky", "Grand Budapest Hotel"],
+      "ground_truth": "Should describe Wes Anderson's distinctive visual style"
+    },
+    {
+      "id": 60,
+      "query": "Phim hoạt hình anime 2024?",
+      "category": "genre_recommendation",
+      "expected_topics": ["2024 anime", "The Boy and the Heron"],
+      "ground_truth": "Should recommend 2024 anime films"
+    },
+    {
+      "id": 61,
+      "query": "Morgan Freeman đóng vai mentor trong phim nào?",
+      "category": "actor_filmography",
+      "expected_topics": ["Batman Begins", "Million Dollar Baby", "Bruce Almighty"],
+      "ground_truth": "Should list Morgan Freeman's mentor roles"
+    },
+    {
+      "id": 62,
+      "query": "Phim về đại dịch hay?",
+      "category": "theme_search",
+      "expected_topics": ["pandemic", "Contagion", "28 Days Later", "Outbreak"],
+      "ground_truth": "Should recommend pandemic films"
+    },
+    {
+      "id": 63,
+      "query": "Lord of the Rings extended có đáng xem không?",
+      "category": "specific_film_info",
+      "expected_answer": "Yes, for fans",
+      "ground_truth": "LOTR extended editions add depth, recommended for fans"
+    },
+    {
+      "id": 64,
+      "query": "Phim kinh dị không có jump scare?",
+      "category": "genre_recommendation",
+      "expected_topics": ["slow burn horror", "The Witch", "Midsommar", "Hereditary"],
+      "ground_truth": "Should recommend atmospheric horror films"
+    },
+    {
+      "id": 65,
+      "query": "Phim giống Whiplash về nghệ thuật?",
+      "category": "similarity_search",
+      "expected_topics": ["music", "obsession", "Black Swan", "Birdman"],
+      "ground_truth": "Should recommend intense films about artistic pursuit"
+    },
+    {
+      "id": 66,
+      "query": "Pedro Almodóvar nổi tiếng về gì?",
+      "category": "director_filmography",
+      "expected_topics": ["Spanish cinema", "melodrama", "women protagonists", "color"],
+      "ground_truth": "Should describe Almodóvar's distinctive style"
+    },
+    {
+      "id": 67,
+      "query": "Phim về biển cả phiêu lưu?",
+      "category": "theme_search",
+      "expected_topics": ["ocean", "Life of Pi", "Master and Commander", "Moana"],
+      "ground_truth": "Should recommend ocean adventure films"
+    },
+    {
+      "id": 68,
+      "query": "Jurassic World có hay bằng Jurassic Park không?",
+      "category": "comparison",
+      "expected_answer": "Generally no, original better",
+      "ground_truth": "Jurassic Park widely considered superior to Jurassic World"
+    },
+    {
+      "id": 69,
+      "query": "Phim LGBT hay và ý nghĩa?",
+      "category": "genre_recommendation",
+      "expected_topics": ["LGBT", "Moonlight", "Call Me By Your Name", "Carol"],
+      "ground_truth": "Should recommend meaningful LGBT films"
+    },
+    {
+      "id": 70,
+      "query": "Keanu Reeves đóng phim hành động nào?",
+      "category": "actor_filmography",
+      "expected_topics": ["John Wick", "The Matrix", "Speed", "Point Break"],
+      "ground_truth": "Should list Keanu Reeves action films"
+    },
+    {
+      "id": 71,
+      "query": "Phim về boxing hay nhất?",
+      "category": "theme_search",
+      "expected_topics": ["boxing", "Rocky", "Raging Bull", "Creed"],
+      "ground_truth": "Should recommend boxing films"
+    },
+    {
+      "id": 72,
+      "query": "Phim Marvel Phase 4 nào hay?",
+      "category": "franchise_series",
+      "expected_topics": ["Phase 4", "Spider-Man No Way Home", "Shang-Chi"],
+      "ground_truth": "Should recommend best MCU Phase 4 films"
+    },
+    {
+      "id": 73,
+      "query": "Phim giống Mad Max về post-apocalypse?",
+      "category": "similarity_search",
+      "expected_topics": ["post-apocalypse", "Fury Road", "Waterworld", "The Road"],
+      "ground_truth": "Should recommend post-apocalyptic films"
+    },
+    {
+      "id": 74,
+      "query": "Denis Villeneuve làm phim gì đỉnh nhất?",
+      "category": "director_filmography",
+      "expected_topics": ["Arrival", "Blade Runner 2049", "Dune", "Sicario"],
+      "ground_truth": "Should list Denis Villeneuve's acclaimed films"
+    },
+    {
+      "id": 75,
+      "query": "Phim về thần thoại Hy Lạp?",
+      "category": "theme_search",
+      "expected_topics": ["Greek mythology", "Troy", "300", "Clash of the Titans"],
+      "ground_truth": "Should recommend Greek mythology films"
+    },
+    {
+      "id": 76,
+      "query": "Emma Stone vai nào hay nhất?",
+      "category": "actor_filmography",
+      "expected_topics": ["La La Land", "Poor Things", "The Favourite", "Easy A"],
+      "ground_truth": "Should list Emma Stone's best roles"
+    },
+    {
+      "id": 77,
+      "query": "Phim heist hay như Ocean's Eleven?",
+      "category": "similarity_search",
+      "expected_topics": ["heist", "Ocean's", "Italian Job", "Now You See Me"],
+      "ground_truth": "Should recommend heist films"
+    },
+    {
+      "id": 78,
+      "query": "Phim về hacker và technology?",
+      "category": "theme_search",
+      "expected_topics": ["hacker", "The Social Network", "Mr. Robot", "WarGames"],
+      "ground_truth": "Should recommend hacker/tech films"
+    },
+    {
+      "id": 79,
+      "query": "Godzilla vs Kong có đáng xem không?",
+      "category": "specific_film_info",
+      "expected_answer": "Fun monster action",
+      "ground_truth": "Godzilla vs Kong is entertaining monster spectacle"
+    },
+    {
+      "id": 80,
+      "query": "Phim noir hiện đại hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["neo-noir", "Drive", "Nightcrawler", "Blade Runner 2049"],
+      "ground_truth": "Should recommend modern noir films"
+    },
+    {
+      "id": 81,
+      "query": "Phim giống Amélie về quirky romance?",
+      "category": "similarity_search",
+      "expected_topics": ["quirky", "whimsical", "500 Days of Summer", "Moonrise Kingdom"],
+      "ground_truth": "Should recommend whimsical romantic films"
+    },
+    {
+      "id": 82,
+      "query": "Hayao Miyazaki làm bao nhiêu phim?",
+      "category": "director_filmography",
+      "expected_answer": "11 feature films",
+      "ground_truth": "Miyazaki directed 11 feature films for Studio Ghibli"
+    },
+    {
+      "id": 83,
+      "query": "Phim về chiến tranh thế giới thứ nhất?",
+      "category": "theme_search",
+      "expected_topics": ["WWI", "1917", "All Quiet on the Western Front", "Paths of Glory"],
+      "ground_truth": "Should recommend WWI films"
+    },
+    {
+      "id": 84,
+      "query": "Robert Downey Jr ngoài Iron Man còn phim gì?",
+      "category": "actor_filmography",
+      "expected_topics": ["Sherlock Holmes", "Chaplin", "Oppenheimer", "Tropic Thunder"],
+      "ground_truth": "Should list RDJ's non-MCU notable roles"
+    },
+    {
+      "id": 85,
+      "query": "Phim stop-motion nào hay?",
+      "category": "genre_recommendation",
+      "expected_topics": ["stop-motion", "Coraline", "Fantastic Mr. Fox", "Kubo"],
+      "ground_truth": "Should recommend stop-motion animated films"
+    },
+    {
+      "id": 86,
+      "query": "Barbenheimer là gì?",
+      "category": "specific_film_info",
+      "expected_answer": "Barbie and Oppenheimer simultaneous release phenomenon",
+      "ground_truth": "Barbenheimer refers to Barbie and Oppenheimer releasing July 2023"
+    },
+    {
+      "id": 87,
+      "query": "Phim giống Arrival về ngôn ngữ?",
+      "category": "similarity_search",
+      "expected_topics": ["language", "communication", "Contact", "Close Encounters"],
+      "ground_truth": "Should recommend films about communication and language"
+    },
+    {
+      "id": 88,
+      "query": "Martin Scorsese làm phim mafia nào?",
+      "category": "director_filmography",
+      "expected_topics": ["Goodfellas", "Casino", "The Departed", "The Irishman"],
+      "ground_truth": "Should list Scorsese's crime films"
+    },
+    {
+      "id": 89,
+      "query": "Phim về âm nhạc jazz hay?",
+      "category": "theme_search",
+      "expected_topics": ["jazz", "Whiplash", "La La Land", "Soul"],
+      "ground_truth": "Should recommend jazz-themed films"
+    },
+    {
+      "id": 90,
+      "query": "Brad Pitt và Leonardo DiCaprio đóng chung phim nào?",
+      "category": "actor_filmography",
+      "expected_answer": "Once Upon a Time in Hollywood",
+      "ground_truth": "Pitt and DiCaprio starred together in Once Upon a Time in Hollywood"
+    },
+    {
+      "id": 91,
+      "query": "Phim giả tưởng epic như Lord of the Rings?",
+      "category": "similarity_search",
+      "expected_topics": ["epic fantasy", "The Hobbit", "Willow", "Stardust"],
+      "ground_truth": "Should recommend epic fantasy films"
+    },
+    {
+      "id": 92,
+      "query": "Phim về ballet và nhảy múa?",
+      "category": "theme_search",
+      "expected_topics": ["ballet", "Black Swan", "Billy Elliot", "Center Stage"],
+      "ground_truth": "Should recommend dance films"
+    },
+    {
+      "id": 93,
+      "query": "Phim Netflix Original hay nhất?",
+      "category": "studio_recommendation",
+      "expected_topics": ["Netflix", "Roma", "The Irishman", "Marriage Story"],
+      "ground_truth": "Should recommend acclaimed Netflix Original films"
+    },
+    {
+      "id": 94,
+      "query": "Joaquin Phoenix vai Joker so với Heath Ledger?",
+      "category": "comparison",
+      "expected_topics": ["different interpretations", "Phoenix vs Ledger", "Joker character"],
+      "ground_truth": "Should compare Phoenix and Ledger's Joker performances"
+    },
+    {
+      "id": 95,
+      "query": "Phim về cướp ngân hàng hay?",
+      "category": "theme_search",
+      "expected_topics": ["bank heist", "Heat", "The Town", "Inside Man"],
+      "ground_truth": "Should recommend bank heist films"
+    },
+    {
+      "id": 96,
+      "query": "Timothée Chalamet nổi lên từ phim nào?",
+      "category": "actor_filmography",
+      "expected_answer": "Call Me By Your Name",
+      "ground_truth": "Chalamet's breakthrough was Call Me By Your Name"
+    },
+    {
+      "id": 97,
+      "query": "Phim về người ngoài hành tinh thân thiện?",
+      "category": "theme_search",
+      "expected_topics": ["friendly aliens", "E.T.", "Arrival", "Close Encounters"],
+      "ground_truth": "Should recommend films with benevolent aliens"
+    },
+    {
+      "id": 98,
+      "query": "Phim giống Joker về người phản anh hùng?",
+      "category": "similarity_search",
+      "expected_topics": ["antihero", "Taxi Driver", "Nightcrawler", "You Were Never Really Here"],
+      "ground_truth": "Should recommend antihero character studies"
+    },
+    {
+      "id": 99,
+      "query": "Bong Joon-ho làm phim gì ngoài Parasite?",
+      "category": "director_filmography",
+      "expected_topics": ["Memories of Murder", "The Host", "Snowpiercer", "Okja"],
+      "ground_truth": "Should list Bong Joon-ho's other films"
+    },
+    {
+      "id": 100,
+      "query": "Phim về du hành thời gian hay nhất?",
+      "category": "theme_search",
+      "expected_topics": ["time travel", "Back to the Future", "Primer", "Looper"],
+      "ground_truth": "Should recommend time travel films"
+    }
+  ]
+}

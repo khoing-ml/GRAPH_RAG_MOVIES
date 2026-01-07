@@ -1,0 +1,1439 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+    "belongs_to_collection": null,
+    "budget": 3700000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "https://gkids.com/films/grave-of-the-fireflies",
+    "id": 12477,
+    "imdb_id": "tt0095327",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "火垂るの墓",
+    "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+    "popularity": 0.0116,
+    "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+    "production_companies": [
+      {
+        "id": 10342,
+        "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "name": "Studio Ghibli",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1988-04-16",
+    "revenue": 842132,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Why do fireflies have to die so soon?",
+    "title": "Grave of the Fireflies",
+    "video": false,
+    "vote_average": 8.446,
+    "vote_count": 6259
+  },
+  "credits": {
+    "id": 12477,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72413,
+        "known_for_department": "Acting",
+        "name": "Tsutomu Tatsumi",
+        "original_name": "辰巳努",
+        "popularity": 0.578,
+        "profile_path": "/opRQfqXqAcUaqLMNARi78S7KZVa.jpg",
+        "cast_id": 1,
+        "character": "Seita (voice)",
+        "credit_id": "52fe44e89251416c750452b1",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 72414,
+        "known_for_department": "Acting",
+        "name": "Ayano Shiraishi",
+        "original_name": "白石綾乃",
+        "popularity": 0.3987,
+        "profile_path": "/ltxZJRUAMsKqnflUKw1zlSjMhcu.jpg",
+        "cast_id": 2,
+        "character": "Setsuko (voice)",
+        "credit_id": "52fe44e89251416c750452b5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72415,
+        "known_for_department": "Acting",
+        "name": "Yoshiko Shinohara",
+        "original_name": "志乃原良子",
+        "popularity": 0.927,
+        "profile_path": "/yvpARjDfEri1a3nh7OXywzWb1Xn.jpg",
+        "cast_id": 3,
+        "character": "Mother (voice)",
+        "credit_id": "52fe44e89251416c750452b9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72416,
+        "known_for_department": "Acting",
+        "name": "Akemi Yamaguchi",
+        "original_name": "山口朱美",
+        "popularity": 1.7909,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Auntie (voice)",
+        "credit_id": "638eed2e5800c4008bb4cd1a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773484,
+        "known_for_department": "Acting",
+        "name": "Masayo Sakai",
+        "original_name": "Masayo Sakai",
+        "popularity": 0.3154,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Woman who takes care of Setsuko (voice)",
+        "credit_id": "6367fc7f1e9225007dd5a06c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773478,
+        "known_for_department": "Acting",
+        "name": "Kozo Hashida",
+        "original_name": "Kozo Hashida",
+        "popularity": 0.3651,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Obayashi Chairman (voice)",
+        "credit_id": "6367fc48a5046e008124f540",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773488,
+        "known_for_department": "Acting",
+        "name": "Kazumi Nozaki",
+        "original_name": "Kazumi Nozaki",
+        "popularity": 0.4075,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Cousin (voice)",
+        "credit_id": "6367fc9debb99d0090898290",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773491,
+        "known_for_department": "Acting",
+        "name": "Yoshio Matsuoka",
+        "original_name": "Yoshio Matsuoka",
+        "popularity": 0.3694,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Gosaku (voice)",
+        "credit_id": "6367fcc5e7c097009133afe2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773492,
+        "known_for_department": "Acting",
+        "name": "Masahiro Kanetake",
+        "original_name": "Masahiro Kanetake",
+        "popularity": 0.215,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Aunt's House Guest (voice)",
+        "credit_id": "6367fcf696e30b007a4c8388",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773494,
+        "known_for_department": "Acting",
+        "name": "Kiyoshi Yanagawa",
+        "original_name": "Kiyoshi Yanagawa",
+        "popularity": 0.2126,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Patrolman (voice)",
+        "credit_id": "6367fd0cc048a90081d89739",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773496,
+        "known_for_department": "Acting",
+        "name": "Hajime Maki",
+        "original_name": "Hajime Maki",
+        "popularity": 0.088,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Man who arrests Seita (voice)",
+        "credit_id": "6367fd2bd207f30087485320",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773498,
+        "known_for_department": "Acting",
+        "name": "Atsuo Omotem",
+        "original_name": "Atsuo Omotem",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Person in Bank (voice)",
+        "credit_id": "6367fd48d8d329008272614a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773499,
+        "known_for_department": "Acting",
+        "name": "Teruhisa Harita",
+        "original_name": "Teruhisa Harita",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Station Worker (voice)",
+        "credit_id": "6367fd664ca6760089a7aea2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118998,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Tanaka",
+        "original_name": "田中浩",
+        "popularity": 1.819,
+        "profile_path": "/syy1wzPDojswjSMznKNwGLV2x91.jpg",
+        "cast_id": 43,
+        "character": "Person in Bank (voice)",
+        "credit_id": "6367fda396e30b007a4c83c9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773504,
+        "known_for_department": "Acting",
+        "name": "Michio Denpo",
+        "original_name": "Michio Denpo",
+        "popularity": 0.3586,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Station Worker / Doctor (voice)",
+        "credit_id": "6367fdcb66565a008ac19fc7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773506,
+        "known_for_department": "Acting",
+        "name": "Shiro Tamaki",
+        "original_name": "Shiro Tamaki",
+        "popularity": 0.1194,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Person in Bank (voice)",
+        "credit_id": "6367fdeae7c097007aebde54",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773508,
+        "known_for_department": "Acting",
+        "name": "Mika Sekita",
+        "original_name": "Mika Sekita",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Nurse (voice)",
+        "credit_id": "6367fe0596e30b007d08c8f4",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3642773,
+        "known_for_department": "Writing",
+        "name": "Kyoko Moriwaki",
+        "original_name": "森脇京子",
+        "popularity": 0.5148,
+        "profile_path": "/gP3iUDhua74Anml2vDgSCFdA3FI.jpg",
+        "cast_id": 71,
+        "character": "(voice)",
+        "credit_id": "65f82584903c52017e29d837",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 628,
+        "known_for_department": "Directing",
+        "name": "Isao Takahata",
+        "original_name": "高畑勲",
+        "popularity": 2.4731,
+        "profile_path": "/qbvnGLByh0N9ni7gZSREIgvO1sM.jpg",
+        "credit_id": "52fe44e89251416c750452cf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 628,
+        "known_for_department": "Directing",
+        "name": "Isao Takahata",
+        "original_name": "高畑勲",
+        "popularity": 2.4731,
+        "profile_path": "/qbvnGLByh0N9ni7gZSREIgvO1sM.jpg",
+        "credit_id": "52fe44e89251416c750452c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1697,
+        "known_for_department": "Editing",
+        "name": "Takeshi Seyama",
+        "original_name": "瀬山武司",
+        "popularity": 1.3665,
+        "profile_path": "/2ZoMQKCyNiUCYo8sy6pDIb30ViV.jpg",
+        "credit_id": "52fe44e99251416c750452ed",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72420,
+        "known_for_department": "Camera",
+        "name": "Nobuo Koyama",
+        "original_name": "小山信夫",
+        "popularity": 0.9797,
+        "profile_path": null,
+        "credit_id": "52fe44e99251416c750452e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72419,
+        "known_for_department": "Sound",
+        "name": "Michio Mamiya",
+        "original_name": "間宮芳生",
+        "popularity": 0.6818,
+        "profile_path": null,
+        "credit_id": "52fe44e99251416c750452e1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4254376,
+        "known_for_department": "Crew",
+        "name": "Neil Nadelman",
+        "original_name": "Neil Nadelman",
+        "popularity": 0.1266,
+        "profile_path": null,
+        "credit_id": "64f6d8a1b234b90100965d6f",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4342660,
+        "known_for_department": "Visual Effects",
+        "name": "Naoyuki Taniguchi",
+        "original_name": "谷口直之",
+        "popularity": 0.7838,
+        "profile_path": null,
+        "credit_id": "653bc486e894a6013a9b64d5",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152828,
+        "known_for_department": "Visual Effects",
+        "name": "Toshitsugu Saida",
+        "original_name": "才田俊次",
+        "popularity": 0.9574,
+        "profile_path": null,
+        "credit_id": "63770597e8999b00c880bad1",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2256324,
+        "known_for_department": "Visual Effects",
+        "name": "Noboru Takano",
+        "original_name": "高野登",
+        "popularity": 1.0073,
+        "profile_path": null,
+        "credit_id": "637705bd2faf4d00dc998453",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456798,
+        "known_for_department": "Visual Effects",
+        "name": "Atsuko Otani",
+        "original_name": "大谷敦子",
+        "popularity": 0.7844,
+        "profile_path": null,
+        "credit_id": "637706a0156cc7009434b5a3",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456616,
+        "known_for_department": "Visual Effects",
+        "name": "Kitaro Kosaka",
+        "original_name": "高坂希太郎",
+        "popularity": 1.464,
+        "profile_path": "/wF0UPY9dL5U1ooszv2kAQVaUWjV.jpg",
+        "credit_id": "637705dde8999b00a460377a",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2583139,
+        "known_for_department": "Visual Effects",
+        "name": "Hideo Kawauchi",
+        "original_name": "河内日出夫",
+        "popularity": 1.5784,
+        "profile_path": null,
+        "credit_id": "63770665fab3fa007fbe5789",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2005949,
+        "known_for_department": "Visual Effects",
+        "name": "Iku Ishiguro",
+        "original_name": "石黒育",
+        "popularity": 1.1408,
+        "profile_path": null,
+        "credit_id": "637705e6156cc700bc406128",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83762,
+        "known_for_department": "Directing",
+        "name": "Yasuomi Umetsu",
+        "original_name": "梅津泰臣",
+        "popularity": 2.0476,
+        "profile_path": "/1dTqNJuKyF2E5UMcSlHvk5Ntu9.jpg",
+        "credit_id": "6377058211c06600c8006cc5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456614,
+        "known_for_department": "Visual Effects",
+        "name": "Megumi Kagawa",
+        "original_name": "賀川愛",
+        "popularity": 1.4044,
+        "profile_path": null,
+        "credit_id": "637705d05b2f470075318726",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77921,
+        "known_for_department": "Directing",
+        "name": "Hideaki Anno",
+        "original_name": "庵野秀明",
+        "popularity": 2.9474,
+        "profile_path": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg",
+        "credit_id": "6377056c66a7c300aab01dca",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1158434,
+        "known_for_department": "Visual Effects",
+        "name": "Reiko Okuyama",
+        "original_name": "奥山玲子",
+        "popularity": 1.1294,
+        "profile_path": "/wrsfiamP1MWpzdaVmVXkiBBfp9J.jpg",
+        "credit_id": "637705a511c06600f39ae6f2",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19604,
+        "known_for_department": "Visual Effects",
+        "name": "Kuniyuki Ishii",
+        "original_name": "石井邦幸",
+        "popularity": 0.6356,
+        "profile_path": null,
+        "credit_id": "637705d72faf4d00aa039858",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3791505,
+        "known_for_department": "Visual Effects",
+        "name": "Akio Sakai",
+        "original_name": "酒井明雄",
+        "popularity": 1.3414,
+        "profile_path": null,
+        "credit_id": "637706b1336e010082e0c7f1",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2777912,
+        "known_for_department": "Visual Effects",
+        "name": "Yukiyoshi Hane",
+        "original_name": "羽根章悦",
+        "popularity": 1.135,
+        "profile_path": null,
+        "credit_id": "63770576156cc7007f4f3ee6",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3712854,
+        "known_for_department": "Visual Effects",
+        "name": "Noriko Ozeki",
+        "original_name": "大関紀子",
+        "popularity": 1.4997,
+        "profile_path": null,
+        "credit_id": "637705ae66a7c300c3949693",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2784137,
+        "known_for_department": "Visual Effects",
+        "name": "Shojuro Yamauchi",
+        "original_name": "山内昇寿郎",
+        "popularity": 0.9452,
+        "profile_path": "/zFBb8CbDzepSSRlzEHCViKcyBRQ.jpg",
+        "credit_id": "6377059e66a7c3007a8575a0",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456780,
+        "known_for_department": "Visual Effects",
+        "name": "Noriko Moritomo",
+        "original_name": "森友典子",
+        "popularity": 0.8982,
+        "profile_path": null,
+        "credit_id": "637705b6156cc700cdd4dac6",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2052086,
+        "known_for_department": "Visual Effects",
+        "name": "Michiyo Sakurai",
+        "original_name": "桜井美知代",
+        "popularity": 0.9995,
+        "profile_path": null,
+        "credit_id": "637705c4fab3fa007ab6241b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207896,
+        "known_for_department": "Directing",
+        "name": "Yoshiyuki Momose",
+        "original_name": "百瀬義行",
+        "popularity": 1.9426,
+        "profile_path": "/7nJ5bMwWenL6WEfq0CvVNKXQcjx.jpg",
+        "credit_id": "572a2787c3a3682795000120",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555254,
+        "known_for_department": "Directing",
+        "name": "Yoshifumi Kondo",
+        "original_name": "近藤喜文",
+        "popularity": 2.14,
+        "profile_path": "/j4AdlDyugpfp5tsIC2QZqd8zxnm.jpg",
+        "credit_id": "572a29abc3a368279900018c",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456795,
+        "known_for_department": "Visual Effects",
+        "name": "Michiyo Yasuda",
+        "original_name": "保田道世",
+        "popularity": 1.5978,
+        "profile_path": null,
+        "credit_id": "574727cd9251412b4d000151",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1009730,
+        "known_for_department": "Art",
+        "name": "Nizou Yamamoto",
+        "original_name": "山本二三",
+        "popularity": 1.2807,
+        "profile_path": null,
+        "credit_id": "5747270cc3a36839f1000122",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452508,
+        "known_for_department": "Sound",
+        "name": "Michihiro Itou",
+        "original_name": "伊藤道廣",
+        "popularity": 1.2402,
+        "profile_path": null,
+        "credit_id": "59ecd8de92514119fc0141b6",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555254,
+        "known_for_department": "Directing",
+        "name": "Yoshifumi Kondo",
+        "original_name": "近藤喜文",
+        "popularity": 2.14,
+        "profile_path": "/j4AdlDyugpfp5tsIC2QZqd8zxnm.jpg",
+        "credit_id": "59ecc72392514124a700761b",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239826,
+        "known_for_department": "Sound",
+        "name": "Yasuo Uragami",
+        "original_name": "浦上靖夫",
+        "popularity": 1.0753,
+        "profile_path": null,
+        "credit_id": "59ecd2f8925141274d008ab5",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55667,
+        "known_for_department": "Production",
+        "name": "Tooru Hara",
+        "original_name": "原徹",
+        "popularity": 0.6814,
+        "profile_path": "/mrsl8Z9wqgAhWWdp4woLnKSBchQ.jpg",
+        "credit_id": "59ecd6eb925141211f00ef42",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910225,
+        "known_for_department": "Sound",
+        "name": "Noriyoshi Ohira",
+        "original_name": "大平紀義",
+        "popularity": 0.717,
+        "profile_path": null,
+        "credit_id": "59ecd99392514119fc01435b",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552597,
+        "known_for_department": "Crew",
+        "name": "Kaoru Tanifuji",
+        "original_name": "谷藤薫児",
+        "popularity": 0.6353,
+        "profile_path": null,
+        "credit_id": "59ecda549251412783009a37",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910227,
+        "known_for_department": "Sound",
+        "name": "Hisanori Ooshiro",
+        "original_name": "大城久典　",
+        "popularity": 0.3963,
+        "profile_path": null,
+        "credit_id": "59ecd9f0925141366d003c4e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1132551,
+        "known_for_department": "Art",
+        "name": "Kazu Hisamura",
+        "original_name": "久村佳津",
+        "popularity": 0.6078,
+        "profile_path": null,
+        "credit_id": "59ecd7149251412783009371",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120524,
+        "known_for_department": "Art",
+        "name": "Toru Hishiyama",
+        "original_name": "菱山徹",
+        "popularity": 1.2254,
+        "profile_path": null,
+        "credit_id": "5b63955d0e0a267ee503af59",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72417,
+        "known_for_department": "Writing",
+        "name": "Akiyuki Nosaka",
+        "original_name": "野坂昭如",
+        "popularity": 1.8695,
+        "profile_path": null,
+        "credit_id": "669fb98ecccdc58ef9b512b2",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237219,
+        "known_for_department": "Directing",
+        "name": "Yoshiji Kigami",
+        "original_name": "木上益治",
+        "popularity": 0.9826,
+        "profile_path": "/xBhjreC3CenyAvN4AgyLLe7NWtZ.jpg",
+        "credit_id": "5f860a79afe22400381a1740",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1962941,
+        "known_for_department": "Visual Effects",
+        "name": "Toshiyasu Okada",
+        "original_name": "岡田敏靖",
+        "popularity": 0.97,
+        "profile_path": null,
+        "credit_id": "68d4f2f57e44b9e1e95b13c8",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555326,
+        "known_for_department": "Art",
+        "name": "Mutsuo Koseki",
+        "original_name": "小関睦夫",
+        "popularity": 0.7,
+        "profile_path": null,
+        "credit_id": "68d50fdcfe7f611d0d19dba1",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555349,
+        "known_for_department": "Art",
+        "name": "Shuichi Hirata",
+        "original_name": "平田秀一",
+        "popularity": 1.2208,
+        "profile_path": null,
+        "credit_id": "68d50ffd9843f8d0dc19dbed",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710173,
+        "known_for_department": "Art",
+        "name": "Noriko Higuchi",
+        "original_name": "樋口法子",
+        "popularity": 0.1587,
+        "profile_path": null,
+        "credit_id": "68d5103fe9b3f2b3465b1499",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144663,
+        "known_for_department": "Art",
+        "name": "Seiki Tamura",
+        "original_name": "田村せいき",
+        "popularity": 1.2995,
+        "profile_path": null,
+        "credit_id": "68d510726072f5c7b5a2bd57",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5710178,
+        "known_for_department": "Art",
+        "name": "Yoshinari Kanebako",
+        "original_name": "金箱良成",
+        "popularity": 0.1056,
+        "profile_path": null,
+        "credit_id": "68d510a7ceefc3afcf19dbb8",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2032192,
+        "known_for_department": "Art",
+        "name": "Yoji Nakaza",
+        "original_name": "中座洋次",
+        "popularity": 1.2558,
+        "profile_path": null,
+        "credit_id": "68d510e769dd9e428213a396",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5710181,
+        "known_for_department": "Art",
+        "name": "Fukiko Hashizume",
+        "original_name": "橋爪冨紀子",
+        "popularity": 0.1882,
+        "profile_path": null,
+        "credit_id": "68d511a9f0da4c2dc813a472",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5710185,
+        "known_for_department": "Art",
+        "name": "Eiko Sudo",
+        "original_name": "須藤栄子",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "68d51273604804bfda5b149e",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1843030,
+        "known_for_department": "Art",
+        "name": "Eiji Hirakawa",
+        "original_name": "平川栄治",
+        "popularity": 0.362,
+        "profile_path": null,
+        "credit_id": "68d5132f409d5e52ca40d802",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456799,
+        "known_for_department": "Art",
+        "name": "Junko Ina",
+        "original_name": "伊奈淳子",
+        "popularity": 1.0766,
+        "profile_path": null,
+        "credit_id": "68d513478d823d9f0ef20b72",
+        "department": "Art",
+        "job": "Background Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 12477,
+    "keywords": [
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 1899,
+        "name": "hunger"
+      },
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 11159,
+        "name": "wartime"
+      },
+      {
+        "id": 4917,
+        "name": "shelter"
+      },
+      {
+        "id": 15354,
+        "name": "struggle for survival"
+      },
+      {
+        "id": 161246,
+        "name": "pacific theater"
+      },
+      {
+        "id": 161919,
+        "name": "adult animation"
+      },
+      {
+        "id": 165402,
+        "name": "semi autobiographical"
+      },
+      {
+        "id": 165431,
+        "name": "anti war"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 210162,
+        "name": "grim"
+      },
+      {
+        "id": 236343,
+        "name": "orphan siblings"
+      },
+      {
+        "id": 241982,
+        "name": "children in wartime"
+      },
+      {
+        "id": 325801,
+        "name": "distressing"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gMWCBtvIWLm4APa2qlF7QATvQS3.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1458643,
+        "original_language": "ja",
+        "original_title": "ツインズひなひま",
+        "overview": "Two girls dream of going viral on TikToker until they discover something strange in their videos.",
+        "popularity": 0.3121,
+        "poster_path": "/jZjjExtPubcdteOQTSIS0j5eKdV.jpg",
+        "release_date": "2025-03-28",
+        "title": "Twins Hinahima",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yWZCOzib7BipGjYJ39nrplb1Fy.jpg",
+        "genre_ids": [
+          28,
+          16,
+          878
+        ],
+        "id": 303857,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールZ 復活の「F」",
+        "overview": "One peaceful day on Earth, two remnants of Frieza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.",
+        "popularity": 7.9243,
+        "poster_path": "/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+        "release_date": "2015-04-18",
+        "title": "Dragon Ball Z: Resurrection 'F'",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 1976
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k5OFuW1NdI1Lt57nzXEjxwd8zGv.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          28,
+          35,
+          18
+        ],
+        "id": 303903,
+        "original_language": "ja",
+        "original_title": "ポケモン・ザ・ムービーXY 破壊の繭とディアンシー",
+        "overview": "In the underground Diamond Domain, where many Carbink live, the Mythical Pokémon Diancie serves as ruler. The Heart Diamond that sustains the land is beginning to fall apart, and Diancie is not yet strong enough to create a new one. While seeking help from the Legendary Pokémon Xerneas, Diancie encounters a group of thieves who want to take control of its diamond-producing power–and who awaken the Legendary Pokémon Yveltal from its cocoon in the process! Can Ash and his friends help Diancie discover its true power, stop Yveltal’s rampage, and save the Diamond Domain?",
+        "popularity": 6.0658,
+        "poster_path": "/rA0KbJZbBt2fMmZs8bwPZnzFfDc.jpg",
+        "release_date": "2014-07-19",
+        "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 191
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7kHxNCeUcROtri3XKUubXBwDEfq.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          10752
+        ],
+        "id": 38018,
+        "original_language": "fr",
+        "original_title": "Les égarés",
+        "overview": "Fleeing the June 1940 arrival of Hitler's army in Paris, a young war widow and her two children are rescued from dive-bombing German fighters by a cocky, reckless teenager. He finds them refuge in an abandoned house, but despite the fact that the family quickly comes to be depending much on his cunning and survival abilities, their cohabitation proves uneasy.",
+        "popularity": 6.8933,
+        "poster_path": "/94aX13B3Rjz6F8lqV1fkvnXYrAI.jpg",
+        "release_date": "2003-08-20",
+        "title": "Strayed",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bc8st5DZuqAXB3qaDvIBF4hP7Wk.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 38047,
+        "original_language": "ja",
+        "original_title": "ユリイカ",
+        "overview": "In rural Japan, the survivors of a tragedy converge and attempt to overcome their damaged selves, all while a serial killer is on the loose.",
+        "popularity": 1.3712,
+        "poster_path": "/smwoc0sb54q6kDpIw4Kh6UCTkJ.jpg",
+        "release_date": "2001-01-20",
+        "title": "Eureka",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 97
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zTgzGV8UYvc3XjIlqaGaujp6tGd.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1071639,
+        "original_language": "ja",
+        "original_title": "平野と鍵浦",
+        "overview": "The diligent high school freshman Akira Kagiura and his senior Taiga Hirano have been roommates for half a year. Kagiura used to be anxious about his future dormitory life, but thanks to his energetic senior looking out for him, he has come to feel content and at ease. As he continues to rely on Hirano more and more each day, he develops strong feelings for his selfless friend. In the six months they have left as roommates, Kagiura is determined to put a name to the relationship he cherishes so dearly before it comes to an end.",
+        "popularity": 0.5381,
+        "poster_path": "/dbgRc2vtKqOf0IpzvtAoovClFAU.jpg",
+        "release_date": "2023-02-17",
+        "title": "Hirano and Kagiura",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wqZ8srpGacl6BVdvERdlD47Jw8J.jpg",
+        "genre_ids": [
+          28,
+          10752,
+          10770
+        ],
+        "id": 36571,
+        "original_language": "en",
+        "original_title": "The Dirty Dozen: Next Mission",
+        "overview": "Major Reisman is \"volunteered\" to lead another mission using convicted army soldiers, sentenced to either death or long prison terms. This time their mission is to kill a Nazi general who plans to assassinate Hitler.",
+        "popularity": 0.9003,
+        "poster_path": "/IziImBRpTvMXptgaIRUoYtXhvh.jpg",
+        "release_date": "1985-02-04",
+        "title": "The Dirty Dozen: Next Mission",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 85
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8kxc1rCp4TwCAcoq9qAOAAml1iX.jpg",
+        "genre_ids": [
+          12,
+          10752,
+          28
+        ],
+        "id": 36573,
+        "original_language": "en",
+        "original_title": "The Dirty Dozen: The Fatal Mission",
+        "overview": "A renegade team of World War II soldiers. This time, one of the 12 is a woman and, with a Nazi spy within their midst, they're up against German wartime geniuses out to establish a Fourth Reich.",
+        "popularity": 1.1029,
+        "poster_path": "/hpt8qLDeqg0KWWDcZlJgIKvcKXX.jpg",
+        "release_date": "1988-11-10",
+        "title": "The Dirty Dozen: The Fatal Mission",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 49
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yMwG5gA4ae73RfO79zYKvWFXArF.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 36611,
+        "original_language": "en",
+        "original_title": "Quiet Please, Murder",
+        "overview": "A forger steals and kills for a rare book from a library in order to make forgeries to  sell to rich suckers.",
+        "popularity": 1.4787,
+        "poster_path": "/3lgyZPoppBe5L15YKOI2MFLUes3.jpg",
+        "release_date": "1943-03-19",
+        "title": "Quiet Please, Murder",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zA9p0cZK0AcWepTslez1GL3AwH1.jpg",
+        "genre_ids": [
+          16,
+          878,
+          18,
+          28
+        ],
+        "id": 36613,
+        "original_language": "ja",
+        "original_title": "機動戦艦ナデシコ -The prince of darkness-",
+        "overview": "Two years have passed since the Great War. Akito and Yurika have vanished. The Jovians and the Earthlings have joined forces and Ruri is now captain of Nadesico B. As the popularity of Boson Jumping grows, a vast transportation network has been developed. Dubbed the Hisago Plan, this network of Chulip portals holds the answers to the mysteries behind Bose particles and their power. If those secrets should fall into the wrong hands, it could mean big trouble. And big trouble there is. A Martian splinter group has launched an offensive, leaving the United Forces befuddled and desperate. So much so, in fact, that the former crew of the Nadesico is called back to active duty for a special unsanctioned mission-to save us all. Does this menagerie of misfits have what it takes? Who will win the race for the Boson technology? And what the heck happened to Akito and Yurika?",
+        "popularity": 1.0221,
+        "poster_path": "/bcLVfVAQthw78bGNIoZWATsPdbP.jpg",
+        "release_date": "1998-08-08",
+        "title": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j8zu86NqJSr7QhatgJT8vJzxpnz.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 36616,
+        "original_language": "en",
+        "original_title": "Bebe's Kids",
+        "overview": "When Robin meets the lovely Jamika he thinks he's in heaven. But when he meets her friend Bebe's children, whom she is looking after, he knows he's in hell.",
+        "popularity": 1.2443,
+        "poster_path": "/uuUHtdsxLqr79QlCCnJNwPkOTTB.jpg",
+        "release_date": "1992-07-31",
+        "title": "Bebe's Kids",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/g8hNfUqtE2qm4QTXiOo2It18bGu.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 1454951,
+        "original_language": "fr",
+        "original_title": "Adelphité",
+        "overview": "",
+        "popularity": 0.7532,
+        "poster_path": "/1AIbwiq49kWyLKlh6Tn6j3y3aFY.jpg",
+        "release_date": "2025-03-20",
+        "title": "Adelphité",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2Rf9I9RVkmeneB1M4Cl7Y4N9gDC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 32708,
+        "original_language": "fr",
+        "original_title": "Laisve",
+        "overview": "A few fugitives... And a very, very long way to freedom.",
+        "popularity": 1.7628,
+        "poster_path": "/7AGvLmYvNb57Mz4OETZusdN3mM3.jpg",
+        "release_date": "2000-10-10",
+        "title": "Freedom",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tl3B9WLoPEUhntU5r7EndEhL0kq.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 32868,
+        "original_language": "en",
+        "original_title": "The Vicious Kind",
+        "overview": "A man tries to warn his brother away from the new girlfriend he brings home during Thanksgiving, but ends up becoming infatuated with her in the process.",
+        "popularity": 0.441,
+        "poster_path": "/krPQzshOanbgWiwk7VUO1TF71pg.jpg",
+        "release_date": "2009-12-11",
+        "title": "The Vicious Kind",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 123
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b6AuqUdYl5BV7eIeEL8BuMBfwJ7.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          28,
+          80
+        ],
+        "id": 32873,
+        "original_language": "ja",
+        "original_title": "ルパン三世 バビロンの黄金伝説",
+        "overview": "Lupin squares off with two criminal families and Inspector Zenigata's new female patrol to track down a hoard of biblical-era treasure.",
+        "popularity": 1.4937,
+        "poster_path": "/kpLbAF7NOBGEf1ocGKIIoiDhovC.jpg",
+        "release_date": "1985-07-13",
+        "title": "Lupin the Third: The Legend of the Gold of Babylon",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 57
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b1CEejB82HcpoPdtHWAHOPWboJH.jpg",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          878
+        ],
+        "id": 301470,
+        "original_language": "ja",
+        "original_title": "モルダイバー",
+        "overview": "A naïve young girl accidentally modifies her brother's secret superhero uniform and becomes the unwilling superheroine Moldiver.",
+        "popularity": 0.5226,
+        "poster_path": "/9YZrnEs1DCD5BLyIsOOaz9zKdvJ.jpg",
+        "release_date": "1993-06-01",
+        "title": "Moldiver",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+        "genre_ids": [
+          28,
+          16,
+          18
+        ],
+        "id": 301513,
+        "original_language": "ja",
+        "original_title": "あしたのジョー 劇場版",
+        "overview": "An abridged remake of the first Ashita no Joe TV series, released in 1980 to provide back-story for the second TV series to new fans who were not familiar with the first TV series or the manga.",
+        "popularity": 0.7666,
+        "poster_path": "/gOfIbRRlYlngL3ymChUUEDu95rb.jpg",
+        "release_date": "1980-03-08",
+        "title": "Tomorrow's Joe The Movie",
+        "video": false,
+        "vote_average": 8.833,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iZrfY0w4s91XfRzEOf3kFMjrw5G.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          10749
+        ],
+        "id": 35690,
+        "original_language": "en",
+        "original_title": "The Last Song",
+        "overview": "A drama centered on a rebellious girl who is sent to a Southern beach town for the summer to stay with her father. Through their mutual love of music, the estranged duo learn to reconnect.",
+        "popularity": 1.9357,
+        "poster_path": "/76twEOHXAM2oKnvZYBI5bP6GeDu.jpg",
+        "release_date": "2010-03-31",
+        "title": "The Last Song",
+        "video": false,
+        "vote_average": 7.234,
+        "vote_count": 3361
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rNlT8SCVyDJinTQdMR2QU7eGaFb.jpg",
+        "genre_ids": [
+          28,
+          16
+        ],
+        "id": 35837,
+        "original_language": "es",
+        "original_title": "Boogie, el Aceitoso",
+        "overview": "Hoping to make some money, Boogie, a violent and ruthless assassin, kidnaps a witness a mafia boss wants dead.",
+        "popularity": 0.6475,
+        "poster_path": "/7AkYQbzcr2q0ls8YKGaKSJktUrX.jpg",
+        "release_date": "2009-10-22",
+        "title": "Boogie",
+        "video": false,
+        "vote_average": 6.859,
+        "vote_count": 103
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 684159,
+        "original_language": "zh",
+        "original_title": "归心似箭",
+        "overview": "A wounded soldier of the Northeast Anti-Japanese forces is found and helped by a local girl. They fall in love, but the soldier wants to return to his team.",
+        "popularity": 0.2083,
+        "poster_path": "/vNEqG8CY5PBIoU5hpcZM0qkaNHH.jpg",
+        "release_date": "1979-01-01",
+        "title": "Anxious to Return",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 17583,
+    "total_results": 351657
+  }
+}

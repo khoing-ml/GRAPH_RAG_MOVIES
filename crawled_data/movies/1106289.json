@@ -1,0 +1,1275 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "https://www.amazon.com/gp/video/detail/B0DQ6S1PJC",
+    "id": 1106289,
+    "imdb_id": "tt30445556",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Pickup",
+    "overview": "A routine cash pickup takes a wild turn when mismatched armored truck drivers Russell and Travis are ambushed by ruthless criminals led by savvy mastermind Zoe.",
+    "popularity": 17.189,
+    "poster_path": "/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg",
+    "production_companies": [
+      {
+        "id": 77061,
+        "logo_path": null,
+        "name": "The Story Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 30,
+        "logo_path": null,
+        "name": "Eddie Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-07-27",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "They're armed but she's dangerous.",
+    "title": "The Pickup",
+    "video": false,
+    "vote_average": 6.419,
+    "vote_count": 421
+  },
+  "credits": {
+    "id": 1106289,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 776,
+        "known_for_department": "Acting",
+        "name": "Eddie Murphy",
+        "original_name": "Eddie Murphy",
+        "popularity": 5.5264,
+        "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
+        "cast_id": 1,
+        "character": "Russell",
+        "credit_id": "6424769a8de0ae00978b4750",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427948,
+        "known_for_department": "Acting",
+        "name": "Pete Davidson",
+        "original_name": "Pete Davidson",
+        "popularity": 4.0044,
+        "profile_path": "/f3kubnZu3KgMniExcq9nJy8RwjW.jpg",
+        "cast_id": 10,
+        "character": "Travis",
+        "credit_id": "657b5fd6ea3949011b3c9d4d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74688,
+        "known_for_department": "Acting",
+        "name": "Keke Palmer",
+        "original_name": "Keke Palmer",
+        "popularity": 4.2009,
+        "profile_path": "/fXiKInUmPLs5F53yv2KZSuCXHJZ.jpg",
+        "cast_id": 11,
+        "character": "Zoe",
+        "credit_id": "657bf66da0be28011da2bb52",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52605,
+        "known_for_department": "Acting",
+        "name": "Eva Longoria",
+        "original_name": "Eva Longoria",
+        "popularity": 3.3354,
+        "profile_path": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg",
+        "cast_id": 12,
+        "character": "Natalie",
+        "credit_id": "65df85ef7f2d4a018667c02d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292258,
+        "known_for_department": "Acting",
+        "name": "Jack Kesy",
+        "original_name": "Jack Kesy",
+        "popularity": 1.4699,
+        "profile_path": "/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg",
+        "cast_id": 14,
+        "character": "Banner",
+        "credit_id": "65df85ff17b5ef0163dae37c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1100144,
+        "known_for_department": "Acting",
+        "name": "Ismael Cruz Cordova",
+        "original_name": "Ismael Cruz Cordova",
+        "popularity": 1.6254,
+        "profile_path": "/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg",
+        "cast_id": 13,
+        "character": "Miguel",
+        "credit_id": "65df85f87f2d4a018667c034",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57906,
+        "known_for_department": "Acting",
+        "name": "Andrew Dice Clay",
+        "original_name": "Andrew Dice Clay",
+        "popularity": 2.3282,
+        "profile_path": "/xwNn8mJrhww89P2pIVkWnaTlqHw.jpg",
+        "cast_id": 16,
+        "character": "Clark",
+        "credit_id": "65df861a140bad018694e84b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420679,
+        "known_for_department": "Acting",
+        "name": "Marshawn Lynch",
+        "original_name": "Marshawn Lynch",
+        "popularity": 0.7596,
+        "profile_path": "/ze8ZCRhiXGfYHmSCyBbA77gqr74.jpg",
+        "cast_id": 15,
+        "character": "Chop Shop",
+        "credit_id": "65df86067614210162d55543",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170011,
+        "known_for_department": "Acting",
+        "name": "Joe Anoa'i",
+        "original_name": "Joe Anoa'i",
+        "popularity": 2.2705,
+        "profile_path": "/6BKc77eAUBQdL9MmgBorBc4SMdE.jpg",
+        "cast_id": 24,
+        "character": "MMA Fighter",
+        "credit_id": "68371d843fad04dca6a87aad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2090355,
+        "known_for_department": "Acting",
+        "name": "Jef Holbrook",
+        "original_name": "Jef Holbrook",
+        "popularity": 0.6152,
+        "profile_path": "/huB6TwdSCsF18wuuM3rlbNNpDW2.jpg",
+        "cast_id": 35,
+        "character": "Mikey",
+        "credit_id": "689368bdea656e92817d05ba",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94428,
+        "known_for_department": "Acting",
+        "name": "Lara Grice",
+        "original_name": "Lara Grice",
+        "popularity": 0.8066,
+        "profile_path": "/kDJ5sBQPoMqhSPpLXa0IaQ8Gc0e.jpg",
+        "cast_id": 36,
+        "character": "Waitress",
+        "credit_id": "689368f203bd4bc17811e639",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80779,
+        "known_for_department": "Acting",
+        "name": "Enoch King",
+        "original_name": "Enoch King",
+        "popularity": 0.1688,
+        "profile_path": "/48IxJhwN6Vi9yeGtCMgQppROCDE.jpg",
+        "cast_id": 37,
+        "character": "Service Entrance Guard",
+        "credit_id": "6893691c2ec41566d51d5f73",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232749,
+        "known_for_department": "Acting",
+        "name": "Nelson Bonilla",
+        "original_name": "Nelson Bonilla",
+        "popularity": 2.0047,
+        "profile_path": "/cLD3PPFRxqOx2r5PqFk3I4Dpj5q.jpg",
+        "cast_id": 38,
+        "character": "Casino Guard",
+        "credit_id": "6893695dcd114ef50061ffab",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58718,
+        "known_for_department": "Production",
+        "name": "Ray Murphy Jr.",
+        "original_name": "Ray Murphy Jr.",
+        "popularity": 0.4627,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "MMA Manager",
+        "credit_id": "6893699c899f40efdf7d033b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1389621,
+        "known_for_department": "Crew",
+        "name": "Keith Adams",
+        "original_name": "Keith Adams",
+        "popularity": 0.2759,
+        "profile_path": "/kRIwTiydG83H6AXF77wS0TJlRuW.jpg",
+        "cast_id": 40,
+        "character": "Armored Truck Driver",
+        "credit_id": "689369d96d4d202ac0991a3a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536821,
+        "known_for_department": "Acting",
+        "name": "Charles Green",
+        "original_name": "Charles Green",
+        "popularity": 0.4496,
+        "profile_path": "/k98xii0Z56NtL8WdOoAIYIwqyIQ.jpg",
+        "cast_id": 41,
+        "character": "Older Guard",
+        "credit_id": "68936a89bb22289fdf6200ba",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1613974,
+        "known_for_department": "Acting",
+        "name": "Regina Ting Chen",
+        "original_name": "Regina Ting Chen",
+        "popularity": 1.6419,
+        "profile_path": "/7Lqwq6UYbZd7XyMujUKUVUHGSIb.jpg",
+        "cast_id": 42,
+        "character": "Police Officer",
+        "credit_id": "68936ad194684b9b457d0433",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5610057,
+        "known_for_department": "Acting",
+        "name": "Bethany Rachel Tull",
+        "original_name": "Bethany Rachel Tull",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "BNB Staff",
+        "credit_id": "68936af494684b9b457d043e",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5612836,
+        "known_for_department": "Acting",
+        "name": "Christopher Davis",
+        "original_name": "Christopher Davis",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Drill Sergeant at Police Academy",
+        "credit_id": "6895095b06d06c1c3107c7de",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635196,
+        "known_for_department": "Crew",
+        "name": "Laurence Chavez",
+        "original_name": "Laurence Chavez",
+        "popularity": 0.9879,
+        "profile_path": "/egig2qLfKqdq10cexZABDwKjdnF.jpg",
+        "cast_id": 45,
+        "character": "Mr. Coriano",
+        "credit_id": "68950a5cd4558c5a6299aac2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2043329,
+        "known_for_department": "Acting",
+        "name": "Leydi Morales",
+        "original_name": "Leydi Morales",
+        "popularity": 1.4602,
+        "profile_path": "/jvuNgvaymVvvgCcYpqiv0hSIjTN.jpg",
+        "cast_id": 46,
+        "character": "Mrs. Coriano",
+        "credit_id": "68950a76d1e3abf57a07c8aa",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1560972,
+        "known_for_department": "Camera",
+        "name": "Quantrell D. Colbert",
+        "original_name": "Quantrell D. Colbert",
+        "popularity": 0.2445,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Photographer",
+        "credit_id": "68950a8a2531881a38a32d6e",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5305392,
+        "known_for_department": "Acting",
+        "name": "Hector Padilla",
+        "original_name": "Hector Padilla",
+        "popularity": 0.082,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Operations Security",
+        "credit_id": "68950ab91d34f51f6399ab4f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612866,
+        "known_for_department": "Acting",
+        "name": "Gabrielle Drum",
+        "original_name": "Gabrielle Drum",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Armored Transport Guard (uncredited)",
+        "credit_id": "68950bd30d2104cc4e07c762",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612867,
+        "known_for_department": "Acting",
+        "name": "Marvon Hardy",
+        "original_name": "Marvon Hardy",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Mechanic (uncredited)",
+        "credit_id": "68950c090d7fc32b7c28a69c",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612869,
+        "known_for_department": "Acting",
+        "name": "Toby Kibue",
+        "original_name": "Toby Kibue",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Armored Vehicle Mechanic (uncredited)",
+        "credit_id": "68950c69ef786223fd9db405",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2720295,
+        "known_for_department": "Acting",
+        "name": "Chelsea Rivera",
+        "original_name": "Chelsea Rivera",
+        "popularity": 0.7788,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Clerk (uncredited)",
+        "credit_id": "68950cc3ad6d1e67739db489",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570968,
+        "known_for_department": "Acting",
+        "name": "Vinnie Varon",
+        "original_name": "Vinnie Varon",
+        "popularity": 0.1965,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Armour Car Guard (uncredited)",
+        "credit_id": "68950d15756989794599aa47",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2749590,
+        "known_for_department": "Acting",
+        "name": "Josh Turner",
+        "original_name": "Josh Turner",
+        "popularity": 0.3059,
+        "profile_path": "/FgTJVc1cswQGgkO0IHy0nCtEFq.jpg",
+        "cast_id": 58,
+        "character": "Tko (uncredited)",
+        "credit_id": "68950d9a2a40b2aa9e4d949b",
+        "order": 28
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20400,
+        "known_for_department": "Directing",
+        "name": "Tim Story",
+        "original_name": "Tim Story",
+        "popularity": 1.0198,
+        "profile_path": "/9tixtZ4m2gpfBXPpVS2aFhGZg9D.jpg",
+        "credit_id": "642476a7c044290213043f43",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2043,
+        "known_for_department": "Production",
+        "name": "John Davis",
+        "original_name": "John Davis",
+        "popularity": 1.409,
+        "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+        "credit_id": "64247701a3e4ba00b42248b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1522988,
+        "known_for_department": "Production",
+        "name": "John Fox",
+        "original_name": "John Fox",
+        "popularity": 0.6606,
+        "profile_path": null,
+        "credit_id": "6424770f960cde00771161d6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 776,
+        "known_for_department": "Acting",
+        "name": "Eddie Murphy",
+        "original_name": "Eddie Murphy",
+        "popularity": 5.5264,
+        "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
+        "credit_id": "642477206905fb009ad6f476",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2446240,
+        "known_for_department": "Production",
+        "name": "Charisse M. Hewitt",
+        "original_name": "Charisse M. Hewitt",
+        "popularity": 0.1504,
+        "profile_path": null,
+        "credit_id": "6424772fa3e4ba011148a062",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20400,
+        "known_for_department": "Directing",
+        "name": "Tim Story",
+        "original_name": "Tim Story",
+        "popularity": 1.0198,
+        "profile_path": "/9tixtZ4m2gpfBXPpVS2aFhGZg9D.jpg",
+        "credit_id": "64247739c99826010adffc64",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2282383,
+        "known_for_department": "Crew",
+        "name": "Amanda Bradley",
+        "original_name": "Amanda Bradley",
+        "popularity": 0.3794,
+        "profile_path": "/gqHsBf8ufWfzgNFhJSVelK92rsV.jpg",
+        "credit_id": "6647bf07a21d8730a48bc365",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309903,
+        "known_for_department": "Crew",
+        "name": "Kevin Waterman",
+        "original_name": "Kevin Waterman",
+        "popularity": 0.8759,
+        "profile_path": "/kFnoNPnSsn7gV3Rczhg0kdYVLUc.jpg",
+        "credit_id": "665c501f42ead99b8da63469",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544394,
+        "known_for_department": "Crew",
+        "name": "Aja Frary",
+        "original_name": "Aja Frary",
+        "popularity": 0.6175,
+        "profile_path": "/CnFD5UlbVt0w5TN3HpkT2FROpa.jpg",
+        "credit_id": "667ad28329f82807a1568519",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544394,
+        "known_for_department": "Crew",
+        "name": "Aja Frary",
+        "original_name": "Aja Frary",
+        "popularity": 0.6175,
+        "profile_path": "/CnFD5UlbVt0w5TN3HpkT2FROpa.jpg",
+        "credit_id": "667ad2894f54b6bc048be5c9",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49911,
+        "known_for_department": "Sound",
+        "name": "Christopher Lennertz",
+        "original_name": "Christopher Lennertz",
+        "popularity": 0.3234,
+        "profile_path": "/4WIa3Ntb4tDzXrOTvuhpKbKDJuc.jpg",
+        "credit_id": "67757a0c09b80f9bb312807e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974026,
+        "known_for_department": "Writing",
+        "name": "Kevin Burrows",
+        "original_name": "Kevin Burrows",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "credit_id": "68371cdc6bb72f9864056342",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172875,
+        "known_for_department": "Writing",
+        "name": "Matt Mider",
+        "original_name": "Matt Mider",
+        "popularity": 2.0183,
+        "profile_path": "/e0A7iRp67GN9Mix8SO5L4DHe56T.jpg",
+        "credit_id": "68371ce9a4f5e75043b6e18d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974026,
+        "known_for_department": "Writing",
+        "name": "Kevin Burrows",
+        "original_name": "Kevin Burrows",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "credit_id": "684000520aa8d8b170fcb22d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11014,
+        "known_for_department": "Production",
+        "name": "Ross T. Fanger",
+        "original_name": "Ross T. Fanger",
+        "popularity": 0.6579,
+        "profile_path": "/afnxhWozOVUjH22yPL8cP0616ql.jpg",
+        "credit_id": "6840005e8ff65fc839f2c09c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172875,
+        "known_for_department": "Writing",
+        "name": "Matt Mider",
+        "original_name": "Matt Mider",
+        "popularity": 2.0183,
+        "profile_path": "/e0A7iRp67GN9Mix8SO5L4DHe56T.jpg",
+        "credit_id": "6840006d884f4a63b3fcb272",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1182349,
+        "known_for_department": "Production",
+        "name": "Jeremy Stein",
+        "original_name": "Jeremy Stein",
+        "popularity": 0.2596,
+        "profile_path": null,
+        "credit_id": "6840007e270ba5aa01fdbf0b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5482632,
+        "known_for_department": "Production",
+        "name": "Vicky Mara Story",
+        "original_name": "Vicky Mara Story",
+        "popularity": 0.3825,
+        "profile_path": null,
+        "credit_id": "6840008bf65a7ddf1228995b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20406,
+        "known_for_department": "Camera",
+        "name": "Larry Blanford",
+        "original_name": "Larry Blanford",
+        "popularity": 0.2314,
+        "profile_path": null,
+        "credit_id": "684000a80dcb84ea5c7f4d66",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6742,
+        "known_for_department": "Editing",
+        "name": "Craig Alpert",
+        "original_name": "Craig Alpert",
+        "popularity": 0.3354,
+        "profile_path": "/bYDRvNYRtQW5H9qEqimbJDudcXt.jpg",
+        "credit_id": "684000b18cc7f133477f4d29",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5914,
+        "known_for_department": "Production",
+        "name": "Mary Vernieu",
+        "original_name": "Mary Vernieu",
+        "popularity": 0.7241,
+        "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+        "credit_id": "684000ba19d476dd3468a99b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1521110,
+        "known_for_department": "Production",
+        "name": "Michelle Wade Byrd",
+        "original_name": "Michelle Wade Byrd",
+        "popularity": 1.1807,
+        "profile_path": null,
+        "credit_id": "684000c2f65a7ddf12289961",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2719980,
+        "known_for_department": "Visual Effects",
+        "name": "Matt Welford",
+        "original_name": "Matt Welford",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "6852d7a178b2d30b4b312887",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1560972,
+        "known_for_department": "Camera",
+        "name": "Quantrell D. Colbert",
+        "original_name": "Quantrell D. Colbert",
+        "popularity": 0.2445,
+        "profile_path": null,
+        "credit_id": "68950aa4775380799628a740",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15524,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ruth E. Carter",
+        "original_name": "Ruth E. Carter",
+        "popularity": 0.7634,
+        "profile_path": "/ou4DhIfOTd5FYIvPypV53Fdois6.jpg",
+        "credit_id": "6915c35357e51d6fe73a40b9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4197,
+        "known_for_department": "Art",
+        "name": "Clay A. Griffith",
+        "original_name": "Clay A. Griffith",
+        "popularity": 0.5502,
+        "profile_path": null,
+        "credit_id": "6915c365312ecd29889ad56f",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1106289,
+    "keywords": [
+      {
+        "id": 642,
+        "name": "robbery"
+      },
+      {
+        "id": 4898,
+        "name": "armored car"
+      },
+      {
+        "id": 10291,
+        "name": "organized crime"
+      },
+      {
+        "id": 10950,
+        "name": "shootout"
+      },
+      {
+        "id": 319397,
+        "name": "witty"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 325816,
+        "name": "forceful"
+      },
+      {
+        "id": 325832,
+        "name": "joyful"
+      },
+      {
+        "id": 356660,
+        "name": "car chases"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/dGOZdWOB8OpZFVziEOUFhox5wz9.jpg",
+        "genre_ids": [
+          18,
+          28,
+          80,
+          53
+        ],
+        "id": 155,
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 26.7515,
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "release_date": "2008-07-16",
+        "title": "The Dark Knight",
+        "video": false,
+        "vote_average": 8.525,
+        "vote_count": 34930
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          18
+        ],
+        "id": 164,
+        "original_language": "en",
+        "original_title": "Breakfast at Tiffany's",
+        "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+        "popularity": 6.2143,
+        "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "release_date": "1961-10-06",
+        "title": "Breakfast at Tiffany's",
+        "video": false,
+        "vote_average": 7.628,
+        "vote_count": 4389
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 177,
+        "original_language": "en",
+        "original_title": "The Fisher King",
+        "overview": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.",
+        "popularity": 4.1572,
+        "poster_path": "/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
+        "release_date": "1991-09-20",
+        "title": "The Fisher King",
+        "video": false,
+        "vote_average": 7.302,
+        "vote_count": 1416
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+        "genre_ids": [
+          878,
+          80
+        ],
+        "id": 185,
+        "original_language": "en",
+        "original_title": "A Clockwork Orange",
+        "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+        "popularity": 9.2074,
+        "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "release_date": "1971-10-28",
+        "title": "A Clockwork Orange",
+        "video": false,
+        "vote_average": 8.181,
+        "vote_count": 13518
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80,
+          9648
+        ],
+        "id": 186,
+        "original_language": "en",
+        "original_title": "Lucky Number Slevin",
+        "overview": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+        "popularity": 4.013,
+        "poster_path": "/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+        "release_date": "2006-02-24",
+        "title": "Lucky Number Slevin",
+        "video": false,
+        "vote_average": 7.478,
+        "vote_count": 4314
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10749
+        ],
+        "id": 195,
+        "original_language": "en",
+        "original_title": "Trouble in Paradise",
+        "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
+        "popularity": 0.8175,
+        "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+        "release_date": "1932-10-30",
+        "title": "Trouble in Paradise",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 299
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 196,
+        "original_language": "en",
+        "original_title": "Back to the Future Part III",
+        "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+        "popularity": 11.6582,
+        "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "release_date": "1990-05-25",
+        "title": "Back to the Future Part III",
+        "video": false,
+        "vote_average": 7.489,
+        "vote_count": 11219
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 33.0354,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.685,
+        "vote_count": 22232
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 18.3623,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 13443
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 242,
+        "original_language": "en",
+        "original_title": "The Godfather Part III",
+        "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+        "popularity": 14.4319,
+        "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+        "release_date": "1990-12-25",
+        "title": "The Godfather Part III",
+        "video": false,
+        "vote_average": 7.418,
+        "vote_count": 6644
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmP4COlAaowO0FniW30aatOcmMq.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749,
+          10402
+        ],
+        "id": 243,
+        "original_language": "en",
+        "original_title": "High Fidelity",
+        "overview": "After his long-time girlfriend dumps him, a thirty-year-old record store owner seeks to understand why he is unlucky in love while recounting his \"top five breakups of all time\".",
+        "popularity": 2.293,
+        "poster_path": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+        "release_date": "2000-03-17",
+        "title": "High Fidelity",
+        "video": false,
+        "vote_average": 7.122,
+        "vote_count": 2118
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2EltoldCMsYmP2BXJVGiuNalEWv.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 247,
+        "original_language": "en",
+        "original_title": "The Killing",
+        "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own.",
+        "popularity": 2.2345,
+        "poster_path": "/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+        "release_date": "1956-06-06",
+        "title": "The Killing",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 1661
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bZt4CwuaZWadSh9OEcNQCZbPFR1.jpg",
+        "genre_ids": [
+          28,
+          35,
+          80
+        ],
+        "id": 250,
+        "original_language": "da",
+        "original_title": "I Kina spiser de hunde",
+        "overview": "Arvid is an ordinary bank clerk who lives a rather unassuming life with his dear girlfriend. But his life is turned completely upside down when he bravely manages to avert a robbery against the bank where he works.",
+        "popularity": 2.257,
+        "poster_path": "/v78NxEyzsElWnwSvGWpvf2DCzP9.jpg",
+        "release_date": "1999-09-10",
+        "title": "In China They Eat Dogs",
+        "video": false,
+        "vote_average": 7.339,
+        "vote_count": 282
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ghqGfSzVGzTihG5GgqxInc4kznM.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10770
+        ],
+        "id": 1429578,
+        "original_language": "pt",
+        "original_title": "Família em Construção",
+        "overview": "In the disciplined world of boxing, Fabiana maintains order as a referee, but her life takes an unexpected turn when she decides to adopt Dudu, a troubled 12-year-old boy. To get out of this, she must reconnect with his father, a frustrated actor. While society favors “perfect” mothers, fathers and children, this unlikely trio faces challenges and discovers that family is much more than an ideal model.",
+        "popularity": 0.1621,
+        "poster_path": "/aeWLRcNhdSa6K0BTqF2uk9PrsoW.jpg",
+        "release_date": "2025-02-22",
+        "title": "Família em Construção",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n3xQzPy9UPP7Ywm2Y2PWC0qjCCh.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 59,
+        "original_language": "en",
+        "original_title": "A History of Violence",
+        "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+        "popularity": 3.2179,
+        "poster_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+        "release_date": "2005-09-23",
+        "title": "A History of Violence",
+        "video": false,
+        "vote_average": 7.161,
+        "vote_count": 3569
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 94,
+        "original_language": "de",
+        "original_title": "Kunstgriff",
+        "overview": "Kunstgriff is a brilliantly filmed black and white short film. Andre F. Nebe gives proof of his storytelling abilities in this 6 minute film.",
+        "popularity": 0.7086,
+        "poster_path": "/82CFTXepfmETr2C4n7ZlrpLyjAx.jpg",
+        "release_date": "2002-01-01",
+        "title": "Kunstgriff",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+        "genre_ids": [
+          28,
+          35,
+          80
+        ],
+        "id": 96,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop II",
+        "overview": "Axel Foley returns to the land of sunshine and palm trees to investigate the near-fatal shooting of police Captain Andrew Bogomil. With the help of Sgt. Taggart and Det. Rosewood, they soon uncover that the shooting is associated with a series of \"alphabet\" robberies masterminded by a heartless weapons kingpin—and the chase is on.",
+        "popularity": 4.4507,
+        "poster_path": "/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+        "release_date": "1987-05-18",
+        "title": "Beverly Hills Cop II",
+        "video": false,
+        "vote_average": 6.519,
+        "vote_count": 2716
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTghF8ardwJ48XLHkiapWk3ZmSo.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 107,
+        "original_language": "en",
+        "original_title": "Snatch",
+        "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+        "popularity": 13.5315,
+        "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+        "release_date": "2000-09-01",
+        "title": "Snatch",
+        "video": false,
+        "vote_average": 7.817,
+        "vote_count": 9654
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+        "genre_ids": [
+          12,
+          35,
+          80
+        ],
+        "id": 134,
+        "original_language": "en",
+        "original_title": "O Brother, Where Art Thou?",
+        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+        "popularity": 4.7357,
+        "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+        "release_date": "2000-08-30",
+        "title": "O Brother, Where Art Thou?",
+        "video": false,
+        "vote_average": 7.318,
+        "vote_count": 4432
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xQTSGz5dvIAYFssPWhD160AcR7Z.jpg",
+        "genre_ids": [
+          80,
+          28,
+          35
+        ],
+        "id": 150,
+        "original_language": "en",
+        "original_title": "48 Hrs.",
+        "overview": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him, in order to track down a killer.",
+        "popularity": 3.3506,
+        "poster_path": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+        "release_date": "1982-12-07",
+        "title": "48 Hrs.",
+        "video": false,
+        "vote_average": 6.68,
+        "vote_count": 1630
+      }
+    ],
+    "total_pages": 11847,
+    "total_results": 236939
+  }
+}

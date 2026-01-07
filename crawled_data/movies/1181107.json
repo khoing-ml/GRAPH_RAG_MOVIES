@@ -1,0 +1,1136 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/mr2LvZydvor6CDZhrpJLRYMCcBc.jpg",
+    "belongs_to_collection": null,
+    "budget": 25200000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://www.angel.com/tickets/king-of-kings",
+    "id": 1181107,
+    "imdb_id": "tt7967302",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "en",
+    "original_title": "The King of Kings",
+    "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+    "popularity": 5.8197,
+    "poster_path": "/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+    "production_companies": [
+      {
+        "id": 101045,
+        "logo_path": "/zS0ickpMVfdgBsKqwxwrEmpajbt.png",
+        "name": "MOFAC",
+        "origin_country": "KR"
+      },
+      {
+        "id": 247807,
+        "logo_path": "/j39Tm15NC6vwIZzyUR9y42I4y2B.png",
+        "name": "GIANTSTEP",
+        "origin_country": "KR"
+      },
+      {
+        "id": 247808,
+        "logo_path": "/fw3oydqYP6BlzqqHEjBeaXgYso.png",
+        "name": "Blue Harbor Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 165435,
+        "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+        "name": "Angel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-04-07",
+    "revenue": 80034876,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A father's greatest joy is raising his son.",
+    "title": "The King of Kings",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 125
+  },
+  "credits": {
+    "id": 1181107,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25072,
+        "known_for_department": "Acting",
+        "name": "Oscar Isaac",
+        "original_name": "Oscar Isaac",
+        "popularity": 4.9251,
+        "profile_path": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg",
+        "cast_id": 12,
+        "character": "Jesus Christ (voice)",
+        "credit_id": "66468756a0f7144e4491e5fa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11181,
+        "known_for_department": "Acting",
+        "name": "Kenneth Branagh",
+        "original_name": "Kenneth Branagh",
+        "popularity": 4.1623,
+        "profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg",
+        "cast_id": 11,
+        "character": "Charles Dickens (voice)",
+        "credit_id": "663f3ccc7446136b97d95d6a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139,
+        "known_for_department": "Acting",
+        "name": "Uma Thurman",
+        "original_name": "Uma Thurman",
+        "popularity": 11.8368,
+        "profile_path": "/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg",
+        "cast_id": 10,
+        "character": "Catherine Dickens (voice)",
+        "credit_id": "663f3cbff49213048485b982",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 517,
+        "known_for_department": "Acting",
+        "name": "Pierce Brosnan",
+        "original_name": "Pierce Brosnan",
+        "popularity": 6.1987,
+        "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg",
+        "cast_id": 16,
+        "character": "Pontius Pilate (voice)",
+        "credit_id": "665f46bca835a3a17a5171e2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2054851,
+        "known_for_department": "Acting",
+        "name": "Roman Griffin Davis",
+        "original_name": "Roman Griffin Davis",
+        "popularity": 1.4635,
+        "profile_path": "/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg",
+        "cast_id": 1,
+        "character": "Walter Dickens (voice)",
+        "credit_id": "650aebe7aede591ab260eca6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2178,
+        "known_for_department": "Acting",
+        "name": "Forest Whitaker",
+        "original_name": "Forest Whitaker",
+        "popularity": 4.235,
+        "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg",
+        "cast_id": 13,
+        "character": "Peter (voice)",
+        "credit_id": "664687b554cf1cbc7feed8fb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2282,
+        "known_for_department": "Acting",
+        "name": "Ben Kingsley",
+        "original_name": "Ben Kingsley",
+        "popularity": 6.8915,
+        "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg",
+        "cast_id": 18,
+        "character": "High Priest Caiaphas (voice)",
+        "credit_id": "665f46e6504e0aabc31c36dd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2,
+        "known_for_department": "Acting",
+        "name": "Mark Hamill",
+        "original_name": "Mark Hamill",
+        "popularity": 6.4877,
+        "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+        "cast_id": 17,
+        "character": "King Herod (voice)",
+        "credit_id": "665f46cfb98fe3cffdc2767d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5148389,
+        "known_for_department": "Acting",
+        "name": "Ava Sanger",
+        "original_name": "Ava Sanger",
+        "popularity": 0.279,
+        "profile_path": "/aNkgSg4MEttq72cDcWpDviIImFg.jpg",
+        "cast_id": 20,
+        "character": "Mary Dickens (voice)",
+        "credit_id": "6771f47a3fc76ea588926da4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12077,
+        "known_for_department": "Acting",
+        "name": "Jim Cummings",
+        "original_name": "Jim Cummings",
+        "popularity": 2.6566,
+        "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
+        "cast_id": 23,
+        "character": "James the Greater / Pharisee Hillel (voice)",
+        "credit_id": "67fa4c98de5e4dec62adb1a0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23680,
+        "known_for_department": "Acting",
+        "name": "Dee Bradley Baker",
+        "original_name": "Dee Bradley Baker",
+        "popularity": 2.4139,
+        "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+        "cast_id": 24,
+        "character": "Willa the Cat (voice)",
+        "credit_id": "67fa4ca4a04f530b5c994c9a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.2626,
+        "profile_path": "/cKMuclPblMvQ4JQMN0nYKvb5ylu.jpg",
+        "cast_id": 25,
+        "character": "Pharisee Eleazar (voice)",
+        "credit_id": "67fa4cb3ea80d8517599f4cb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19506,
+        "known_for_department": "Acting",
+        "name": "James Arnold Taylor",
+        "original_name": "James Arnold Taylor",
+        "popularity": 1.6188,
+        "profile_path": "/xP7SNjPMhZ2m4aVuYboPa8W1RlB.jpg",
+        "cast_id": 26,
+        "character": "Melchior / Matthew / Thomas / Phillip / Young Jesus (voice)",
+        "credit_id": "67fa4cd3de5e4dec62adb1cb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81663,
+        "known_for_department": "Acting",
+        "name": "Vanessa Marshall",
+        "original_name": "Vanessa Marshall",
+        "popularity": 1.4097,
+        "profile_path": "/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg",
+        "cast_id": 27,
+        "character": "Mary of Bethany / Adulteress (voice)",
+        "credit_id": "67fa4ce5de5e4dec62adb1db",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971877,
+        "known_for_department": "Acting",
+        "name": "Mick Wingert",
+        "original_name": "Mick Wingert",
+        "popularity": 0.5745,
+        "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg",
+        "cast_id": 28,
+        "character": "Gaspar / Pharisee Mahaliell (voice)",
+        "credit_id": "67fa4cf5c74c16bf88acf2dc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1484044,
+        "known_for_department": "Acting",
+        "name": "Imari Williams",
+        "original_name": "Imari Williams",
+        "popularity": 0.4232,
+        "profile_path": "/qbz13nNK9Owz1kt52XWK7y9Xu3q.jpg",
+        "cast_id": 29,
+        "character": "Balthazar / Bartholomew (voice)",
+        "credit_id": "67fa4d0a1bc639566ada99ee",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2263505,
+        "known_for_department": "Acting",
+        "name": "Frank Todaro",
+        "original_name": "Frank Todaro",
+        "popularity": 1.3348,
+        "profile_path": "/vuHWWdSF4pRrZkG6rxgTNx2y557.jpg",
+        "cast_id": 30,
+        "character": "Gestas (voice)",
+        "credit_id": "67fa4d1cea80d8517599f4ec",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5367109,
+        "known_for_department": "Acting",
+        "name": "Millicent Miereanu",
+        "original_name": "Millicent Miereanu",
+        "popularity": 0.1351,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Martha (voice)",
+        "credit_id": "67fa4d3a1f3bcfea48d9234a",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552390,
+        "known_for_department": "Visual Effects",
+        "name": "Jang Seong-ho",
+        "original_name": "장성호",
+        "popularity": 1.1436,
+        "profile_path": "/b0NaW7xBlJMIFibkzuRAXtlnVpe.jpg",
+        "credit_id": "650aebf66c19ea00ca46c58d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552390,
+        "known_for_department": "Visual Effects",
+        "name": "Jang Seong-ho",
+        "original_name": "장성호",
+        "popularity": 1.1436,
+        "profile_path": "/b0NaW7xBlJMIFibkzuRAXtlnVpe.jpg",
+        "credit_id": "650aec2412c604011bf62278",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552390,
+        "known_for_department": "Visual Effects",
+        "name": "Jang Seong-ho",
+        "original_name": "장성호",
+        "popularity": 1.1436,
+        "profile_path": "/b0NaW7xBlJMIFibkzuRAXtlnVpe.jpg",
+        "credit_id": "650aec3c12c6040138fe494c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1175113,
+        "known_for_department": "Production",
+        "name": "Andrew Mann",
+        "original_name": "Andrew Mann",
+        "popularity": 0.3344,
+        "profile_path": null,
+        "credit_id": "650aec600d5d850138e74f03",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552077,
+        "known_for_department": "Camera",
+        "name": "Kim Woo-hyung",
+        "original_name": "김우형",
+        "popularity": 1.6002,
+        "profile_path": null,
+        "credit_id": "6649d745dd9d427c4192ef1b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419706,
+        "known_for_department": "Visual Effects",
+        "name": "Han Eon-deok",
+        "original_name": "Han Eon-deok",
+        "popularity": 1.6311,
+        "profile_path": null,
+        "credit_id": "6649eb0d6fc674ec53cc44d1",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3557,
+        "known_for_department": "Writing",
+        "name": "Charles Dickens",
+        "original_name": "Charles Dickens",
+        "popularity": 0.9898,
+        "profile_path": "/vuy9knaprX05bT4WNJki5iDPfsK.jpg",
+        "credit_id": "67495ad439e6f43e30d95e33",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552077,
+        "known_for_department": "Camera",
+        "name": "Kim Woo-hyung",
+        "original_name": "김우형",
+        "popularity": 1.6002,
+        "profile_path": null,
+        "credit_id": "67b2b095a65d6303e7e0d1d5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299507,
+        "known_for_department": "Sound",
+        "name": "Kim Tae-seong",
+        "original_name": "김태성",
+        "popularity": 1.5771,
+        "profile_path": "/xhgqPP53RXquNeqcZA3CcfhZsn9.jpg",
+        "credit_id": "67fa4c53c74c16bf88acf2b4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4503765,
+        "known_for_department": "Acting",
+        "name": "Jared Geesey",
+        "original_name": "Jared Geesey",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6831eadba639fcf1732b6a5b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3382602,
+        "known_for_department": "Production",
+        "name": "Brandon Purdie",
+        "original_name": "Brandon Purdie",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "6831eaf63c2f159f0feb2b13",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552390,
+        "known_for_department": "Visual Effects",
+        "name": "Jang Seong-ho",
+        "original_name": "장성호",
+        "popularity": 1.1436,
+        "profile_path": "/b0NaW7xBlJMIFibkzuRAXtlnVpe.jpg",
+        "credit_id": "6831eb0739e3007850eb29d6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1624190,
+        "known_for_department": "Sound",
+        "name": "Duncan Campbell",
+        "original_name": "Duncan Campbell",
+        "popularity": 0.1822,
+        "profile_path": null,
+        "credit_id": "6831eb27794f0e3db28375d3",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4774489,
+        "known_for_department": "Sound",
+        "name": "Olivia Aquilina",
+        "original_name": "Olivia Aquilina",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "6831eb37ab37727a162b6b4e",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1402909,
+        "known_for_department": "Sound",
+        "name": "Emma Bortignon",
+        "original_name": "Emma Bortignon",
+        "popularity": 0.8396,
+        "profile_path": null,
+        "credit_id": "6831eb44df895e1db172f588",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2588909,
+        "known_for_department": "Sound",
+        "name": "Carlos Manrique Clavijo",
+        "original_name": "Carlos Manrique Clavijo",
+        "popularity": 0.2723,
+        "profile_path": null,
+        "credit_id": "6831eb758adc52301fb6ad64",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2737712,
+        "known_for_department": "Sound",
+        "name": "Sam Rogers",
+        "original_name": "Sam Rogers",
+        "popularity": 0.5525,
+        "profile_path": null,
+        "credit_id": "6831eb85e8bbd7c0d6eb291d",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2967683,
+        "known_for_department": "Sound",
+        "name": "Lee Yee",
+        "original_name": "Lee Yee",
+        "popularity": 0.1644,
+        "profile_path": null,
+        "credit_id": "6831eb9d9253d5acf072f540",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403715,
+        "known_for_department": "Sound",
+        "name": "Alicia Slusarski",
+        "original_name": "Alicia Slusarski",
+        "popularity": 0.8679,
+        "profile_path": null,
+        "credit_id": "6831ebaf73fc3a0939b6ae6f",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937490,
+        "known_for_department": "Production",
+        "name": "Jamie Thomason",
+        "original_name": "Jamie Thomason",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "6831ec001ce59bcc97b6ae35",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5459708,
+        "known_for_department": "Art",
+        "name": "We Hyun-song",
+        "original_name": "위현송",
+        "popularity": 0.2261,
+        "profile_path": null,
+        "credit_id": "6831ec818e4fa91b3b2b6992",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5459711,
+        "known_for_department": "Art",
+        "name": "Yu Ji-eun",
+        "original_name": "유지은",
+        "popularity": 0.4758,
+        "profile_path": null,
+        "credit_id": "6831ed0694282ee2e48376f3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937490,
+        "known_for_department": "Production",
+        "name": "Jamie Thomason",
+        "original_name": "Jamie Thomason",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "683657688928f411f4eb3b03",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937490,
+        "known_for_department": "Production",
+        "name": "Jamie Thomason",
+        "original_name": "Jamie Thomason",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "6836576d9f2236b5a7a879a4",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56611,
+        "known_for_department": "Writing",
+        "name": "Rob Edwards",
+        "original_name": "Rob Edwards",
+        "popularity": 0.9323,
+        "profile_path": "/1fWJpSwfTEurN7tLCERHwgGjIC0.jpg",
+        "credit_id": "6836577774bf8ae53f2b7f5b",
+        "department": "Crew",
+        "job": "Additional Writing"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1181107,
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 977,
+        "name": "cat"
+      },
+      {
+        "id": 207928,
+        "name": "19th century"
+      },
+      {
+        "id": 222185,
+        "name": "1st century"
+      },
+      {
+        "id": 230097,
+        "name": "jesus christ"
+      },
+      {
+        "id": 240119,
+        "name": "father son relationship"
+      },
+      {
+        "id": 253695,
+        "name": "christian film"
+      },
+      {
+        "id": 275041,
+        "name": "imagination"
+      },
+      {
+        "id": 278700,
+        "name": "historical epic"
+      },
+      {
+        "id": 282071,
+        "name": "biblical"
+      },
+      {
+        "id": 319319,
+        "name": "sentimental"
+      },
+      {
+        "id": 325807,
+        "name": "enchant"
+      },
+      {
+        "id": 325814,
+        "name": "familiar"
+      },
+      {
+        "id": 325824,
+        "name": "hopeful"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kfqMt3ClfHQhxmtTDUNmHaVh7Vj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 644293,
+        "original_language": "en",
+        "original_title": "Closer to Home",
+        "overview": "When a social worker named (FAITH) begins to investigate a series of in depth cases,she begins to become emotionally involved. Which is breaking the number one Cardinal rule of her job. This pandora box of emotions begins to unravel & pull back the layers on FAITHS own past. Leading her down a path of discovery,that no one is expecting.",
+        "popularity": 0.5298,
+        "poster_path": "/lBoSAc8uICJiJgA7NKFLiUImhFT.jpg",
+        "release_date": "2016-04-21",
+        "title": "Closer to Home",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 28,
+        "original_language": "en",
+        "original_title": "Apocalypse Now",
+        "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+        "popularity": 10.1249,
+        "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "release_date": "1979-05-19",
+        "title": "Apocalypse Now",
+        "video": false,
+        "vote_average": 8.268,
+        "vote_count": 8791
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg",
+        "genre_ids": [
+          878,
+          9648,
+          12
+        ],
+        "id": 62,
+        "original_language": "en",
+        "original_title": "2001: A Space Odyssey",
+        "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+        "popularity": 14.111,
+        "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+        "release_date": "1968-04-02",
+        "title": "2001: A Space Odyssey",
+        "video": false,
+        "vote_average": 8.061,
+        "vote_count": 12241
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 70,
+        "original_language": "en",
+        "original_title": "Million Dollar Baby",
+        "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+        "popularity": 5.9681,
+        "poster_path": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+        "release_date": "2004-12-05",
+        "title": "Million Dollar Baby",
+        "video": false,
+        "vote_average": 7.955,
+        "vote_count": 10107
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10402
+        ],
+        "id": 71,
+        "original_language": "en",
+        "original_title": "Billy Elliot",
+        "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+        "popularity": 3.2778,
+        "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+        "release_date": "2000-09-28",
+        "title": "Billy Elliot",
+        "video": false,
+        "vote_average": 7.594,
+        "vote_count": 3996
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+        "genre_ids": [
+          12,
+          53,
+          878
+        ],
+        "id": 74,
+        "original_language": "en",
+        "original_title": "War of the Worlds",
+        "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+        "popularity": 10.3838,
+        "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+        "release_date": "2005-06-28",
+        "title": "War of the Worlds",
+        "video": false,
+        "vote_average": 6.527,
+        "vote_count": 8888
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cFZRtb1Q4whERknfYtj7Fjsvxpg.jpg",
+        "genre_ids": [
+          878,
+          18,
+          53
+        ],
+        "id": 78,
+        "original_language": "en",
+        "original_title": "Blade Runner",
+        "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+        "popularity": 13.2987,
+        "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "release_date": "1982-06-25",
+        "title": "Blade Runner",
+        "video": false,
+        "vote_average": 7.941,
+        "vote_count": 14580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60PJPzXtQmLQdaCNuWUrrHe1mzu.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 86,
+        "original_language": "de",
+        "original_title": "Elementarteilchen",
+        "overview": "Based on Michel Houellebecq's controversial novel, Atomised (aka The Elementary Particles) focuses on Michael and Bruno, two very different half-brothers and their disturbed sexuality.  After a chaotic childhood with a hippie mother only caring for her affairs, Michael, a molecular biologist, is more interested in genes than women, while Bruno is obsessed with his sexual desires, but mostly finds his satisfaction with prostitutes.  But Bruno's life changes when he gets to know the experienced Christiane.  In the meantime, Michael meets Annabelle, the love of his youth, again.",
+        "popularity": 2.8704,
+        "poster_path": "/wpGpR7GewyApPgqPvuWadBAfmFc.jpg",
+        "release_date": "2006-02-10",
+        "title": "The Elementary Particles",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 144
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 89,
+        "original_language": "en",
+        "original_title": "Indiana Jones and the Last Crusade",
+        "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+        "popularity": 11.3059,
+        "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+        "release_date": "1989-05-24",
+        "title": "Indiana Jones and the Last Crusade",
+        "video": false,
+        "vote_average": 7.848,
+        "vote_count": 10765
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 93,
+        "original_language": "en",
+        "original_title": "Anatomy of a Murder",
+        "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+        "popularity": 2.4806,
+        "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+        "release_date": "1959-07-01",
+        "title": "Anatomy of a Murder",
+        "video": false,
+        "vote_average": 7.851,
+        "vote_count": 1109
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 120,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "popularity": 34.0767,
+        "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "release_date": "2001-12-18",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "video": false,
+        "vote_average": 8.427,
+        "vote_count": 26775
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 121,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+        "popularity": 29.1238,
+        "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "release_date": "2002-12-18",
+        "title": "The Lord of the Rings: The Two Towers",
+        "video": false,
+        "vote_average": 8.411,
+        "vote_count": 23238
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 122,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+        "popularity": 29.8106,
+        "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "release_date": "2003-12-17",
+        "title": "The Lord of the Rings: The Return of the King",
+        "video": false,
+        "vote_average": 8.492,
+        "vote_count": 25816
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+        "genre_ids": [
+          12,
+          35,
+          80
+        ],
+        "id": 134,
+        "original_language": "en",
+        "original_title": "O Brother, Where Art Thou?",
+        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+        "popularity": 4.7357,
+        "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+        "release_date": "2000-08-30",
+        "title": "O Brother, Where Art Thou?",
+        "video": false,
+        "vote_average": 7.318,
+        "vote_count": 4432
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 143,
+        "original_language": "en",
+        "original_title": "All Quiet on the Western Front",
+        "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+        "popularity": 2.6636,
+        "poster_path": "/1wZUB08igw8iLUgF1r4T6aJD65b.jpg",
+        "release_date": "1930-04-29",
+        "title": "All Quiet on the Western Front",
+        "video": false,
+        "vote_average": 7.745,
+        "vote_count": 895
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28,
+          10749
+        ],
+        "id": 146,
+        "original_language": "zh",
+        "original_title": "卧虎藏龍",
+        "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+        "popularity": 9.5615,
+        "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+        "release_date": "2000-07-06",
+        "title": "Crouching Tiger, Hidden Dragon",
+        "video": false,
+        "vote_average": 7.433,
+        "vote_count": 3454
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+        "genre_ids": [
+          878,
+          12,
+          9648
+        ],
+        "id": 152,
+        "original_language": "en",
+        "original_title": "Star Trek: The Motion Picture",
+        "overview": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
+        "popularity": 3.7836,
+        "poster_path": "/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+        "release_date": "1979-12-07",
+        "title": "Star Trek: The Motion Picture",
+        "video": false,
+        "vote_average": 6.481,
+        "vote_count": 1848
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 456472,
+        "original_language": "ja",
+        "original_title": "ライアの祈り",
+        "overview": "Goro is an archeologist, fascinated with the national treasure Gassho clay figure and remains from the Jomon period. He meets a woman, Momoko who is timid with love. Momoko often has memories from ancient times and landscapes of the heart in her dreams. She tells Goro about her dream and their relationship deepens.",
+        "popularity": 0.3129,
+        "poster_path": "/4hyb8Cv5n98TA10AIEBaplL67tY.jpg",
+        "release_date": "2015-06-13",
+        "title": "Raia Prays For…",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qBpRJrbaofPzb9pwgi5LiuNDLmM.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 266,
+        "original_language": "fr",
+        "original_title": "Le Mépris",
+        "overview": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+        "popularity": 4.5343,
+        "poster_path": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
+        "release_date": "1963-10-29",
+        "title": "Contempt",
+        "video": false,
+        "vote_average": 7.037,
+        "vote_count": 921
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lPYts3qpBDMlJaGjzd7nA5Piyd2.jpg",
+        "genre_ids": [
+          12,
+          18,
+          14,
+          10751
+        ],
+        "id": 271,
+        "original_language": "sv",
+        "original_title": "Ronja Rövardotter",
+        "overview": "Ronia lives happily in her father's castle until she comes across a new playmate, Birk, in the nearby dark forest. The two explore the wilderness, braving dangerous Witchbirds and Rump-Gnomes. But when their families find out Birk and Ronia have been playing together, they forbid them to see each other again. Indeed, their fathers are competing robber chieftains and bitter enemies. Now the two spunky children must try to tear down the barriers that have kept their families apart for so long.",
+        "popularity": 3.0284,
+        "poster_path": "/gatMa1qfwpJqiawPjJxodUvdB0.jpg",
+        "release_date": "1984-12-14",
+        "title": "Ronia: The Robber's Daughter",
+        "video": false,
+        "vote_average": 7.036,
+        "vote_count": 193
+      }
+    ],
+    "total_pages": 19391,
+    "total_results": 387813
+  }
+}

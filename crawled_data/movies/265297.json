@@ -1,0 +1,1136 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/lqtzWKCpejXdKb22cav5bB6MqSR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 265297,
+    "imdb_id": "tt3674140",
+    "origin_country": [
+      "BR",
+      "FR",
+      "IT"
+    ],
+    "original_language": "fr",
+    "original_title": "Le sel de la terre",
+    "overview": "During the last forty years, the photographer Sebastião Salgado has been travelling through the continents, in the footsteps of an ever-changing humanity. He has witnessed the major events of our recent history: international conflicts, starvations and exodus… He is now embarking on the discovery of pristine territories, of the wild fauna and flora, of grandiose landscapes: a huge photographic project which is a tribute to the planet's beauty. Salgado's life and work are revealed to us by his son, Juliano, who went with him during his last journeys, and by Wim Wenders, a photographer himself.",
+    "popularity": 1.4731,
+    "poster_path": "/jRmQNj8NacAHJnzwfvFvglKSGB6.jpg",
+    "production_companies": [
+      {
+        "id": 72681,
+        "logo_path": "/oE8q1gO5PLebdKo071tajq5SHtl.png",
+        "name": "Secretaria de Estado de Cultura do Espírito Santo",
+        "origin_country": "BR"
+      },
+      {
+        "id": 37048,
+        "logo_path": null,
+        "name": "Decia Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 72677,
+        "logo_path": null,
+        "name": "Amazonas Images",
+        "origin_country": ""
+      },
+      {
+        "id": 72678,
+        "logo_path": null,
+        "name": "Solares Fondazione delle Arti",
+        "origin_country": "IT"
+      },
+      {
+        "id": 11246,
+        "logo_path": "/4YZ5CQZkJa2FIKGtjLLoKhNOAIw.png",
+        "name": "La Région Île-de-France",
+        "origin_country": "FR"
+      },
+      {
+        "id": 72679,
+        "logo_path": null,
+        "name": "Maison Européenne de la Photographie",
+        "origin_country": ""
+      },
+      {
+        "id": 72680,
+        "logo_path": null,
+        "name": "Serviçio Social do Comércio",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2014-08-29",
+    "revenue": 1059804,
+    "runtime": 110,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A Journey With Sebastião Salgado",
+    "title": "The Salt of the Earth",
+    "video": false,
+    "vote_average": 8.114,
+    "vote_count": 655
+  },
+  "credits": {
+    "id": 265297,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1296936,
+        "known_for_department": "Acting",
+        "name": "Sebastião Salgado",
+        "original_name": "Sebastião Salgado",
+        "popularity": 0.4661,
+        "profile_path": "/hv3Ji7U3WH4ZWzRVesan1ZHgLMu.jpg",
+        "cast_id": 38,
+        "character": "Self",
+        "credit_id": "58bfb31d9251412e030049d9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.8339,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "54454fccc3a3683e05007e53",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310844,
+        "known_for_department": "Directing",
+        "name": "Juliano Ribeiro Salgado",
+        "original_name": "Juliano Ribeiro Salgado",
+        "popularity": 0.5106,
+        "profile_path": "/v2aBp71ZnmfZlOR4Y04P9YIeEsJ.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "54099eafc3a36812ca001c6e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380468,
+        "known_for_department": "Camera",
+        "name": "Hugo Barbier",
+        "original_name": "Hugo Barbier",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "5454e75fc3a3681480004432",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1598555,
+        "known_for_department": "Acting",
+        "name": "Lélia Wanick Salgado",
+        "original_name": "Lélia Wanick Salgado",
+        "popularity": 0.7815,
+        "profile_path": "/tFCb9zmEBm7FdIeLbbPKeY6a1io.jpg",
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "56fbd61f92514128850026e6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598556,
+        "known_for_department": "Acting",
+        "name": "Jacques Barthélémy",
+        "original_name": "Jacques Barthélémy",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "56fbd64192514128830026e9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598557,
+        "known_for_department": "Acting",
+        "name": "Régis Muller",
+        "original_name": "Régis Muller",
+        "popularity": 0.1578,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "56fbd6c992514143260023c8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598558,
+        "known_for_department": "Acting",
+        "name": "João Pessoa Mattos",
+        "original_name": "João Pessoa Mattos",
+        "popularity": 0.3896,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "56fbd6dd9251411506001622",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598559,
+        "known_for_department": "Acting",
+        "name": "Leny Wanick Mattos",
+        "original_name": "Leny Wanick Mattos",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Self",
+        "credit_id": "56fbd6efc3a36808d30027f4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598560,
+        "known_for_department": "Acting",
+        "name": "Maria Teresa Salgado Rocha Bastos",
+        "original_name": "Maria Teresa Salgado Rocha Bastos",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Self",
+        "credit_id": "56fbd7019251411506001628",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598561,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Ribeiro Salgado",
+        "original_name": "Rodrigo Ribeiro Salgado",
+        "popularity": 0.056,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Self",
+        "credit_id": "56fbd712c3a36808c2002a0f",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310844,
+        "known_for_department": "Directing",
+        "name": "Juliano Ribeiro Salgado",
+        "original_name": "Juliano Ribeiro Salgado",
+        "popularity": 0.5106,
+        "profile_path": "/v2aBp71ZnmfZlOR4Y04P9YIeEsJ.jpg",
+        "credit_id": "53505c1ec3a3681d87000274",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.8339,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "credit_id": "53505c27c3a3681d810001d2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.8339,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "credit_id": "5454e72ac3a368148000442c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310844,
+        "known_for_department": "Directing",
+        "name": "Juliano Ribeiro Salgado",
+        "original_name": "Juliano Ribeiro Salgado",
+        "popularity": 0.5106,
+        "profile_path": "/v2aBp71ZnmfZlOR4Y04P9YIeEsJ.jpg",
+        "credit_id": "5454e7390e0a2635de001e24",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352205,
+        "known_for_department": "Writing",
+        "name": "David Rosier",
+        "original_name": "David Rosier",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "54b964fcc3a36814210019fe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1414384,
+        "known_for_department": "Editing",
+        "name": "Rob Myers",
+        "original_name": "Rob Myers",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "54b965409251414859001c85",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1414385,
+        "known_for_department": "Editing",
+        "name": "Maxine Goedicke",
+        "original_name": "Maxine Goedicke",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "54b9655ec3a3686c680052a9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570904,
+        "known_for_department": "Camera",
+        "name": "Denis Auclair",
+        "original_name": "Denis Auclair",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "56ae84cb92514163570029c3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570905,
+        "known_for_department": "Directing",
+        "name": "Robert Iseni",
+        "original_name": "Robert Iseni",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "56ae84e0c3a3681c3400983e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570906,
+        "known_for_department": "Camera",
+        "name": "Donata Wenders",
+        "original_name": "Donata Wenders",
+        "popularity": 0.2206,
+        "profile_path": "/aO06osXzNgTGJL9p6OyvOHqKsdg.jpg",
+        "credit_id": "56ae84f3c3a3681c34009844",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.8339,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "credit_id": "56ae8507c3a3681c34009848",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380468,
+        "known_for_department": "Camera",
+        "name": "Hugo Barbier",
+        "original_name": "Hugo Barbier",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "credit_id": "56ae8529c3a3681c37009876",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310844,
+        "known_for_department": "Directing",
+        "name": "Juliano Ribeiro Salgado",
+        "original_name": "Juliano Ribeiro Salgado",
+        "popularity": 0.5106,
+        "profile_path": "/v2aBp71ZnmfZlOR4Y04P9YIeEsJ.jpg",
+        "credit_id": "56ae853f9251417e1100ab12",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570907,
+        "known_for_department": "Camera",
+        "name": "Thierry Pouffary",
+        "original_name": "Thierry Pouffary",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "56ae855ec3a3681c3700987d",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570908,
+        "known_for_department": "Visual Effects",
+        "name": "Matthieu Schmit",
+        "original_name": "Matthieu Schmit",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "56ae85739251410e8f009d09",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17428,
+        "known_for_department": "Sound",
+        "name": "Nicolas Becker",
+        "original_name": "Nicolas Becker",
+        "popularity": 0.4361,
+        "profile_path": "/u3q4bwZadDJzkbCIV6kqhCHr6a1.jpg",
+        "credit_id": "56ae85bf9251417e2200a3b8",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367815,
+        "known_for_department": "Sound",
+        "name": "Aymeric Devoldère",
+        "original_name": "Aymeric Devoldère",
+        "popularity": 0.6908,
+        "profile_path": "/yBYqUXyN8TfJb7bS1bzk9pnxr54.jpg",
+        "credit_id": "56ae85dbc3a3681c3f00b66a",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54179,
+        "known_for_department": "Sound",
+        "name": "Lucien Balibar",
+        "original_name": "Lucien Balibar",
+        "popularity": 0.1293,
+        "profile_path": "/nRI7ZKPdTYyKNTjoCJUkqtjScUQ.jpg",
+        "credit_id": "56ae85fcc3a3681c5400a7a4",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47818,
+        "known_for_department": "Sound",
+        "name": "Jean-Paul Hurier",
+        "original_name": "Jean-Paul Hurier",
+        "popularity": 0.2782,
+        "profile_path": "/rW6tB0seNtgV5Gf37Z6rmTbuL8K.jpg",
+        "credit_id": "56ae86189251410e8f009d14",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367815,
+        "known_for_department": "Sound",
+        "name": "Aymeric Devoldère",
+        "original_name": "Aymeric Devoldère",
+        "popularity": 0.6908,
+        "profile_path": "/yBYqUXyN8TfJb7bS1bzk9pnxr54.jpg",
+        "credit_id": "56ae862d9251417e1100ab2c",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570909,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Machal",
+        "original_name": "Sarah Machal",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "56ae86439251417e1100ab39",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570910,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bru Simões",
+        "original_name": "Bru Simões",
+        "popularity": 0.0992,
+        "profile_path": "/3DINLbzEbQYIoTjLa0JHDCcbpww.jpg",
+        "credit_id": "56ae86f1c3a3681c370098a3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65266,
+        "known_for_department": "Sound",
+        "name": "Laurent Petitgand",
+        "original_name": "Laurent Petitgand",
+        "popularity": 0.2085,
+        "profile_path": null,
+        "credit_id": "63b5e1645ad76b007dc9c069",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1414383,
+        "known_for_department": "Writing",
+        "name": "Camille Delafon",
+        "original_name": "Camille Delafon",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "63b5e18ec56d2d0089b3c3a0",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1414383,
+        "known_for_department": "Writing",
+        "name": "Camille Delafon",
+        "original_name": "Camille Delafon",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "63b5e19f1d1bf400a71e344b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352205,
+        "known_for_department": "Writing",
+        "name": "David Rosier",
+        "original_name": "David Rosier",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "63b5e1acc56d2d00f3112f8a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570906,
+        "known_for_department": "Camera",
+        "name": "Donata Wenders",
+        "original_name": "Donata Wenders",
+        "popularity": 0.2206,
+        "profile_path": "/aO06osXzNgTGJL9p6OyvOHqKsdg.jpg",
+        "credit_id": "63b5e1c810dad6008add296c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2202219,
+        "known_for_department": "Editing",
+        "name": "Silke Zirnité",
+        "original_name": "Silke Zirnité",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "63b5e1e79715ae00c8a259c6",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1283802,
+        "known_for_department": "Editing",
+        "name": "Juliana Guanais",
+        "original_name": "Juliana Guanais",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "63b5e1f41d1bf400d37b7f3c",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.8339,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "credit_id": "645a4d236aa8e0011ca1edae",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 265297,
+    "keywords": [
+      {
+        "id": 2763,
+        "name": "human vs nature"
+      },
+      {
+        "id": 1003,
+        "name": "photographer"
+      },
+      {
+        "id": 2226,
+        "name": "exodus"
+      },
+      {
+        "id": 2831,
+        "name": "slavery"
+      },
+      {
+        "id": 4689,
+        "name": "photographic evidence"
+      },
+      {
+        "id": 174406,
+        "name": "combat photography"
+      },
+      {
+        "id": 185718,
+        "name": "cultural conflict"
+      },
+      {
+        "id": 188266,
+        "name": "starvation"
+      },
+      {
+        "id": 200234,
+        "name": "shocking"
+      },
+      {
+        "id": 202647,
+        "name": "humanity"
+      },
+      {
+        "id": 211636,
+        "name": "slave labor"
+      },
+      {
+        "id": 232487,
+        "name": "wildlife photographer"
+      },
+      {
+        "id": 233145,
+        "name": "crime against humanity"
+      },
+      {
+        "id": 238352,
+        "name": "human made disaster"
+      },
+      {
+        "id": 239155,
+        "name": "planet earth"
+      },
+      {
+        "id": 262228,
+        "name": "observational documentary"
+      },
+      {
+        "id": 274075,
+        "name": "every picture tells it’s story"
+      },
+      {
+        "id": 275268,
+        "name": "human in nature"
+      },
+      {
+        "id": 277193,
+        "name": "landscape photography"
+      },
+      {
+        "id": 281658,
+        "name": "beautiful landscapes"
+      },
+      {
+        "id": 284687,
+        "name": "group conflict"
+      },
+      {
+        "id": 296071,
+        "name": "experimental documentary"
+      },
+      {
+        "id": 322799,
+        "name": "conflict zone"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xTUEQ0RwKuFqyrPUqQXYyUcterR.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 655520,
+        "original_language": "en",
+        "original_title": "maɬni—towards the ocean, towards the shore",
+        "overview": "An experimental look at the origin of the death myth of the Chinookan people in the Pacific Northwest, following two people as they navigate their own relationships to the spirit world and a place in between life and death.",
+        "popularity": 0.1939,
+        "poster_path": "/m97Eu7AwMeZU4HF1720I76241u1.jpg",
+        "release_date": "2020-01-26",
+        "title": "maɬni—towards the ocean, towards the shore",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4dRQAvqBrGpDyjtdwIGg0jYxrNJ.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 468620,
+        "original_language": "en",
+        "original_title": "Architects of Denial",
+        "overview": "Though both the historical and modern-day persecution of Armenians and other Christians is relatively uncovered in the mainstream media and not on the radar of many average Americans, it is a subject that has gotten far more attention in recent years.",
+        "popularity": 0.2191,
+        "poster_path": "/1DoIGyKbqCs96JiEsdIEsnpATZu.jpg",
+        "release_date": "2017-10-06",
+        "title": "Architects of Denial",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hKjewcOiSCo8lyrqGG0PhbZf6vr.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 655825,
+        "original_language": "es",
+        "original_title": "Mi no lugar",
+        "overview": "A boy migrates from Guerrero to Colima in Mexico, guided by the illusion of his parents, who want him to study high school. Nevertheless, the inequality barriers force him to work as a sugarcane harvester.",
+        "popularity": 0.2751,
+        "poster_path": "/yWC6rtYFsGj53Y3ALgMIDoOgkvk.jpg",
+        "release_date": "2022-10-26",
+        "title": "My No Place",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yBRIOaJVeMpfvPMeiqV7RtAMV81.jpg",
+        "genre_ids": [
+          99,
+          10770
+        ],
+        "id": 11304,
+        "original_language": "en",
+        "original_title": "9/11",
+        "overview": "An on-the-scene documentary following the events of September 11, 2001 from an insider's view, through the lens of two French filmmakers who simply set out to make a movie about a rookie NYC fireman and ended up filming the tragic event that changed our lives forever.",
+        "popularity": 0.8823,
+        "poster_path": "/7f95JrgW1XcioDriWJizEE7H81h.jpg",
+        "release_date": "2002-03-10",
+        "title": "9/11",
+        "video": false,
+        "vote_average": 7.881,
+        "vote_count": 118
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/84E96lyR81OvUjCimcrfuzn9er5.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 11314,
+        "original_language": "en",
+        "original_title": "Koyaanisqatsi",
+        "overview": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+        "popularity": 2.1018,
+        "poster_path": "/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+        "release_date": "1983-04-27",
+        "title": "Koyaanisqatsi",
+        "video": false,
+        "vote_average": 7.866,
+        "vote_count": 748
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8sPGgMSmr9GLYUX9fgYr6DbY0Wa.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1436782,
+        "original_language": "nl",
+        "original_title": "Nazaten",
+        "overview": "Frans Bromet goes in search of his family history and discovers that Hermanus Bromet was a well-known slave trader in Suriname. Should he feel guilty for what his ancestor did? How do you deal with a burdened family past?",
+        "popularity": 0.784,
+        "poster_path": "/3Kiw6lQmUbIVAuKBED3ekBvvlFn.jpg",
+        "release_date": "2025-02-13",
+        "title": "Nazaten",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zqd39GO0GdO5TaO8HxnkmWwu2p8.jpg",
+        "genre_ids": [
+          28,
+          35,
+          99
+        ],
+        "id": 9012,
+        "original_language": "en",
+        "original_title": "Jackass: The Movie",
+        "overview": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time. They wander around Japan in panda outfits, wreak havoc on a once civilized golf course, they even do stunts involving LIVE alligators, and so on.",
+        "popularity": 3.2348,
+        "poster_path": "/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+        "release_date": "2002-10-25",
+        "title": "Jackass: The Movie",
+        "video": false,
+        "vote_average": 6.315,
+        "vote_count": 1673
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 667554,
+        "original_language": "en",
+        "original_title": "Truth or Consequences",
+        "overview": "Truth or Consequences is a speculative documentary about time and how we weave the past into the present and our possible future. Set in the small desert town of Truth or Consequences, New Mexico, the film takes place in the shadow of a nearby Spaceport and the commercial exploration of space. Through the lives of the people in town and a filmmaker from the future, the film explores progress, echoes of history, and how we each navigate a sense of loss, within ourselves and within a changing world.",
+        "popularity": 0.3058,
+        "poster_path": "/mT3TQu5wBZHTQibaJYMwCePAHHO.jpg",
+        "release_date": "2020-01-25",
+        "title": "Truth or Consequences",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 293310,
+        "original_language": "en",
+        "original_title": "Citizenfour",
+        "overview": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her.",
+        "popularity": 1.1653,
+        "poster_path": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+        "release_date": "2014-10-10",
+        "title": "Citizenfour",
+        "video": false,
+        "vote_average": 7.743,
+        "vote_count": 1370
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bkGCPEGRjvYQAtptPIvmtv6Gn7A.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 25568,
+        "original_language": "en",
+        "original_title": "The Dream Is Alive",
+        "overview": "The Dream Is Alive takes you into space alongside the astronauts on the space shuttle. Share with them the delights of zero gravity while working, eating and sleeping in orbit around the Earth. Float as never before over the towering Andes, the boot of Italy, Egypt and the Nile. Witness firsthand a tension-filled satellite capture and repair and the historic first spacewalk by an American woman.",
+        "popularity": 0.2907,
+        "poster_path": "/77Lq53P1Fy7OtGCnQAAGxhmKvoj.jpg",
+        "release_date": "1985-06-01",
+        "title": "The Dream Is Alive",
+        "video": false,
+        "vote_average": 7.55,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 291364,
+        "original_language": "it",
+        "original_title": "Io sto con la sposa",
+        "overview": "A Palestinian poet and an Italian journalist meet five Palestinians and Syrians in Milan who entered Europe via the Italian island of Lampedusa after fleeing the war in Syria. They decide to help them complete their journey to Sweden, and hopefully avoid getting themselves arrested as traffickers, by faking a wedding. With a Palestinian friend dressed up as the bride and a dozen or so Italian and Syrian friends as wedding guests, they cross halfway over Europe on a four-day journey of three thousand kilometres.",
+        "popularity": 0.1349,
+        "poster_path": "/hKEVAcLG1JPdGpW8elGvolX5ZQT.jpg",
+        "release_date": "2014-09-04",
+        "title": "On the Bride’s Side",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          35
+        ],
+        "id": 1452845,
+        "original_language": "hu",
+        "original_title": "Porszívás",
+        "overview": "A documentary about a person who cleans his room with a vacuum cleaner, filled with disasters and mishaps.",
+        "popularity": 1.3273,
+        "poster_path": "/jmbrRJUFBR5OwKDWp7l5UjLztDx.jpg",
+        "release_date": "2025-03-22",
+        "title": "Vacuumin’ Around",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 863788,
+        "original_language": "en",
+        "original_title": "Eagle Boy",
+        "overview": "A fearless horse bonds two men to each other and to the traditions that define their community.",
+        "popularity": 0.3855,
+        "poster_path": "/cptQgDJwyC9lAAsLAIGp8nbMk6R.jpg",
+        "release_date": "2018-08-05",
+        "title": "Eagle Boy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/us2aG5buhsLUYz4Npcx8i8HvSDs.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 24982,
+        "original_language": "en",
+        "original_title": "Ghosts of the Abyss",
+        "overview": "With a team of the world's foremost historic and marine experts as well as friend Bill Paxton, James Cameron embarks on an unscripted adventure back to the wreck of the Titanic where nearly 1,500 souls lost their lives almost a century ago.",
+        "popularity": 1.1929,
+        "poster_path": "/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+        "release_date": "2003-04-10",
+        "title": "Ghosts of the Abyss",
+        "video": false,
+        "vote_average": 6.848,
+        "vote_count": 223
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/565aguZFphtZ5K3LvILDFvFx5B7.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1465024,
+        "original_language": "en",
+        "original_title": "Untold: The Liver King",
+        "overview": "He built a supplement empire by devouring raw meat on social media. And he had the muscles to prove it. But, really, how did the Liver King get so huge?",
+        "popularity": 0.2642,
+        "poster_path": "/iLA1XTD0Ns4B0WUy1bSsBLp9Le4.jpg",
+        "release_date": "2025-05-12",
+        "title": "Untold: The Liver King",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/59AmPknZborsOhWqGWZSErrI96V.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1073770,
+        "original_language": "de",
+        "original_title": "Die Arktis - 66,5 Grad Nord",
+        "overview": "The beauty of the Arctic is breathtaking. For as long as we can remember, the Arctic has been associated with inhospitable cold. But the climate is changing, and with it the northern polar region, which begins beyond latitude 66.5 degrees north. Climate change is now happening four times faster north of the Arctic Circle than on the rest of the planet, making the future outlook dire. At the moment it is still possible for polar bears to raise their cubs, but hunting is becoming increasingly difficult on the drastically shrinking pack ice. The disappearance of the ice also affects the marine fauna. The wintry ice bridge between Canada and Greenland is threatened with collapse. The unstoppable melting of the permafrost, which has held the tundra together for thousands of years, is worrying. But the Arctic is still one of the wildest and loveliest regions on earth. A documentary visit to the Arctic - as long as it still exists.",
+        "popularity": 0.1907,
+        "poster_path": "/kQhsYCRtSva3cBaGeTRiHMS6evM.jpg",
+        "release_date": "2023-01-13",
+        "title": "The Arctic: 66.5 Degrees North",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iEoz4xtCLXJFxZx44bFs6kV9u0v.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 296317,
+        "original_language": "pt",
+        "original_title": "Data Limite Segundo Chico Xavier",
+        "overview": "UFO experts claim that after the explosion of the bombs on Hiroshima and Nagasaki, there was an increase in the number of sightings of UFO'S (Unidentified Flying Objects) worldwide. Just over two decades later, the Brazilian medium Chico Xavier confided to close friends that when man reached the moon on July 20, 1969, happened a meeting with the celestial beings of our solar system to check the progress of humanity. They decided to grant a period of 50 years for humanity to evolve morally and live in peace, without provoking a third world war. If we live in peace until the Deadline, humanity would be ready to enter a new era of its existence, and magnificent feats would be checked everywhere, including our brothers from other planets would be expressly authorized to present themselves publicly and officially to Earth's residents.",
+        "popularity": 0.0876,
+        "poster_path": "/oM9UABUyiTDu5H5FuJwmDsJkk73.jpg",
+        "release_date": "2014-08-14",
+        "title": "Data Limite segundo Chico Xavier",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qFfbQh0hNreYrBaxSLNijTo3cAe.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 865407,
+        "original_language": "fr",
+        "original_title": "L'imposture",
+        "overview": "The current trend to render prostitution a profession \"as any other\" is belied by women who were themselves prostitutes. With clarity and courage, the women in this film reveal the hidden face of that so-called \"sex work\". They are 22, 34 or 48 years old; they live in Montreal, Quebec and Ottawa - They have recently given up prostitution, or are trying to escape it. These women are leading the bitter fight to turn their lives around and it is a long and lonely struggle fraught with difficulties. Shot in a Cinéma Vérité style, The Fallacy (L'imposture) takes us to the heart of their realities.",
+        "popularity": 0.9684,
+        "poster_path": "/weYXU85Hfj1T1yjwHoPBzwiNefz.jpg",
+        "release_date": "2010-11-01",
+        "title": "The Fallacy",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ngXmD8zUNAWDtbL0as9PI0khYBh.jpg",
+        "genre_ids": [
+          99,
+          10770
+        ],
+        "id": 678974,
+        "original_language": "fr",
+        "original_title": "Tchernobyl, Fukushima : Vivre avec",
+        "overview": "30 years after the Chernobyl catastrophe and 5 years after Fukushima it is time to see what has been happening in the “exclusion zones” where the radioactivity rate is far above normal.",
+        "popularity": 0.195,
+        "poster_path": "/jMdNh7gcy2PxhPfzmny5C8MlYWS.jpg",
+        "release_date": "2016-04-26",
+        "title": "Chernobyl, Fukushima: Living with the Legacy",
+        "video": true,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vFNa8GJwcDrk11wIoOTSC9LjW3i.jpg",
+        "genre_ids": [
+          99,
+          16,
+          10751
+        ],
+        "id": 1082233,
+        "original_language": "es",
+        "original_title": "Fusil Fotográfico",
+        "overview": "Etienne-Jules Marey, a French inventor who turned a gun into a camera. A hand-drawn hunter whose weapon, instead of firing ammunition, shoots photographs. Carlos, a Mexican wildlife photographer who used to be a real life hunter until he chose to get rid of all his guns. All come together in this poetic yet approachable animated documentary short film.",
+        "popularity": 0.595,
+        "poster_path": "/lzfuwSQRR3y8zcm8ZdYMu4L5B1b.jpg",
+        "release_date": "2023-09-01",
+        "title": "Shutter Shooter",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 10786,
+    "total_results": 215709
+  }
+}

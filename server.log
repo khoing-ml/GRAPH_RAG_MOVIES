@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Jan/2026 16:56:33] "GET /movie_showcase.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jan/2026 16:56:42] "GET /movie_showcase.html?id=d7705a59-09d0-4f51-bbae-ac93d60c10bf&vscodeBrowserReqId=1767693402388 HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jan/2026 16:56:42] "GET /crawled_data/movies_index.json HTTP/1.1" 200 -
+127.0.0.1 - - [06/Jan/2026 16:58:06] code 501, message Unsupported method ('POST')
+127.0.0.1 - - [06/Jan/2026 16:58:06] "POST /api/chat HTTP/1.1" 501 -

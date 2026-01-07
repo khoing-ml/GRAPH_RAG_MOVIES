@@ -1,0 +1,1253 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/e3hG3uadtcP0pYdRa5ch4ysQW76.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "homepage": "",
+    "id": 14537,
+    "imdb_id": "tt0056058",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "切腹",
+    "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+    "popularity": 7.0532,
+    "poster_path": "/3nPwMd3KviJWaHzG9fZCqlwWMas.jpg",
+    "production_companies": [
+      {
+        "id": 192,
+        "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+        "name": "Shochiku",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1962-09-15",
+    "revenue": 0,
+    "runtime": 135,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "What befalls others today, may be your own fate tomorrow.",
+    "title": "Harakiri",
+    "video": false,
+    "vote_average": 8.435,
+    "vote_count": 1141
+  },
+  "credits": {
+    "id": 14537,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70131,
+        "known_for_department": "Acting",
+        "name": "Tatsuya Nakadai",
+        "original_name": "仲代達矢",
+        "popularity": 2.1703,
+        "profile_path": "/4LygOe0vFQplLIft5IUWI5OewPX.jpg",
+        "cast_id": 1,
+        "character": "Hanshiro Tsugumo",
+        "credit_id": "52fe45fd9251416c750695d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76977,
+        "known_for_department": "Acting",
+        "name": "Akira Ishihama",
+        "original_name": "石濱朗",
+        "popularity": 1.1204,
+        "profile_path": "/sQC3XSIR0LeYPz11VJt8nJoeRKY.jpg",
+        "cast_id": 4,
+        "character": "Motome Chijiiwa",
+        "credit_id": "52fe45fd9251416c750695e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76976,
+        "known_for_department": "Acting",
+        "name": "Shima Iwashita",
+        "original_name": "岩下志麻",
+        "popularity": 2.9077,
+        "profile_path": "/jVKVxWiaBP3ul4rztvB5vMgPoFv.jpg",
+        "cast_id": 3,
+        "character": "Miho Tsugumo",
+        "credit_id": "52fe45fd9251416c750695dd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10071,
+        "known_for_department": "Acting",
+        "name": "Tetsuro Tamba",
+        "original_name": "丹波哲郎",
+        "popularity": 2.1849,
+        "profile_path": "/hrjJ1JfkVxjAOQ6IaSM6wBsIaAO.jpg",
+        "cast_id": 36,
+        "character": "Hikokuro Omodaka",
+        "credit_id": "594776a49251413fb103ba42",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125721,
+        "known_for_department": "Acting",
+        "name": "Masao Mishima",
+        "original_name": "三島雅夫",
+        "popularity": 1.8872,
+        "profile_path": "/bfPdwV4TCWJ7jjf16MFNsOndHWB.jpg",
+        "cast_id": 9,
+        "character": "Tango Inaba",
+        "credit_id": "55d96f1f92514143e40041ef",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118993,
+        "known_for_department": "Acting",
+        "name": "Ichirō Nakatani",
+        "original_name": "中谷一郎",
+        "popularity": 1.0589,
+        "profile_path": "/yGWAZguLnWvXW9xcAIE7Eo6VGfU.jpg",
+        "cast_id": 10,
+        "character": "Hayato Yazaki",
+        "credit_id": "55d96f2ac3a36831fc003f8a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33730,
+        "known_for_department": "Acting",
+        "name": "Kei Satō",
+        "original_name": "佐藤慶",
+        "popularity": 1.394,
+        "profile_path": "/xyb1DI4HViq1aEvc3pgJV5Xw2Sn.jpg",
+        "cast_id": 11,
+        "character": "Masakazu",
+        "credit_id": "55d96f3792514143de0043e5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20828,
+        "known_for_department": "Acting",
+        "name": "Yoshio Inaba",
+        "original_name": "稲葉義男",
+        "popularity": 2.2829,
+        "profile_path": "/5qIAqM5PegWTNq67qNofz78fb6U.jpg",
+        "cast_id": 12,
+        "character": "Jinai Chijiiwa",
+        "credit_id": "55d96f44c3a3683207003e76",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96637,
+        "known_for_department": "Acting",
+        "name": "Hisashi Igawa",
+        "original_name": "井川比佐志",
+        "popularity": 1.103,
+        "profile_path": "/3jK3ycFB52q1VefY1EVkNEOgAtV.jpg",
+        "cast_id": 13,
+        "character": "Retainer",
+        "credit_id": "55d96f50925141721d002d78",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176109,
+        "known_for_department": "Acting",
+        "name": "Toru Takeuchi",
+        "original_name": "Toru Takeuchi",
+        "popularity": 0.637,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Retainer",
+        "credit_id": "55d96f7792514143f0003ec1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226742,
+        "known_for_department": "Acting",
+        "name": "Yoshirō Aoki",
+        "original_name": "青木義朗",
+        "popularity": 1.7813,
+        "profile_path": "/50xy62RmFeLC7NCfmNCJuA5mpfT.jpg",
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "5fbe3671fb529900423963cc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110310,
+        "known_for_department": "Acting",
+        "name": "Tatsuo Matsumura",
+        "original_name": "松村達雄",
+        "popularity": 1.428,
+        "profile_path": "/rtD03C7xSrP83It8Af2HciDb93M.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "55d9704e92514143e400421a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119185,
+        "known_for_department": "Acting",
+        "name": "Akiji Kobayashi",
+        "original_name": "小林昭二",
+        "popularity": 1.4116,
+        "profile_path": "/yW9v9sIDGmox7RfF7wFqqrlIKDU.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "55d9705792514143e9004052",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132436,
+        "known_for_department": "Acting",
+        "name": "Kōichi Hayashi",
+        "original_name": "Kōichi Hayashi",
+        "popularity": 1.4458,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "55d9706192514143de00440b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150253,
+        "known_for_department": "Acting",
+        "name": "Ryūtarō Gomi",
+        "original_name": "五味龍太郎",
+        "popularity": 1.6564,
+        "profile_path": "/dvaGL6aTIdXpO4NOIuDzh9HIXF0.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "55d9707692514143e6003f02",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869535,
+        "known_for_department": "Acting",
+        "name": "Jo Azumi",
+        "original_name": "Jo Azumi",
+        "popularity": 0.5337,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "5fbe37004c1d9a003f82920b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552165,
+        "known_for_department": "Acting",
+        "name": "Nakajirō Tomita",
+        "original_name": "富田仲次郎",
+        "popularity": 1.2828,
+        "profile_path": "/jsJmP3voKZj5TlZ98TWFWbugjLF.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "55d970a092514143f0003ee1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2426238,
+        "known_for_department": "Acting",
+        "name": "Shichisaburo Amatsu",
+        "original_name": "Shichisaburo Amatsu",
+        "popularity": 0.1319,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "5fbe371e57530e00423b8cf4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 552644,
+        "known_for_department": "Acting",
+        "name": "Kenzō Tanaka",
+        "original_name": "Kenzō Tanaka",
+        "popularity": 0.2235,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "55d970af92514143e900405c",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1616222,
+        "known_for_department": "Acting",
+        "name": "Shin Nakahara",
+        "original_name": "Shin Nakahara",
+        "popularity": 0.7442,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "5fbe372e6bdec3003c22b2d2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869541,
+        "known_for_department": "Acting",
+        "name": "Tsuneo Ikeda",
+        "original_name": "Tsuneo Ikeda",
+        "popularity": 0.3349,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "5fbe376b0c271000412d966a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869543,
+        "known_for_department": "Acting",
+        "name": "Minoru Miyagi",
+        "original_name": "Minoru Miyagi",
+        "popularity": 0.4593,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "5fbe37831750510040113840",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869545,
+        "known_for_department": "Acting",
+        "name": "Takaaki Kadota",
+        "original_name": "Takaaki Kadota",
+        "popularity": 0.098,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "",
+        "credit_id": "5fbe37a64c1d9a003f829289",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2334463,
+        "known_for_department": "Acting",
+        "name": "Ichirō Yamamoto",
+        "original_name": "結城市朗",
+        "popularity": 1.0325,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "5fbe3746175051004211c357",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2165031,
+        "known_for_department": "Acting",
+        "name": "Gen Takasugi",
+        "original_name": "高杉玄",
+        "popularity": 0.5935,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "5fbe374d4c1d9a003e82e685",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869554,
+        "known_for_department": "Acting",
+        "name": "Satoshi Nishida",
+        "original_name": "Satoshi Nishida",
+        "popularity": 0.5953,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "",
+        "credit_id": "5fbe389c6bdec3003c22b60f",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2591490,
+        "known_for_department": "Acting",
+        "name": "Tetsuro Komiyama",
+        "original_name": "Tetsuro Komiyama",
+        "popularity": 0.2809,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "",
+        "credit_id": "5fbe37e60c271000402dd05b",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288672,
+        "known_for_department": "Acting",
+        "name": "Shûichirô Narita",
+        "original_name": "Shûichirô Narita",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "",
+        "credit_id": "5fbe38060c2710003e2dff68",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869555,
+        "known_for_department": "Acting",
+        "name": "Noboru Kasuga",
+        "original_name": "Noboru Kasuga",
+        "popularity": 0.352,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "",
+        "credit_id": "5fbe38a14c1d9a0041824366",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288669,
+        "known_for_department": "Acting",
+        "name": "Shinpachi Kura",
+        "original_name": "Shinpachi Kura",
+        "popularity": 0.5915,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "",
+        "credit_id": "5fbe3811f9475b0041c5e222",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2194066,
+        "known_for_department": "Acting",
+        "name": "Kenji Hayashi",
+        "original_name": "Kenji Hayashi",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "",
+        "credit_id": "5fbe381935c30a003f55f4bd",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567246,
+        "known_for_department": "Acting",
+        "name": "Shōtarō Hayashi",
+        "original_name": "林彰太郎",
+        "popularity": 1.2918,
+        "profile_path": "/gLsWxtek8PeItaib8yks4rBHouV.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "55d9714192514143e0004085",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869556,
+        "known_for_department": "Acting",
+        "name": "Shimezo Kataoka",
+        "original_name": "Shimezo Kataoka",
+        "popularity": 0.2358,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "",
+        "credit_id": "5fbe38a854508d0040d51912",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140622,
+        "known_for_department": "Acting",
+        "name": "Bunya Ozawa",
+        "original_name": "Bunya Ozawa",
+        "popularity": 0.3531,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "",
+        "credit_id": "5fbe3855271ca500405344c7",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2869557,
+        "known_for_department": "Acting",
+        "name": "Konosuke Takemoto",
+        "original_name": "Konosuke Takemoto",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "",
+        "credit_id": "5fbe38afd9f4a6003e9bc140",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76975,
+        "known_for_department": "Acting",
+        "name": "Rentaro Mikuni",
+        "original_name": "三国連太郎",
+        "popularity": 1.3033,
+        "profile_path": "/kSET9YM6lC5on7W6jUH8XBn9pH.jpg",
+        "cast_id": 2,
+        "character": "Kageyu Saito",
+        "credit_id": "52fe45fd9251416c750695d9",
+        "order": 35
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7449,
+        "known_for_department": "Writing",
+        "name": "Shinobu Hashimoto",
+        "original_name": "橋本忍",
+        "popularity": 1.6524,
+        "profile_path": "/Aakm6YsthiBZHdkfE7OnqPVyrPl.jpg",
+        "credit_id": "52fe45fd9251416c750695ed",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560321,
+        "known_for_department": "Writing",
+        "name": "Yasuhiko Takiguchi",
+        "original_name": "滝口康彦",
+        "popularity": 1.2728,
+        "profile_path": null,
+        "credit_id": "52fe45fd9251416c750695f3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76978,
+        "known_for_department": "Directing",
+        "name": "Masaki Kobayashi",
+        "original_name": "小林正樹",
+        "popularity": 2.0611,
+        "profile_path": "/2OoAoiHy4Ux6ODGgr6KkxeyXWdI.jpg",
+        "credit_id": "52fe45fd9251416c750695e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237158,
+        "known_for_department": "Production",
+        "name": "Gin'ichi Kishimoto",
+        "original_name": "岸本吟一",
+        "popularity": 0.4465,
+        "profile_path": null,
+        "credit_id": "563502f29251414ab7016312",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51808,
+        "known_for_department": "Sound",
+        "name": "Toru Takemitsu",
+        "original_name": "武満徹",
+        "popularity": 0.881,
+        "profile_path": "/l48fEVb1HGMilTCkxSzYuZsSPdk.jpg",
+        "credit_id": "56350374c3a3681b4b016a76",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552639,
+        "known_for_department": "Art",
+        "name": "Shigemasa Toda",
+        "original_name": "戸田重昌",
+        "popularity": 1.3753,
+        "profile_path": null,
+        "credit_id": "563503f9c3a3681b5c019c54",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 552638,
+        "known_for_department": "Editing",
+        "name": "Hisashi Sagara",
+        "original_name": "Hisashi Sagara",
+        "popularity": 0.782,
+        "profile_path": null,
+        "credit_id": "563503ce9251414ab701632a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550945,
+        "known_for_department": "Sound",
+        "name": "Hideo Nishizaki",
+        "original_name": "西崎英雄",
+        "popularity": 1.3266,
+        "profile_path": null,
+        "credit_id": "5635045f92514129fe00a78e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547577,
+        "known_for_department": "Art",
+        "name": "Junpei Oosumi",
+        "original_name": "Junpei Oosumi",
+        "popularity": 0.116,
+        "profile_path": null,
+        "credit_id": "566a7838c3a368264700383a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352118,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoshiko Kimura",
+        "original_name": "Yoshiko Kimura",
+        "popularity": 0.3034,
+        "profile_path": null,
+        "credit_id": "566a79569251417411008390",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547579,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mitsuzô Ueda",
+        "original_name": "Mitsuzô Ueda",
+        "popularity": 0.2435,
+        "profile_path": null,
+        "credit_id": "566a79479251415eed003f01",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547580,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gyôuemon Kimura",
+        "original_name": "Gyôuemon Kimura",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "credit_id": "566a794f92514173fc00860f",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547581,
+        "known_for_department": "Directing",
+        "name": "Kôji Niwa",
+        "original_name": "Kôji Niwa",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "566a795f9251417383003a01",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547578,
+        "known_for_department": "Art",
+        "name": "Zenichi Tajiri",
+        "original_name": "Zenichi Tajiri",
+        "popularity": 0.1057,
+        "profile_path": null,
+        "credit_id": "566a793fc3a368535a0037a7",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602610,
+        "known_for_department": "Production",
+        "name": "Tatsuo Hosoya",
+        "original_name": "Tatsuo Hosoya",
+        "popularity": 0.3655,
+        "profile_path": null,
+        "credit_id": "61f44e4c028420001b775397",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552308,
+        "known_for_department": "Camera",
+        "name": "Yoshio Miyajima",
+        "original_name": "宮島義勇",
+        "popularity": 0.7987,
+        "profile_path": null,
+        "credit_id": "5b419d9a0e0a2670f900d100",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 14537,
+    "keywords": [
+      {
+        "id": 236,
+        "name": "suicide"
+      },
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 1462,
+        "name": "samurai"
+      },
+      {
+        "id": 1293,
+        "name": "asia"
+      },
+      {
+        "id": 9856,
+        "name": "flashback"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 12987,
+        "name": "poverty"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 18100,
+        "name": "seppuku"
+      },
+      {
+        "id": 155198,
+        "name": "ronin"
+      },
+      {
+        "id": 186753,
+        "name": "jidaigeki"
+      },
+      {
+        "id": 190446,
+        "name": "edo period"
+      },
+      {
+        "id": 207941,
+        "name": "17th century"
+      },
+      {
+        "id": 214891,
+        "name": "shogunate"
+      },
+      {
+        "id": 312122,
+        "name": "bushi"
+      },
+      {
+        "id": 312229,
+        "name": "bakumatsu"
+      },
+      {
+        "id": 325801,
+        "name": "distressing"
+      },
+      {
+        "id": 325811,
+        "name": "excited"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          18,
+          28
+        ],
+        "id": 295022,
+        "original_language": "hr",
+        "original_title": "Voo d.o.o.",
+        "overview": "After long years of bullying, one boy buys voodoo doll so he could have his revenge.",
+        "popularity": 0.1628,
+        "poster_path": null,
+        "release_date": "2011-09-14",
+        "title": "Voo d.o.o.",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2IPOmxB7tBxXe1tkP3oR4Qbr40n.jpg",
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 28238,
+        "original_language": "en",
+        "original_title": "Hamlet",
+        "overview": "David Tennant stars in a film of the Royal Shakespeare Company's award-winning production of Shakespeare's great play. Director Gregory Doran's modern-dress production was hailed by the critics as thrilling, fast-moving and, in parts, very funny.",
+        "popularity": 3.9615,
+        "poster_path": "/ykluFIkzQocbsZO1F4au8HV8naQ.jpg",
+        "release_date": "2009-12-26",
+        "title": "Hamlet",
+        "video": false,
+        "vote_average": 7.284,
+        "vote_count": 74
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2Z20IzIW3Do6HWXbEMuFRkMkWaZ.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 28268,
+        "original_language": "ja",
+        "original_title": "大人の見る繪本 生れてはみたけれど",
+        "overview": "Two young brothers become the leaders of a gang of kids in their neighborhood. Ozu's charming film is a social satire that draws from the antics of childhood as well as the tragedy of maturity.",
+        "popularity": 1.2646,
+        "poster_path": "/dD3Do5OQj23RJd4thYyUW2AqsCc.jpg",
+        "release_date": "1932-06-03",
+        "title": "I Was Born, But...",
+        "video": false,
+        "vote_average": 7.535,
+        "vote_count": 142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qH9wiXnx9mU9kNGCH1exaey9CqU.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "id": 28276,
+        "original_language": "ja",
+        "original_title": "お早よう",
+        "overview": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan.",
+        "popularity": 1.5933,
+        "poster_path": "/dXy2LFsE0VlHlHJU3SLBdJgrzEq.jpg",
+        "release_date": "1959-05-12",
+        "title": "Good Morning",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 303
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 28297,
+        "original_language": "en",
+        "original_title": "Brute Force",
+        "overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
+        "popularity": 3.7054,
+        "poster_path": "/lpKW8JG2IEJlz7WIyqLSsPHGnrd.jpg",
+        "release_date": "1947-07-16",
+        "title": "Brute Force",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/K5PmakPuXeTHQ9f0Bg8ca92zdb.jpg",
+        "genre_ids": [
+          27,
+          18
+        ],
+        "id": 672684,
+        "original_language": "fi",
+        "original_title": "Vihanpidot",
+        "overview": "A group of twenty somethings meet after a long time, and head to an island for a getaway, class reunion, and a night of partying. During the fateful evening the past begins to haunt them and old grudges from their shared past come to surface. As the night turns awry, they start to fear there might also be something else on the island besides them. During one bloody night old scores are settled, everything is brought to the surface, and revenge is had.",
+        "popularity": 1.3916,
+        "poster_path": "/ygF5pxPAwl5uF5R59WIC1K01Qyg.jpg",
+        "release_date": "2020-02-14",
+        "title": "Insanity",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5Jrvcu5D29SBQbnhiaHWC0rqJxJ.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 1261333,
+        "original_language": "xx",
+        "original_title": "Samsara",
+        "overview": "Darta, a man from an impoverished family, is rejected by the wealthy parents of the woman he loves. Desperate, he strikes a bargain with the Monkey King, performing a dark ritual to gain wealth. However, in doing so, he accidentally curses his wife and child to a life of suffering. Rooted in Indonesian mysticism, this universal narrative explores the insatiable hunger to become something one is not and the boundaries one is willing to cross to achieve it.",
+        "popularity": 2.6894,
+        "poster_path": "/d14SB0YZjjPPbmhwPNwkAW1vHQQ.jpg",
+        "release_date": "2024-12-05",
+        "title": "Samsara",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10749,
+          27
+        ],
+        "id": 1261419,
+        "original_language": "es",
+        "original_title": "Medicina Para Fantasmas",
+        "overview": "After the disappearance of all the people at a Halloween party, Olivia will try to find out the whereabouts of her ex-boyfriend, Oliver, to mend her relationship with him. Along the way she will meet Alex, a man dressed as Frankenstein, and a ghost who will stalk her in her most vulnerable moments.",
+        "popularity": 0.1679,
+        "poster_path": "/rMkNhWhmeMpq1jbB8vHeLe9ANX2.jpg",
+        "release_date": "2025-01-15",
+        "title": "Medicina Para Fantasmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 26614,
+        "original_language": "fr",
+        "original_title": "La Chienne",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "popularity": 4.3344,
+        "poster_path": "/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
+        "release_date": "1931-11-01",
+        "title": "La Chienne",
+        "video": false,
+        "vote_average": 7.267,
+        "vote_count": 129
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xe43LKesFXjQgP4W1s2juf7Tb4t.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 26638,
+        "original_language": "it",
+        "original_title": "Il deserto rosso",
+        "overview": "In an industrializing Italian town, a married woman, rendered mentally unstable after a traffic accident, drifts into an affair with a friend of her husband.",
+        "popularity": 2.1486,
+        "poster_path": "/rGcTVdyhaGzMxPPRVApXre6F7SD.jpg",
+        "release_date": "1964-09-04",
+        "title": "Red Desert",
+        "video": false,
+        "vote_average": 7.341,
+        "vote_count": 490
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/34WzsXWrGjVKVD1C9zyB0bs5e6q.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26712,
+        "original_language": "en",
+        "original_title": "The Enforcer",
+        "overview": "After years of investigation, Assistant District Attorney Martin Ferguson has managed to build a solid case against an elusive gangster whose top lieutenant is about to testify.",
+        "popularity": 0.7185,
+        "poster_path": "/k7FAq6mmLfsC6htX6f5zKwbw8LF.jpg",
+        "release_date": "1951-02-24",
+        "title": "The Enforcer",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 106
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p68TvdLOCLXJWTfI9R865Je6mfm.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 26714,
+        "original_language": "en",
+        "original_title": "Two Seconds",
+        "overview": "A condemned murderer, in the process of being executed, relives the events that led to his being sentenced to die in the electric chair. Told in flashback, we witness a sleazy dancehall girl (Vivienne Osborne) dupe a high rise riveter (Edward G. Robinson) into marriage so she can live off of him. But when he loses his job and his marbles, she ends up supporting him with money from her side man--and misses no opportunity to rub it in his face that she's now supporting him in his emasculated state. As the animosity grows and things get more and more unbearable, he is eventually driven to desperate measures.",
+        "popularity": 4.0907,
+        "poster_path": "/mSsJxhXgkoqijFV5gRe2BvahJP1.jpg",
+        "release_date": "1932-05-28",
+        "title": "Two Seconds",
+        "video": false,
+        "vote_average": 6.023,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          27,
+          10770
+        ],
+        "id": 478963,
+        "original_language": "en",
+        "original_title": "The Witches of Pendle",
+        "overview": "A BBC dramatization of the Pendle witch trials of Lancashire, England that occurred in 1616.",
+        "popularity": 0.2171,
+        "poster_path": "/jfxw4HTYHuEBQrJYwxXRMayV8nv.jpg",
+        "release_date": "1976-06-19",
+        "title": "The Witches of Pendle",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 478973,
+        "original_language": "ja",
+        "original_title": "鉄砲伝来記",
+        "overview": "Well before “Shogun” as warring clans were fighting for power throughout Japan, a Portuguese vessel ran aground off Tanegashima. Lord Tokitaka helped Captain Pinto repair his ship. The grateful captain offered the lord a gift--a matchlock musket—the first firearm ever seen in Japan. But like a great stone hurled into placid waters, this simple gift will start a revolution. Tokitaka tasks Kinbei, his greatest swordsmith, to copy this musket and build guns for Japan. While Kinbei struggles to forge Japan’s first musket, a great love blooms between Captain Pinto and Kinbei’s daughter Wakasa. But for Kinbei, to let Wakasa marry Pinto and go to Portugal is unthinkable. And as Kinbei creates Japan’s first matchlock factory, Lord Oda Nobunaga will seize upon firearms as the key to sweep all other clans before him, tearing a blood-soaked path of destruction through Japan.",
+        "popularity": 0.408,
+        "poster_path": "/lFVoVCpWEPWPbmk3sm9yBcLn9s3.jpg",
+        "release_date": "1968-05-18",
+        "title": "The Saga of Tanegashima",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1064965,
+        "original_language": "en",
+        "original_title": "Uriel Acosta",
+        "overview": "",
+        "popularity": 0.4272,
+        "poster_path": null,
+        "release_date": "1914-06-22",
+        "title": "Uriel Acosta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jZ9KWu4iSMmK7gZMjkteG3pWHMK.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 27998,
+        "original_language": "en",
+        "original_title": "The Murder Man",
+        "overview": "Steve Grey, reporter for the Daily Star, has a habit of scooping all the other papers in town. When Henry Mander is investigated for the murder of his shady business partner, Grey is one step ahead of the police to the extent that he often dictates his story in advance of its actual occurrence. He leads the police through an 'open and shut' case resulting in Mander being tried, convicted and sentenced to death. Columnist Mary Shannon is in love with Steve but she sees him struggle greatly with his last story before Mander's execution. When she starts typing out the story from his recorded dictation, she realizes why.",
+        "popularity": 0.3173,
+        "poster_path": "/jjoBHLSJsNml7mcl5lGr1CvYFjs.jpg",
+        "release_date": "1935-07-12",
+        "title": "The Murder Man",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/26gr06Z8mgyGFGtFwBOWU87FQbE.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 28026,
+        "original_language": "en",
+        "original_title": "Prey for Rock & Roll",
+        "overview": "In late 1980s Los Angeles, Jacki and her all-girl punk rock band, Clam Dandy, are trying to make it big. On the verge of turning 40, Jacki decides that if the band's one last shot at the big time is unsuccessful, she will give up her dreams of stardom.",
+        "popularity": 0.5691,
+        "poster_path": "/qXXAJjWHcXbfwdlq96nHSTxCVHv.jpg",
+        "release_date": "2003-09-26",
+        "title": "Prey for Rock & Roll",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ehoBPfQmh83KuLvv0aYNE6WZ7kG.jpg",
+        "genre_ids": [
+          18,
+          28,
+          35
+        ],
+        "id": 295152,
+        "original_language": "es",
+        "original_title": "Lola la Trailera",
+        "overview": "Lola finds herself into the world of violence and drug trafficking when her father is murdered for refusing to put his truck to the service of a powerful cartel, with protections at high police levels. Knowing the local officials will not serve out justice, she takes matters into her own hands. Armed with a machine gun, she'll attempt to get revenge by her own hands - but the enemy has more firepower than her.",
+        "popularity": 0.6546,
+        "poster_path": "/3SvIBQhVGz5tWXJe1xn2u5cij8g.jpg",
+        "release_date": "1983-06-20",
+        "title": "Lola the Truck Driver",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ypOhDna6flQwGSO4Fl5uaH8i0Tn.jpg",
+        "genre_ids": [
+          18,
+          36,
+          27
+        ],
+        "id": 28365,
+        "original_language": "en",
+        "original_title": "Tower of London",
+        "overview": "In the 15th century Richard Duke of Gloucester, aided by his club-footed executioner Mord, eliminates those ahead of him in succession to the throne, then occupied by his brother King Edward IV of England. As each murder is accomplished he takes particular delight in removing small figurines, each resembling one of the successors, from a throne-room dollhouse, until he alone remains. After the death of Edward he becomes Richard III, King of England, and need only defeat the exiled Henry Tudor to retain power.",
+        "popularity": 0.4035,
+        "poster_path": "/glEWt92HOIq7uUoyMyO3JWyzH6K.jpg",
+        "release_date": "1939-11-17",
+        "title": "Tower of London",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Af5UUKi8Pe7VJ66bbZTOujLruBh.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53,
+          28
+        ],
+        "id": 28415,
+        "original_language": "en",
+        "original_title": "The Yakuza",
+        "overview": "When George Tanner does business with high-ranking Yakuza Tono, Tono kidnaps his daughter, and George summons his old friend, private eye Harry Kilmer, to Japan to investigate.",
+        "popularity": 1.1632,
+        "poster_path": "/Aj6JpRPswDR4eMO1OSnoTc2yrPu.jpg",
+        "release_date": "1974-12-21",
+        "title": "The Yakuza",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 202
+      }
+    ],
+    "total_pages": 16502,
+    "total_results": 330029
+  }
+}

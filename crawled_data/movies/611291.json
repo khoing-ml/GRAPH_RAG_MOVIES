@@ -1,0 +1,638 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/nQRTynJcXF5GRcyEHF09yZIuQ7F.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "https://www.bringthesoulthemovie.com/",
+    "id": 611291,
+    "imdb_id": "tt10545076",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "브링 더 소울: 더 무비",
+    "overview": "A glimpse into K-pop group BTS’ world away from the stage, featuring intimate group discussions alongside spectacular concert performances from their world tour.",
+    "popularity": 1.4074,
+    "poster_path": "/7x5CguA0MxHqbSjhi14UEuK7c95.jpg",
+    "production_companies": [
+      {
+        "id": 86824,
+        "logo_path": "/kGbzID3zHwCnhVjmMw3lKij2NKx.png",
+        "name": "Big Hit Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 112149,
+        "logo_path": null,
+        "name": "The Walt Disney Company Korea",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2019-08-07",
+    "revenue": 12150259,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Forever, we are young.",
+    "title": "Bring the Soul: The Movie",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 446
+  },
+  "credits": {
+    "id": 611291,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544084,
+        "known_for_department": "Acting",
+        "name": "RM",
+        "original_name": "RM",
+        "popularity": 1.8095,
+        "profile_path": "/cJmaUOIuibsC0DPnUMStN4rfAwr.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "5d12ac180e0a267dceca400d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544088,
+        "known_for_department": "Acting",
+        "name": "Jin",
+        "original_name": "진",
+        "popularity": 2.0327,
+        "profile_path": "/cothCnRmZXC63olRZ816lZoGMDc.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "5d12ac2fc3a368546e2020d3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544086,
+        "known_for_department": "Acting",
+        "name": "Suga",
+        "original_name": "슈가",
+        "popularity": 1.6854,
+        "profile_path": "/83xf9EkLK3k7CJSaXe3iVgBC6S3.jpg",
+        "cast_id": 3,
+        "character": "Himself",
+        "credit_id": "5d12ac3bc3a3681ab62244ed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544090,
+        "known_for_department": "Acting",
+        "name": "j-hope",
+        "original_name": "제이홉",
+        "popularity": 1.8059,
+        "profile_path": "/2xZu36Z6JFT95AIzazyRHW51dC1.jpg",
+        "cast_id": 4,
+        "character": "Himself",
+        "credit_id": "5d12ac469251410582bb0701",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544092,
+        "known_for_department": "Acting",
+        "name": "Jimin",
+        "original_name": "지민",
+        "popularity": 2.6865,
+        "profile_path": "/x5jbcmfYPr70AKfOiKtidODjpv1.jpg",
+        "cast_id": 5,
+        "character": "Himself",
+        "credit_id": "5d12ac520e0a2637c2ccc1af",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544093,
+        "known_for_department": "Acting",
+        "name": "V",
+        "original_name": "뷔",
+        "popularity": 2.9535,
+        "profile_path": "/jPCklfz8cAXfvRptmeNeYBa9Myf.jpg",
+        "cast_id": 6,
+        "character": "Himself",
+        "credit_id": "5d12ac609251417378b9d37d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544095,
+        "known_for_department": "Acting",
+        "name": "Jung Kook",
+        "original_name": "정국",
+        "popularity": 1.4898,
+        "profile_path": "/2O7wrPFZtdfNJ5w6LGlIri3Xd0.jpg",
+        "cast_id": 7,
+        "character": "Himself",
+        "credit_id": "5d12ac6a9251417873b9ce1a",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4133397,
+        "known_for_department": "Sound",
+        "name": "Sin Myeong-su",
+        "original_name": "Sin Myeong-su",
+        "popularity": 0.4263,
+        "profile_path": null,
+        "credit_id": "649a8493fed59700c9b84507",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042738,
+        "known_for_department": "Directing",
+        "name": "Park Jun-soo",
+        "original_name": "Park Jun-soo",
+        "popularity": 1.9066,
+        "profile_path": "/ohDQzAK26k87v6poQBRHWOxjrlq.jpg",
+        "credit_id": "5d1c766394d8a851623cc333",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761572,
+        "known_for_department": "Production",
+        "name": "Bang Si-hyuk",
+        "original_name": "방시혁",
+        "popularity": 0.6227,
+        "profile_path": "/wQgiytNBj3zeIS7MUtSWjLFt0JU.jpg",
+        "credit_id": "5d1d9d8694d8a831163e2b67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197566,
+        "known_for_department": "Production",
+        "name": "Yun Ji-won",
+        "original_name": "Yun Ji-won",
+        "popularity": 0.2639,
+        "profile_path": null,
+        "credit_id": "5d4c46a321c4ca0019fce520",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5591357,
+        "known_for_department": "Sound",
+        "name": "Kim Eun-jeong",
+        "original_name": "김은정",
+        "popularity": 0.8588,
+        "profile_path": null,
+        "credit_id": "68cab419419e516765c7f641",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 611291,
+    "keywords": [
+      {
+        "id": 194869,
+        "name": "boy band"
+      },
+      {
+        "id": 225273,
+        "name": "k-pop"
+      },
+      {
+        "id": 251523,
+        "name": "idol group"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vpo3qdjgasu2kxHIKkNIXK9hDHM.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 843388,
+        "original_language": "ko",
+        "original_title": "블랙핑크 더 무비",
+        "overview": "In honor of their 5th anniversary, the immensely popular Korean girl group ‘BLACKPINK’ is releasing a worldwide theatrical event to their fans. It features never-before-seen footage and interviews, as well as clips from their shows to give the audience a unique concert-like experience.",
+        "popularity": 1.0899,
+        "poster_path": "/566zbgHAqxuptKwuyBX7BwbnHD0.jpg",
+        "release_date": "2021-08-04",
+        "title": "BLACKPINK: The Movie",
+        "video": true,
+        "vote_average": 8.1,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cb1hZXieb4npx0F2K4yL1WL6NQQ.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          14
+        ],
+        "id": 1235431,
+        "original_language": "ja",
+        "original_title": "【推しの子】-The Final Act-",
+        "overview": "Goro is a gynecologist and idol fan who’s in shock after his favorite star, Ai, announces an impromptu hiatus. Little does Goro realize that he’s about to forge a bond with her that defies all common sense! Lies are an idol’s weapon!",
+        "popularity": 6.2197,
+        "poster_path": "/29BjXB8dPvLvJJgZFetd8PvwYiw.jpg",
+        "release_date": "2024-12-20",
+        "title": "Oshi no Ko -The Final Act-",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rEdTTllLj3NUKHOpWFHksrlElvd.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 1043660,
+        "original_language": "ko",
+        "original_title": "TOMORROW X TOGETHER WORLD TOUR  'ACT:LOVESICK'",
+        "overview": "ACT:LOVESICK is the first concert tour headlined by South Korean boy band Tomorrow X Together in support of their second full album The Chaos Chapter: Freeze and fourth extended play (EP) Minisode 2: Thursday's Child. The tour began on July 2 in Seoul, South Korea.",
+        "popularity": 0.5183,
+        "poster_path": "/7OlDPHlLojTnqMzAMhX47qFXN7N.jpg",
+        "release_date": "2022-07-02",
+        "title": "TOMORROW X TOGETHER WORLD TOUR  'ACT:LOVESICK'",
+        "video": true,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 4249,
+        "original_language": "en",
+        "original_title": "The Comeback",
+        "overview": "After an absence of five years, six times Mr Olympia winner Arnold Schwarzenegger makes a comeback and attempts to take the World Body Building Championship for the 7th time.",
+        "popularity": 3.8864,
+        "poster_path": "/mrmwkOS4sa6OXkA0ylJo3s1bwDj.jpg",
+        "release_date": "1980-05-12",
+        "title": "The Comeback",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r7lbf7ElmyX8WmQMiwkEjEH0hcg.jpg",
+        "genre_ids": [
+          16,
+          10402
+        ],
+        "id": 1045405,
+        "original_language": "ja",
+        "original_title": "i☆Ris the Movie - Full Energy!! -",
+        "overview": "A movie inspired by the 10th anniversary celebrations of i☆Ris voice actress idol unit.",
+        "popularity": 1.7699,
+        "poster_path": "/gksE7yZtwiDOsJ77uyKoUHLDauU.jpg",
+        "release_date": "2024-05-17",
+        "title": "i☆Ris the Movie - Full Energy!! -",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 273401,
+        "original_language": "ja",
+        "original_title": "DOCUMENTARY of AKB48 Show must go on 少女たちは傷つきながら、夢を見る",
+        "overview": "Documentary Of AKB48 : Show Must Go On is the 2nd AKB48 documentary. The movie feature various moments of 2011, such as Team 4 formation, Maeda Atsuko winning the 3rd Senbatsu Election, first dome concert in Seibu Dome and the Dareka no Tame ni Charity Project.",
+        "popularity": 0.1347,
+        "poster_path": "/fxfdpqRgm4SK1WyBe3nnXYMSNTl.jpg",
+        "release_date": "2012-01-27",
+        "title": "Documentary of AKB48 Show Must Go On",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w5YVgyrzYHz3JMsB4VkDPOBZUrS.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 841601,
+        "original_language": "ko",
+        "original_title": "THE BOYZ FAN CON: The Film Festival",
+        "overview": "",
+        "popularity": 0.2161,
+        "poster_path": "/pkFK0ohLI5gAyA8Ft9brjDRjjDo.jpg",
+        "release_date": "2020-12-05",
+        "title": "THE BOYZ FAN CON: The Film Festival",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1047035,
+        "original_language": "ko",
+        "original_title": "the interlude of 11",
+        "overview": "For their first year anniversary Billlie is showcasing a concert to deliver the story of their unique universe, by using XR(Extended Reality) to tear down the border of different dimensions, time, and space.",
+        "popularity": 0.1456,
+        "poster_path": "/4PTHvpllIVcyiGYgr2urK5BA23s.jpg",
+        "release_date": "2022-11-11",
+        "title": "the interlude of 11",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fs2jLtwXs4h1d0PaGKfWkGWXF3i.jpg",
+        "genre_ids": [
+          878,
+          18,
+          10402
+        ],
+        "id": 269057,
+        "original_language": "en",
+        "original_title": "Bang Bang Baby",
+        "overview": "A small town teenager in the 1960s believes her dreams of becoming a famous singer will come true when her rock star idol gets stranded in town. But a leak in a nearby chemical plant that is believed to be causing mass mutations threatens to turn her dream into a nightmare.",
+        "popularity": 0.3597,
+        "poster_path": "/5NLzhk3hQ6M6X1A27ZST5nNhUya.jpg",
+        "release_date": "2014-09-08",
+        "title": "Bang Bang Baby",
+        "video": false,
+        "vote_average": 6.091,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iU5H89E7iT31meNccVuLbY0qzSd.jpg",
+        "genre_ids": [
+          16,
+          18,
+          14,
+          28,
+          10402
+        ],
+        "id": 645440,
+        "original_language": "ja",
+        "original_title": "劇場版 少女☆歌劇 レヴュースタァライト",
+        "overview": "The stage emulates life and compresses it, setting free skills learned over lifetimes in brief but dazzling displays for the amusement and judgment of others. For the performers, it is the ultimate risk, and some will rise while others must fall. Nowhere is this truer than at the Seisho Music Academy, where music, dance and real weapons all come into play in the creation of the next great Star. Karen and Hikari’s destinies have been linked since a childhood promise, but their journeys here have taken very different paths. Now, after Hikari leaves, Karen must discover who she is without her opposite, while Hikari must rediscover her own course. Nor are they the only girls who must reassess and change if they want to achieve their dreams, as the dance, magic, and swordplay continue!",
+        "popularity": 1.6888,
+        "poster_path": "/fQS5v2gglHPfx4BLjPhkuBqSntm.jpg",
+        "release_date": "2021-06-04",
+        "title": "Revue Starlight: The Movie",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oPtUygbi3BnKV8hdFHXRGyOpelq.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1429532,
+        "original_language": "ja",
+        "original_title": "行くぜ!超ときめき♡宣伝部 at さいたまスーパーアリーナ 〜超ときめきクリスマス〜",
+        "overview": "",
+        "popularity": 0.8502,
+        "poster_path": "/6T6qj8FHSrSlYWa30NTchwgOfme.jpg",
+        "release_date": "2024-12-28",
+        "title": "行くぜ!超ときめき♡宣伝部 at さいたまスーパーアリーナ 〜超ときめきクリスマス〜",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1446526,
+        "original_language": "ko",
+        "original_title": "STAYC 1st World Tour [TEENFRESH] in Seoul",
+        "overview": "TEENFRESH announced the start of STAYC's first world tour after debut.  STAYC 1ST WORLD TOUR [TEENFRESH] DVD released  This TEENFRESH DVD includes the debut song 'SO BAD', as well as the much-loved songs 'Bubble' and 'Teddy Bear', as well as 'YOUNG LUV', 'COMPLEX', and 'Not Like You', which give a glimpse of unique charms. ', 'I LIKE IT', etc. It contains a variety of stages that can only be seen at concerts. In addition, the unreleased song 'Flexing On My Ex' was performed to add specialness. In addition, it is filled with production meetings of members passionately preparing for the concert, practice scenes, D-DAY behind-the-scenes videos, world tour behind-the-scenes videos, and even a commentary containing the members' after-concert stories.",
+        "popularity": 0.126,
+        "poster_path": "/3QVbLW4FOW9xLg83CpDIIuoyyub.jpg",
+        "release_date": "2024-03-29",
+        "title": "STAYC 1st World Tour [TEENFRESH] in Seoul",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/taZMubIqrfcAxCI13agawZdzPSp.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 863291,
+        "original_language": "en",
+        "original_title": "BTS 2021 Muster: Sowoozoo Day 2",
+        "overview": "BTS 2021 Muster \"Sowoozoo\" was held on June 13-14, 2021 in South Korea and broadcasted live for fans.",
+        "popularity": 0.1945,
+        "poster_path": "/7xDGJn0aEXElnuVzHpbkPBI6DMs.jpg",
+        "release_date": "2021-06-14",
+        "title": "BTS 2021 Muster: Sowoozoo Day 2",
+        "video": true,
+        "vote_average": 9.2,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/86X09HCJo8s83s32H2Frz7G0jMx.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 1063453,
+        "original_language": "ko",
+        "original_title": "방탄소년단: 옛 투 컴 인 시네마",
+        "overview": "Join RM, Jin, SUGA, j-hope, Jimin, V and Jung Kook in this special cinematic cut, re-edited and remixed for the big screen. Watch new close-up angles and a whole new view of the entire concert, BTS Yet To Come in Busan. Featuring hit songs from across the group's career, including \"Dynamite,\" \"Butter\" and “IDOL,\" plus the first concert performance of \"Run BTS\" from the group’s latest album Proof.",
+        "popularity": 1.0628,
+        "poster_path": "/eWb45OsBHSO2t1j068bqDsPOGG9.jpg",
+        "release_date": "2023-02-01",
+        "title": "BTS: Yet to Come in Cinemas",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 110
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qd09px0NYGVneO0I2ZFi0yJSqA6.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 1254724,
+        "original_language": "ko",
+        "original_title": "슈가｜어거스트 디 투어 '디-데이' 더 무비",
+        "overview": "As the grand finale of the world tour, \"SUGA | Agust D TOUR 'D-DAY' THE FINAL\" marked the culmination of 25 concerts held in 10 cities, which captivated a total audience of 290,000 throughout its run. Experience the pulsating energy and excitement of \"'D-DAY' THE FINAL\" on screen, everything from the exquisite sounds traversing the boundary between \"21st Century Pop Icon\" BTS member SUGA and solo artist Agust D, electrifying performance, explosive energy, to special duet stages featuring fellow BTS members RM, Jimin, and Jung Kook.",
+        "popularity": 0.6139,
+        "poster_path": "/A4IzXiX0LjIn3BQHRCcePXzaE4M.jpg",
+        "release_date": "2024-04-10",
+        "title": "SUGA | Agust D TOUR 'D-DAY' THE MOVIE",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pF3TaqdSDutwadTWjgAJ31T9sGq.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 286782,
+        "original_language": "ja",
+        "original_title": "Girls' Generation ~Girls & Peace~ Japan 2nd Tour",
+        "overview": "Girls' Generation ~ Girls & Peace ~ Japan 2nd Tour is the second concert tour by South Korean girl group Girls' Generation to promote their second Japanese album, Girls & Peace. The DVD and Blu-ray features their second nationwide tour, visiting eight venues for a total of 20 shows.",
+        "popularity": 0.1845,
+        "poster_path": "/a4ys06jBlA2tWSglB7FIeCTNXjQ.jpg",
+        "release_date": "2013-02-09",
+        "title": "Girls' Generation ~Girls & Peace~ Japan 2nd Tour",
+        "video": true,
+        "vote_average": 8.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gCnUn5fwXtaDhNnOiENPdYT61GV.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1247080,
+        "original_language": "ko",
+        "original_title": "TWICE 5TH WORLD TOUR 'READY TO BE' in JAPAN",
+        "overview": "Live video recording of Twice's Performance on May 21, 2023 at Ajinomoto Stadium in Japan.",
+        "popularity": 0.1945,
+        "poster_path": "/7qeqtWUemDuGllyXBRY1jLkmjw3.jpg",
+        "release_date": "2024-04-24",
+        "title": "TWICE 5TH WORLD TOUR 'READY TO BE' in JAPAN",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7zXtVdUtCXE8dO9tEJXRxL1ut06.jpg",
+        "genre_ids": [
+          16,
+          10402
+        ],
+        "id": 1266536,
+        "original_language": "ja",
+        "original_title": "劇場版すとぷり はじまりの物語~Strawberry School Festival!!!~",
+        "overview": "An anime movie based on the boy band Strawberry Prince.",
+        "popularity": 1.2849,
+        "poster_path": "/kaBZWQ8mmT0fhIBdrafHinIVomN.jpg",
+        "release_date": "2024-07-19",
+        "title": "Strawberry Prince Movie: The Beginning - Strawberry School Festival!!!",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xP0zAHkHRzlewfoPDGUfEEApo6r.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1265066,
+        "original_language": "en",
+        "original_title": "The Beach Boys",
+        "overview": "A celebration of the legendary band that revolutionized pop music, and the iconic, harmonious sound they created that personified the California dream, captivating fans for generations and generations to come.",
+        "popularity": 1.9953,
+        "poster_path": "/jqrKimzSHgXRJlYgDw9LYqtTXbC.jpg",
+        "release_date": "2024-05-21",
+        "title": "The Beach Boys",
+        "video": false,
+        "vote_average": 6.576,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o2ufD03mYwPiBaRK54n36HKsDkR.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10402
+        ],
+        "id": 676643,
+        "original_language": "ja",
+        "original_title": "Tokyo 7th シスターズ -僕らは青空になる-",
+        "overview": "In the year 2032, the legendary idol unit \"7th Sisters\" suddenly retired from the industry and disappeared. That was the end of the idol industry... until two years later, when a young glory-seeking employee is appointed to be the leader of Tokyo's next generation idol studio, \"777 (Three Seven),\" commonly referred to as Nanastar.  However, the city continues to believe that idols are a thing of the past, and Nanastar is no exception. Their slump continues, but one day a mysterious and beautiful female manager approaches you and says, \"If the idols of the past are gone, we'll just have to make new idols! True \"sisters\" linked by powerful bonds!\" The story of the idols of the future, the Nanastar Sisters, will now unfold.",
+        "popularity": 2.6355,
+        "poster_path": "/2uJSa859toJgWOMURyG90DKmM4L.jpg",
+        "release_date": "2021-02-26",
+        "title": "Tokyo 7th Sisters",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 3
+      }
+    ],
+    "total_pages": 13170,
+    "total_results": 263389
+  }
+}

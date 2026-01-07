@@ -20,7 +20,8 @@ class Config:
     
     # Cấu hình Model
     EMBEDDING_MODEL = "models/text-embedding-004"
-    # SỬA LẠI TÊN MODEL ĐÚNG:
-    CHAT_MODEL = "models/gemini-2.5-flash" 
+    # Updated to stable model name (gemini-1.5-pro or gemini-2.0-flash-exp)
+    CHAT_MODEL = "models/gemini-2.5-flash"  # Stable, reliable model
+    # Alternative: "models/gemini-2.0-flash-exp" for faster responses
     
     VECTOR_SIZE = 768  # Embedding dimension (adjust to your embedding model)

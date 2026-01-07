@@ -1,0 +1,942 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/fx1wiibwJPemUMxmnWDCFzEoVeS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 484133,
+    "imdb_id": "tt6323306",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Nude",
+    "overview": "NUDE explores perceptions of nudity in art by chronicling the creative process of photographer David Bellemere as he's commissioned by NU Muses founder Steve Shaw to shoot a fine art calendar of nude photographs.",
+    "popularity": 2.5908,
+    "poster_path": "/699DbQ8eTecLmzjTLrao9D5bbpq.jpg",
+    "production_companies": [
+      {
+        "id": 39771,
+        "logo_path": null,
+        "name": "Starz Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 96765,
+        "logo_path": "/gGzebro8XLAZmC9uJbUlhMtDxq5.png",
+        "name": "Wall Fly",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-10-29",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A body of work.",
+    "title": "Nude",
+    "video": false,
+    "vote_average": 9.4,
+    "vote_count": 165
+  },
+  "credits": {
+    "id": 484133,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1914096,
+        "known_for_department": "Acting",
+        "name": "David Bellemere",
+        "original_name": "David Bellemere",
+        "popularity": 0.1781,
+        "profile_path": "/tA5AAzSwkuiOdVYnLCiGAmva43H.jpg",
+        "cast_id": 7,
+        "character": "Self - Art Photographer",
+        "credit_id": "59f64804925141422101f682",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409750,
+        "known_for_department": "Production",
+        "name": "Steve Shaw",
+        "original_name": "Steve Shaw",
+        "popularity": 0.4285,
+        "profile_path": "/24FOjoJGddc0sytqSkQsaPCgkVW.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "59f6480d92514141ed0216f2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1495677,
+        "known_for_department": "Acting",
+        "name": "Rachel Cook",
+        "original_name": "Rachel Cook",
+        "popularity": 2.6522,
+        "profile_path": "/uwsBnc6TKmzRerhy0SnCOXi3P1Q.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "59f6481bc3a3682df401ccd6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1854442,
+        "known_for_department": "Sound",
+        "name": "Jessica Clements",
+        "original_name": "Jessica Clements",
+        "popularity": 0.85,
+        "profile_path": "/5PWiPGI1sAxqgtDTSoxJAZkNBGa.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "59f6482292514141ed021708",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4361414,
+        "known_for_department": "Acting",
+        "name": "Ebonee Davis",
+        "original_name": "Ebonee Davis",
+        "popularity": 0.1762,
+        "profile_path": "/c8uT56x2m56ksaIQQNvEDIso3Yt.jpg",
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "6549740c67b61300c848ca10",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914099,
+        "known_for_department": "Acting",
+        "name": "Jeannie Park",
+        "original_name": "Jeannie Park",
+        "popularity": 0.1627,
+        "profile_path": "/wb96WiJhfiFbGASc022NtrLnudU.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "59f64830c3a3682d6a01f23a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1914100,
+        "known_for_department": "Acting",
+        "name": "Janine Tugonon",
+        "original_name": "Janine Tugonon",
+        "popularity": 0.2397,
+        "profile_path": "/gDozA84tWTGUvLCjyMOCRrYrrpp.jpg",
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "59f6483a92514141ed02171a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4176081,
+        "known_for_department": "Acting",
+        "name": "Keilani Asmus",
+        "original_name": "Keilani Asmus",
+        "popularity": 0.256,
+        "profile_path": "/qor1qh6vRornDLc2HUnhToDgGHq.jpg",
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "67fc04e8c74c16bf88ad3769",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370304,
+        "known_for_department": "Acting",
+        "name": "Thais Bellemere",
+        "original_name": "Thais Bellemere",
+        "popularity": 0.2164,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "67fc05e8c1e0a708cbacebb6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370289,
+        "known_for_department": "Acting",
+        "name": "Eva Biechy",
+        "original_name": "Eva Biechy",
+        "popularity": 0.0913,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "67fc05063110bd82dfad059e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2641306,
+        "known_for_department": "Acting",
+        "name": "Isabelle Boemeke",
+        "original_name": "Isabelle Boemeke",
+        "popularity": 0.1376,
+        "profile_path": "/4hOi9VhHdvnIycbWTyf38wHZ10Z.jpg",
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "5ec03dd628723c001f450ee6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370290,
+        "known_for_department": "Acting",
+        "name": "Margaux Brazhnyk",
+        "original_name": "Margaux Brazhnyk",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "67fc0516ec22ba3b49d95a63",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370318,
+        "known_for_department": "Acting",
+        "name": "Christianne Brooks",
+        "original_name": "Christianne Brooks",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "67fc0775ec22ba3b49d95b78",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1804581,
+        "known_for_department": "Acting",
+        "name": "Alejandra Guilmant",
+        "original_name": "Alejandra Guilmant",
+        "popularity": 0.7614,
+        "profile_path": "/nnR9f0k1CkQX9F1n8kI0X9ablHV.jpg",
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "5fc9bd6bec8a43004042ce0b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2880756,
+        "known_for_department": "Acting",
+        "name": "Christina Ionno",
+        "original_name": "Christina Ionno",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "5fc9c2287314a1003fc94854",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370292,
+        "known_for_department": "Acting",
+        "name": "Adrianne Jamison",
+        "original_name": "Adrianne Jamison",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "67fc052fec22ba3b49d95a74",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2880748,
+        "known_for_department": "Acting",
+        "name": "Sabina Karlsson",
+        "original_name": "Sabina Karlsson",
+        "popularity": 0.1023,
+        "profile_path": "/c5zpWcnpqbYyYGCoqUiNvY2ECVD.jpg",
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "5fc9bd4fb39e3500411985c8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370294,
+        "known_for_department": "Acting",
+        "name": "Olga Kubrack",
+        "original_name": "Olga Kubrack",
+        "popularity": 0.0752,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "67fc054e7c29ae5bc3d9119c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370320,
+        "known_for_department": "Acting",
+        "name": "Vika Levina",
+        "original_name": "Vika Levina",
+        "popularity": 0.0327,
+        "profile_path": "/rxmJy46PBl6RrtDFNOaVGceqegK.jpg",
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "67fc0791de5e4dec62ae0b16",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370297,
+        "known_for_department": "Acting",
+        "name": "Ariela Oliviera",
+        "original_name": "Ariela Oliviera",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "67fc05637c29ae5bc3d911ab",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370326,
+        "known_for_department": "Acting",
+        "name": "Shira Shane",
+        "original_name": "Shira Shane",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "67fc07b7c74c16bf88ad37c0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370298,
+        "known_for_department": "Acting",
+        "name": "Alita St. James",
+        "original_name": "Alita St. James",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "67fc056ea04f530b5c9999fd",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3102046,
+        "known_for_department": "Acting",
+        "name": "Nidhi Sunil",
+        "original_name": "Nidhi Sunil",
+        "popularity": 0.0907,
+        "profile_path": "/wIsqZEpLjnoGaiJbTQfA87SDHvX.jpg",
+        "cast_id": 35,
+        "character": "Self",
+        "credit_id": "67fc07c67c29ae5bc3d91254",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370303,
+        "known_for_department": "Acting",
+        "name": "Tess Tugonon",
+        "original_name": "Tess Tugonon",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "67fc05dbaacf7cfb26995d8a",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934895,
+        "known_for_department": "Directing",
+        "name": "Tchavdar Georgiev",
+        "original_name": "Tchavdar Georgiev",
+        "popularity": 0.3207,
+        "profile_path": null,
+        "credit_id": "59f647b2925141422101f5cc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409750,
+        "known_for_department": "Production",
+        "name": "Steve Shaw",
+        "original_name": "Steve Shaw",
+        "popularity": 0.4285,
+        "profile_path": "/24FOjoJGddc0sytqSkQsaPCgkVW.jpg",
+        "credit_id": "59f647ca925141422101f5f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914101,
+        "known_for_department": "Camera",
+        "name": "Daniel Kavanaugh",
+        "original_name": "Daniel Kavanaugh",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "59f6486c92514142aa02025a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380350,
+        "known_for_department": "Directing",
+        "name": "Tony Sacco",
+        "original_name": "Tony Sacco",
+        "popularity": 0.476,
+        "profile_path": null,
+        "credit_id": "59f647859251414d57040373",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380350,
+        "known_for_department": "Directing",
+        "name": "Tony Sacco",
+        "original_name": "Tony Sacco",
+        "popularity": 0.476,
+        "profile_path": null,
+        "credit_id": "59f647f1c3a3681fc90409f8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380350,
+        "known_for_department": "Directing",
+        "name": "Tony Sacco",
+        "original_name": "Tony Sacco",
+        "popularity": 0.476,
+        "profile_path": null,
+        "credit_id": "59f6477f925141422101f587",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367083,
+        "known_for_department": "Production",
+        "name": "Josh Shader",
+        "original_name": "Josh Shader",
+        "popularity": 0.169,
+        "profile_path": null,
+        "credit_id": "59f647a2925141422101f5b6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1769958,
+        "known_for_department": "Writing",
+        "name": "Kevin Wong",
+        "original_name": "Kevin Wong",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "credit_id": "59f648779251414d2003c530",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914102,
+        "known_for_department": "Sound",
+        "name": "Isaac Abrego",
+        "original_name": "Isaac Abrego",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "59f6488492514142aa02026f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914103,
+        "known_for_department": "Editing",
+        "name": "Hee-Jae Park",
+        "original_name": "Hee-Jae Park",
+        "popularity": 0.1201,
+        "profile_path": null,
+        "credit_id": "59f648939251414d2003c551",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453131,
+        "known_for_department": "Sound",
+        "name": "Reza Safinia",
+        "original_name": "Reza Safinia",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "59f647dfc3a3682fd502148c",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 484133,
+    "keywords": [
+      {
+        "id": 6025,
+        "name": "photography"
+      },
+      {
+        "id": 155477,
+        "name": "softcore"
+      },
+      {
+        "id": 208876,
+        "name": "creative process"
+      },
+      {
+        "id": 239225,
+        "name": "nude photography"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/euLfNVlQhGjlqseZkOwEpQhD6mJ.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1435454,
+        "original_language": "en",
+        "original_title": "Capturing Kennedy",
+        "overview": "The extraordinary untold story of Jacques Lowe, a young immigrant who, at just 28, became the personal photographer to President John F. Kennedy. Experience the untold stories behind the images that shaped Camelot.",
+        "popularity": 0.3566,
+        "poster_path": "/cM2YoxtoeOyzo6NfTWIuQFDx23X.jpg",
+        "release_date": "2024-09-22",
+        "title": "Capturing Kennedy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 468084,
+        "original_language": "en",
+        "original_title": "The Keepers of the Streak",
+        "overview": "The NFL has staged 48 Super Bowls. Four photographers have taken pictures at every one of them. In KEEPERS OF THE STREAK, director Neil Leifer tells the story of this exclusive club, made up of John Biever, Walter Iooss, Mickey Palmer and Tony Tomsic. With their cameras, they have captured football's biggest game of the year for almost five decades.",
+        "popularity": 0.1752,
+        "poster_path": "/iQZ9q5GRzEHiCWoWI6WyjB0SjjY.jpg",
+        "release_date": "2015-01-23",
+        "title": "The Keepers of the Streak",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zMYihn9vyQ9mRVLnbc1OZ6wUTVO.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1439442,
+        "original_language": "pt",
+        "original_title": "Reflexão, Improvisação",
+        "overview": "A perspective and reflection on the work of Gabriel Ferrandini.",
+        "popularity": 0.1167,
+        "poster_path": "/tv1Uzmc1cAhyFx6g8Bia5HS8uNf.jpg",
+        "release_date": "",
+        "title": "Reflexão, Improvisação",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pAi6R7JwcjCKCI8lP3Px0dxJlYq.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1232236,
+        "original_language": "fr",
+        "original_title": "Inside The Dream: Dior",
+        "overview": "Unraveling the mystery of perfume creation, the House of Dior is opening its doors. Over the course of a year, we followed new perfumer Francis Kurkdjian in one of his greatest challenges: reinventing the iconic \"J'adore\". A unique sensory journey, from conception to launch, into a secret world of passionate artisans.",
+        "popularity": 0.2668,
+        "poster_path": "/7FyHVttbonV5L9YfMV3EbL4N37h.jpg",
+        "release_date": "2023-11-12",
+        "title": "Inside The Dream: Dior",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vAKWmxYUCspTqeUqLrU26oNtFaE.jpg",
+        "genre_ids": [
+          99,
+          14
+        ],
+        "id": 457408,
+        "original_language": "en",
+        "original_title": "Moments with Johan",
+        "overview": "The beautiful gay erotic superstar Johan Paulik is enthusiastically celebrated in this jam-packed compendium of Johan's greatest on-screen performances, plus an exclusive interview with the charming boy himself and previously unseen out-takes which reveal the charm and humor of this much admired adult model.",
+        "popularity": 0.1683,
+        "poster_path": "/sASf3wtTLSa2q0sdNfCKyVhr21l.jpg",
+        "release_date": "1996-03-21",
+        "title": "Moments with Johan",
+        "video": false,
+        "vote_average": 4.667,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fnxnea3loMg5pIV0poyuaXfGzgP.jpg",
+        "genre_ids": [
+          99,
+          10752
+        ],
+        "id": 8847,
+        "original_language": "en",
+        "original_title": "Standard Operating Procedure",
+        "overview": "Errol Morris examines the incidents of abuse and torture of suspected terrorists at the hands of U.S. forces at the Abu Ghraib prison.",
+        "popularity": 0.6275,
+        "poster_path": "/v2QCXsisMLYsozC2qJtYGa3Rvsi.jpg",
+        "release_date": "2008-02-12",
+        "title": "Standard Operating Procedure",
+        "video": false,
+        "vote_average": 6.781,
+        "vote_count": 64
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 846500,
+        "original_language": "it",
+        "original_title": "I fiori persi",
+        "overview": "March 2020. Fabrizio, a photographer and filmmaker who lives in Luxembourg, returns to his family in central Italy after his father has suffered a heart attack. It’s the beginning of the pandemic, the country is in lockdown. An intimate diary and an ode to filial love in the face of the most trying circumstances a son can face. A tale of the soul and personal hardship in the context of a broader collective tragedy.",
+        "popularity": 0.1772,
+        "poster_path": "/nGHbAH1xy3mwqTNueMBO7SBv8z8.jpg",
+        "release_date": "2021-06-30",
+        "title": "Lost Flowers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kUaOVPjvM8MhQIOiuPoOupRNwBK.jpg",
+        "genre_ids": [
+          99,
+          10749
+        ],
+        "id": 844942,
+        "original_language": "en",
+        "original_title": "Playboy: Playmate Erotic Adventures",
+        "overview": "Indulge your most daring dreams as Playboy's Playmates lead you on an uninhibited and erotic journey. Alluring, intriguing, mischievous and stunning, nothing is off limits as they leave their inhibitions behind to share a series of unpredictable moments that will captivate your imagination and scintillate your senses. And these girls are ready and willing to please each other with forbidden pleasures. Playboy ventures deep into an exotic world to transport you to a destination where the possibilities are endless. So sinfully exciting you'll wonder if they were really fantasies at all!",
+        "popularity": 0.8056,
+        "poster_path": "/zNMipMUJsG0FHtS7ij3eYZ0izH2.jpg",
+        "release_date": "1999-10-19",
+        "title": "Playboy: Playmate Erotic Adventures",
+        "video": true,
+        "vote_average": 2.833,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 276767,
+        "original_language": "en",
+        "original_title": "The Work of Director Anton Corbijn",
+        "overview": "Legendary photographer and director Anton Corbijn is responsible for many of the most indelible and important images of the past two and a half decades. His recently released book U2 & I is a photographic retrospective of his 25 year collaboration with U2. Later this year, Anton will direct his first feature film, Control, based on the life of the late Joy Division lead singer Ian Curtis.",
+        "popularity": 0.1904,
+        "poster_path": "/p9HOLJq51N0DYdNRuozi0tvFtg0.jpg",
+        "release_date": "2005-09-13",
+        "title": "The Work of Director Anton Corbijn",
+        "video": true,
+        "vote_average": 7.9,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iQDtJw87c2t86ItM3gC1rXgRdIM.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 460480,
+        "original_language": "pl",
+        "original_title": "Benek Blues",
+        "overview": "The action is placed in a cramped flat in Warsaw’s district of Ochota. A father and a son, both bedridden, live in a fascinating symbiosis. The son, a well‑known photographer Bernard ben Dobrowolski, is lying in bed  because a chronic condition has deformed his body and immobilized him. The father, Dominik, has recently suffered from a stroke. Now they are taking care of each other and crowds of visitors move through their room.",
+        "popularity": 0.1031,
+        "poster_path": "/wzUcYd2pbASB6xuWlkBvmEXxOEB.jpg",
+        "release_date": "2000-05-01",
+        "title": "Benek Blues",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1049590,
+        "original_language": "es",
+        "original_title": "Expuesta",
+        "overview": "Expuesta brings to light the extraordinary photographic archive of Andy Cherniavsky, one of the most renowned and prestigious photographers in Argentina and Latin America. Andy carved out a unique place for herself as a photographer in a world that was dominated by men, as was the case in Argentine rock for decades.",
+        "popularity": 0.1921,
+        "poster_path": "/rvv0uUdoxpQJFMkGKIUGeKvWAY9.jpg",
+        "release_date": "2022-12-08",
+        "title": "Expuesta",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t78HrtjSjLYPPgdvBYYaPoTgk4r.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 513648,
+        "original_language": "en",
+        "original_title": "Nothing Like a Dame",
+        "overview": "BBC Arena's documentary on the Dames of British Theatre and film featuring Maggie Smith, Eileen Atkins, Judi Dench and Joan Plowright on screen together for the first time as they reminisce over a long summer weekend in a house Joan once shared with Sir Laurence Olivier.",
+        "popularity": 1.2898,
+        "poster_path": "/97Sa893QJNfT5WGkewPzBv3usfK.jpg",
+        "release_date": "2018-05-02",
+        "title": "Nothing Like a Dame",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 57
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 665640,
+        "original_language": "en",
+        "original_title": "Playboy Video Playmate Calendar 1993",
+        "overview": "Profiles of Playboy Playmates.",
+        "popularity": 0.2024,
+        "poster_path": "/vCGL1gkzX33z1bIFZkN7VL2BltA.jpg",
+        "release_date": "1992-10-13",
+        "title": "Playboy Video Playmate Calendar 1993",
+        "video": true,
+        "vote_average": 2.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rmfgAYxFkKogP1yWShWDj68k7RE.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 665665,
+        "original_language": "en",
+        "original_title": "Playboy Video Playmate Calendar 1994",
+        "overview": "Profiles of Playboy Playmates.",
+        "popularity": 0.1749,
+        "poster_path": "/eWzNixZb329URzL5IvLmfD0tjJl.jpg",
+        "release_date": "1993-11-10",
+        "title": "Playboy Video Playmate Calendar 1994",
+        "video": true,
+        "vote_average": 1.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          18,
+          27
+        ],
+        "id": 294008,
+        "original_language": "de",
+        "original_title": "Ekstase - Der Prozeß gegen die Satansmädchen",
+        "overview": "Mondo Cane and the Schoolgirl Report series stand as obvious influences on this occasionally amusing but generally rather tedious exploitation film that alternates between documentary, fake documentary and docudrama. The theme is Satanism and the linking thread is a recreation of what is supposedly the real-life case of a murder and attempted murder of two Munich teenage men by a quartet of girls who had been dabbling in devil worship. During the ensuing trial, the lawyer resorts to dilatory tactics while the hearing is frequently interrupted by the girls breaking into incantation, temper tantrums or shivery fits ostensibly bearing on demonic possession.  When the subject of the Manson killings is brought up, the most obnoxious of the defendants breaks in indignantly, claiming that Sharon Tate’s “execution” was justified as she posed dangers to the Satanic community.",
+        "popularity": 0.2891,
+        "poster_path": "/mHnv75TuxG5AvTma7vERAJdW9Qy.jpg",
+        "release_date": "1979-04-13",
+        "title": "Ekstase - Der Prozeß gegen die Satansmädchen",
+        "video": false,
+        "vote_average": 3.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iNHhSyaUPJXCfATy9TgaafcIjBp.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 481845,
+        "original_language": "en",
+        "original_title": "Love, Cecil",
+        "overview": "A documentary about Academy Award-winning costume designer Cecil Beaton. A respected photographer, artist, and set designer, Beaton was best known for designing on award-winning films such as 'Gigi' (1958) and 'My Fair Lady' (1964). The film features archive footage and interviews with a number of models, artists, and filmmakers who worked closely with Beaton during his illustrious career.",
+        "popularity": 3.5201,
+        "poster_path": "/9LewmutXCKk9TjRjPb5Qjqmua46.jpg",
+        "release_date": "2017-12-01",
+        "title": "Love, Cecil",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/a28Vi0giqvzwzURhKBHxaUtz517.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 669525,
+        "original_language": "en",
+        "original_title": "Night on Earth: Shot in the Dark",
+        "overview": "This look behind the scenes shows how worldwide camera crews climbed, dived and froze to capture the documentary's groundbreaking night footage.",
+        "popularity": 0.6034,
+        "poster_path": "/baEhAWjyazKnvteIeO4HQskN3yj.jpg",
+        "release_date": "2020-01-29",
+        "title": "Night on Earth: Shot in the Dark",
+        "video": false,
+        "vote_average": 6.115,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/16lh5jtMdb3Iljywsxb29Fhrg5E.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 482868,
+        "original_language": "en",
+        "original_title": "Witkin & Witkin",
+        "overview": "A pair of identical twins, one a photographer and the other a painter, have very little in common.",
+        "popularity": 0.9993,
+        "poster_path": "/xhVLufylxCGwn9WCFaZIylynGLc.jpg",
+        "release_date": "2017-10-22",
+        "title": "Witkin & Witkin",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/txU01QA9LDsaZiun0ic4SxtCIRL.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 854684,
+        "original_language": "ko",
+        "original_title": "21살 승하의 아이돌 비밀일기",
+        "overview": "A sexual film that revealed the activities of Seungha, who made her debut as an adult film actress after working as an idol singer.",
+        "popularity": 0.9146,
+        "poster_path": "/fnG8xdPzv6l9OPXKXGMgGfA70KY.jpg",
+        "release_date": "2021-03-08",
+        "title": "21 Year Old Seung Ha's Secret Diary",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ow5fF4tsBgdQVJb93T2gbYYrZo8.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 469151,
+        "original_language": "fr",
+        "original_title": "Le cinéma dans l'oeil de Magnum",
+        "overview": "The film tells the story of the intimate and unprecedented encounter between the photojournalists of the Magnum Agency and the world of cinema. The confrontation of two seemingly opposite worlds – fiction and reality. For 70 years their paths crossed: a family of photographers, amongst them the biggest names in photography, and a family of actors and filmmakers who helped write the history of cinema, from John Huston to Marilyn Monroe to Orson Welles, Kate Winslet and Sean Penn.",
+        "popularity": 0.7687,
+        "poster_path": "/aDKQdFrbK2zwbLyXfS7f9EnU6l1.jpg",
+        "release_date": "2017-09-02",
+        "title": "Cinema Through the Eye of Magnum",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 10940,
+    "total_results": 218784
+  }
+}

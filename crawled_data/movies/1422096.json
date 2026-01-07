@@ -1,0 +1,881 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 70000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://www.goodboyfilm.com",
+    "id": 1422096,
+    "imdb_id": "tt35521922",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Good Boy",
+    "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+    "popularity": 41.6777,
+    "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+    "production_companies": [
+      {
+        "id": 256132,
+        "logo_path": null,
+        "name": "What’s Wrong with Your Dog",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-10-01",
+    "revenue": 8781040,
+    "runtime": 73,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Trust his instincts.",
+    "title": "Good Boy",
+    "video": false,
+    "vote_average": 6.719,
+    "vote_count": 434
+  },
+  "credits": {
+    "id": 1422096,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5914919,
+        "known_for_department": "Acting",
+        "name": "Indy the Dog",
+        "original_name": "Indy the Dog",
+        "popularity": 0.1186,
+        "profile_path": "/23W9yBlxOvyYx1VbqZGwF9d9GGz.jpg",
+        "cast_id": 34,
+        "character": "Indy",
+        "credit_id": "69592340209d3df6d6c38091",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3739081,
+        "known_for_department": "Acting",
+        "name": "Shane Jensen",
+        "original_name": "Shane Jensen",
+        "popularity": 0.3268,
+        "profile_path": "/8BNJL3MwvYEUTg187SmhQACVq3Z.jpg",
+        "cast_id": 3,
+        "character": "Todd",
+        "credit_id": "679647fa3f7fcf67d08f2261",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31268,
+        "known_for_department": "Acting",
+        "name": "Larry Fessenden",
+        "original_name": "Larry Fessenden",
+        "popularity": 1.7773,
+        "profile_path": "/imQGskBT7IjqHLVJDQFLR1h1UPH.jpg",
+        "cast_id": 4,
+        "character": "Grandpa",
+        "credit_id": "6796480d64431257a38f2106",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4747687,
+        "known_for_department": "Production",
+        "name": "Arielle Friedman",
+        "original_name": "Arielle Friedman",
+        "popularity": 0.4267,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Vera",
+        "credit_id": "6796483a3f7fcf67d08f226b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94435,
+        "known_for_department": "Acting",
+        "name": "Stuart Rudin",
+        "original_name": "Stuart Rudin",
+        "popularity": 1.6546,
+        "profile_path": "/2jhEJ2zLnRL0iuG5i3fYw4FObgl.jpg",
+        "cast_id": 2,
+        "character": "Richard",
+        "credit_id": "679647d50e1e0486d62b03a0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3238178,
+        "known_for_department": "Acting",
+        "name": "Anya Krawcheck",
+        "original_name": "Anya Krawcheck",
+        "popularity": 0.316,
+        "profile_path": "/ffP9mfsovkmgqnsUYKwbVejtG5q.jpg",
+        "cast_id": 6,
+        "character": "Doctor",
+        "credit_id": "6796486cd4ba1725f12afd3c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5725666,
+        "known_for_department": "Acting",
+        "name": "Hunter Goetz",
+        "original_name": "Hunter Goetz",
+        "popularity": 0.4059,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Weatherman / Narrator",
+        "credit_id": "68df29e68d44d92251129a08",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3378836,
+        "known_for_department": "Acting",
+        "name": "Noah Manzoor",
+        "original_name": "Noah Manzoor",
+        "popularity": 0.9741,
+        "profile_path": "/72X2vD3v3tjAvmtyjjglbTnMuxS.jpg",
+        "cast_id": 33,
+        "character": "Mikey",
+        "credit_id": "68e0623720c52a740cc26637",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831618,
+        "known_for_department": "Directing",
+        "name": "Ben Leonberg",
+        "original_name": "Ben Leonberg",
+        "popularity": 2.0617,
+        "profile_path": "/zceHRa8Kr45IHnncZJGnIBnjmkc.jpg",
+        "credit_id": "67919776a5176ed97e46f180",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5300372,
+        "known_for_department": "Production",
+        "name": "Kari Fischer",
+        "original_name": "Kari Fischer",
+        "popularity": 0.179,
+        "profile_path": null,
+        "credit_id": "67d1e268434c98c8ec818857",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831618,
+        "known_for_department": "Directing",
+        "name": "Ben Leonberg",
+        "original_name": "Ben Leonberg",
+        "popularity": 2.0617,
+        "profile_path": "/zceHRa8Kr45IHnncZJGnIBnjmkc.jpg",
+        "credit_id": "67d1e2de27c3960c2d1e33a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300376,
+        "known_for_department": "Sound",
+        "name": "Sam Boase-Miller",
+        "original_name": "Sam Boase-Miller",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "67d1e32c434c98c8ec8188c3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1968703,
+        "known_for_department": "Writing",
+        "name": "Alex Cannon",
+        "original_name": "Alex Cannon",
+        "popularity": 0.3305,
+        "profile_path": null,
+        "credit_id": "67d1e391d4f741373260aaa4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831618,
+        "known_for_department": "Directing",
+        "name": "Ben Leonberg",
+        "original_name": "Ben Leonberg",
+        "popularity": 2.0617,
+        "profile_path": "/zceHRa8Kr45IHnncZJGnIBnjmkc.jpg",
+        "credit_id": "67d1e3a7325e62b3d16071df",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300378,
+        "known_for_department": "Crew",
+        "name": "Wade Grebnoel",
+        "original_name": "Wade Grebnoel",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "67e26a66d4052f4793dc67a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1483095,
+        "known_for_department": "Sound",
+        "name": "Brian Goodheart",
+        "original_name": "Brian Goodheart",
+        "popularity": 0.2248,
+        "profile_path": null,
+        "credit_id": "67e26bb9440f311ace75df19",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1483095,
+        "known_for_department": "Sound",
+        "name": "Brian Goodheart",
+        "original_name": "Brian Goodheart",
+        "popularity": 0.2248,
+        "profile_path": null,
+        "credit_id": "67e26bdd4c52746665dc810c",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718766,
+        "known_for_department": "Sound",
+        "name": "Kelly Oostman",
+        "original_name": "Kelly Oostman",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "67e26bee7b7313b5aef05325",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4100126,
+        "known_for_department": "Crew",
+        "name": "Michael J. Cacioppo",
+        "original_name": "Michael J. Cacioppo",
+        "popularity": 0.1224,
+        "profile_path": null,
+        "credit_id": "67e26c317b7313b5aef0533e",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5326806,
+        "known_for_department": "Sound",
+        "name": "Erik Saras",
+        "original_name": "Erik Saras",
+        "popularity": 0.128,
+        "profile_path": null,
+        "credit_id": "67e26c477b7313b5aef0534d",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5326808,
+        "known_for_department": "Editing",
+        "name": "Curtis Roberts",
+        "original_name": "Curtis Roberts",
+        "popularity": 0.2095,
+        "profile_path": null,
+        "credit_id": "67e26c7ad70c61590375d84e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3123508,
+        "known_for_department": "Art",
+        "name": "Alison Diviney",
+        "original_name": "Alison Diviney",
+        "popularity": 0.1758,
+        "profile_path": null,
+        "credit_id": "67e26c91e28af41cfc75efae",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5638602,
+        "known_for_department": "Sound",
+        "name": "Ege Gunes",
+        "original_name": "Ege Gunes",
+        "popularity": 0.5228,
+        "profile_path": null,
+        "credit_id": "68a63852c9cb5d9094834d6e",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831619,
+        "known_for_department": "Production",
+        "name": "Scott Riehs",
+        "original_name": "Scott Riehs",
+        "popularity": 0.4037,
+        "profile_path": "/2YLZHeBwAUTxINZE5bN4zDrvOaQ.jpg",
+        "credit_id": "68df2a72f99c229cfaee4d2d",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2331964,
+        "known_for_department": "Sound",
+        "name": "Brian Neris",
+        "original_name": "Brian Neris",
+        "popularity": 0.1623,
+        "profile_path": null,
+        "credit_id": "68df2ac2088d477d942a4480",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4409142,
+        "known_for_department": "Camera",
+        "name": "Jan Klier",
+        "original_name": "Jan Klier",
+        "popularity": 0.1253,
+        "profile_path": null,
+        "credit_id": "68df2b03ac05c0d4d1ee4ce6",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4764896,
+        "known_for_department": "Production",
+        "name": "BJ Downs",
+        "original_name": "BJ Downs",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "credit_id": "68df2b20088d477d942a4484",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2518032,
+        "known_for_department": "Editing",
+        "name": "Jeff Sousa",
+        "original_name": "Jeff Sousa",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "credit_id": "68df2b48412a3adf639727ce",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1422096,
+    "keywords": [
+      {
+        "id": 2526,
+        "name": "human animal relationship"
+      },
+      {
+        "id": 3358,
+        "name": "haunted house"
+      },
+      {
+        "id": 6564,
+        "name": "terminal illness"
+      },
+      {
+        "id": 9720,
+        "name": "woods"
+      },
+      {
+        "id": 10114,
+        "name": "evil spirit"
+      },
+      {
+        "id": 10541,
+        "name": "curse"
+      },
+      {
+        "id": 15162,
+        "name": "dog"
+      },
+      {
+        "id": 34079,
+        "name": "death"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 190821,
+        "name": "family curse"
+      },
+      {
+        "id": 207082,
+        "name": "pov (point of view)"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cbsXkdP3R1UIQ0RyBlItTEgBhw3.jpg",
+        "genre_ids": [
+          10749,
+          27,
+          18
+        ],
+        "id": 456011,
+        "original_language": "ja",
+        "original_title": "バーミー",
+        "overview": "One day, Fumiko Tashiro runs into Ryota Saeki - an old acquaintance from college - outside the municipal library where she works. Brought together by chance, they find themselves drawn to one another, and before long they are set to get married. They make their preparations for the wedding, envisioning their happy future together. But all the while, Ryota is troubled by his own secret ability to see the dead.",
+        "popularity": 0.1504,
+        "poster_path": "/uAxTZWsNjwv6DpO7Ef2wdcLMXg9.jpg",
+        "release_date": "2018-01-20",
+        "title": "Bamy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yetPhZv5sWQAxGotO0FjIFpPRaN.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 840526,
+        "original_language": "ko",
+        "original_title": "쇼미더고스트",
+        "overview": "Best friends ‘Hodu’ and ‘Yeji’ are job seekers whose dreams and hopes have been ruined. One day, ‘Hodu’ luckily gets a decent cheap fully loaded rent house. ‘Yeji’, who has been kicked out of her parents’ house, also stays there with him.  They gradually feel a strange energy in the house that seemed perfect. They encounter ominous ghost and freaked out. With no place to go and no money, they try to defeat the ghost to protect their house…",
+        "popularity": 0.8462,
+        "poster_path": "/adfsx0T5C8D8XIyaI935lZ3ju4g.jpg",
+        "release_date": "2021-09-09",
+        "title": "Show Me the Ghost",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 840301,
+        "original_language": "ja",
+        "original_title": "ほんとにあった！呪いのビデオ BEST SELECTION 2",
+        "overview": "A best selection of the \"Honto ni Atta. Noroi no Video\" franchise that takes footage from part 2, 6, 4, Special 1 and a new unreleased video.",
+        "popularity": 0.1762,
+        "poster_path": "/lE2CN2MaiwoyrrKMgeMD8N7pRoY.jpg",
+        "release_date": "1999-10-22",
+        "title": "Honto Ni Atta! Noroi No Video: Best Selection 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qYYhOx5jZdhBDKtMjPaYyb7ecfj.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1041554,
+        "original_language": "pt",
+        "original_title": "Carneirinhos",
+        "overview": "Mylene is overwhelmed by desperation and regret. She stares at old photographs and spilled pills. Death stares back.",
+        "popularity": 0.5169,
+        "poster_path": "/s7IzXFXElKSjpYirqNw2GwScamz.jpg",
+        "release_date": "2022-10-23",
+        "title": "Carneirinhos",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jlNR5Xcw9EWsezxxrXOUvrjVa7r.jpg",
+        "genre_ids": [
+          27,
+          18
+        ],
+        "id": 644009,
+        "original_language": "en",
+        "original_title": "One Winter Night",
+        "overview": "An Orthodox Jewish mother and her daughters fall prey to the malevolent forces that preside over a rural community.",
+        "popularity": 0.1424,
+        "poster_path": "/zivEeRopKwjvkvpYFDDs13Ndc5J.jpg",
+        "release_date": "2019-12-13",
+        "title": "One Winter Night",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/upwMkmtEVNaBwhdmPFjm6LE4ATH.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 840254,
+        "original_language": "en",
+        "original_title": "LEASH",
+        "overview": "A man looks for his missing dog in the middle of a strange night.",
+        "popularity": 0.1801,
+        "poster_path": "/355LyTgZt5hfd7pmxXsBDaW0cNM.jpg",
+        "release_date": "2021-06-05",
+        "title": "LEASH",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vFJgEhYEjWWJ9JqmlMdDiKxE8JD.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 1232546,
+        "original_language": "en",
+        "original_title": "Until Dawn",
+        "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+        "popularity": 11.556,
+        "poster_path": "/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
+        "release_date": "2025-04-23",
+        "title": "Until Dawn",
+        "video": false,
+        "vote_average": 6.349,
+        "vote_count": 1239
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/brvvv0S9P3lQ4wxQ2yMYwPEWan.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "id": 54800,
+        "original_language": "en",
+        "original_title": "Urban Ghost Story",
+        "overview": "After a car accident, Lizzie lies dead on the roadside - slowly she is taken into the light - but is pulled back to earth when she is revived by the doctors. Lizzie feels sure that during the 184 seconds that she lay dead, something latched on to her and came back into her world. The nightmares and visions that follow only crystallize her belief that she should have died in the crash... Then the disturbances start, at first merely tappings and bad smells - but soon the activity escalates. Lizzie seems to be the focus, but according to others, she's just playing games for attention. Only when Kate, her mother, is confronted with inexplicable events does she face the possibility that they may be the victims of a poltergeist infestation",
+        "popularity": 0.2792,
+        "poster_path": "/9CeNjXrL8M70puMlR62jQJ7C442.jpg",
+        "release_date": "1998-07-13",
+        "title": "Urban Ghost Story",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 1288613,
+        "original_language": "en",
+        "original_title": "Zombies of Carnage",
+        "overview": "An ancient curse unleashes a rabid horde of the undead to destroy mankind! Four friends realize they hold the key to our salvation.",
+        "popularity": 0.207,
+        "poster_path": "/e0UBMhRA7vGGEDZXnEuNh1CQXSI.jpg",
+        "release_date": "2013-10-17",
+        "title": "Zombies of Carnage",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6ZfxLHlCyTvFodA49BXIN6VzQHg.jpg",
+        "genre_ids": [
+          35,
+          14,
+          27
+        ],
+        "id": 20472,
+        "original_language": "en",
+        "original_title": "Saturday the 14th",
+        "overview": "After his family moves to a new house, a young boy discovers a mysterious book that details a curse hanging over the date of Saturday the 14th. Opening the book releases a band of monsters into the house and the family must join together to save themselves and their neighborhood.",
+        "popularity": 0.7423,
+        "poster_path": "/e7FmmDumVkPxr9urQABScaOSEAQ.jpg",
+        "release_date": "1981-10-30",
+        "title": "Saturday the 14th",
+        "video": false,
+        "vote_average": 5.051,
+        "vote_count": 107
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qzAHUTbNO0pamHja4c3OVmfPFV9.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "id": 1259417,
+        "original_language": "en",
+        "original_title": "Campton Manor",
+        "overview": "An author tries to investigate a decades old mystery and finds himself stuck in his own ghost story.",
+        "popularity": 3.4934,
+        "poster_path": "/4kNStbGiTHGFemAMaOLfUi9WSVO.jpg",
+        "release_date": "2024-05-07",
+        "title": "Campton Manor",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          27,
+          10770
+        ],
+        "id": 1070867,
+        "original_language": "en",
+        "original_title": "The New Homeowner's Guide to Happiness",
+        "overview": "When Paul and Sandy Darden (Judge Reinhold and Demi Moore) move into a seemingly quiet upper-middle-class community, their American Dream is all but destroyed by the incessant din of barking dogs. So from valium-laced raw steaks to more hilarious methods of pet disposal, the Dardens try everything to make their dream house a quiet home.",
+        "popularity": 0.137,
+        "poster_path": "/sPYvQyQpYWUSEFLEyOKobr9xboK.jpg",
+        "release_date": "1987-09-16",
+        "title": "The New Homeowner's Guide to Happiness",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 1070941,
+        "original_language": "es",
+        "original_title": "Profanía",
+        "overview": "Argentina, 2001. The country is in the middle of a state of siege. Bruno leads a rural military patrol of five soldiers into the countryside. They come upon an old farmhouse and inside they find several corpses and two survivors. Unwittingly, they awaken a diabolical entity living in the forest that revives the dead in the house and will torment them all night long. They will have to resist until dawn, or become part of a bloody sacrifice made centuries ago.",
+        "popularity": 4.5973,
+        "poster_path": "/8Tb3U6RbYnJlB7gBqvob0xYYHDA.jpg",
+        "release_date": "",
+        "title": "Profanía",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8GesS58jfNn1Ytp2GnGj9ElW9fl.jpg",
+        "genre_ids": [
+          16,
+          28,
+          35,
+          14,
+          27,
+          10402
+        ],
+        "id": 23127,
+        "original_language": "en",
+        "original_title": "The Haunted World of El Superbeasto",
+        "overview": "The Haunted World of El Superbeasto is an animated comedy that also combines elements of a horror and thriller film. It is based upon the comic book series created by Rob Zombie that follows the character of El Superbeasto and his sexy sidekick sister, Suzi-X, voiced by Sheri Moon, as they confront an evil villain by the name of Dr. Satan.",
+        "popularity": 0.9643,
+        "poster_path": "/obOr6ir0UlLGqln6HVMa2My9ENs.jpg",
+        "release_date": "2009-09-12",
+        "title": "The Haunted World of El Superbeasto",
+        "video": false,
+        "vote_average": 5.906,
+        "vote_count": 203
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8MCCpfOe7hkG28cNmkXVrOWRIlK.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 480414,
+        "original_language": "en",
+        "original_title": "The Curse of La Llorona",
+        "overview": "In 1970s Los Angeles, the legendary ghost La Llorona is stalking the night -- and the children. Ignoring the eerie warning of a troubled mother, a social worker and her own kids are drawn into a frightening supernatural realm. Their only hope of surviving La Llorona's deadly wrath is a disillusioned priest who practices mysticism to keep evil at bay.",
+        "popularity": 5.2709,
+        "poster_path": "/hETrPpoKs6BwoilK64YJ7Z5GcRT.jpg",
+        "release_date": "2019-04-17",
+        "title": "The Curse of La Llorona",
+        "video": false,
+        "vote_average": 5.653,
+        "vote_count": 2598
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9WKJqYScby5HGzJeILQAN7TujzO.jpg",
+        "genre_ids": [
+          35,
+          27
+        ],
+        "id": 484922,
+        "original_language": "te",
+        "original_title": "Next Nuvve",
+        "overview": "Kiran and his girlfriend Smita decide to turn the former's ancestral property into a hotel to pay off their loans. They do it with the help of his father's aide Sarat and sister Rashmi . But, the house seems to be haunted, or is it really?",
+        "popularity": 0.3246,
+        "poster_path": "/rFxRdy4L7HLCj6ls9uWFNUyP6Tp.jpg",
+        "release_date": "2017-11-03",
+        "title": "Next Nuvve",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cTo94twU2vAj4G74gV7ncf4F8Uo.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 28043,
+        "original_language": "it",
+        "original_title": "I tre volti della paura",
+        "overview": "Three tales of supernatural horror include a woman plagued by threatening phone calls, a family targeted by vampiric monsters, and a deceased medium who wreaks havoc upon the living.",
+        "popularity": 1.4173,
+        "poster_path": "/vrMcn6CKrLjWAtHHMFL7cj8A5au.jpg",
+        "release_date": "1963-08-17",
+        "title": "Black Sabbath",
+        "video": false,
+        "vote_average": 7.176,
+        "vote_count": 477
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dfPMlFEOSG6URAJrKyTF8Zkicgj.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 28049,
+        "original_language": "it",
+        "original_title": "Operazione paura",
+        "overview": "A 20th century European village is haunted by the ghost of a murderous little girl.",
+        "popularity": 0.7828,
+        "poster_path": "/fyGzcMVf8iospgEtBoZkvO9j9Vr.jpg",
+        "release_date": "1966-07-08",
+        "title": "Kill, Baby... Kill!",
+        "video": false,
+        "vote_average": 6.943,
+        "vote_count": 256
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          27,
+          9648,
+          10402
+        ],
+        "id": 864531,
+        "original_language": "kn",
+        "original_title": "ಚಂದ್ರಲೇಖಾ",
+        "overview": "Four people who decide to commit suicide at a resort find themselves haunted by a vengeful ghost. (A remake of the Telugu film Prema Katha Chitram (2013))",
+        "popularity": 0.3427,
+        "poster_path": "/js2F4DIVT2gCFOvKPAinrt0e0os.jpg",
+        "release_date": "2014-03-07",
+        "title": "Chandralekha",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zq0rQXY009Pd60TxGN2YnUjU7Tm.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 28229,
+        "original_language": "en",
+        "original_title": "Rumpelstiltskin",
+        "overview": "In the 1400's, Rumpelstiltskin is imprisoned inside a small jade figurine. In modern-day Los Angeles, the recently widowed wife of a police officer, with baby in tow, finds her way into a witch's shop and purchases a certain figurine, resulting in the cackling beast being freed and demanding possession of the baby.",
+        "popularity": 3.5283,
+        "poster_path": "/4BMmj4WHCzUJFxmyr4GNw3aTG6.jpg",
+        "release_date": "1995-11-24",
+        "title": "Rumpelstiltskin",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 59
+      }
+    ],
+    "total_pages": 3672,
+    "total_results": 73427
+  }
+}

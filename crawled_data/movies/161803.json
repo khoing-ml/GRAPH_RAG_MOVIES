@@ -1,0 +1,543 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/pFR2rpEx2TVgJ963hZREjTvDKMe.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 161803,
+    "imdb_id": "tt2592910",
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_title": "CM101MMXI Fundamentals",
+    "overview": "The funny little details of everyday life,  simple things that make us laugh.  An unforgettable performance from Cem Yilmaz.  Yilmaz captures the audience with his hilarious stories about relationships, humankind's struggle with the technology and professional life. Yilmaz proves us that a food delivery or even a funeral might be amusing when considered correctly.  Written by Elmalma Brand Communication",
+    "popularity": 1.7676,
+    "poster_path": "/84GjqdUXHFDc8VQLcL1vBRsRmbK.jpg",
+    "production_companies": [
+      {
+        "id": 4308,
+        "logo_path": "/y2UR0KSxPNR3v0xwGophPBVfvEl.png",
+        "name": "CMYLMZ Fikirsanat",
+        "origin_country": "TR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TR",
+        "name": "Turkey"
+      }
+    ],
+    "release_date": "2013-01-02",
+    "revenue": 0,
+    "runtime": 139,
+    "spoken_languages": [
+      {
+        "english_name": "Turkish",
+        "iso_639_1": "tr",
+        "name": "Türkçe"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cem Yılmaz: CM101MMXI Fundamentals",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 140
+  },
+  "credits": {
+    "id": 161803,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74376,
+        "known_for_department": "Acting",
+        "name": "Cem Yılmaz",
+        "original_name": "Cem Yılmaz",
+        "popularity": 2.5726,
+        "profile_path": "/4cxNtPTz6GUWPnZHsZaC63IFzJ1.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "58c13b8ec3a368265b008e3a",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 456963,
+        "known_for_department": "Camera",
+        "name": "Gökhan Tiryaki",
+        "original_name": "Gökhan Tiryaki",
+        "popularity": 0.3958,
+        "profile_path": "/gQjvYKmJThmCMekno7zkI68xpvK.jpg",
+        "credit_id": "61c8a2d20102c90096f68784",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531858,
+        "known_for_department": "Production",
+        "name": "Can Yılmaz",
+        "original_name": "Can Yılmaz",
+        "popularity": 1.1935,
+        "profile_path": "/jALUWRYf2JWR7h5eGknzbCa4sfk.jpg",
+        "credit_id": "61c8a30766a0d30096ac2ab2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195902,
+        "known_for_department": "Production",
+        "name": "Ilker Özcan",
+        "original_name": "Ilker Özcan",
+        "popularity": 0.1645,
+        "profile_path": null,
+        "credit_id": "61c8a31437b3a900c34eb153",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001093,
+        "known_for_department": "Sound",
+        "name": "Sertaç Özgümüş",
+        "original_name": "Sertaç Özgümüş",
+        "popularity": 0.2162,
+        "profile_path": null,
+        "credit_id": "61c8a3438d52c9001b9e30cb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1772821,
+        "known_for_department": "Directing",
+        "name": "Murat Dündar",
+        "original_name": "Murat Dündar",
+        "popularity": 0.8134,
+        "profile_path": "/8HoT1U3WCjSkUwVCuxPC4MxYnqr.jpg",
+        "credit_id": "58c13b74c3a368263d0087dc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74376,
+        "known_for_department": "Acting",
+        "name": "Cem Yılmaz",
+        "original_name": "Cem Yılmaz",
+        "popularity": 2.5726,
+        "profile_path": "/4cxNtPTz6GUWPnZHsZaC63IFzJ1.jpg",
+        "credit_id": "5a567fab0e0a2607d402c914",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 161803,
+    "keywords": [
+      {
+        "id": 9716,
+        "name": "stand-up comedy"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qxOnOEKlrwd8b5krR456OFE1Bm3.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1435760,
+        "original_language": "en",
+        "original_title": "Andrew Schulz: LIFE",
+        "overview": "In this razor-sharp yet heartfelt special, Andrew Schulz unpacks the wildest moment of his life — becoming a father.",
+        "popularity": 0.1967,
+        "poster_path": "/yA2LhLNIW5tUGyLtaMuLg9NvvBJ.jpg",
+        "release_date": "2025-03-04",
+        "title": "Andrew Schulz: LIFE",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 654322,
+        "original_language": "fr",
+        "original_title": "Paul Taylor : #Franglais",
+        "overview": "The first stand-up comedy special by Paul Taylor, an Englishman who lived for several years in France as a child and therefore performs his shows 50% in the English and 50% in the French language. Here, he talks about a squirrel conspiracy, the French greeting culture and why queuing might no have been invented by the French.",
+        "popularity": 0.3419,
+        "poster_path": "/AqSbmj3EGcGpcediCYbEOkxJBKU.jpg",
+        "release_date": "2019-03-25",
+        "title": "Paul Taylor : #Franglais",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tabSZCHrERoWH0F7WNqMOPvYfjd.jpg",
+        "genre_ids": [
+          35,
+          10770
+        ],
+        "id": 1052507,
+        "original_language": "en",
+        "original_title": "Jeff Dunham: Me the People",
+        "overview": "Jeff Dunham is joined on stage by Walter, Bubba J, Peanut and Url to talk politics, relationships, cancel culture, and more in Washington, D.C.",
+        "popularity": 0.6625,
+        "poster_path": "/kEaVVOuwLudLPp5dA8teacReGlh.jpg",
+        "release_date": "2022-11-25",
+        "title": "Jeff Dunham: Me the People",
+        "video": false,
+        "vote_average": 7.55,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/69DcQYVQLZdXQJxEibZ5p7AN6A4.jpg",
+        "genre_ids": [
+          35,
+          99
+        ],
+        "id": 466057,
+        "original_language": "en",
+        "original_title": "Alec Baldwin: One Night Only",
+        "overview": "Alec Baldwin, one of entertainment's most iconic actors, is honored in an exclusive black tie evening full of comedic tributes, candid personal stories and a few surprises.",
+        "popularity": 1.1683,
+        "poster_path": "/heLH72pBGnfFbwGuGqouGPvudq8.jpg",
+        "release_date": "2017-07-09",
+        "title": "Alec Baldwin: One Night Only",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/52hXjbdOEjiOdW5hlonjA1QcrD8.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1439890,
+        "original_language": "en",
+        "original_title": "Bert Kreischer: Lucky",
+        "overview": "Losing 45 pounds. Getting parenting advice from Snoop Dogg. Bert Kreischer knows he's the luckiest guy around — and he's recounting his blessings.",
+        "popularity": 0.2101,
+        "poster_path": "/ryTsHBXALnQ6VATGbgrPnmcmuS.jpg",
+        "release_date": "2025-03-17",
+        "title": "Bert Kreischer: Lucky",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r60qmIqKiqqweVIUuqEHGNlVvTM.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1053273,
+        "original_language": "da",
+        "original_title": "Simon Talbot: Optur",
+        "overview": "With the new show Optur, it's time to laugh and have a good time again, where Simon Talbot in his usual style transforms themes from his own life, such as hair loss, social media, cats, gaming, nose hair, Danish laws, the contrast of growing up with a Jehovah's Witness mother and Irish street boy father, married life, women's overly hot baths, and much much more, into jokes we can all laugh at. Over the past year, Simon has had stress reactions, spent too much time on social media, watched (way) too much Tiger King and acquired a sugar addiction, which he turns into a brand new Danish-language comedy show.",
+        "popularity": 0.2474,
+        "poster_path": "/dHA1ACdAaJ6AxZGJcTvUYVs8lLQ.jpg",
+        "release_date": "2022-11-25",
+        "title": "Simon Talbot: Optur",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSSrkDofpRLQTZb8B9yCVU19Ydx.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 654125,
+        "original_language": "en",
+        "original_title": "Dan Soder: Son of a Gary",
+        "overview": "Comedian and actor Dan Soder (Billions) brings his honest, insightful and infectious humor to his first HBO comedy special taped at The Bowery Ballroom in New York City. In Son of a Gary, Soder shares his down-to-earth approach to everything from drug dogs at the airport to fake fights in the shower and what it's like to have an alcoholic dad, but a fun one.",
+        "popularity": 0.1385,
+        "poster_path": "/ljlEiK6NKLb4WbK2OebBHguVcjO.jpg",
+        "release_date": "2019-12-07",
+        "title": "Dan Soder: Son of a Gary",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nJYKPe12fC4jo550bPnPayhg0wr.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1052393,
+        "original_language": "en",
+        "original_title": "Atsuko Okatsuka: The Intruder",
+        "overview": "Comedian and actress Atsuko Okatsuka brings her brand of ingenious, offbeat storytelling to the Elsewhere stage in Brooklyn, New York where she dishes on the futile art of impressing teenagers, attending a “Magic Mike Live” show with her grandmother, and the alarming reactions that she and her husband had to the unwanted presence of an intruder.",
+        "popularity": 0.4164,
+        "poster_path": "/vnQZlr6BkJ3OSp6kK9YTaWCusn5.jpg",
+        "release_date": "2022-12-10",
+        "title": "Atsuko Okatsuka: The Intruder",
+        "video": false,
+        "vote_average": 6.273,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 268527,
+        "original_language": "nl",
+        "original_title": "Lenette van Dongen: Nikè",
+        "overview": "",
+        "popularity": 0.1099,
+        "poster_path": "/bpaHqRQodpxiV8y5h0Mk5SC3Zsu.jpg",
+        "release_date": "2008-01-01",
+        "title": "Lenette van Dongen: Nikè",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1235400,
+        "original_language": "en",
+        "original_title": "#Cancelholtzman",
+        "overview": "A new stand-up special from comedy legend Brian Holtzman, live from the main room of the world famous Comedy Store.",
+        "popularity": 0.6434,
+        "poster_path": "/3nYADazjrVnDe0NcONyk1tumBv3.jpg",
+        "release_date": "2023-05-31",
+        "title": "#Cancelholtzman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1431300,
+        "original_language": "en",
+        "original_title": "Dead Air",
+        "overview": "At the funeral of his best friend, a struggling stand-up is confronted with giving a eulogy. Even worse, he has to confront the possibility of not being funny.",
+        "popularity": 0.7447,
+        "poster_path": "/mhhevBUbWm8b3LiXjLoZ8uADEhT.jpg",
+        "release_date": "",
+        "title": "Dead Air",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wg1aBGCMdaMAat4k0j2GDMKHrEg.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 459716,
+        "original_language": "en",
+        "original_title": "Andrew Santino: Home Field Advantage",
+        "overview": "Half Mick, half WOP, hard-headed comedian Andrew Santino returns to his Chicago hometown for a stand-up special with the authentic taste of a city made of Italian beef, Old Style and deep dish. Shot at the historic Vic Theater, Santino touches on everything from growing up thinking he was black and a disgust with bachelorette parties, to his bouts with severe acne and male porn stars envy.",
+        "popularity": 0.2676,
+        "poster_path": "/jFvA7qkcgNyv54BPJHlVRLCt9Ul.jpg",
+        "release_date": "2017-06-02",
+        "title": "Andrew Santino: Home Field Advantage",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d2gZiRd9p3ozQ9PzUPHR75TBcKz.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1043816,
+        "original_language": "fr",
+        "original_title": "Panayotis Pascot : Presque",
+        "overview": "Those who still see him as an innocent teen TV correspondent are in for a surprise: French comic Panayotis Pascot is all grown up and ready to get real.",
+        "popularity": 0.1923,
+        "poster_path": "/jWLp40JN7GeV9zdvMxxq0n3C7Gg.jpg",
+        "release_date": "2022-11-03",
+        "title": "Panayotis Pascot: Almost",
+        "video": false,
+        "vote_average": 7.755,
+        "vote_count": 49
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7yC72Nawa7aOnF0yotgbzQgz7B.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 652328,
+        "original_language": "da",
+        "original_title": "Anders Matthesen - Anden bringer ud",
+        "overview": "There are more than two hours of classic stand-up when ANDEN BRINGER OUT is just Anders, a stool and a microphone.",
+        "popularity": 0.1943,
+        "poster_path": "/59RYhXGrTujSGuHem2jJ1TPywYs.jpg",
+        "release_date": "2019-11-30",
+        "title": "Anders Matthesen - Anden bringer ud",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oXBJabf5KrKPRBKiFtqIKmWUEvl.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1239159,
+        "original_language": "en",
+        "original_title": "Mike Epps: Ready to Sell Out",
+        "overview": "Mike Epps keeps it real as he riffs on poor personal hygiene, failing at infidelity and waging war on work husbands in this stand-up comedy special.",
+        "popularity": 0.2125,
+        "poster_path": "/pyyl6QtYhZIc6Rs3tnN1M6c4Bjs.jpg",
+        "release_date": "2024-02-19",
+        "title": "Mike Epps: Ready to Sell Out",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zDxP8tzcvXuFIxRFtrKUqwKgkVI.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 649554,
+        "original_language": "fr",
+        "original_title": "Manu Payet : Emmanuel",
+        "overview": "",
+        "popularity": 0.2129,
+        "poster_path": "/zPaziQDIM4b5FVQQYVmWP9qfLZ1.jpg",
+        "release_date": "2019-11-27",
+        "title": "Manu Payet : Emmanuel",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          99,
+          80
+        ],
+        "id": 1238006,
+        "original_language": "en",
+        "original_title": "Yeesh TV",
+        "overview": "A highly sophisticated program documenting the night life of Bowling Green, Ohio.",
+        "popularity": 0.4446,
+        "poster_path": "/c2I6f9VkoTZEcgUblm0vRzAt2Jj.jpg",
+        "release_date": "2022-11-25",
+        "title": "Yeesh TV",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/96DgXdnKfCQHO5P6bd4qmzaILBX.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1432898,
+        "original_language": "en",
+        "original_title": "Jessica Kirson: I'm the Man",
+        "overview": "Jessica Kirson shares her searing perspective on everything from TikTok girls to her bizarre time at a trauma center.",
+        "popularity": 0.1572,
+        "poster_path": "/w4cBtYKz8oQy7zGvW571qDIol6b.jpg",
+        "release_date": "2025-04-25",
+        "title": "Jessica Kirson: I'm the Man",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7JapfdtJbVVJMoQzqphGwR1xpIf.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1288587,
+        "original_language": "en",
+        "original_title": "Jon Richardson: The Knitwit",
+        "overview": "In his stand up show at the Hackney Empire, the Cats Does Countdown star asks the important questions. Will the recycling go out on the right day? Who's going to smooth over the top of the margarine?",
+        "popularity": 0.1628,
+        "poster_path": "/rfZkSDxNgHYG88SvFrnQpmq8fGt.jpg",
+        "release_date": "2024-05-10",
+        "title": "Jon Richardson: The Knitwit",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A0ZFdxlarGMIPoksJ4X0pcffSvD.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1253796,
+        "original_language": "en",
+        "original_title": "Brad Williams: Starfish",
+        "overview": "Brad Williams navigates relationships and everyday life as a little person.",
+        "popularity": 0.2759,
+        "poster_path": "/yz1xv3kdbH3oW7wd5Ri6VzqHqSr.jpg",
+        "release_date": "2023-12-21",
+        "title": "Brad Williams: Starfish",
+        "video": true,
+        "vote_average": 8.7,
+        "vote_count": 3
+      }
+    ],
+    "total_pages": 19913,
+    "total_results": 398241
+  }
+}

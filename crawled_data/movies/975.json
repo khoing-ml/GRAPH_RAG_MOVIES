@@ -1,0 +1,1253 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/eTZkq5tI58Ec76AwPf1HOUoKtky.jpg",
+    "belongs_to_collection": null,
+    "budget": 935000,
+    "genres": [
+      {
+        "id": 10752,
+        "name": "War"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 975,
+    "imdb_id": "tt0050825",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Paths of Glory",
+    "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+    "popularity": 5.1779,
+    "poster_path": "/p7OHwomA8UOhe3EhckF2IetBTh9.jpg",
+    "production_companies": [
+      {
+        "id": 611,
+        "logo_path": null,
+        "name": "Bryna Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 60,
+        "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+        "name": "United Artists",
+        "origin_country": "US"
+      },
+      {
+        "id": 52795,
+        "logo_path": null,
+        "name": "Harris-Kubrick Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1957-10-25",
+    "revenue": 1200000,
+    "runtime": 88,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It explodes in the no-man's land no picture ever dared cross before!",
+    "title": "Paths of Glory",
+    "video": false,
+    "vote_average": 8.26,
+    "vote_count": 3160
+  },
+  "credits": {
+    "id": 975,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090,
+        "known_for_department": "Acting",
+        "name": "Kirk Douglas",
+        "original_name": "Kirk Douglas",
+        "popularity": 1.735,
+        "profile_path": "/t94It9bPI6uBvNuuQlQipyYyURC.jpg",
+        "cast_id": 18,
+        "character": "Col. Dax",
+        "credit_id": "52fe4295c3a36847f8029f15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14562,
+        "known_for_department": "Acting",
+        "name": "Ralph Meeker",
+        "original_name": "Ralph Meeker",
+        "popularity": 1.462,
+        "profile_path": "/3gxXZRouc813WFmA6zVUl3ciq0P.jpg",
+        "cast_id": 19,
+        "character": "Cpl. Philippe Paris",
+        "credit_id": "52fe4295c3a36847f8029f19",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14563,
+        "known_for_department": "Acting",
+        "name": "Adolphe Menjou",
+        "original_name": "Adolphe Menjou",
+        "popularity": 0.7249,
+        "profile_path": "/88FfjxT3cFDIbCIK0UmwyjEF6tU.jpg",
+        "cast_id": 20,
+        "character": "Gen. George Broulard",
+        "credit_id": "52fe4295c3a36847f8029f1d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14564,
+        "known_for_department": "Acting",
+        "name": "George Macready",
+        "original_name": "George Macready",
+        "popularity": 1.1874,
+        "profile_path": "/gGtegV82TMbcd5psHx6w7by5FgO.jpg",
+        "cast_id": 21,
+        "character": "Gen. Paul Mireau",
+        "credit_id": "52fe4295c3a36847f8029f21",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14565,
+        "known_for_department": "Acting",
+        "name": "Wayne Morris",
+        "original_name": "Wayne Morris",
+        "popularity": 0.8196,
+        "profile_path": "/2HFQHQrPdlr8eRca5x9BAfeQnjc.jpg",
+        "cast_id": 22,
+        "character": "Lt. Roget/Singing man",
+        "credit_id": "52fe4295c3a36847f8029f25",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12312,
+        "known_for_department": "Acting",
+        "name": "Richard Anderson",
+        "original_name": "Richard Anderson",
+        "popularity": 1.8613,
+        "profile_path": "/eNVusMxsfee5t79jXbYBP8JnVvm.jpg",
+        "cast_id": 23,
+        "character": "Maj. Saint-Auban",
+        "credit_id": "52fe4295c3a36847f8029f29",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592,
+        "known_for_department": "Acting",
+        "name": "Joe Turkel",
+        "original_name": "Joe Turkel",
+        "popularity": 1.4369,
+        "profile_path": "/rqpNzjLFCoMrvGSf6SIL5JnWwMT.jpg",
+        "cast_id": 24,
+        "character": "Pvt. Pierre Arnaud",
+        "credit_id": "52fe4295c3a36847f8029f2d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1019259,
+        "known_for_department": "Acting",
+        "name": "Christiane Kubrick",
+        "original_name": "Christiane Kubrick",
+        "popularity": 0.5104,
+        "profile_path": "/vAMX00LJH0B38o5mCNCKn6DDdEI.jpg",
+        "cast_id": 26,
+        "character": "German Singer",
+        "credit_id": "52fe4295c3a36847f8029f35",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117671,
+        "known_for_department": "Acting",
+        "name": "Jerry Hausner",
+        "original_name": "Jerry Hausner",
+        "popularity": 0.5496,
+        "profile_path": "/dHgJKJHJ7BTg698YlGRVFZSoa7G.jpg",
+        "cast_id": 27,
+        "character": "Proprietor of Cafe",
+        "credit_id": "52fe4295c3a36847f8029f39",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3476,
+        "known_for_department": "Acting",
+        "name": "Peter Capell",
+        "original_name": "Peter Capell",
+        "popularity": 0.9096,
+        "profile_path": "/jChyXZyqeCzOUXAjMo8QhbCBzUY.jpg",
+        "cast_id": 28,
+        "character": "Narrator of Opening Sequence",
+        "credit_id": "52fe4295c3a36847f8029f3d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14579,
+        "known_for_department": "Acting",
+        "name": "Emile Meyer",
+        "original_name": "Emile Meyer",
+        "popularity": 0.8206,
+        "profile_path": "/uwEr8gjLRsclk7HbqiOrgkGgRcv.jpg",
+        "cast_id": 29,
+        "character": "Father Dupree",
+        "credit_id": "52fe4295c3a36847f8029f41",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31503,
+        "known_for_department": "Acting",
+        "name": "Bert Freed",
+        "original_name": "Bert Freed",
+        "popularity": 1.0624,
+        "profile_path": "/2TLuIMSx3NaCgfhoQBsicbdEIBE.jpg",
+        "cast_id": 30,
+        "character": "Sgt. Boulanger",
+        "credit_id": "52fe4295c3a36847f8029f45",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94031,
+        "known_for_department": "Acting",
+        "name": "Kem Dibbs",
+        "original_name": "Kem Dibbs",
+        "popularity": 0.9683,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Pvt. Lejeune",
+        "credit_id": "52fe4295c3a36847f8029f49",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2758,
+        "known_for_department": "Acting",
+        "name": "Timothy Carey",
+        "original_name": "Timothy Carey",
+        "popularity": 0.7402,
+        "profile_path": "/6ml0D7Etl20EB7bHmEsSuyamzec.jpg",
+        "cast_id": 25,
+        "character": "Pvt. Maurice Ferol",
+        "credit_id": "52fe4295c3a36847f8029f31",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077968,
+        "known_for_department": "Acting",
+        "name": "Fred Bell",
+        "original_name": "Fred Bell",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Shell-Shocked Soldier",
+        "credit_id": "52fe4295c3a36847f8029f4d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077970,
+        "known_for_department": "Acting",
+        "name": "John Stein",
+        "original_name": "John Stein",
+        "popularity": 0.2388,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Capt. Rousseau",
+        "credit_id": "52fe4295c3a36847f8029f51",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077971,
+        "known_for_department": "Acting",
+        "name": "Harold Benedict",
+        "original_name": "Harold Benedict",
+        "popularity": 0.2605,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Capt. Nichols",
+        "credit_id": "52fe4295c3a36847f8029f55",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49435,
+        "known_for_department": "Acting",
+        "name": "Paul Bös",
+        "original_name": "Paul Bös",
+        "popularity": 0.2814,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Maj. Gouderc (uncredited)",
+        "credit_id": "55eb2127c3a3682c5d00c02a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3349,
+        "known_for_department": "Production",
+        "name": "James B. Harris",
+        "original_name": "James B. Harris",
+        "popularity": 0.3559,
+        "profile_path": "/l5HbEfXAhkccClLaJ8P5XpUjEu.jpg",
+        "cast_id": 36,
+        "character": "Private in the Attack (uncredited)",
+        "credit_id": "55eb218c9251413e4100ad85",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3945657,
+        "known_for_department": "Acting",
+        "name": "Marshall Rainer",
+        "original_name": "Marshall Rainer",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Pvt. Duval (uncredited)",
+        "credit_id": "64009b50699fb7008774fc16",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3945663,
+        "known_for_department": "Acting",
+        "name": "Ira Moore",
+        "original_name": "Ira Moore",
+        "popularity": 0.4523,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Capt. Renouart (uncredited)",
+        "credit_id": "64009b877a4ee700aaad8271",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4995448,
+        "known_for_department": "Acting",
+        "name": "Wally Friedrichs",
+        "original_name": "Wally Friedrichs",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Col. De Guerville (uncredited)",
+        "credit_id": "670a2a9af58a9206aa404eb8",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3945668,
+        "known_for_department": "Acting",
+        "name": "Halder Hanson",
+        "original_name": "Halder Hanson",
+        "popularity": 0.0775,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Doctor (uncredited)",
+        "credit_id": "64009be19f1be7007ca71de2",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3945671,
+        "known_for_department": "Acting",
+        "name": "Roger Vagnoid",
+        "original_name": "Roger Vagnoid",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Cafe Owner (uncredited)",
+        "credit_id": "64009bf69f1be700aaecd87a",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4295c3a36847f8029eb7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14554,
+        "known_for_department": "Writing",
+        "name": "Humphrey Cobb",
+        "original_name": "Humphrey Cobb",
+        "popularity": 0.5015,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029ebd",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4295c3a36847f8029ec3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10769,
+        "known_for_department": "Writing",
+        "name": "Calder Willingham",
+        "original_name": "Calder Willingham",
+        "popularity": 0.7012,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029ecf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3335,
+        "known_for_department": "Writing",
+        "name": "Jim Thompson",
+        "original_name": "Jim Thompson",
+        "popularity": 1.7973,
+        "profile_path": "/qHVs8ZW29kvMb1PbevL1eWtSUKD.jpg",
+        "credit_id": "52fe4295c3a36847f8029ed5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090,
+        "known_for_department": "Acting",
+        "name": "Kirk Douglas",
+        "original_name": "Kirk Douglas",
+        "popularity": 1.735,
+        "profile_path": "/t94It9bPI6uBvNuuQlQipyYyURC.jpg",
+        "credit_id": "52fe4295c3a36847f8029edb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3349,
+        "known_for_department": "Production",
+        "name": "James B. Harris",
+        "original_name": "James B. Harris",
+        "popularity": 0.3559,
+        "profile_path": "/l5HbEfXAhkccClLaJ8P5XpUjEu.jpg",
+        "credit_id": "52fe4295c3a36847f8029ee1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3350,
+        "known_for_department": "Sound",
+        "name": "Gerald Fried",
+        "original_name": "Gerald Fried",
+        "popularity": 1.3373,
+        "profile_path": "/vtx9R0AT9YMybr8ekqh0Vu7d5k6.jpg",
+        "credit_id": "52fe4295c3a36847f8029ee7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14555,
+        "known_for_department": "Camera",
+        "name": "Georg Krause",
+        "original_name": "Georg Krause",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029eed",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14556,
+        "known_for_department": "Editing",
+        "name": "Eva Kroll",
+        "original_name": "Eva Kroll",
+        "popularity": 0.3949,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029ef3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14557,
+        "known_for_department": "Art",
+        "name": "Ludwig Reiber",
+        "original_name": "Ludwig Reiber",
+        "popularity": 0.1519,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029ef9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11926,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ilse Dubois",
+        "original_name": "Ilse Dubois",
+        "popularity": 0.2125,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029eff",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14559,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Arthur Schramm",
+        "original_name": "Arthur Schramm",
+        "popularity": 0.198,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029f05",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14561,
+        "known_for_department": "Crew",
+        "name": "Erwin Lange",
+        "original_name": "Erwin Lange",
+        "popularity": 0.2597,
+        "profile_path": null,
+        "credit_id": "52fe4295c3a36847f8029f11",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "6524ad1d74507d00ff9bde41",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1410819,
+        "known_for_department": "Production",
+        "name": "John Pommer",
+        "original_name": "John Pommer",
+        "popularity": 0.7645,
+        "profile_path": null,
+        "credit_id": "57069773925141620500018a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35674,
+        "known_for_department": "Production",
+        "name": "Helmut Ringelmann",
+        "original_name": "Helmut Ringelmann",
+        "popularity": 0.3574,
+        "profile_path": null,
+        "credit_id": "5706ef369251412b0900064a",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317887,
+        "known_for_department": "Directing",
+        "name": "Franz-Josef Spieker",
+        "original_name": "Franz-Josef Spieker",
+        "popularity": 0.2111,
+        "profile_path": null,
+        "credit_id": "5706ef919251412b0b000934",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457185,
+        "known_for_department": "Directing",
+        "name": "Hans Stumpf",
+        "original_name": "Hans Stumpf",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "5706efb2c3a368650f00069a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043428,
+        "known_for_department": "Sound",
+        "name": "Al Gramaglia",
+        "original_name": "Al Gramaglia",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "credit_id": "5706f0949251412b0b000969",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40570,
+        "known_for_department": "Camera",
+        "name": "Hannes Staudinger",
+        "original_name": "Hannes Staudinger",
+        "popularity": 0.368,
+        "profile_path": null,
+        "credit_id": "5706f0d8c3a368651a00062e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1566070,
+        "known_for_department": "Camera",
+        "name": "Lars Looschen",
+        "original_name": "Lars Looschen",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "5706f108c3a368651a000637",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "5706f1259251412b1400065c",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1909839,
+        "known_for_department": "Production",
+        "name": "Dixie Sensburg",
+        "original_name": "Dixie Sensburg",
+        "popularity": 0.1716,
+        "profile_path": null,
+        "credit_id": "5ee2a4b590dde00020aa27b3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14560,
+        "known_for_department": "Sound",
+        "name": "Martin Müller",
+        "original_name": "Martin Müller",
+        "popularity": 0.3828,
+        "profile_path": null,
+        "credit_id": "5ee2a4e397eab40020e22c92",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2675288,
+        "known_for_department": "Crew",
+        "name": "Baron v. Waldenfels",
+        "original_name": "Baron v. Waldenfels",
+        "popularity": 0.3377,
+        "profile_path": null,
+        "credit_id": "5ee2a54359008600214f45e7",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2675290,
+        "known_for_department": "Camera",
+        "name": "Hans Elsinger",
+        "original_name": "Hans Elsinger",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "5ee2a5a697eab40020e22f39",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2543829,
+        "known_for_department": "Production",
+        "name": "Georg von Block",
+        "original_name": "Georg von Block",
+        "popularity": 0.8197,
+        "profile_path": null,
+        "credit_id": "5ee2a5fef36a32001e8f9c9f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1566072,
+        "known_for_department": "Directing",
+        "name": "Trudy von Trotha",
+        "original_name": "Trudy von Trotha",
+        "popularity": 0.6364,
+        "profile_path": null,
+        "credit_id": "5f8b91e9cf1afd0036dd3013",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 975,
+    "keywords": [
+      {
+        "id": 6092,
+        "name": "army"
+      },
+      {
+        "id": 254,
+        "name": "france"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1402,
+        "name": "general"
+      },
+      {
+        "id": 74,
+        "name": "germany"
+      },
+      {
+        "id": 2504,
+        "name": "world war i"
+      },
+      {
+        "id": 1627,
+        "name": "patriotism"
+      },
+      {
+        "id": 7956,
+        "name": "cowardice"
+      },
+      {
+        "id": 6987,
+        "name": "idealism"
+      },
+      {
+        "id": 9031,
+        "name": "idealist"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 13065,
+        "name": "soldier"
+      },
+      {
+        "id": 165431,
+        "name": "anti war"
+      },
+      {
+        "id": 210184,
+        "name": "1910s"
+      },
+      {
+        "id": 273967,
+        "name": "war"
+      },
+      {
+        "id": 288302,
+        "name": "fighting the system"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/n0kK9yH3WZZgJg6AA3umd6xGK0U.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 625976,
+        "original_language": "ja",
+        "original_title": "火口のふたり",
+        "overview": "When it rains it pours. Kenji divorced his wife, lost his job and his old squeeze Naoko is getting married back home in the north of Japan, specifically in Akita. He returns there in order to attend her wedding. Naoko surprises him by proposing that they have sex again. The one night stand is the new beginning.",
+        "popularity": 4.289,
+        "poster_path": "/fNR6cAGd6MasTBN4gMWlYuJMQx9.jpg",
+        "release_date": "2019-08-23",
+        "title": "It Feels So Good",
+        "video": false,
+        "vote_average": 6.533,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pETCnV5FgPnGxrcm1KBb7UN6N2r.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 626184,
+        "original_language": "pl",
+        "original_title": "Przystanek",
+        "overview": "Jakub takes his last bus to school in the nearby town to get the results of the secondary school leaving exam. His ultimate visit to school marks the end of one stage in his life and the beginning of another.",
+        "popularity": 0.2933,
+        "poster_path": "/jXrRqNcgwkLaczIW71QMA2DcvRu.jpg",
+        "release_date": "2018-01-01",
+        "title": "The Stop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 1219548,
+        "original_language": "en",
+        "original_title": "Der Medicus II",
+        "overview": "1050 AD: Rob Cole returns to England to bring the medical light of the Orient to his countrymen. But he fails because of the intrigues of the established London doctors, who feel threatened by the new knowledge. And it is not only the human body that is full of seemingly impenetrable secrets, the soul also holds its own mysteries.",
+        "popularity": 6.1679,
+        "poster_path": "/2QUEFxTno1ztSOHyKJDfGuG5Rsl.jpg",
+        "release_date": "2025-12-25",
+        "title": "The Physician II",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oz5DLjcI66iDpOdKU7QG9JrGARe.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1221061,
+        "original_language": "de",
+        "original_title": "In die Sonne schauen",
+        "overview": "Over the course of a century, as four girls from different time periods experience their youth on a German farm, their lives become intertwined until time seems to dissolve.",
+        "popularity": 3.2637,
+        "poster_path": "/5hLiXAqZ3xTHExOIsxYANIswBjZ.jpg",
+        "release_date": "2025-08-28",
+        "title": "Sound of Falling",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/69i5e6aDJUTZhAe9xSJORzqWxbo.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 626882,
+        "original_language": "en",
+        "original_title": "Sweet Thing",
+        "overview": "For Billie and Nico, life with their father is a roller-coaster ride of playfulness and unease. When he is in the grip of alcohol, tears flow and their apparently idyllic family life collapses. Their mostly absent and irresponsible mother is not much help either. But their friendship with Malik, a boy of Billie’s age, frees them from their shackles. Together they embark on a journey full of intense moments of freedom. The colourful, emotional world of the three young people is depicted in kaleidoscopic black and white imagery, which opens space for their own notions of childhood. Alexandre Rockwell's tale portrays a profound sense of solidarity and deep love: for cinema and Billie Holiday, and also for risk and adventure.",
+        "popularity": 3.4965,
+        "poster_path": "/jxBeb2FXPOCuOJo8APu8hfUTCnu.jpg",
+        "release_date": "2020-10-22",
+        "title": "Sweet Thing",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lEsVObwDW4DqTK8QDmn3qdYivQf.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 626975,
+        "original_language": "en",
+        "original_title": "Our Ladies",
+        "overview": "In 1996 Scotland, a group of Catholic schoolgirls get an opportunity to go into Edinburgh for a choir competition, but they're more interested in drinking, partying and hooking up than winning the competition.",
+        "popularity": 0.684,
+        "poster_path": "/oYCJrihcGexpdyTHwnJ57LrrOSH.jpg",
+        "release_date": "2019-10-04",
+        "title": "Our Ladies",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1nvJnXQDk3N3DEPEBvQhE50u8n8.jpg",
+        "genre_ids": [
+          99,
+          36,
+          10752
+        ],
+        "id": 631248,
+        "original_language": "en",
+        "original_title": "The Nuremberg Trials",
+        "overview": "One journalist described it as a chance \"to see justice catch up with evil.\" On November 20, 1945, the twenty-two surviving representatives of the Nazi elite stood before an international military tribunal at the Palace of Justice in Nuremberg, Germany; they were charged with the systematic murder of millions of people.  The ensuing trial pitted U.S. chief prosecutor and Supreme Court judge Robert Jackson against Hermann Göring, the former head of the Nazi air force, whom Adolf Hitler had once named to be his successor. Jackson hoped that the trial would make a statement that crimes against humanity would never again go unpunished. Proving the guilt of the defendants, however, was more difficult than Jackson anticipated.  This American Experience production draws upon rare archival material and eyewitness accounts to recreate the dramatic tribunal that defines trial procedure for state criminals to this day.",
+        "popularity": 0.1518,
+        "poster_path": "/hPVL7eFmpx1wqrmdDgxGbmdqQRV.jpg",
+        "release_date": "2006-01-30",
+        "title": "The Nuremberg Trials",
+        "video": true,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 631170,
+        "original_language": "cs",
+        "original_title": "Maskovaná milenka",
+        "overview": "A romantic story of a noble lady who wanted to live without the bonds of marriage, but her desire for a child led her - carefully disguised - into the arms of a young nobleman. Only years later did she believe in his love and make herself known.",
+        "popularity": 2.0307,
+        "poster_path": "/4p71ut7hLsNIWXli2HcaHaqKFu9.jpg",
+        "release_date": "1940-10-11",
+        "title": "The Masked Lover",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 628183,
+        "original_language": "ro",
+        "original_title": "Porto-Franco",
+        "overview": "The out-of-time ambiance of Sulina/Europolis between wars is shaken up by the arrival of a former local from America.",
+        "popularity": 0.7194,
+        "poster_path": "/7orduq05lgnpak03rtNPAnpanj2.jpg",
+        "release_date": "1961-12-28",
+        "title": "Porto-Franco",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6rfBfLi8J3w99z4t8Q1bM4dsnkQ.jpg",
+        "genre_ids": [
+          36,
+          99,
+          10752,
+          10770
+        ],
+        "id": 628263,
+        "original_language": "fr",
+        "original_title": "Drôle de guerre",
+        "overview": "September 3rd, 1939. Britain and France declare war on Nazi Germany, only two days after the Wehrmacht invades Poland. This day, the sad date when the fate of the world changed forever, the Phoney War began: eight months of uncertainty, preparations, evacuations and skirmishes.",
+        "popularity": 0.2764,
+        "poster_path": "/1rINJJQHkvYrVLjNveoIgQ3t6sc.jpg",
+        "release_date": "2019-08-27",
+        "title": "The Phoney War",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1222060,
+        "original_language": "sk",
+        "original_title": "Pomocník",
+        "overview": "",
+        "popularity": 1.4267,
+        "poster_path": null,
+        "release_date": "1980-01-01",
+        "title": "Pomocník",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dhg922Ksbu8qQ6eqG76beqzexjg.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 1225010,
+        "original_language": "ar",
+        "original_title": "زوجة من الشارع",
+        "overview": "The story revolves around the singer (Dalal) who works in a cabaret. Many men fall in love with her, but she prefers the wealthy (Mustafa). She marries him and moves to live with him on his estate. (Mustafa's) mother, who wanted her son to marry his cousin, is shocked. When she is injured in an accident, a doctor comes to treat her and meets Dalal, as he was one of her former clients. The doctor proposes to (Mustafa's) cousin, and (Dalal) refuses this marriage, which will reveal her past. She decides to kill the doctor to preserve her past from her husband's family.",
+        "popularity": 0.2514,
+        "poster_path": "/rDa0NhRXew6rH5uICxbjmSg8os7.jpg",
+        "release_date": "1960-11-14",
+        "title": "Wife from the Street",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 1224710,
+        "original_language": "en",
+        "original_title": "Armenia, My Love...",
+        "overview": "The destiny of a happy Armenian family will change forever in 1915, Ottoman Empire, (Armenian land), now Turkey and whose beautiful dreams will become memories in the eyes of the most famous Armenian American painter, who lives to paint the story of his shattered childhood.",
+        "popularity": 0.2777,
+        "poster_path": "/cDpFbptopSoYiIodUXEdXhq4CQ1.jpg",
+        "release_date": "2016-04-14",
+        "title": "Armenia, My Love...",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cmBYlAPNKdeZmPBfVchBx3P2xli.jpg",
+        "genre_ids": [
+          35,
+          10402,
+          18
+        ],
+        "id": 1224237,
+        "original_language": "ar",
+        "original_title": "لقمة العيش",
+        "overview": "Fathi and Mohsen are unemployed friends. Mohsen falls in love with Dr. Samia, who offers him a job at her father's farm, but the only condition for the job is that the employee have to be married. Fathi dresses up as a woman and goes with Mohsen to the farm as his wife",
+        "popularity": 0.3009,
+        "poster_path": "/3YTNGkHsv41CTPZRZzhblUompjf.jpg",
+        "release_date": "1960-11-04",
+        "title": "Liqimat Aleaysh",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sedgChKURlBJekCPKnEherZKhNn.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 1226111,
+        "original_language": "ar",
+        "original_title": "مصنع الزوجات",
+        "overview": "Fadel and his colleagues Aziz and Hamdi are trying to make their way in life, and they hold advanced degrees, but luck does not crown their endeavor with success. Fadel visits his aunt Alawiya, who runs a private institute for girls in a traditional way, and asks to work in the institute, but she refuses. The three decide to establish a modern institute, similar to the aunt’s institute. To compete with her, to teach girls to be modern.",
+        "popularity": 0.1922,
+        "poster_path": null,
+        "release_date": "1941-10-09",
+        "title": "Wives factory",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oz3Runvgl0tGXEPvzwG4QB1Szmh.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1226226,
+        "original_language": "zh",
+        "original_title": "去年烟火",
+        "overview": "In the summer of 2012 in a small town in the south of China, divorced shopkeeper Peng Yun makes the acquaintance of Ji Qing Qing who sells meat skewers from her rickshaw.",
+        "popularity": 0.6549,
+        "poster_path": "/xUV3QPvBIraeLaFwuQj27UjiJ7n.jpg",
+        "release_date": "2024-06-06",
+        "title": "When We Met",
+        "video": true,
+        "vote_average": 6.889,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 630030,
+        "original_language": "ro",
+        "original_title": "Pasărea furtunii",
+        "overview": "Adam, a young and poor fisherman, falls in love with Uliana, but the girl's parents want her to marry Simion. To get rid of him, Simion blames Adam of the drowning of his fellow fishermen he was with out in a storm.",
+        "popularity": 0.4708,
+        "poster_path": null,
+        "release_date": "1957-06-27",
+        "title": "Bird of the Storm",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 630257,
+        "original_language": "sv",
+        "original_title": "Vinterdag 1914",
+        "overview": "A solitary railway station in northern Sweden on a bitter cold winter day 1914. Based on a short story from 1944.",
+        "popularity": 2.9044,
+        "poster_path": "/7kZB5wqOx7oWPUaf8VzFvUwH7Cp.jpg",
+        "release_date": "1978-04-17",
+        "title": "Vinterdag 1914",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 630337,
+        "original_language": "ro",
+        "original_title": "Vacanță tragică",
+        "overview": "During the peasant uprising of 1888, Alecu Dumitru, a socialist, hides from police in the Nada Florilor island, next to a fishing village.",
+        "popularity": 0.324,
+        "poster_path": "/5zYFQ6wUq94a07ZRQcr0BcUQRVT.jpg",
+        "release_date": "1979-05-21",
+        "title": "Tragic Vacation",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jW1JgdugP4TN48KGrdvykxjeQYw.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1223594,
+        "original_language": "fi",
+        "original_title": "Anna minun rakastaa enemmän",
+        "overview": "Raised in a small town, Antti and Suvi meet at a house party and fall in love, start a band and move to the capital. The more successful the band is, the worse their relationship gets. Their relationship ends and the band breaks up. Suvi becomes internationally successful solo artist Summer Maple. When Antti meets the determined Elisa, who aspires to become a lawyer, there is the promise of a new direction in life. But Suvi and music won't leave him alone. One night, Antti's doorbell rings: Suvi has come to ask him to come with her to New York to record a new album.",
+        "popularity": 1.3702,
+        "poster_path": "/tBysWUglKLEa1TWbnto07Lm3Wzg.jpg",
+        "release_date": "2025-10-03",
+        "title": "The More Loving One",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 14561,
+    "total_results": 291219
+  }
+}

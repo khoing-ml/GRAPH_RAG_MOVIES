@@ -1,0 +1,1421 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 11010,
+    "imdb_id": "tt0110877",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Il postino",
+    "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+    "popularity": 18.7191,
+    "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+    "production_companies": [
+      {
+        "id": 119744,
+        "logo_path": null,
+        "name": "Esterno Mediterraneo Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 371,
+        "logo_path": "/caz3eGyRd4OW7oR31Aij5ZwjOXD.png",
+        "name": "Cecchi Gori Group Tiger Cinematografica",
+        "origin_country": "IT"
+      },
+      {
+        "id": 119746,
+        "logo_path": null,
+        "name": "K2 Two",
+        "origin_country": "BE"
+      },
+      {
+        "id": 8209,
+        "logo_path": null,
+        "name": "Blue Dahlia Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 6651,
+        "logo_path": null,
+        "name": "Penta Film",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1994-09-22",
+    "revenue": 33000000,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dreams do come true.",
+    "title": "The Postman",
+    "video": false,
+    "vote_average": 7.922,
+    "vote_count": 1189
+  },
+  "credits": {
+    "id": 11010,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67792,
+        "known_for_department": "Acting",
+        "name": "Massimo Troisi",
+        "original_name": "Massimo Troisi",
+        "popularity": 2.0318,
+        "profile_path": "/t3u1YkX8W5j95ZLnpREycgPu1x9.jpg",
+        "cast_id": 12,
+        "character": "Mario Ruoppolo",
+        "credit_id": "52fe43e29251416c75021dd5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24366,
+        "known_for_department": "Acting",
+        "name": "Philippe Noiret",
+        "original_name": "Philippe Noiret",
+        "popularity": 1.7744,
+        "profile_path": "/f5DsqdoLxQnPMrOTMkm6dIHNyEs.jpg",
+        "cast_id": 11,
+        "character": "Pablo Neruda",
+        "credit_id": "52fe43e29251416c75021dd1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10777,
+        "known_for_department": "Acting",
+        "name": "Maria Grazia Cucinotta",
+        "original_name": "Maria Grazia Cucinotta",
+        "popularity": 1.5269,
+        "profile_path": "/zZ46tuQnCEnYlfGiyuZTAb7w4BL.jpg",
+        "cast_id": 13,
+        "character": "Beatrice Russo",
+        "credit_id": "52fe43e29251416c75021dd9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14149,
+        "known_for_department": "Acting",
+        "name": "Renato Scarpa",
+        "original_name": "Renato Scarpa",
+        "popularity": 0.4697,
+        "profile_path": "/wVWEERHioQVxnB4jFeDDZIzdSPX.jpg",
+        "cast_id": 14,
+        "character": "Telegrapher",
+        "credit_id": "52fe43e29251416c75021ddd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 538696,
+        "known_for_department": "Acting",
+        "name": "Linda Moretti",
+        "original_name": "Linda Moretti",
+        "popularity": 1.81,
+        "profile_path": "/4RXo3cS27IP6jYj464OU9M89ITM.jpg",
+        "cast_id": 15,
+        "character": "Donna Rosa",
+        "credit_id": "53ea63d6c3a3680eb5001318",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24290,
+        "known_for_department": "Acting",
+        "name": "Mariano Rigillo",
+        "original_name": "Mariano Rigillo",
+        "popularity": 1.3036,
+        "profile_path": "/p6bQl4qicc0bFnsKxxKagDjsOOy.jpg",
+        "cast_id": 16,
+        "character": "Di Cosimo",
+        "credit_id": "53ea6400c3a3680ebd0012a6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225301,
+        "known_for_department": "Acting",
+        "name": "Anna Bonaiuto",
+        "original_name": "Anna Bonaiuto",
+        "popularity": 0.9968,
+        "profile_path": "/1istMMsr34yfaYCnNyW8SFVMuU5.jpg",
+        "cast_id": 17,
+        "character": "Matilde",
+        "credit_id": "53ea6416c3a3680ec1001376",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151165,
+        "known_for_department": "Acting",
+        "name": "Sergio Solli",
+        "original_name": "Sergio Solli",
+        "popularity": 0.3114,
+        "profile_path": "/awwiyTMCPpHv2IvnNTZ1I7zI7Wm.jpg",
+        "cast_id": 24,
+        "character": "Peasant",
+        "credit_id": "53ea6578c3a3680ec10013af",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352578,
+        "known_for_department": "Acting",
+        "name": "Carlo Di Maio",
+        "original_name": "Carlo Di Maio",
+        "popularity": 1.406,
+        "profile_path": "/5eYDIribcDWaprP0HR85ajVaI6k.jpg",
+        "cast_id": 20,
+        "character": "Priest",
+        "credit_id": "53ea647dc3a3680eca001360",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352580,
+        "known_for_department": "Acting",
+        "name": "Nando Neri",
+        "original_name": "Nando Neri",
+        "popularity": 0.0407,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "53ea64a7c3a3680eca001369",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352582,
+        "known_for_department": "Acting",
+        "name": "Vincenzo Di Sauro",
+        "original_name": "Vincenzo Di Sauro",
+        "popularity": 0.1595,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "53ea64d0c3a3680ecc001360",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189964,
+        "known_for_department": "Acting",
+        "name": "Orazio Stracuzzi",
+        "original_name": "Orazio Stracuzzi",
+        "popularity": 1.0122,
+        "profile_path": "/zttVmTiKYr9p10sd7pBWpSbjUM3.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "53ea6500c3a3680ec70013bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352583,
+        "known_for_department": "Acting",
+        "name": "Alfredo Cozzolino",
+        "original_name": "Alfredo Cozzolino",
+        "popularity": 0.2205,
+        "profile_path": "/1lkBHO97DOlKehwH32C4oilM5Oo.jpg",
+        "cast_id": 25,
+        "character": "Di Cosimo's Associate",
+        "credit_id": "53ea65a7c3a3680eca001387",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1351952,
+        "known_for_department": "Acting",
+        "name": "Simona Caparrini",
+        "original_name": "Simona Caparrini",
+        "popularity": 0.386,
+        "profile_path": "/d5J80pHfgEufdRwKglBY9deZtDD.jpg",
+        "cast_id": 18,
+        "character": "Elsa Morante (uncredited)",
+        "credit_id": "53ea6429c3a3680eca001353",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189936,
+        "known_for_department": "Acting",
+        "name": "Calogero Azzaretto",
+        "original_name": "Calogero Azzaretto",
+        "popularity": 0.3854,
+        "profile_path": "/x3L3lIXumqlDB06H8jykVS3PVHk.jpg",
+        "cast_id": 69,
+        "character": "Bookseller (uncredited)",
+        "credit_id": "62c0e3daaaf897004c68ee4f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1862079,
+        "known_for_department": "Acting",
+        "name": "Assunta Stacconi",
+        "original_name": "Assunta Stacconi",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Old Woman in Church (uncredited)",
+        "credit_id": "62c0e3ee532acb0328d28276",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465385,
+        "known_for_department": "Acting",
+        "name": "Angelo Casadei",
+        "original_name": "Angelo Casadei",
+        "popularity": 1.4833,
+        "profile_path": "/p7uJBjBGW2NA9Hl51RaSmwkpKZH.jpg",
+        "cast_id": 71,
+        "character": "Cinema Spectator (uncredited)",
+        "credit_id": "62c0e3ffaf6e9412606cbab7",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66641,
+        "known_for_department": "Camera",
+        "name": "Franco Di Giacomo",
+        "original_name": "Franco Di Giacomo",
+        "popularity": 1.2878,
+        "profile_path": "/lPGqJP0VV5FT5U4PS4hAo56yQVA.jpg",
+        "credit_id": "52fe43e29251416c75021dc7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18333,
+        "known_for_department": "Editing",
+        "name": "Roberto Perpignani",
+        "original_name": "Roberto Perpignani",
+        "popularity": 0.6151,
+        "profile_path": "/tNwHnbaTIc9cUfWONfr4cD9IEGC.jpg",
+        "credit_id": "52fe43e29251416c75021dcd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67789,
+        "known_for_department": "Writing",
+        "name": "Antonio Skármeta",
+        "original_name": "Antonio Skármeta",
+        "popularity": 1.4363,
+        "profile_path": "/r3zKiL1t1007Qdz4UwQh4wJvL9a.jpg",
+        "credit_id": "52fe43e29251416c75021d9d",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28898,
+        "known_for_department": "Directing",
+        "name": "Michael Radford",
+        "original_name": "Michael Radford",
+        "popularity": 3.7069,
+        "profile_path": "/e30GOpg8s02V2b72pY95mCX8mhK.jpg",
+        "credit_id": "52fe43e29251416c75021d97",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32309,
+        "known_for_department": "Production",
+        "name": "Mario Cecchi Gori",
+        "original_name": "Mario Cecchi Gori",
+        "popularity": 1.2981,
+        "profile_path": "/yk2yCtMa9D2EbNqTHF8e6jocjum.jpg",
+        "credit_id": "52fe43e29251416c75021daf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57301,
+        "known_for_department": "Production",
+        "name": "Vittorio Cecchi Gori",
+        "original_name": "Vittorio Cecchi Gori",
+        "popularity": 0.6486,
+        "profile_path": "/yJPazYwhO3BqN2UL3twWwzQVjwl.jpg",
+        "credit_id": "52fe43e29251416c75021db5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66675,
+        "known_for_department": "Sound",
+        "name": "Luis Bacalov",
+        "original_name": "Luis Bacalov",
+        "popularity": 0.2471,
+        "profile_path": "/d9hYl7eX4KxIz4wZ9psdKjxmaSF.jpg",
+        "credit_id": "52fe43e29251416c75021dc1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67791,
+        "known_for_department": "Production",
+        "name": "Gaetano Daniele",
+        "original_name": "Gaetano Daniele",
+        "popularity": 0.265,
+        "profile_path": null,
+        "credit_id": "52fe43e29251416c75021dbb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2005220,
+        "known_for_department": "Production",
+        "name": "Vincenzo Testa",
+        "original_name": "Vincenzo Testa",
+        "popularity": 0.1735,
+        "profile_path": null,
+        "credit_id": "62536f6cab68490654965a81",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2507036,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gianna Gissi",
+        "original_name": "Gianna Gissi",
+        "popularity": 0.2006,
+        "profile_path": null,
+        "credit_id": "62536ee4c175b2009bf0a2b1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129789,
+        "known_for_department": "Art",
+        "name": "Lorenzo Baraldi",
+        "original_name": "Lorenzo Baraldi",
+        "popularity": 0.6072,
+        "profile_path": null,
+        "credit_id": "62536f1b357c0000a6ab01a3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3341489,
+        "known_for_department": "Production",
+        "name": "Alberto Passone",
+        "original_name": "Alberto Passone",
+        "popularity": 0.174,
+        "profile_path": null,
+        "credit_id": "625370a3c175b2009bf0acee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4216161,
+        "known_for_department": "Crew",
+        "name": "Gerardo Ferrara",
+        "original_name": "Gerardo Ferrara",
+        "popularity": 0.1547,
+        "profile_path": null,
+        "credit_id": "64db2cd0f495ee0290e58e66",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67790,
+        "known_for_department": "Writing",
+        "name": "Giacomo Scarpelli",
+        "original_name": "Giacomo Scarpelli",
+        "popularity": 2.9659,
+        "profile_path": "/lkUSqHxTo5wNkN4PEoZwrlxeuz1.jpg",
+        "credit_id": "62aa4b349b861600a79540d2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3465337,
+        "known_for_department": "Production",
+        "name": "Raffaele Veneruso",
+        "original_name": "Raffaele Veneruso",
+        "popularity": 0.1224,
+        "profile_path": null,
+        "credit_id": "62aa4d3bc7c22400a6f86d51",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5812,
+        "known_for_department": "Writing",
+        "name": "Furio Scarpelli",
+        "original_name": "Scarpelli",
+        "popularity": 0.895,
+        "profile_path": "/f1TCz5Wwff0W3nseJJ15PPm9zGQ.jpg",
+        "credit_id": "62aa4b2c907f2614f76f31fa",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074725,
+        "known_for_department": "Sound",
+        "name": "Massimo Loffredi",
+        "original_name": "Massimo Loffredi",
+        "popularity": 0.3186,
+        "profile_path": null,
+        "credit_id": "62aa4ba2af3da6006671ffa3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2904078,
+        "known_for_department": "Camera",
+        "name": "Ernesto Natoli",
+        "original_name": "Ernesto Natoli",
+        "popularity": 0.2521,
+        "profile_path": null,
+        "credit_id": "62aa4dd8c7c22400a6f86fe3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065970,
+        "known_for_department": "Sound",
+        "name": "Angelo Raguseo",
+        "original_name": "Angelo Raguseo",
+        "popularity": 0.6713,
+        "profile_path": null,
+        "credit_id": "62aa4e417eb5f20050f3a88b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1166728,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alfredo Marazzi",
+        "original_name": "Alfredo Marazzi",
+        "popularity": 0.1521,
+        "profile_path": null,
+        "credit_id": "62aa4d565a5ed0326a9d6d45",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1366285,
+        "known_for_department": "Camera",
+        "name": "Stefano Coletta",
+        "original_name": "Stefano Coletta",
+        "popularity": 0.2113,
+        "profile_path": null,
+        "credit_id": "62aa4dc53d4d96341ee6da2b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1773860,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Léone Noël",
+        "original_name": "Léone Noël",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "62aa4d6faf3da60066720661",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2075538,
+        "known_for_department": "Camera",
+        "name": "Elio Bosi",
+        "original_name": "Elio Bosi",
+        "popularity": 0.2445,
+        "profile_path": null,
+        "credit_id": "62aa4f317e12f00e260e4546",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2537543,
+        "known_for_department": "Editing",
+        "name": "Rita Triunveri",
+        "original_name": "Rita Triunveri",
+        "popularity": 0.2167,
+        "profile_path": null,
+        "credit_id": "62aa4dfbeb14fa09de10255d",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097399,
+        "known_for_department": "Sound",
+        "name": "Tullio Arcangeli",
+        "original_name": "Tullio Arcangeli",
+        "popularity": 0.9372,
+        "profile_path": null,
+        "credit_id": "62aa4e5f875d1a52785a49cb",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3589791,
+        "known_for_department": "Sound",
+        "name": "Giulio D'Angeli",
+        "original_name": "Giulio D'Angeli",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "62aa4e7635d1bc4f96007dc2",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1983139,
+        "known_for_department": "Editing",
+        "name": "Lidia Pascolini",
+        "original_name": "Lidia Pascolini",
+        "popularity": 0.7916,
+        "profile_path": null,
+        "credit_id": "62aa4e053d4d96341ee6dadf",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3589794,
+        "known_for_department": "Sound",
+        "name": "Augusto Penna",
+        "original_name": "Augusto Penna",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "62aa4e9d9b8616006703b499",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1956979,
+        "known_for_department": "Sound",
+        "name": "Ettore Mancini",
+        "original_name": "Ettore Mancini",
+        "popularity": 0.6189,
+        "profile_path": null,
+        "credit_id": "62aa4dedeb14fa09de102543",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3331611,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Simone Marazzi",
+        "original_name": "Simone Marazzi",
+        "popularity": 0.0815,
+        "profile_path": null,
+        "credit_id": "62aa4d647eb5f200669bd5ba",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1929265,
+        "known_for_department": "Art",
+        "name": "Laura Casalini",
+        "original_name": "Laura Casalini",
+        "popularity": 0.1555,
+        "profile_path": null,
+        "credit_id": "62aa4db4151c5c009b26180a",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102113,
+        "known_for_department": "Editing",
+        "name": "Roberto Sterbini",
+        "original_name": "Roberto Sterbini",
+        "popularity": 0.3864,
+        "profile_path": null,
+        "credit_id": "62aa4ea77b7b4d006688f9a1",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665890,
+        "known_for_department": "Lighting",
+        "name": "Giancarlo Bachetti",
+        "original_name": "Giancarlo Bachetti",
+        "popularity": 0.1085,
+        "profile_path": null,
+        "credit_id": "62aa4f16c7c224004fc3e5f6",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 91760,
+        "known_for_department": "Directing",
+        "name": "Stefano Veneruso",
+        "original_name": "Stefano Veneruso",
+        "popularity": 0.2787,
+        "profile_path": null,
+        "credit_id": "62aa4d98b09bde0067b9d007",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2721806,
+        "known_for_department": "Sound",
+        "name": "Alessandra Perpignani",
+        "original_name": "Alessandra Perpignani",
+        "popularity": 1.226,
+        "profile_path": null,
+        "credit_id": "62aa4e0f7eb5f20050f3a7a4",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2870617,
+        "known_for_department": "Lighting",
+        "name": "Rolando Marcheggiani",
+        "original_name": "Rolando Marcheggiani",
+        "popularity": 0.1291,
+        "profile_path": null,
+        "credit_id": "62aa4f0caf3da60066720d32",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1767225,
+        "known_for_department": "Directing",
+        "name": "Elide Cortesi",
+        "original_name": "Elide Cortesi",
+        "popularity": 3.2738,
+        "profile_path": null,
+        "credit_id": "62aa4d44907f2614f5c52bfc",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826990,
+        "known_for_department": "Sound",
+        "name": "Ezio Marcorin",
+        "original_name": "Ezio Marcorin",
+        "popularity": 0.2047,
+        "profile_path": null,
+        "credit_id": "62aa4e25eb14fa09dcac21a5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3533736,
+        "known_for_department": "Camera",
+        "name": "Piero Bosi",
+        "original_name": "Piero Bosi",
+        "popularity": 0.1365,
+        "profile_path": null,
+        "credit_id": "62aa4f385541fa2f2b6b732c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67792,
+        "known_for_department": "Acting",
+        "name": "Massimo Troisi",
+        "original_name": "Massimo Troisi",
+        "popularity": 2.0318,
+        "profile_path": "/t3u1YkX8W5j95ZLnpREycgPu1x9.jpg",
+        "credit_id": "62aa4cffb09bde0067b9ccec",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1454520,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ferdinando Merolla",
+        "original_name": "Ferdinando Merolla",
+        "popularity": 0.7174,
+        "profile_path": null,
+        "credit_id": "62aa4d7d7b7b4d0050c7a859",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1288612,
+        "known_for_department": "Directing",
+        "name": "Gaia Gorrini",
+        "original_name": "Gaia Gorrini",
+        "popularity": 1.5391,
+        "profile_path": null,
+        "credit_id": "62aa4d2535d1bc4f95cd93dd",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1402980,
+        "known_for_department": "Sound",
+        "name": "Paolo Amici",
+        "original_name": "Paolo Amici",
+        "popularity": 0.1514,
+        "profile_path": null,
+        "credit_id": "62aa4e55eb14fa09de10274c",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574169,
+        "known_for_department": "Sound",
+        "name": "Saverio Lancia",
+        "original_name": "Saverio Lancia",
+        "popularity": 0.3049,
+        "profile_path": null,
+        "credit_id": "62aa4e7eaf3da6009a248375",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2802553,
+        "known_for_department": "Sound",
+        "name": "Daniele Masini",
+        "original_name": "Daniele Masini",
+        "popularity": 0.1194,
+        "profile_path": null,
+        "credit_id": "62aa4e933d43e0009f7e3c70",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1761807,
+        "known_for_department": "Lighting",
+        "name": "Valerio Garzia",
+        "original_name": "Valerio Garzia",
+        "popularity": 1.3465,
+        "profile_path": null,
+        "credit_id": "62aa4ef7eb14fa09dcac25ae",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1580999,
+        "known_for_department": "Lighting",
+        "name": "Alberto Altibrandi",
+        "original_name": "Alberto Altibrandi",
+        "popularity": 0.1077,
+        "profile_path": null,
+        "credit_id": "62aa4f0222af3e5213dbeb3c",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826990,
+        "known_for_department": "Sound",
+        "name": "Ezio Marcorin",
+        "original_name": "Ezio Marcorin",
+        "popularity": 0.2047,
+        "profile_path": null,
+        "credit_id": "62aa4e8acba36f00a830ea14",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67792,
+        "known_for_department": "Acting",
+        "name": "Massimo Troisi",
+        "original_name": "Massimo Troisi",
+        "popularity": 2.0318,
+        "profile_path": "/t3u1YkX8W5j95ZLnpREycgPu1x9.jpg",
+        "credit_id": "5a1f0c2c925141033307dc60",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28898,
+        "known_for_department": "Directing",
+        "name": "Michael Radford",
+        "original_name": "Michael Radford",
+        "popularity": 3.7069,
+        "profile_path": "/e30GOpg8s02V2b72pY95mCX8mhK.jpg",
+        "credit_id": "5a1f0c450e0a264cd007ff93",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 11010,
+    "keywords": [
+      {
+        "id": 2041,
+        "name": "island"
+      },
+      {
+        "id": 5420,
+        "name": "fisherman"
+      },
+      {
+        "id": 3344,
+        "name": "letter"
+      },
+      {
+        "id": 4461,
+        "name": "postman"
+      },
+      {
+        "id": 5933,
+        "name": "poet"
+      },
+      {
+        "id": 4648,
+        "name": "naples, italy"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 12987,
+        "name": "poverty"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yH0zuzEDzvsRYI7AEBpLmxBSJ61.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 273153,
+        "original_language": "fr",
+        "original_title": "La Belle Saison",
+        "overview": "In 1971, a young woman moves from the French countryside to Paris and begins a passionate love affair with a feminist leader.",
+        "popularity": 1.5324,
+        "poster_path": "/ugqdTcTEiIl37jv0QiSUlpplEke.jpg",
+        "release_date": "2015-08-19",
+        "title": "Summertime",
+        "video": false,
+        "vote_average": 6.682,
+        "vote_count": 354
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qnn44qgZDhlanqLuwL8r9qtUNkF.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1237827,
+        "original_language": "en",
+        "original_title": "A Lady In Waiting",
+        "overview": "A young woman in 1810s England must hide her secret relationship with her maid from her fiancé.",
+        "popularity": 0.1307,
+        "poster_path": "/eKJPK5mZJe8R0D8VerIvzCkiQ7u.jpg",
+        "release_date": "2024-01-28",
+        "title": "A Lady In Waiting",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aZCi37ZOJZnECirobe36Fx9r1Yr.jpg",
+        "genre_ids": [
+          10749,
+          14,
+          18
+        ],
+        "id": 4558,
+        "original_language": "fr",
+        "original_title": "Orphée",
+        "overview": "A famous poet in postwar Paris, scorned by the Left Bank youth, is in love with both his wife Eurydice and a mysterious princess. Seeking inspiration, the poet becomes obsessed and follows the princess from the world of the living to the land of the dead.",
+        "popularity": 3.3179,
+        "poster_path": "/wcUmMtipWBBx7lpsfpPsUM4Snh1.jpg",
+        "release_date": "1950-09-29",
+        "title": "Orpheus",
+        "video": false,
+        "vote_average": 7.656,
+        "vote_count": 278
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
+        "genre_ids": [
+          28,
+          18,
+          10749,
+          53
+        ],
+        "id": 4588,
+        "original_language": "zh",
+        "original_title": "色‧戒",
+        "overview": "During World War II, a secret agent must seduce and assassinate an official who works for the Japanese puppet government in Shanghai.",
+        "popularity": 7.8179,
+        "poster_path": "/6c1tqfJEBuIyhQC19SLlLQAUAvJ.jpg",
+        "release_date": "2007-09-24",
+        "title": "Lust, Caution",
+        "video": false,
+        "vote_average": 7.238,
+        "vote_count": 762
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qUtJCQgGl02aH5pPbxEU4kMGuZL.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 4595,
+        "original_language": "fr",
+        "original_title": "Jour de fête",
+        "overview": "Jour de Fête tells the story of an inept and easily-distracted French mailman who frequently interrupts his duties to converse with the local inhabitants, as well as inspect the traveling fair that has come to his small community. Influenced by too much wine and a newsreel account of rapid transportation methods used by the United States postal system, he goes to hilarious lengths to speed the delivery of mail while aboard his bicycle.",
+        "popularity": 0.9549,
+        "poster_path": "/x1wwNdrBywcmZSfIsO8qcaZxYWR.jpg",
+        "release_date": "1949-05-11",
+        "title": "Jour de Fête",
+        "video": false,
+        "vote_average": 7.036,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oEXife7rrKqROdIORt75FdvVFOu.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 272224,
+        "original_language": "cs",
+        "original_title": "Něžné vlny",
+        "overview": "The congenial Vojta is bashful and his family is batty. His short-tempered father, who once failed to swim the English Channel, wants him to be a competing swimmer and his loving mother, a former child ice revue star, sees a talented pianist in her son. But Vojta has completely different priorities - most of all his red-haired classmate Ela, an enchanting synchronized swimmer who is leaving for Paris in November. If Vojta doesn't do something radical, and fast, Ela will disappear behind the Iron Curtain forever. The year is 1989.",
+        "popularity": 0.2876,
+        "poster_path": "/ps36BYFXyVmgfawvJ6OGYmSt4aS.jpg",
+        "release_date": "2013-12-18",
+        "title": "Tender Waves",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 272229,
+        "original_language": "en",
+        "original_title": "Love Trap",
+        "overview": "Richard, a law student, is hanging out at a sports bar. When Angel, a seductive vixen, appears from nowhere and smothers him with attention, he finds himself in a situation most guys wish for. Faced with temptation, Richard makes a seemingly innocent suggestion that sets in motion a series of events that ultimately unbalances his world.",
+        "popularity": 0.4983,
+        "poster_path": "/4BtLi08a4DQxMV8BrvIyzTFL0Qp.jpg",
+        "release_date": "2005-01-01",
+        "title": "Love Trap",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r95IP56O3j8fz9a09x55lymr9uJ.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 2977,
+        "original_language": "en",
+        "original_title": "Becoming Jane",
+        "overview": "Though young Jane Austen's financially strapped parents expect her to marry the nephew of wealthy Lady Gresham, Jane herself knows that such a union will destroy her creativity and sense of self-worth. Instead, she becomes involved with Tom Lefroy, a charming but penniless apprentice lawyer who gives her the knowledge of the heart she needs for her future career as a novelist.",
+        "popularity": 2.9844,
+        "poster_path": "/9v2hp5qrhx8JpodGPVYfRrSAxuv.jpg",
+        "release_date": "2007-03-02",
+        "title": "Becoming Jane",
+        "video": false,
+        "vote_average": 7.309,
+        "vote_count": 1224
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1236629,
+        "original_language": "ja",
+        "original_title": "惑う After the Rain",
+        "overview": "“I never got to feel the warmth of a loving family.” That is what Seishiro notes down in 1948, who was adopted as a child by the idealistic Eichiro. In 1980, Izumi works at a bank and she lives with her mother Ito. Twenty-two years later, in the evening on a winter night and the day before Izumi is to marry, her mother tells Izumi about her late father's dream, Seishiro. Her father's dream was of Izumi's marriage. Izumi reminisces about her loving father. What happened in the meantime? In reversed chronological order this movie tells a story about a man who had much to give and what he got in return.",
+        "popularity": 0.2373,
+        "poster_path": "/b2FATt8Gwbia4RNnwcVwxTlj6VY.jpg",
+        "release_date": "2017-01-21",
+        "title": "Blossoming Into a Family",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5SDqKj8AfUazPqXvOCDL1nmE8Zb.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 2748,
+        "original_language": "it",
+        "original_title": "Viaggio in Italia",
+        "overview": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense.",
+        "popularity": 0.8901,
+        "poster_path": "/tjli2Rjwkn8fivuynxwthnnEzeo.jpg",
+        "release_date": "1954-09-07",
+        "title": "Journey to Italy",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 315
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7QtesjtPPfI9BVUWtsfe4j58AqM.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 272093,
+        "original_language": "it",
+        "original_title": "Maddalena",
+        "overview": "The love story between a free-spirited girl and a priest.",
+        "popularity": 3.223,
+        "poster_path": "/7oaeDbqBPRxN0K7INYpF6jk4fUn.jpg",
+        "release_date": "1971-11-19",
+        "title": "Maddalena",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8kYHyiA4aMq7ow5wFoXeh1xg8Gj.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 4156,
+        "original_language": "en",
+        "original_title": "Friends",
+        "overview": "Paul, a rich English boy, and Michelle, an orphaned French girl, run away from home to a remote beach. Living on their own, their friendship grows into love.",
+        "popularity": 3.493,
+        "poster_path": "/oaNJNddADomFR97gr3SsY6xVUuU.jpg",
+        "release_date": "1971-03-24",
+        "title": "Friends",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 4173,
+        "original_language": "it",
+        "original_title": "Stromboli (Terra di Dio)",
+        "overview": "After the end of WWII, a young Lithuanian woman and a young Italian man from Stromboli impulsively marry, but married life on the island is more demanding than she can accept.",
+        "popularity": 0.9061,
+        "poster_path": "/tsyyzGSspKsawHocchfokskwbeM.jpg",
+        "release_date": "1950-02-15",
+        "title": "Stromboli",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9oxV6OeK8K1xEM32jeNcaoKyTGp.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 649040,
+        "original_language": "fi",
+        "original_title": "Tuulinen päivä",
+        "overview": "The strange, disjointed love story in the existentialist film Windy Day transported the young lovers to an island off the town of Kotka.",
+        "popularity": 2.6514,
+        "poster_path": "/y44wHrDm6XARACLOMU96gewBjb1.jpg",
+        "release_date": "1962-11-09",
+        "title": "Tuulinen päivä",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 846250,
+        "original_language": "en",
+        "original_title": "Fire Island",
+        "overview": "A group of queer best friends gather in the Fire Island Pines for their annual week of love and laughter. However, desires, dramas, drink and drugs push their bonds to the limits.",
+        "popularity": 5.4894,
+        "poster_path": "/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
+        "release_date": "2022-06-02",
+        "title": "Fire Island",
+        "video": false,
+        "vote_average": 6.972,
+        "vote_count": 268
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/giScYWIfx3xJFFWGFR8vJsWg2ho.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 5967,
+        "original_language": "fr",
+        "original_title": "Les Parapluies de Cherbourg",
+        "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+        "popularity": 2.5356,
+        "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+        "release_date": "1964-02-19",
+        "title": "The Umbrellas of Cherbourg",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 856
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7JrXKA5vkyqITySzbx8iZB89ivk.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 6023,
+        "original_language": "en",
+        "original_title": "P.S. I Love You",
+        "overview": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+        "popularity": 4.6161,
+        "poster_path": "/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg",
+        "release_date": "2007-11-15",
+        "title": "P.S. I Love You",
+        "video": false,
+        "vote_average": 7.186,
+        "vote_count": 3417
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hgzoUvscb0iQ2M3xaNiBzxG8Ors.jpg",
+        "genre_ids": [
+          35,
+          28,
+          12,
+          10749
+        ],
+        "id": 6068,
+        "original_language": "en",
+        "original_title": "Six Days Seven Nights",
+        "overview": "In the South Pacific island of Makatea, career-driven magazine editor Robin Monroe is on a week-long vacation getaway with her boyfriend, Frank Martin. An emergency work assignment in neighboring Tahiti requires Robin to hire the cantankerous pilot Quinn Harris who had flown them to Makatea on a small transport plane. While flying, a powerful storm forces Quinn to make an emergency landing on a nearby deserted island. The dissimilar pair avoid each other at first, until they're forced to team up to escape from the island -- and some pirates who want their heads.",
+        "popularity": 3.2009,
+        "poster_path": "/fzWrrCzRa16v51TXAUuT6Wendw7.jpg",
+        "release_date": "1998-06-12",
+        "title": "Six Days Seven Nights",
+        "video": false,
+        "vote_average": 6.099,
+        "vote_count": 1560
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 6075,
+        "original_language": "en",
+        "original_title": "Carlito's Way",
+        "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+        "popularity": 5.138,
+        "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+        "release_date": "1993-11-10",
+        "title": "Carlito's Way",
+        "video": false,
+        "vote_average": 7.826,
+        "vote_count": 3360
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mMWl5JUsFtLAsj6jlgb1bR8Zh1J.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          18
+        ],
+        "id": 1238954,
+        "original_language": "en",
+        "original_title": "Fortune of Chance",
+        "overview": "After a long night out two lonely people awake in unfamiliar places on opposite ends of the same city. Their eventual meeting in a city park can only be described as good fortune.",
+        "popularity": 0.1669,
+        "poster_path": "/dFwKxmPJTNFuBrJTs14TdaOdN2M.jpg",
+        "release_date": "2023-10-18",
+        "title": "Fortune of Chance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 21264,
+    "total_results": 425271
+  }
+}

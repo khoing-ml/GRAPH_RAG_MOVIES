@@ -1,0 +1,814 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 16672,
+    "imdb_id": "tt0058625",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "砂の女",
+    "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
+    "popularity": 3.442,
+    "poster_path": "/f0JpsMQ9oEjKBD66Ky3qK3z7LGT.jpg",
+    "production_companies": [
+      {
+        "id": 3212,
+        "logo_path": null,
+        "name": "Teshigahara Productions",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1964-02-15",
+    "revenue": 0,
+    "runtime": 147,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Haunting. Erotic. Unforgettable.",
+    "title": "Woman in the Dunes",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 500
+  },
+  "credits": {
+    "id": 16672,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25466,
+        "known_for_department": "Acting",
+        "name": "Eiji Okada",
+        "original_name": "岡田英次",
+        "popularity": 1.9462,
+        "profile_path": "/mQb4kOYl1WlISWZOStAhm13DHdQ.jpg",
+        "cast_id": 2,
+        "character": "Entomologist Niki Jumpei",
+        "credit_id": "52fe46e49251416c7508706f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94188,
+        "known_for_department": "Acting",
+        "name": "Kyôko Kishida",
+        "original_name": "岸田今日子",
+        "popularity": 1.9299,
+        "profile_path": "/d5raLmrkUXAgJ7kN17Uedwwu4iD.jpg",
+        "cast_id": 12,
+        "character": "The Woman",
+        "credit_id": "52fe46e49251416c75087091",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555339,
+        "known_for_department": "Acting",
+        "name": "Hiroko Itō",
+        "original_name": "伊藤弘子",
+        "popularity": 2.0548,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Entomologist's Wife",
+        "credit_id": "52fe46e49251416c75087095",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96804,
+        "known_for_department": "Acting",
+        "name": "Kōji Mitsui",
+        "original_name": "三井弘次",
+        "popularity": 2.0143,
+        "profile_path": "/nahTXDNpFHNfKMraAHNDYiLXBM.jpg",
+        "cast_id": 5,
+        "character": "Village Elder",
+        "credit_id": "52fe46e49251416c75087073",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96809,
+        "known_for_department": "Camera",
+        "name": "Hiroshi Segawa",
+        "original_name": "Hiroshi Segawa",
+        "popularity": 0.3652,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c75087081",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96801,
+        "known_for_department": "Directing",
+        "name": "Hiroshi Teshigahara",
+        "original_name": "勅使河原宏",
+        "popularity": 0.7475,
+        "profile_path": "/bMg5nblcbQPY48P1nURbXsyHvfO.jpg",
+        "credit_id": "52fe46e49251416c7508706b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96807,
+        "known_for_department": "Writing",
+        "name": "Kōbō Abe",
+        "original_name": "安部公房",
+        "popularity": 1.9135,
+        "profile_path": "/l8ml3RkKzmEPgxktfVbO0nVyQ5c.jpg",
+        "credit_id": "52fe46e49251416c7508709b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 96810,
+        "known_for_department": "Editing",
+        "name": "Fusako Shuzui",
+        "original_name": "Fusako Shuzui",
+        "popularity": 0.2796,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c75087087",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96807,
+        "known_for_department": "Writing",
+        "name": "Kōbō Abe",
+        "original_name": "安部公房",
+        "popularity": 1.9135,
+        "profile_path": "/l8ml3RkKzmEPgxktfVbO0nVyQ5c.jpg",
+        "credit_id": "52fe46e49251416c750870a1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089030,
+        "known_for_department": "Production",
+        "name": "Kiichi Ichikawa",
+        "original_name": "Kiichi Ichikawa",
+        "popularity": 0.4658,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c750870a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1089017,
+        "known_for_department": "Production",
+        "name": "Tadashi Ôno",
+        "original_name": "Tadashi Ôno",
+        "popularity": 0.1053,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c750870ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51808,
+        "known_for_department": "Sound",
+        "name": "Toru Takemitsu",
+        "original_name": "武満徹",
+        "popularity": 0.881,
+        "profile_path": "/l48fEVb1HGMilTCkxSzYuZsSPdk.jpg",
+        "credit_id": "57171fb69251417a22006174",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602592,
+        "known_for_department": "Sound",
+        "name": "Shigenosuke Okuyama",
+        "original_name": "Shigenosuke Okuyama",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "5c19ae26c3a3681890239b2c",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198020,
+        "known_for_department": "Sound",
+        "name": "Keiji Mori",
+        "original_name": "Keiji Mori",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "5c19ae3192514129f0d83773",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1619182,
+        "known_for_department": "Sound",
+        "name": "Ichirō Katō",
+        "original_name": "Ichirô Katô",
+        "popularity": 0.2258,
+        "profile_path": null,
+        "credit_id": "5c19ae1b0e0a26618ee63437",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268042,
+        "known_for_department": "Art",
+        "name": "Tōtetsu Hirakawa",
+        "original_name": "平川透徹",
+        "popularity": 0.8973,
+        "profile_path": null,
+        "credit_id": "5c19ae010e0a26618ee63429",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591535,
+        "known_for_department": "Art",
+        "name": "Masao Yamazaki",
+        "original_name": "Masao Yamazaki",
+        "popularity": 0.5399,
+        "profile_path": null,
+        "credit_id": "5c19ae0ec3a3681885239b09",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081838,
+        "known_for_department": "Directing",
+        "name": "Isao Fujisawa",
+        "original_name": "Isao Fujisawa",
+        "popularity": 0.8506,
+        "profile_path": null,
+        "credit_id": "678d83dce4566399a26e0f37",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 16672,
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 332,
+        "name": "insect"
+      },
+      {
+        "id": 5789,
+        "name": "sand"
+      },
+      {
+        "id": 11130,
+        "name": "art house"
+      },
+      {
+        "id": 10489,
+        "name": "water shortage"
+      },
+      {
+        "id": 12565,
+        "name": "psychological thriller"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 15365,
+        "name": "held captive"
+      },
+      {
+        "id": 17973,
+        "name": "skin"
+      },
+      {
+        "id": 18029,
+        "name": "trapped"
+      },
+      {
+        "id": 156091,
+        "name": "missing person"
+      },
+      {
+        "id": 159595,
+        "name": "sexual torture"
+      },
+      {
+        "id": 178080,
+        "name": "sand dune"
+      },
+      {
+        "id": 192119,
+        "name": "erotic photography"
+      },
+      {
+        "id": 196584,
+        "name": "water pump"
+      },
+      {
+        "id": 209998,
+        "name": "japanese new wave"
+      },
+      {
+        "id": 211636,
+        "name": "slave labor"
+      },
+      {
+        "id": 214613,
+        "name": "entomologist"
+      },
+      {
+        "id": 222268,
+        "name": "escape attempt"
+      },
+      {
+        "id": 225471,
+        "name": "sand pit"
+      },
+      {
+        "id": 270615,
+        "name": "forced labor"
+      },
+      {
+        "id": 292558,
+        "name": "texture"
+      },
+      {
+        "id": 308818,
+        "name": "avant garde"
+      },
+      {
+        "id": 313483,
+        "name": "disappeared"
+      },
+      {
+        "id": 329352,
+        "name": "barbaric behavior"
+      },
+      {
+        "id": 364682,
+        "name": "areia"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/f8Vy839NPniWZfkBjuG2tcG9rD4.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 479198,
+        "original_language": "en",
+        "original_title": "Tango One",
+        "overview": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+        "popularity": 3.4743,
+        "poster_path": "/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg",
+        "release_date": "2018-03-02",
+        "title": "Tango One",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9lOtDZY6oy6qUlYH78fJ27RMkLP.jpg",
+        "genre_ids": [
+          80,
+          53,
+          9648,
+          18
+        ],
+        "id": 479226,
+        "original_language": "da",
+        "original_title": "Journal 64",
+        "overview": "Copenhagen, 2018. A frightening discovery is made in an old apartment. The subsequent investigation of Department Q leads them to an infamous institution for girls that was suddenly closed in the early sixties.",
+        "popularity": 2.2563,
+        "poster_path": "/uTdaeGpznkLfyhAzLlrdssD621R.jpg",
+        "release_date": "2018-10-04",
+        "title": "The Purity of Vengeance",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 534
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mIu95QezXe20KYKI1u7DjzisAUj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 479259,
+        "original_language": "en",
+        "original_title": "Lost Girls & Love Hotels",
+        "overview": "Searching for escape in Tokyo's back alleys, a haunted English teacher explores love and lust with a dashing Yakuza, as their tumultuous affair takes her on a journey through the city's dive bars and three-hour love hotels.",
+        "popularity": 2.4572,
+        "poster_path": "/vQgXwuJrlpzGDI8169tRQRy71Nv.jpg",
+        "release_date": "2020-09-18",
+        "title": "Lost Girls & Love Hotels",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/woMqcz0ZDL9HuPQIWSZ7BrWWqLR.jpg",
+        "genre_ids": [
+          53,
+          10752,
+          12
+        ],
+        "id": 294992,
+        "original_language": "zh",
+        "original_title": "智取威虎山",
+        "overview": "Yang Zirong disguises himself as a bandit to infiltrate and destroy a bandit group. He joins hands with a hostage, and together, they fight against the warlord, Hawk.",
+        "popularity": 2.4671,
+        "poster_path": "/7seDCoxCBa3O4bUbA4xlKtRfs2U.jpg",
+        "release_date": "2014-12-24",
+        "title": "The Taking of Tiger Mountain",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 204
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qH9wiXnx9mU9kNGCH1exaey9CqU.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "id": 28276,
+        "original_language": "ja",
+        "original_title": "お早よう",
+        "overview": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan.",
+        "popularity": 1.5933,
+        "poster_path": "/dXy2LFsE0VlHlHJU3SLBdJgrzEq.jpg",
+        "release_date": "1959-05-12",
+        "title": "Good Morning",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 303
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yg3Xn8n7NbCnL2OLYMYgRV1inCl.jpg",
+        "genre_ids": [
+          53,
+          18,
+          27
+        ],
+        "id": 28277,
+        "original_language": "en",
+        "original_title": "Der heiße Tod",
+        "overview": "Female prisoners endure the horrors of drug abuse, prostitution and rampant sadism at an island prison. When an escape attempt goes awry, the fugitives discover that escaping can be as dangerous as remaining in the prison.",
+        "popularity": 1.4594,
+        "poster_path": "/ly5TqICjfQxjEQJGmNBoZKlBhRY.jpg",
+        "release_date": "1969-03-05",
+        "title": "99 Women",
+        "video": false,
+        "vote_average": 5.393,
+        "vote_count": 56
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6sH1zc18D67CKE7Lyux2kyww0SC.jpg",
+        "genre_ids": [
+          53,
+          27,
+          80
+        ],
+        "id": 28295,
+        "original_language": "en",
+        "original_title": "I Saw What You Did",
+        "overview": "Teenage friends Kit and Libby make prank phone calls for fun but then find themselves involved in a brutal double murder committed by one of their targets.",
+        "popularity": 1.2507,
+        "poster_path": "/mliHs2Ii393vF0A3i73F6jAysdh.jpg",
+        "release_date": "1965-07-21",
+        "title": "I Saw What You Did",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 28297,
+        "original_language": "en",
+        "original_title": "Brute Force",
+        "overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
+        "popularity": 3.7054,
+        "poster_path": "/lpKW8JG2IEJlz7WIyqLSsPHGnrd.jpg",
+        "release_date": "1947-07-16",
+        "title": "Brute Force",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9cWUpScrsnDxCBjnBoSePGI2XY5.jpg",
+        "genre_ids": [
+          18,
+          53,
+          27
+        ],
+        "id": 28298,
+        "original_language": "fr",
+        "original_title": "Eugénie",
+        "overview": "Eugenie, a beautiful but shy young girl, lives with her stepfather, a famous writer specializing in stories of erotica. One day she happens to read one of his \"erotic\" books and its power so affects her that begins to find herself sexually attracted to her stepfather. He notices this, and eventually brings her into his dark world of sexual perversion and murder.",
+        "popularity": 2.8955,
+        "poster_path": "/dvSaP5XUDb6hthxFwfrO2XGePih.jpg",
+        "release_date": "1973-04-05",
+        "title": "Eugenie de Sade",
+        "video": false,
+        "vote_average": 5.512,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5Jrvcu5D29SBQbnhiaHWC0rqJxJ.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 1261333,
+        "original_language": "xx",
+        "original_title": "Samsara",
+        "overview": "Darta, a man from an impoverished family, is rejected by the wealthy parents of the woman he loves. Desperate, he strikes a bargain with the Monkey King, performing a dark ritual to gain wealth. However, in doing so, he accidentally curses his wife and child to a life of suffering. Rooted in Indonesian mysticism, this universal narrative explores the insatiable hunger to become something one is not and the boundaries one is willing to cross to achieve it.",
+        "popularity": 2.6894,
+        "poster_path": "/d14SB0YZjjPPbmhwPNwkAW1vHQQ.jpg",
+        "release_date": "2024-12-05",
+        "title": "Samsara",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10749,
+          27
+        ],
+        "id": 1261419,
+        "original_language": "es",
+        "original_title": "Medicina Para Fantasmas",
+        "overview": "After the disappearance of all the people at a Halloween party, Olivia will try to find out the whereabouts of her ex-boyfriend, Oliver, to mend her relationship with him. Along the way she will meet Alex, a man dressed as Frankenstein, and a ghost who will stalk her in her most vulnerable moments.",
+        "popularity": 0.1679,
+        "poster_path": "/rMkNhWhmeMpq1jbB8vHeLe9ANX2.jpg",
+        "release_date": "2025-01-15",
+        "title": "Medicina Para Fantasmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t02XOer9nzMTQwUU62iHDWRbTeF.jpg",
+        "genre_ids": [
+          27,
+          18,
+          53
+        ],
+        "id": 26587,
+        "original_language": "en",
+        "original_title": "Dread",
+        "overview": "Three college students set out to document what other people dread the most. However, one of the three turns out to secretly be a sadistic psychopath who uses this knowledge to gruesomely torture the subjects.",
+        "popularity": 4.6765,
+        "poster_path": "/zJvKJ2SKATSRL7cdR2qW2LbaTaS.jpg",
+        "release_date": "2009-07-14",
+        "title": "Dread",
+        "video": false,
+        "vote_average": 5.518,
+        "vote_count": 249
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10770,
+          18,
+          9648,
+          10749
+        ],
+        "id": 26599,
+        "original_language": "en",
+        "original_title": "Duel of Hearts",
+        "overview": "Lady Caroline Faye meets Lord Vane Brecon and is attracted to him. When she finds out that he is being accused of a murder he did not commit, she sets out to prove him innocent",
+        "popularity": 0.2284,
+        "poster_path": "/2IukYhPMEEvy5jEw5FQM0TysHS4.jpg",
+        "release_date": "1992-01-01",
+        "title": "Duel of Hearts",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 26614,
+        "original_language": "fr",
+        "original_title": "La Chienne",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "popularity": 4.3344,
+        "poster_path": "/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
+        "release_date": "1931-11-01",
+        "title": "La Chienne",
+        "video": false,
+        "vote_average": 7.267,
+        "vote_count": 129
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xe43LKesFXjQgP4W1s2juf7Tb4t.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 26638,
+        "original_language": "it",
+        "original_title": "Il deserto rosso",
+        "overview": "In an industrializing Italian town, a married woman, rendered mentally unstable after a traffic accident, drifts into an affair with a friend of her husband.",
+        "popularity": 2.1486,
+        "poster_path": "/rGcTVdyhaGzMxPPRVApXre6F7SD.jpg",
+        "release_date": "1964-09-04",
+        "title": "Red Desert",
+        "video": false,
+        "vote_average": 7.341,
+        "vote_count": 490
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
+        "genre_ids": [
+          9648,
+          14,
+          18
+        ],
+        "id": 26644,
+        "original_language": "en",
+        "original_title": "Photographing Fairies",
+        "overview": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
+        "popularity": 3.0709,
+        "poster_path": "/95rYK0G003rj8WDavXslmTO4pRE.jpg",
+        "release_date": "1997-09-19",
+        "title": "Photographing Fairies",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/34WzsXWrGjVKVD1C9zyB0bs5e6q.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26712,
+        "original_language": "en",
+        "original_title": "The Enforcer",
+        "overview": "After years of investigation, Assistant District Attorney Martin Ferguson has managed to build a solid case against an elusive gangster whose top lieutenant is about to testify.",
+        "popularity": 0.7185,
+        "poster_path": "/k7FAq6mmLfsC6htX6f5zKwbw8LF.jpg",
+        "release_date": "1951-02-24",
+        "title": "The Enforcer",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 106
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jZ9KWu4iSMmK7gZMjkteG3pWHMK.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 27998,
+        "original_language": "en",
+        "original_title": "The Murder Man",
+        "overview": "Steve Grey, reporter for the Daily Star, has a habit of scooping all the other papers in town. When Henry Mander is investigated for the murder of his shady business partner, Grey is one step ahead of the police to the extent that he often dictates his story in advance of its actual occurrence. He leads the police through an 'open and shut' case resulting in Mander being tried, convicted and sentenced to death. Columnist Mary Shannon is in love with Steve but she sees him struggle greatly with his last story before Mander's execution. When she starts typing out the story from his recorded dictation, she realizes why.",
+        "popularity": 0.3173,
+        "poster_path": "/jjoBHLSJsNml7mcl5lGr1CvYFjs.jpg",
+        "release_date": "1935-07-12",
+        "title": "The Murder Man",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          35,
+          18
+        ],
+        "id": 674756,
+        "original_language": "en",
+        "original_title": "Jeff Drives You",
+        "overview": "A lonely gay man falls in love with an artificially intelligent car over the course of a road trip.",
+        "popularity": 0.1318,
+        "poster_path": "/skiML67SJkEPzl1mxjc7jr70zpr.jpg",
+        "release_date": "2021-06-18",
+        "title": "Jeff Drives You",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fGntQlOFZxPptDmmZsc9bENf5ZT.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 28307,
+        "original_language": "en",
+        "original_title": "Hammett",
+        "overview": "Chinatown, San Francisco, 1928. Former private detective Dashiell Hammett, a compulsive drinker with tuberculosis who writes pulp fiction for a living, receives an unexpected visit from an old friend asking for help.",
+        "popularity": 3.9804,
+        "poster_path": "/ssaXsTAhAYklEmhhjsMZfeyPCuD.jpg",
+        "release_date": "1982-06-09",
+        "title": "Hammett",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 72
+      }
+    ],
+    "total_pages": 16048,
+    "total_results": 320952
+  }
+}

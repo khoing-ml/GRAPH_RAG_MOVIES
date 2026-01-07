@@ -1,0 +1,1320 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/AezAkLbfBM6IvsJQYzUuPleg8QS.jpg",
+    "belongs_to_collection": null,
+    "budget": 1800000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "",
+    "id": 935,
+    "imdb_id": "tt0057012",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+    "popularity": 6.9313,
+    "poster_path": "/4UQJ60D2NRD9OPrTdjBHfpLl3c4.jpg",
+    "production_companies": [
+      {
+        "id": 88,
+        "logo_path": null,
+        "name": "Hawk Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1964-01-29",
+    "revenue": 9500000,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The hot-line suspense comedy.",
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 5979
+  },
+  "credits": {
+    "id": 935,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12446,
+        "known_for_department": "Acting",
+        "name": "Peter Sellers",
+        "original_name": "Peter Sellers",
+        "popularity": 2.041,
+        "profile_path": "/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg",
+        "cast_id": 13,
+        "character": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
+        "credit_id": "52fe4290c3a36847f80287ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 862,
+        "known_for_department": "Acting",
+        "name": "George C. Scott",
+        "original_name": "George C. Scott",
+        "popularity": 2.0802,
+        "profile_path": "/bYIY4S6yfbBsngerOicQbzPgmFr.jpg",
+        "cast_id": 14,
+        "character": "General \"Buck\" Turgidson",
+        "credit_id": "52fe4290c3a36847f80287b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3088,
+        "known_for_department": "Acting",
+        "name": "Sterling Hayden",
+        "original_name": "Sterling Hayden",
+        "popularity": 1.4262,
+        "profile_path": "/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg",
+        "cast_id": 15,
+        "character": "Brigadier General Jack D. Ripper",
+        "credit_id": "52fe4290c3a36847f80287b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4966,
+        "known_for_department": "Acting",
+        "name": "Keenan Wynn",
+        "original_name": "Keenan Wynn",
+        "popularity": 1.4767,
+        "profile_path": "/bO88300vMddcIXuRZvMm5QLXdr.jpg",
+        "cast_id": 17,
+        "character": "Colonel Bat Guano",
+        "credit_id": "52fe4290c3a36847f80287bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14253,
+        "known_for_department": "Acting",
+        "name": "Slim Pickens",
+        "original_name": "Slim Pickens",
+        "popularity": 1.2395,
+        "profile_path": "/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg",
+        "cast_id": 16,
+        "character": "Major \"King\" Kong",
+        "credit_id": "52fe4290c3a36847f80287b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6600,
+        "known_for_department": "Acting",
+        "name": "Peter Bull",
+        "original_name": "Peter Bull",
+        "popularity": 0.7159,
+        "profile_path": "/187FadUt4kYNbrRfWp1sHynmGWW.jpg",
+        "cast_id": 18,
+        "character": "Botschafter De Sadesky",
+        "credit_id": "52fe4290c3a36847f80287c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15152,
+        "known_for_department": "Acting",
+        "name": "James Earl Jones",
+        "original_name": "James Earl Jones",
+        "popularity": 2.1685,
+        "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+        "cast_id": 23,
+        "character": "Lt. Lothar Zogg",
+        "credit_id": "52fe4290c3a36847f80287d3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126354,
+        "known_for_department": "Acting",
+        "name": "Tracy Reed",
+        "original_name": "Tracy Reed",
+        "popularity": 1.9037,
+        "profile_path": "/ts9KswPwZfhJQFdp4WBhzPfVJOQ.jpg",
+        "cast_id": 21,
+        "character": "Miss Scott",
+        "credit_id": "52fe4290c3a36847f80287c9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12485,
+        "known_for_department": "Acting",
+        "name": "Jack Creley",
+        "original_name": "Jack Creley",
+        "popularity": 1.8015,
+        "profile_path": "/269fKAcaZaTJtOXOrKv84LDBVAI.jpg",
+        "cast_id": 20,
+        "character": "Mr. Staines",
+        "credit_id": "52fe4290c3a36847f80287c5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332529,
+        "known_for_department": "Acting",
+        "name": "Frank Berry",
+        "original_name": "Frank Berry",
+        "popularity": 0.1156,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Lt. Dietrich",
+        "credit_id": "53a570800e0a26143c0010fc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1236452,
+        "known_for_department": "Acting",
+        "name": "Robert O'Neil",
+        "original_name": "Robert O'Neil",
+        "popularity": 0.2062,
+        "profile_path": "/fnDJp50Y1Wd1XareVU5QlgAVsDj.jpg",
+        "cast_id": 25,
+        "character": "Adm. Randolph",
+        "credit_id": "53a570ae0e0a2614450010ce",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 948173,
+        "known_for_department": "Acting",
+        "name": "Glenn Beck",
+        "original_name": "Glenn Beck",
+        "popularity": 1.0,
+        "profile_path": "/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg",
+        "cast_id": 36,
+        "character": "Lt. Kivel",
+        "credit_id": "53e0a47a0e0a265a860068bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332531,
+        "known_for_department": "Acting",
+        "name": "Roy Stephens",
+        "original_name": "Roy Stephens",
+        "popularity": 0.1756,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Frank",
+        "credit_id": "53a571170e0a26143c00110b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10657,
+        "known_for_department": "Acting",
+        "name": "Shane Rimmer",
+        "original_name": "Shane Rimmer",
+        "popularity": 0.9126,
+        "profile_path": "/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg",
+        "cast_id": 28,
+        "character": "Capt. 'Ace' Owens",
+        "credit_id": "53a571330e0a2614420011a7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 186212,
+        "known_for_department": "Acting",
+        "name": "Hal Galili",
+        "original_name": "Hal Galili",
+        "popularity": 0.5193,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Burpelson AFB Defense Team Member",
+        "credit_id": "53a571490e0a2614320010de",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 185044,
+        "known_for_department": "Acting",
+        "name": "Paul Tamarin",
+        "original_name": "Paul Tamarin",
+        "popularity": 0.1434,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Lt. Goldberg",
+        "credit_id": "53a5715b0e0a2614390010db",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332532,
+        "known_for_department": "Acting",
+        "name": "Laurence Herder",
+        "original_name": "Laurence Herder",
+        "popularity": 0.6705,
+        "profile_path": "/yGMUCHjjCSC90WwAZU3UiuXkJ6y.jpg",
+        "cast_id": 31,
+        "character": "Burpelson AFB Defense Team Member",
+        "credit_id": "53a571750e0a26143600107f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063405,
+        "known_for_department": "Acting",
+        "name": "John McCarthy",
+        "original_name": "John McCarthy",
+        "popularity": 2.3423,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Burpelson AFB Defense Team Member",
+        "credit_id": "5685cec59251417e1500492b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117301,
+        "known_for_department": "Acting",
+        "name": "Gordon Tanner",
+        "original_name": "Gordon Tanner",
+        "popularity": 1.3918,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Gen. Faceman",
+        "credit_id": "53e0a40e0e0a265a83006a66",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184980,
+        "known_for_department": "Acting",
+        "name": "Burnell Tucker",
+        "original_name": "Burnell Tucker",
+        "popularity": 0.9995,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Mandrake' aide (uncredited)",
+        "credit_id": "53a572130e0a261436001097",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556340,
+        "known_for_department": "Acting",
+        "name": "Victor Harrington",
+        "original_name": "Victor Harrington",
+        "popularity": 0.4506,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "War Room Aide (uncredited)",
+        "credit_id": "5685ce589251412e5201b809",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2574550,
+        "known_for_department": "Acting",
+        "name": "Peter Evans",
+        "original_name": "Peter Evans",
+        "popularity": 0.1712,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "War Room Aide (uncredited)",
+        "credit_id": "68d2a5d4eef2f2daa0cd827b",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4290c3a36847f8028773",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7753,
+        "known_for_department": "Camera",
+        "name": "Gilbert Taylor",
+        "original_name": "Gilbert Taylor",
+        "popularity": 1.3665,
+        "profile_path": "/6UTOEFYo95wF35X0i86HNLDl40a.jpg",
+        "credit_id": "52fe4290c3a36847f802879d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4290c3a36847f8028785",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14252,
+        "known_for_department": "Sound",
+        "name": "Laurie Johnson",
+        "original_name": "Laurie Johnson",
+        "popularity": 0.4989,
+        "profile_path": null,
+        "credit_id": "52fe4290c3a36847f8028797",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12009,
+        "known_for_department": "Directing",
+        "name": "Anthony Harvey",
+        "original_name": "Anthony Harvey",
+        "popularity": 0.3889,
+        "profile_path": "/6J1er4JMI4byhHGE7LRVsmDYrvM.jpg",
+        "credit_id": "52fe4290c3a36847f80287a3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8950,
+        "known_for_department": "Writing",
+        "name": "Terry Southern",
+        "original_name": "Terry Southern",
+        "popularity": 0.5209,
+        "profile_path": "/zvaYee6lkHqjLE47IHPZfUWijSS.jpg",
+        "credit_id": "52fe4290c3a36847f8028779",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14250,
+        "known_for_department": "Writing",
+        "name": "Peter George",
+        "original_name": "Peter George",
+        "popularity": 0.3977,
+        "profile_path": "/2BXNZWnxTux7cC4wdfLUwFbGY4i.jpg",
+        "credit_id": "52fe4290c3a36847f80287cf",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14251,
+        "known_for_department": "Production",
+        "name": "Leon Minoff",
+        "original_name": "Leon Minoff",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "52fe4290c3a36847f8028791",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 257,
+        "known_for_department": "Production",
+        "name": "Victor Lyndon",
+        "original_name": "Victor Lyndon",
+        "popularity": 0.9953,
+        "profile_path": null,
+        "credit_id": "52fe4290c3a36847f802878b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9869,
+        "known_for_department": "Art",
+        "name": "Ken Adam",
+        "original_name": "Ken Adam",
+        "popularity": 0.6011,
+        "profile_path": "/eRUuXpalQGuY3KAXPrn54c390dX.jpg",
+        "credit_id": "52fe4290c3a36847f80287a9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14250,
+        "known_for_department": "Writing",
+        "name": "Peter George",
+        "original_name": "Peter George",
+        "popularity": 0.3977,
+        "profile_path": "/2BXNZWnxTux7cC4wdfLUwFbGY4i.jpg",
+        "credit_id": "52fe4290c3a36847f802877f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 3.1926,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4290c3a36847f802876d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378368,
+        "known_for_department": "Art",
+        "name": "Pablo Ferro",
+        "original_name": "Pablo Ferro",
+        "popularity": 2.7412,
+        "profile_path": "/dkXthjgSvx24L5tVEsGI1U2CRJM.jpg",
+        "credit_id": "657462b0cadb6b08112752ca",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 244,
+        "known_for_department": "Editing",
+        "name": "Ray Lovejoy",
+        "original_name": "Ray Lovejoy",
+        "popularity": 0.7341,
+        "profile_path": null,
+        "credit_id": "5686bfa8c3a368607501f456",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556557,
+        "known_for_department": "Camera",
+        "name": "Kelvin Pike",
+        "original_name": "Kelvin Pike",
+        "popularity": 0.4095,
+        "profile_path": null,
+        "credit_id": "5686bf10c3a368607501f43c",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378839,
+        "known_for_department": "Camera",
+        "name": "Bob Penn",
+        "original_name": "Bob Penn",
+        "popularity": 0.3384,
+        "profile_path": null,
+        "credit_id": "5686bf54c3a36860e901fe7a",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1206210,
+        "known_for_department": "Crew",
+        "name": "Alan Bryce",
+        "original_name": "Alan Bryce",
+        "popularity": 0.3094,
+        "profile_path": null,
+        "credit_id": "5686bd84c3a368227b015506",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 958468,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Ritchie",
+        "original_name": "Barbara Ritchie",
+        "popularity": 0.4549,
+        "profile_path": null,
+        "credit_id": "5686bac09251414ecb0113c3",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9918,
+        "known_for_department": "Art",
+        "name": "Peter Murton",
+        "original_name": "Peter Murton",
+        "popularity": 0.5253,
+        "profile_path": null,
+        "credit_id": "5686ba6192514132db01df85",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556555,
+        "known_for_department": "Production",
+        "name": "Clifton Brandon",
+        "original_name": "Clifton Brandon",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "5686bb08c3a3684bcc021824",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13494,
+        "known_for_department": "Crew",
+        "name": "Wally Veevers",
+        "original_name": "Wally Veevers",
+        "popularity": 1.7297,
+        "profile_path": null,
+        "credit_id": "5686bd3a92514131df01d0eb",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11837,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stuart Freeborn",
+        "original_name": "Stuart Freeborn",
+        "popularity": 0.9569,
+        "profile_path": null,
+        "credit_id": "5686ba8c92514132db01df8c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1532767,
+        "known_for_department": "Crew",
+        "name": "Garth Inns",
+        "original_name": "Garth Inns",
+        "popularity": 0.4112,
+        "profile_path": null,
+        "credit_id": "5686be5d9251417e150077ce",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1201088,
+        "known_for_department": "Directing",
+        "name": "Arthur 'Weegee' Fellig",
+        "original_name": "Arthur 'Weegee' Fellig",
+        "popularity": 1.1294,
+        "profile_path": null,
+        "credit_id": "5686bddf92514169d000b583",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556556,
+        "known_for_department": "Sound",
+        "name": "John Aldred",
+        "original_name": "John Aldred",
+        "popularity": 0.6535,
+        "profile_path": null,
+        "credit_id": "5686bb9cc3a368227b01548e",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12246,
+        "known_for_department": "Sound",
+        "name": "John Cox",
+        "original_name": "John Cox",
+        "popularity": 0.7156,
+        "profile_path": null,
+        "credit_id": "5686bca59251417e6300794c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12681,
+        "known_for_department": "Production",
+        "name": "Eric Rattray",
+        "original_name": "Eric Rattray",
+        "popularity": 0.3658,
+        "profile_path": null,
+        "credit_id": "5686bb5392514132db01dfbd",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1189045,
+        "known_for_department": "Sound",
+        "name": "Leslie Hodgson",
+        "original_name": "Leslie Hodgson",
+        "popularity": 0.6596,
+        "profile_path": null,
+        "credit_id": "5686bd08c3a3684bcc021874",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2202099,
+        "known_for_department": "Camera",
+        "name": "Michael Walter",
+        "original_name": "Michael Walter",
+        "popularity": 0.2009,
+        "profile_path": null,
+        "credit_id": "5c2644ddc3a368730ac31f68",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2237962,
+        "known_for_department": "Camera",
+        "name": "Jim Body",
+        "original_name": "Jim Body",
+        "popularity": 0.2261,
+        "profile_path": null,
+        "credit_id": "5c9a1ff29251417760f614aa",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1697244,
+        "known_for_department": "Acting",
+        "name": "Alan Stuart",
+        "original_name": "Alan Stuart",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "5dc722527d2bc1001143b3ca",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1535412,
+        "known_for_department": "Directing",
+        "name": "Pamela Carlton",
+        "original_name": "Pamela Carlton",
+        "popularity": 0.2792,
+        "profile_path": null,
+        "credit_id": "5dc722e26c0e4f00133892e6",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 89541,
+        "known_for_department": "Sound",
+        "name": "Richard Bird",
+        "original_name": "Richard Bird",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "5ff349337aecc6003ffe71cc",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 935,
+    "keywords": [
+      {
+        "id": 840,
+        "name": "usa president"
+      },
+      {
+        "id": 1402,
+        "name": "general"
+      },
+      {
+        "id": 2106,
+        "name": "cold war"
+      },
+      {
+        "id": 2531,
+        "name": "strategic air command"
+      },
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 3312,
+        "name": "nuclear missile"
+      },
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 33424,
+        "name": "cynical"
+      },
+      {
+        "id": 160370,
+        "name": "war room"
+      },
+      {
+        "id": 160377,
+        "name": "bomber pilot"
+      },
+      {
+        "id": 160381,
+        "name": "nuclear weapons"
+      },
+      {
+        "id": 160387,
+        "name": "ex-nazi"
+      },
+      {
+        "id": 165431,
+        "name": "anti war"
+      },
+      {
+        "id": 194825,
+        "name": "doomsday device"
+      },
+      {
+        "id": 214655,
+        "name": "absurdism"
+      },
+      {
+        "id": 225012,
+        "name": "satirical"
+      },
+      {
+        "id": 259376,
+        "name": "playful"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      },
+      {
+        "id": 315053,
+        "name": "critical"
+      },
+      {
+        "id": 320420,
+        "name": "hilarious"
+      },
+      {
+        "id": 325773,
+        "name": "audacious"
+      },
+      {
+        "id": 325815,
+        "name": "farcical"
+      },
+      {
+        "id": 325846,
+        "name": "sardonic"
+      },
+      {
+        "id": 360808,
+        "name": "quirky comedy"
+      },
+      {
+        "id": 364573,
+        "name": "everyone dies"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 165,
+        "original_language": "en",
+        "original_title": "Back to the Future Part II",
+        "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+        "popularity": 10.9703,
+        "poster_path": "/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+        "release_date": "1989-11-22",
+        "title": "Back to the Future Part II",
+        "video": false,
+        "vote_average": 7.773,
+        "vote_count": 13570
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10749,
+          53,
+          10752
+        ],
+        "id": 182,
+        "original_language": "en",
+        "original_title": "The Good German",
+        "overview": "An American journalist arrives in Berlin just after the end of World War Two. He becomes involved in a murder mystery surrounding a dead GI who washes up at a lakeside mansion during the Potsdam negotiations between the Allied powers. Soon his investigation connects with his search for his married pre-war German lover.",
+        "popularity": 0.998,
+        "poster_path": "/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+        "release_date": "2006-12-15",
+        "title": "The Good German",
+        "video": false,
+        "vote_average": 5.809,
+        "vote_count": 335
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10749
+        ],
+        "id": 195,
+        "original_language": "en",
+        "original_title": "Trouble in Paradise",
+        "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
+        "popularity": 0.8175,
+        "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+        "release_date": "1932-10-30",
+        "title": "Trouble in Paradise",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 299
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 196,
+        "original_language": "en",
+        "original_title": "Back to the Future Part III",
+        "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+        "popularity": 11.6582,
+        "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "release_date": "1990-05-25",
+        "title": "Back to the Future Part III",
+        "video": false,
+        "vote_average": 7.489,
+        "vote_count": 11219
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+        "genre_ids": [
+          35,
+          10752,
+          10749
+        ],
+        "id": 198,
+        "original_language": "en",
+        "original_title": "To Be or Not to Be",
+        "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "popularity": 1.4998,
+        "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+        "release_date": "1942-03-06",
+        "title": "To Be or Not to Be",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 795
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h0jlcOISKcrVG4IE4p5IyZGrMhn.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 212,
+        "original_language": "en",
+        "original_title": "Arsenic and Old Lace",
+        "overview": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+        "popularity": 2.0675,
+        "poster_path": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+        "release_date": "1944-09-01",
+        "title": "Arsenic and Old Lace",
+        "video": false,
+        "vote_average": 7.637,
+        "vote_count": 1002
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          80
+        ],
+        "id": 239,
+        "original_language": "en",
+        "original_title": "Some Like It Hot",
+        "overview": "Two musicians witness a mob hit and need to quickly find a way out of Chicago. Their only opportunity comes in the form of joining an all-girl band as they prepare to leave on a tour. The two disguise themselves as women and struggle to keep their identities secret as the gangsters close in.",
+        "popularity": 9.0686,
+        "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+        "release_date": "1959-03-19",
+        "title": "Some Like It Hot",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 3746
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bZt4CwuaZWadSh9OEcNQCZbPFR1.jpg",
+        "genre_ids": [
+          28,
+          35,
+          80
+        ],
+        "id": 250,
+        "original_language": "da",
+        "original_title": "I Kina spiser de hunde",
+        "overview": "Arvid is an ordinary bank clerk who lives a rather unassuming life with his dear girlfriend. But his life is turned completely upside down when he bravely manages to avert a robbery against the bank where he works.",
+        "popularity": 2.257,
+        "poster_path": "/v78NxEyzsElWnwSvGWpvf2DCzP9.jpg",
+        "release_date": "1999-09-10",
+        "title": "In China They Eat Dogs",
+        "video": false,
+        "vote_average": 7.339,
+        "vote_count": 282
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35
+        ],
+        "id": 252,
+        "original_language": "en",
+        "original_title": "Willy Wonka & the Chocolate Factory",
+        "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+        "popularity": 11.4746,
+        "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+        "release_date": "1971-06-29",
+        "title": "Willy Wonka & the Chocolate Factory",
+        "video": false,
+        "vote_average": 7.483,
+        "vote_count": 3829
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bQ8fRUaitJvi54O2lUT6Ta7FVHK.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 25,
+        "original_language": "en",
+        "original_title": "Jarhead",
+        "overview": "Jarhead is a film about a US Marine Anthony Swofford’s experience in the Gulf War. After putting up with an arduous boot camp, Swofford and his unit are sent to the Persian Gulf where they are eager to fight, but are forced to stay back from the action. Swofford struggles with the possibility of his girlfriend cheating on him, and as his mental state deteriorates, his desire to kill increases.",
+        "popularity": 5.4591,
+        "poster_path": "/6vdj47RAWOUZBkeQmqToeZ7eaio.jpg",
+        "release_date": "2005-11-04",
+        "title": "Jarhead",
+        "video": false,
+        "vote_average": 6.672,
+        "vote_count": 3084
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 28,
+        "original_language": "en",
+        "original_title": "Apocalypse Now",
+        "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+        "popularity": 10.1249,
+        "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "release_date": "1979-05-19",
+        "title": "Apocalypse Now",
+        "video": false,
+        "vote_average": 8.268,
+        "vote_count": 8791
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ndSEkXyotVM0XfoBV1SSRg4AXgB.jpg",
+        "genre_ids": [
+          35,
+          878
+        ],
+        "id": 68,
+        "original_language": "en",
+        "original_title": "Brazil",
+        "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+        "popularity": 7.7987,
+        "poster_path": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+        "release_date": "1985-02-20",
+        "title": "Brazil",
+        "video": false,
+        "vote_average": 7.669,
+        "vote_count": 3562
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+        "genre_ids": [
+          35,
+          80,
+          28
+        ],
+        "id": 90,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop",
+        "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+        "popularity": 5.1249,
+        "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+        "release_date": "1984-12-05",
+        "title": "Beverly Hills Cop",
+        "video": false,
+        "vote_average": 7.198,
+        "vote_count": 4445
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 99,
+        "original_language": "es",
+        "original_title": "Todo sobre mi madre",
+        "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+        "popularity": 2.3785,
+        "poster_path": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+        "release_date": "1999-04-16",
+        "title": "All About My Mother",
+        "video": false,
+        "vote_average": 7.63,
+        "vote_count": 2001
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 100,
+        "original_language": "en",
+        "original_title": "Lock, Stock and Two Smoking Barrels",
+        "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+        "popularity": 4.3654,
+        "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+        "release_date": "1998-08-28",
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "video": false,
+        "vote_average": 8.103,
+        "vote_count": 6979
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTghF8ardwJ48XLHkiapWk3ZmSo.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 107,
+        "original_language": "en",
+        "original_title": "Snatch",
+        "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+        "popularity": 13.5315,
+        "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+        "release_date": "2000-09-01",
+        "title": "Snatch",
+        "video": false,
+        "vote_average": 7.817,
+        "vote_count": 9654
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 115,
+        "original_language": "en",
+        "original_title": "The Big Lebowski",
+        "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+        "popularity": 9.692,
+        "poster_path": "/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+        "release_date": "1998-03-06",
+        "title": "The Big Lebowski",
+        "video": false,
+        "vote_average": 7.84,
+        "vote_count": 11847
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 143,
+        "original_language": "en",
+        "original_title": "All Quiet on the Western Front",
+        "overview": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+        "popularity": 2.6636,
+        "poster_path": "/1wZUB08igw8iLUgF1r4T6aJD65b.jpg",
+        "release_date": "1930-04-29",
+        "title": "All Quiet on the Western Front",
+        "video": false,
+        "vote_average": 7.745,
+        "vote_count": 895
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xQTSGz5dvIAYFssPWhD160AcR7Z.jpg",
+        "genre_ids": [
+          80,
+          28,
+          35
+        ],
+        "id": 150,
+        "original_language": "en",
+        "original_title": "48 Hrs.",
+        "overview": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him, in order to track down a killer.",
+        "popularity": 3.3506,
+        "poster_path": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+        "release_date": "1982-12-07",
+        "title": "48 Hrs.",
+        "video": false,
+        "vote_average": 6.68,
+        "vote_count": 1630
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 456503,
+        "original_language": "ja",
+        "original_title": "Octopus",
+        "overview": "Squid have 10 legs. Octopuses have 8 legs. Added together, that’s 18 legs.",
+        "popularity": 0.2041,
+        "poster_path": "/at5y1Vmhsh5MF15SEL5NmCzQmm.jpg",
+        "release_date": "2015-10-01",
+        "title": "Octopus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 9202,
+    "total_results": 184023
+  }
+}

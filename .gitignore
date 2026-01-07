@@ -1,3 +1,7 @@
 neo4j_data/
 qdrant_data/
 docker-compose.yml
+.env
+results/
+tests/
+secret/

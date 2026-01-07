@@ -1,0 +1,1131 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/hU1Q9YVzdYhokr8a9gLywnSUMlN.jpg",
+    "belongs_to_collection": {
+      "id": 822306,
+      "name": "Miraculous World",
+      "poster_path": "/jaQiXB7ZCiW8zUCnuZ7sf73yX4Z.jpg",
+      "backdrop_path": "/fL266xNoCgTa4rGHzfRdLHpQnJ1.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      }
+    ],
+    "homepage": "",
+    "id": 1147400,
+    "imdb_id": "tt29259099",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",
+    "overview": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Betterfly, is a superhero. Ladybug and Cat Noir will have to help Betterfly counter the attacks of their evil doubles and prevent them from seizing the Butterfly Miraculous. Can our heroes also help Betterfly make Shadybug and Claw Noir better people?",
+    "popularity": 13.1736,
+    "poster_path": "/nydROKumZe9oFZNiSn792MDDA1v.jpg",
+    "production_companies": [
+      {
+        "id": 79650,
+        "logo_path": "/bUAfLFkb0xhmY5UsO7cWvo8Pt6A.png",
+        "name": "ZAG Entertainment",
+        "origin_country": "FR"
+      },
+      {
+        "id": 79175,
+        "logo_path": "/e3uLvwItKgTfzfwansI0ZjtN45N.png",
+        "name": "SAMG Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 35136,
+        "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png",
+        "name": "Method Animation",
+        "origin_country": "FR"
+      },
+      {
+        "id": 103374,
+        "logo_path": "/ApbzfacgrUSGF3r4MUfbnjeso9L.png",
+        "name": "The Walt Disney Company EMEA",
+        "origin_country": "GB"
+      },
+      {
+        "id": 20498,
+        "logo_path": "/f1IuC7TbBHlNHybw2TZn5R1p4sx.png",
+        "name": "Télé-Québec",
+        "origin_country": "CA"
+      },
+      {
+        "id": 22123,
+        "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+        "name": "TF1",
+        "origin_country": "FR"
+      },
+      {
+        "id": 118295,
+        "logo_path": "/gQyZpZtbd0wV1lFI84G6Sa2th7T.png",
+        "name": "Gloob",
+        "origin_country": "BR"
+      },
+      {
+        "id": 200505,
+        "logo_path": null,
+        "name": "Norman Studio",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2023-10-21",
+    "revenue": 0,
+    "runtime": 46,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It only takes one decision to become a hero.",
+    "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 619
+  },
+  "credits": {
+    "id": 1147400,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758915,
+        "known_for_department": "Acting",
+        "name": "Antoine Tomé",
+        "original_name": "Antoine Tomé",
+        "popularity": 0.4453,
+        "profile_path": "/2rxz83TmtO2rHJuabTMkbIFCtqx.jpg",
+        "cast_id": 7,
+        "character": "Hesperia / Monarque (voice)",
+        "credit_id": "64a2cb1ed400f3010c36248b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762588,
+        "known_for_department": "Acting",
+        "name": "Anouck Hautbois",
+        "original_name": "Anouck Hautbois",
+        "popularity": 1.005,
+        "profile_path": "/yHBoYywjBecWuzI9ir2LKBzliRP.jpg",
+        "cast_id": 2,
+        "character": "Ladybug / Toxinelle (voice)",
+        "credit_id": "64a2ca1a11386c011c3a943d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558832,
+        "known_for_department": "Acting",
+        "name": "Benjamin Bollen",
+        "original_name": "Benjamin Bollen",
+        "popularity": 1.0808,
+        "profile_path": "/v39WarohjEdNCexiM5wF6CCMwG1.jpg",
+        "cast_id": 3,
+        "character": "Chat Noir / Griffe Noire (voice)",
+        "credit_id": "64a2ca31e8d02800c5468280",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762590,
+        "known_for_department": "Acting",
+        "name": "Fanny Bloc",
+        "original_name": "Fanny Bloc",
+        "popularity": 0.803,
+        "profile_path": "/uEKWnfCrFPx18OBkVZgFvtHwjqN.jpg",
+        "cast_id": 28,
+        "character": "Alya (voice)",
+        "credit_id": "6866c62c07bfb75a598237c6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373143,
+        "known_for_department": "Acting",
+        "name": "Marie Nonnenmacher",
+        "original_name": "Marie Nonnenmacher",
+        "popularity": 0.7358,
+        "profile_path": "/b0F4vbkVIWEk849tWKL04WcLJ6S.jpg",
+        "cast_id": 29,
+        "character": "Tikki (voice)",
+        "credit_id": "6866c64d3f07e8a8661f977e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762589,
+        "known_for_department": "Acting",
+        "name": "Thierry Kazazian",
+        "original_name": "Thierry Kazazian",
+        "popularity": 0.4615,
+        "profile_path": "/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg",
+        "cast_id": 30,
+        "character": "Plagg / Alec (voice)",
+        "credit_id": "6866c68e165428939c241b5c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364266,
+        "known_for_department": "Acting",
+        "name": "Martial Le Minoux",
+        "original_name": "Martial Le Minoux",
+        "popularity": 1.8112,
+        "profile_path": "/fwVHuPoEv8j4VjBTibizOAAIga1.jpg",
+        "cast_id": 31,
+        "character": "Tom / Maxkov / Supreme (voice)",
+        "credit_id": "6866c6e9c43dd11e72823828",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2889967,
+        "known_for_department": "Acting",
+        "name": "Jessie Lambotte",
+        "original_name": "Jessie Lambotte",
+        "popularity": 0.3371,
+        "profile_path": "/bAlnNJNeWaj75Kb3FeeyKvBHtpk.jpg",
+        "cast_id": 32,
+        "character": "Sabine / Nadja / Barkk (voice)",
+        "credit_id": "6866c736ec18dcd8a575c2fd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762592,
+        "known_for_department": "Acting",
+        "name": "Alexandre Nguyen",
+        "original_name": "Alexandre Nguyen",
+        "popularity": 0.6319,
+        "profile_path": "/2MWLitWeA7MdS7pC9dHSs0s4chN.jpg",
+        "cast_id": 51,
+        "character": "Nino (voice)",
+        "credit_id": "690dd707deace3fca7ce7bd0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762591,
+        "known_for_department": "Acting",
+        "name": "Marie Chevalot",
+        "original_name": "Marie Chevalot",
+        "popularity": 1.1955,
+        "profile_path": "/tHvk1jTWad3kb27c2v0zN0T2eFz.jpg",
+        "cast_id": 38,
+        "character": "Nathalie (voice)",
+        "credit_id": "6866eacedcc0c3c6145cf859",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1138041,
+        "known_for_department": "Acting",
+        "name": "Gilbert Lévy",
+        "original_name": "Gilbert Lévy",
+        "popularity": 2.1927,
+        "profile_path": "/6sOxpBftOTMbviK3spaumQQW0k2.jpg",
+        "cast_id": 39,
+        "character": "André (voice)",
+        "credit_id": "689757935e10d63104c4b7dd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5535460,
+        "known_for_department": "Acting",
+        "name": "Clara Soares",
+        "original_name": "Clara Soares",
+        "popularity": 0.434,
+        "profile_path": "/nPBty1OeKBVbM5EDWmwPHQpmY9Z.jpg",
+        "cast_id": 60,
+        "character": "Clara (voice)",
+        "credit_id": "6911b7334f04bbcf4edd2270",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309535,
+        "known_for_department": "Acting",
+        "name": "Gauthier Battoue",
+        "original_name": "Gauthier Battoue",
+        "popularity": 0.3224,
+        "profile_path": "/3PooWwDmyJMF5wP8LLajgWs4lwB.jpg",
+        "cast_id": 57,
+        "character": "Mr. Banane (voice)",
+        "credit_id": "6910594c5a3fee914dce852e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4334630,
+        "known_for_department": "Acting",
+        "name": "Laure Filiu",
+        "original_name": "Laure Filiu",
+        "popularity": 0.1879,
+        "profile_path": "/2GbPTEnxVawWr5FX7MfDi1t8k5d.jpg",
+        "cast_id": 37,
+        "character": "Blaqueminette (voice)",
+        "credit_id": "6866ea996e3b70a8db5cf815",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334505,
+        "known_for_department": "Writing",
+        "name": "Manon Desveaux",
+        "original_name": "Manon Desveaux",
+        "popularity": 0.0434,
+        "profile_path": "/vrscQLx7PG54v6pt246aecug5p2.jpg",
+        "credit_id": "6535d67902842000e2f5a7f8",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3339577,
+        "known_for_department": "Art",
+        "name": "Nicolas Hess",
+        "original_name": "Nicolas Hess",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "6535d684c8a5ac0139ab46f4",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2285712,
+        "known_for_department": "Directing",
+        "name": "Wilfried Pain",
+        "original_name": "Wilfried Pain",
+        "popularity": 0.6703,
+        "profile_path": null,
+        "credit_id": "6535d69642d83700eac65aa4",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334508,
+        "known_for_department": "Writing",
+        "name": "Alban Rodriguez",
+        "original_name": "Alban Rodriguez",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6535d6a9abdafc00cac413ce",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334509,
+        "known_for_department": "Writing",
+        "name": "Chloé Sutter",
+        "original_name": "Chloé Sutter",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "6535d6b8028420011cd4050c",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.6,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "6535d6f691f0ea00e1abbdca",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Directing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.6166,
+        "profile_path": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+        "credit_id": "6535d726c8a5ac00c50a7bb3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1484734,
+        "known_for_department": "Writing",
+        "name": "Mélanie Duval",
+        "original_name": "Mélanie Duval",
+        "popularity": 0.483,
+        "profile_path": null,
+        "credit_id": "6535d72fabdafc00cac4143d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762584,
+        "known_for_department": "Production",
+        "name": "Jeremy Zag",
+        "original_name": "Jeremy Zag",
+        "popularity": 1.7545,
+        "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg",
+        "credit_id": "6535d89c91f0ea00c4231ac5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53228,
+        "known_for_department": "Production",
+        "name": "Aton Soumache",
+        "original_name": "Aton Soumache",
+        "popularity": 0.3204,
+        "profile_path": "/kZxddrTBioEmDlkAftOE6f3CPsl.jpg",
+        "credit_id": "6535d8b8abdafc00eb8cb545",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Directing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.6166,
+        "profile_path": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+        "credit_id": "64a2c2138e20c500ec3c8c8c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5542092,
+        "known_for_department": "Writing",
+        "name": "Frédéric/que Engel Lenoir",
+        "original_name": "Frédéric/que Engel Lenoir",
+        "popularity": 0.3799,
+        "profile_path": null,
+        "credit_id": "6866a497c71ffbd1398f1d22",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5743876,
+        "known_for_department": "Visual Effects",
+        "name": "Arthur Blavier",
+        "original_name": "Arthur Blavier",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "68f09474ecec473ad3502f63",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3324720,
+        "known_for_department": "Visual Effects",
+        "name": "Cécile de Gantès",
+        "original_name": "Cécile de Gantès",
+        "popularity": 0.1184,
+        "profile_path": null,
+        "credit_id": "68f0948e184321930550304a",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5743878,
+        "known_for_department": "Visual Effects",
+        "name": "Flavien Vandelli",
+        "original_name": "Flavien Vandelli",
+        "popularity": 0.0983,
+        "profile_path": null,
+        "credit_id": "68f094aa52b4a48e39502f52",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2886797,
+        "known_for_department": "Directing",
+        "name": "Milena Blin",
+        "original_name": "Milena Blin",
+        "popularity": 0.2913,
+        "profile_path": null,
+        "credit_id": "68f094c565aaf3b7acc23e2e",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5752401,
+        "known_for_department": "Art",
+        "name": "Cécile Rault",
+        "original_name": "Cécile Rault",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "68f094f70f34f061a0ad7cff",
+        "department": "Art",
+        "job": "Storyboard Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3658910,
+        "known_for_department": "Visual Effects",
+        "name": "Jérémy Violier",
+        "original_name": "Jérémy Violier",
+        "popularity": 0.1467,
+        "profile_path": null,
+        "credit_id": "68f0951d07f1fb7a60389c6c",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5752405,
+        "known_for_department": "Art",
+        "name": "Vincent Rueda",
+        "original_name": "Vincent Rueda",
+        "popularity": 0.1366,
+        "profile_path": null,
+        "credit_id": "68f09554d939188ec2c23df9",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5752408,
+        "known_for_department": "Art",
+        "name": "Grégoire Villermaux",
+        "original_name": "Grégoire Villermaux",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "68f09598e14633d03bc23e7d",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.6,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "68f098bbd9514ba0d5ad7cdc",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783785,
+        "known_for_department": "Visual Effects",
+        "name": "Kanae Kondo",
+        "original_name": "コンドウ カナエ",
+        "popularity": 0.4217,
+        "profile_path": null,
+        "credit_id": "6903350a6bf45a1c0b09cd76",
+        "department": "Visual Effects",
+        "job": "2D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783790,
+        "known_for_department": "Visual Effects",
+        "name": "Giulia Adragna",
+        "original_name": "Giulia Adragna",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6903378cf26f6a7cc834cbee",
+        "department": "Visual Effects",
+        "job": "2D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1652545,
+        "known_for_department": "Art",
+        "name": "Nathanaël Bronn",
+        "original_name": "Nathanaël Bronn",
+        "popularity": 1.4464,
+        "profile_path": null,
+        "credit_id": "690dfcd84d06e33f414c71f2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3851687,
+        "known_for_department": "Production",
+        "name": "Jacqueline Tordjman",
+        "original_name": "Jacqueline Tordjman",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "690dfd80eb63fcbbcfd24c35",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983181,
+        "known_for_department": "Production",
+        "name": "Maurice Marciano",
+        "original_name": "Maurice Marciano",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "690dfda8c5c5faff3aa0bc15",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.6,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "6910a74155b34f734fa0c772",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983183,
+        "known_for_department": "Production",
+        "name": "Hermeline Vincent Nakache",
+        "original_name": "Hermeline Vincent Nakache",
+        "popularity": 0.1758,
+        "profile_path": null,
+        "credit_id": "6910a75b3c6c3c652c4c80a7",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1147400,
+    "keywords": [
+      {
+        "id": 90,
+        "name": "paris, france"
+      },
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 175629,
+        "name": "alternative reality"
+      },
+      {
+        "id": 208349,
+        "name": "kids"
+      },
+      {
+        "id": 299365,
+        "name": "interdimensional travel"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uyvKj5YrunaVbl2Z9kNBA9wIi8D.jpg",
+        "genre_ids": [
+          16,
+          18,
+          878
+        ],
+        "id": 303867,
+        "original_language": "en",
+        "original_title": "World of Tomorrow",
+        "overview": "A little girl is taken on a mind-bending tour of her distant future.",
+        "popularity": 0.703,
+        "poster_path": "/5s7DSOek7Bk2CvcG1zX01bJzJ0x.jpg",
+        "release_date": "2015-01-22",
+        "title": "World of Tomorrow",
+        "video": false,
+        "vote_average": 7.816,
+        "vote_count": 347
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+        "genre_ids": [
+          16,
+          28,
+          35,
+          10751,
+          878
+        ],
+        "id": 38055,
+        "original_language": "en",
+        "original_title": "Megamind",
+        "overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+        "popularity": 12.9676,
+        "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+        "release_date": "2010-10-28",
+        "title": "Megamind",
+        "video": false,
+        "vote_average": 7.016,
+        "vote_count": 7268
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/86b0NGY1i0bt3ckhkcHxiCSMxk1.jpg",
+        "genre_ids": [
+          14,
+          27,
+          28,
+          53
+        ],
+        "id": 36586,
+        "original_language": "en",
+        "original_title": "Blade II",
+        "overview": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+        "popularity": 6.9816,
+        "poster_path": "/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg",
+        "release_date": "2002-03-22",
+        "title": "Blade II",
+        "video": false,
+        "vote_average": 6.559,
+        "vote_count": 5055
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+        "genre_ids": [
+          27,
+          28
+        ],
+        "id": 36647,
+        "original_language": "en",
+        "original_title": "Blade",
+        "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+        "popularity": 8.9639,
+        "poster_path": "/hx0sdduAsr4rq03RZKZzglR25z7.jpg",
+        "release_date": "1998-08-21",
+        "title": "Blade",
+        "video": false,
+        "vote_average": 6.817,
+        "vote_count": 6481
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/63eAFgJtN6ZTyFFzlAOoZLhlYqc.jpg",
+        "genre_ids": [
+          28,
+          27,
+          878
+        ],
+        "id": 36648,
+        "original_language": "en",
+        "original_title": "Blade: Trinity",
+        "overview": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
+        "popularity": 6.2835,
+        "poster_path": "/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
+        "release_date": "2004-12-08",
+        "title": "Blade: Trinity",
+        "video": false,
+        "vote_average": 5.862,
+        "vote_count": 4177
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A9fpAjZLqsODM96aI6kx147LPM9.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 36657,
+        "original_language": "en",
+        "original_title": "X-Men",
+        "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+        "popularity": 0.5609,
+        "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+        "release_date": "2000-07-13",
+        "title": "X-Men",
+        "video": false,
+        "vote_average": 7.009,
+        "vote_count": 11911
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/loixNIKBURXfPcND4noz7E8FqCS.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 36658,
+        "original_language": "en",
+        "original_title": "X2",
+        "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
+        "popularity": 0.4195,
+        "poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+        "release_date": "2003-04-27",
+        "title": "X2",
+        "video": false,
+        "vote_average": 7.033,
+        "vote_count": 10652
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sBl1n4Oi2wX81EtXIb8NsPqJf3W.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878,
+          53
+        ],
+        "id": 36668,
+        "original_language": "en",
+        "original_title": "X-Men: The Last Stand",
+        "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+        "popularity": 0.456,
+        "poster_path": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+        "release_date": "2006-05-24",
+        "title": "X-Men: The Last Stand",
+        "video": false,
+        "vote_average": 6.414,
+        "vote_count": 10144
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7yD0xhcx600Ng2XBElVE4eN4bE7.jpg",
+        "genre_ids": [
+          28,
+          878
+        ],
+        "id": 32740,
+        "original_language": "hi",
+        "original_title": "कृष",
+        "overview": "In Singapore, Krishna is forced by circumstances to use his superpowers and become a masked superhero named Krrish, before getting drawn towards his lost legacy.",
+        "popularity": 2.674,
+        "poster_path": "/Apd4UKesyTmpDutEjNVHP45kvBi.jpg",
+        "release_date": "2006-06-23",
+        "title": "Krrish",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 263
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "genre_ids": [
+          12,
+          878,
+          28
+        ],
+        "id": 299534,
+        "original_language": "en",
+        "original_title": "Avengers: Endgame",
+        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "popularity": 23.7203,
+        "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+        "release_date": "2019-04-24",
+        "title": "Avengers: Endgame",
+        "video": false,
+        "vote_average": 8.237,
+        "vote_count": 27083
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 299536,
+        "original_language": "en",
+        "original_title": "Avengers: Infinity War",
+        "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "popularity": 33.7541,
+        "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "release_date": "2018-04-25",
+        "title": "Avengers: Infinity War",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 31298
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 299537,
+        "original_language": "en",
+        "original_title": "Captain Marvel",
+        "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+        "popularity": 9.8564,
+        "poster_path": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+        "release_date": "2019-03-06",
+        "title": "Captain Marvel",
+        "video": false,
+        "vote_average": 6.79,
+        "vote_count": 16428
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xavGKawUyXPWAa6JTUkFzaRXMPF.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "id": 484641,
+        "original_language": "en",
+        "original_title": "Anna",
+        "overview": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.",
+        "popularity": 9.3772,
+        "poster_path": "/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg",
+        "release_date": "2019-06-19",
+        "title": "Anna",
+        "video": false,
+        "vote_average": 6.71,
+        "vote_count": 2890
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b1CEejB82HcpoPdtHWAHOPWboJH.jpg",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          878
+        ],
+        "id": 301470,
+        "original_language": "ja",
+        "original_title": "モルダイバー",
+        "overview": "A naïve young girl accidentally modifies her brother's secret superhero uniform and becomes the unwilling superheroine Moldiver.",
+        "popularity": 0.5226,
+        "poster_path": "/9YZrnEs1DCD5BLyIsOOaz9zKdvJ.jpg",
+        "release_date": "1993-06-01",
+        "title": "Moldiver",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sVpnAwsupjzCx7DWfMq8d0KvGyl.jpg",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 681783,
+        "original_language": "id",
+        "original_title": "Nussa",
+        "overview": "Planning to impress his father who is coming home after being abroad for a year, Nussa the smart 9-year-old kid participates in his school’s science competition. But when he receives news that his father cancelled his trip home and is unable to attend the competition, and at the same time a new, smart student named Jonni quickly becomes his rival in the school's science competition, Nussa learns the true meaning of gratitude.",
+        "popularity": 0.2702,
+        "poster_path": "/7YIJfevShJz6mmW6F2zKy4fljeK.jpg",
+        "release_date": "2021-10-14",
+        "title": "Nussa",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jQzmXfjv9p2YVz5NqTTEQdDIwnl.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "id": 35680,
+        "original_language": "en",
+        "original_title": "Madeline",
+        "overview": "Horrified at the prospect of her beloved school being sold, a young French girl named Madeline uses her wit and craftiness to attempt to save it, making an unlikely new friend in the process.",
+        "popularity": 1.5701,
+        "poster_path": "/nAGRLwJC0jv7QlfJR6y32xRZqcF.jpg",
+        "release_date": "1998-07-10",
+        "title": "Madeline",
+        "video": false,
+        "vote_average": 6.219,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jSsJtNDhmijmx0056JtGzxS5DjG.jpg",
+        "genre_ids": [
+          80,
+          28,
+          18
+        ],
+        "id": 35746,
+        "original_language": "fr",
+        "original_title": "Belleville Story",
+        "overview": "Freddie is starting as a thug for Jazdec the Polish, a pimp and concealer of illicit goods. Freddy's love for Larna, whom he dreams to snatch from prostitution, drive them into jeopardy under the clutches of a Chinese Godfather. To see Larna alive, Freddie must kill the so-called Mr. Zhu, a strange Chinese Zorro who just arrived in Paris to retrieve a young runaway fellow countrywoman.",
+        "popularity": 0.468,
+        "poster_path": "/djrX2BLrYQLtmLBiStGWPP0wWJg.jpg",
+        "release_date": "2010-03-26",
+        "title": "Belleville Story",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6HzWHiygvz3gofphxO7zcAvgkCp.jpg",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "id": 37905,
+        "original_language": "fr",
+        "original_title": "La Horde",
+        "overview": "A bunch of crooked cops raid a ruined building located in an impoverished suburb of Paris, determined to furiously avenge the death of one of them, murdered by the ruthless criminal gang hidden on top of the dark labyrinth that will become a deathly trap when the living, unexpectedly turned into the undead by a mysterious plague, begin to devour the world.",
+        "popularity": 1.4723,
+        "poster_path": "/c3sYdfCg1vz6DG4XlQRpu8baxvM.jpg",
+        "release_date": "2010-02-10",
+        "title": "The Horde",
+        "video": false,
+        "vote_average": 5.965,
+        "vote_count": 498
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p9XaeUMJEjXSOhZ07PKZN0YtV1A.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 37986,
+        "original_language": "ja",
+        "original_title": "劇場版 仮面ライダーカブト GOD SPEED LOVE",
+        "overview": "In 1999, an enormous meteor crashed onto Earth carrying extraterrestrial creatures known as Worms within it. These creatures took on the identities of real humans and then killed them. In order to counter this new threat, ZECT was formed, who in turn created the Masked Rider System to combat the Worms. The battles lasts over seven years, depleting Earth's resources and turning it into a barren wasteland. By present time, power struggles in ZECT have caused a new group, known as Neo-ZECT, to be created. Souji Tendou, a man weilding the Kabuto Zector, decides to sell his power to either ZECT or Neo-Zect for unkown reasons.",
+        "popularity": 1.4007,
+        "poster_path": "/7eRCsy1ES4cTcYSBjuOFaaomFCJ.jpg",
+        "release_date": "2006-08-05",
+        "title": "Kamen Rider Kabuto: God Speed Love",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hH4a4d2xzHmEhaWFX9kqTVuAlR7.jpg",
+        "genre_ids": [
+          10751,
+          18,
+          35
+        ],
+        "id": 26531,
+        "original_language": "en",
+        "original_title": "The Little Princess",
+        "overview": "A little girl goes in search of her father who is reported missing by the military during the Second Boer War.",
+        "popularity": 1.2275,
+        "poster_path": "/cnMSURyv7R6gjmUm5SYdTxXLzIO.jpg",
+        "release_date": "1939-03-17",
+        "title": "The Little Princess",
+        "video": false,
+        "vote_average": 6.665,
+        "vote_count": 121
+      }
+    ],
+    "total_pages": 9312,
+    "total_results": 186240
+  }
+}

@@ -268,17 +268,51 @@ async def health_check():
     }
 
 
+# ============= Image Proxy =============
+@app.get("/api/poster")
+async def get_poster(url: str):
+    """Proxy endpoint to serve poster images from external URLs."""
+    import httpx
+    async with httpx.AsyncClient() as client:
+        try:
+            response = await client.get(url, timeout=10.0)
+            return StreamingResponse(
+                iter([response.content]),
+                media_type=response.headers.get("content-type", "image/jpeg"),
+                headers={"Access-Control-Allow-Origin": "*"}
+            )
+        except Exception as e:
+            raise HTTPException(status_code=400, detail=f"Failed to fetch poster: {str(e)}")
+
+
 # ============= Serve Frontend =============
 
-frontend_dir = os.path.join(os.path.dirname(__file__), "frontend")
-if os.path.exists(frontend_dir):
-    app.mount("/", StaticFiles(directory=frontend_dir, html=True), name="frontend")
+# Serve static assets
+static_dir = os.path.join(os.path.dirname(__file__))
+app.mount("/static", StaticFiles(directory=static_dir), name="static")
+
+# Serve movie_showcase.html as root
+@app.get("/")
+async def serve_root():
+    from fastapi.responses import FileResponse
+    return FileResponse(os.path.join(os.path.dirname(__file__), "movie_showcase.html"))
+
+@app.get("/{path:path}")
+async def serve_file(path: str):
+    from fastapi.responses import FileResponse
+    file_path = os.path.join(os.path.dirname(__file__), path)
+    if os.path.isfile(file_path):
+        return FileResponse(file_path)
+    # Default to movie_showcase.html for HTML files
+    if file_path.endswith('.html'):
+        return FileResponse(os.path.join(os.path.dirname(__file__), "movie_showcase.html"))
+    raise HTTPException(status_code=404, detail="Not Found")
 
 
 if __name__ == "__main__":
     import uvicorn
     print("\n🚀 Starting Movie GraphRAG API server (v2.0.0)...")
-    print("📍 API Documentation: http://localhost:8000/docs")
-    print("🌐 Frontend: http://localhost:8000")
+    print("📍 API Documentation: http://localhost:8001/docs")
+    print("🌐 Frontend: http://localhost:8001")
     print("💾 Features: Streaming, Favorites, Ratings, History, Export\n")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8001)

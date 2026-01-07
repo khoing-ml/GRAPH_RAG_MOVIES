@@ -1,0 +1,689 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/c0QYwNyeURswT7fxmR2mlfpdk0l.jpg",
+    "belongs_to_collection": null,
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 14002,
+    "imdb_id": "tt0103767",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Baraka",
+    "overview": "A paralysingly beautiful documentary with a global vision—an odyssey through landscape and time—that attempts to capture the essence of life.",
+    "popularity": 3.8973,
+    "poster_path": "/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+    "production_companies": [
+      {
+        "id": 10986,
+        "logo_path": null,
+        "name": "Magidson Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1992-09-15",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A world beyond words.",
+    "title": "Baraka",
+    "video": false,
+    "vote_average": 8.219,
+    "vote_count": 659
+  },
+  "credits": {
+    "id": 14002,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3096470,
+        "known_for_department": "Acting",
+        "name": "Patrick Disanto",
+        "original_name": "Patrick Disanto",
+        "popularity": 0.489,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Journeyman (uncredited)",
+        "credit_id": "60a5964956b9f7003f44cb16",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 2.5224,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c75061681",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 48069,
+        "known_for_department": "Sound",
+        "name": "Michael Stearns",
+        "original_name": "Michael Stearns",
+        "popularity": 0.3485,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c7506169f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 2.5224,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c750616a5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 2.5224,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c7506167b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937749,
+        "known_for_department": "Production",
+        "name": "Mark Magidson",
+        "original_name": "Mark Magidson",
+        "popularity": 0.5395,
+        "profile_path": "/mhjl01i9uprskRITFNfGcpTomAK.jpg",
+        "credit_id": "52fe45c19251416c75061693",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937749,
+        "known_for_department": "Production",
+        "name": "Mark Magidson",
+        "original_name": "Mark Magidson",
+        "popularity": 0.5395,
+        "profile_path": "/mhjl01i9uprskRITFNfGcpTomAK.jpg",
+        "credit_id": "52fe45c19251416c750616ab",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021139,
+        "known_for_department": "Editing",
+        "name": "David Aubrey",
+        "original_name": "David Aubrey",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c750616b1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 2.5224,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c750616b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 83901,
+        "known_for_department": "Writing",
+        "name": "Constantine Nicholas",
+        "original_name": "Constantine Nicholas",
+        "popularity": 0.1246,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c75061687",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108787,
+        "known_for_department": "Writing",
+        "name": "Genevieve Nicholas",
+        "original_name": "Genevieve Nicholas",
+        "popularity": 0.1926,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c7506168d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1018091,
+        "known_for_department": "Production",
+        "name": "Alton Walpole",
+        "original_name": "Alton Walpole",
+        "popularity": 1.6465,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c75061699",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937749,
+        "known_for_department": "Production",
+        "name": "Mark Magidson",
+        "original_name": "Mark Magidson",
+        "popularity": 0.5395,
+        "profile_path": "/mhjl01i9uprskRITFNfGcpTomAK.jpg",
+        "credit_id": "52fe45c19251416c750616bd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1528570,
+        "known_for_department": "Sound",
+        "name": "L. Subramaniam",
+        "original_name": "L. Subramaniam",
+        "popularity": 0.5175,
+        "profile_path": null,
+        "credit_id": "692b8d2af9930597901ec0bf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 14002,
+    "keywords": [
+      {
+        "id": 6157,
+        "name": "prayer"
+      },
+      {
+        "id": 1551,
+        "name": "indigenous"
+      },
+      {
+        "id": 5890,
+        "name": "community"
+      },
+      {
+        "id": 3667,
+        "name": "time"
+      },
+      {
+        "id": 10706,
+        "name": "spirituality"
+      },
+      {
+        "id": 155071,
+        "name": "pagan"
+      },
+      {
+        "id": 155788,
+        "name": "discovery world"
+      },
+      {
+        "id": 162710,
+        "name": "culture"
+      },
+      {
+        "id": 182649,
+        "name": "spiritual journey"
+      },
+      {
+        "id": 235164,
+        "name": "spiritual community"
+      },
+      {
+        "id": 236125,
+        "name": "natural wonder"
+      },
+      {
+        "id": 240847,
+        "name": "social & cultural documentary"
+      },
+      {
+        "id": 258385,
+        "name": "spiritual awareness"
+      },
+      {
+        "id": 262228,
+        "name": "observational documentary"
+      },
+      {
+        "id": 269412,
+        "name": "poetic documentary"
+      },
+      {
+        "id": 277193,
+        "name": "landscape photography"
+      },
+      {
+        "id": 281658,
+        "name": "beautiful landscapes"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wdGUDpUs2rQZUYwgiyGZT9VAgi0.jpg",
+        "genre_ids": [
+          99,
+          10770
+        ],
+        "id": 1238873,
+        "original_language": "en",
+        "original_title": "Running With The Beest",
+        "overview": "",
+        "popularity": 0.1198,
+        "poster_path": "/xrcV5ocHnzdwrbg9XwInvOsCfH3.jpg",
+        "release_date": "2022-10-19",
+        "title": "Running With The Beest",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rTZKn63rSQYT5aHDywIPN2qA1ro.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1242947,
+        "original_language": "en",
+        "original_title": "Yintah",
+        "overview": "Wet’suwet’en leaders unite in a battle against the Canadian government, corporations, and militarized law enforcement to safeguard their territory from gas and oil pipelines.",
+        "popularity": 0.8188,
+        "poster_path": "/3aWqa7NZHU2b6VtfmsiJAbIcZ8t.jpg",
+        "release_date": "2024-06-14",
+        "title": "Yintah",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1440332,
+        "original_language": "fr",
+        "original_title": "Résilience",
+        "overview": "Resilience is dedicated to those whose lives have been fragmented by intergenerational trauma, but who wish to break the cycle.",
+        "popularity": 0.5589,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Resilience",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oaPBI7VxymNULhnGuaFqnIw0NOr.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1053554,
+        "original_language": "sq",
+        "original_title": "Inchiodato",
+        "overview": "In northern Albania, ancestral customs still exist, governing the laws of vendetta between families. Sometimes, for generations, an old feud has pitted two clans against each other, condemning them to take turns murdering a member of the opposing family. This blood code, known as the Kanoun, has painful consequences for many Albanians, who are condemned to live in seclusion to avoid being killed.",
+        "popularity": 0.3198,
+        "poster_path": "/pG0Dfxy8Sl5VgPCnBVPu0D1OVhe.jpg",
+        "release_date": "2005-04-01",
+        "title": "Inchiodato",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1053679,
+        "original_language": "fr",
+        "original_title": "Les vieux",
+        "overview": "They come from all walks of life and have lived for almost a century. They have lived through the upheavals of history. They are funny, moving and rebellious. They surprise and amaze us. Yet we rarely hear their voices. This film is an invitation to travel across France and meet them: the Old People.",
+        "popularity": 0.18,
+        "poster_path": "/44lDjtIM6w5dptxVjbx4YsSTJPI.jpg",
+        "release_date": "2024-04-24",
+        "title": "The old",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v4V5WO1tyKJDo9InQxVxCHpU6Y8.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 468080,
+        "original_language": "en",
+        "original_title": "Namatjira Project",
+        "overview": "From the remote Australian desert to the opulence of Buckingham Palace - Namatjira Project is the iconic story of the Namatjira family, tracing their quest for justice.",
+        "popularity": 1.2005,
+        "poster_path": "/lTRi02kERV3pLRqgO3i1ph0skeM.jpg",
+        "release_date": "2017-09-05",
+        "title": "Namatjira Project",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 655394,
+        "original_language": "en",
+        "original_title": "El Pantera",
+        "overview": "El Pantera is a documentary film that chronicles the rise of Mexican UFC star Yair Rodriguez as he strives to become the first ever Mexican born UFC champion.",
+        "popularity": 4.2584,
+        "poster_path": "/4O96tk1RssefnuEC6xR8HodcnEJ.jpg",
+        "release_date": "2017-10-14",
+        "title": "The Panther",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xTUEQ0RwKuFqyrPUqQXYyUcterR.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 655520,
+        "original_language": "en",
+        "original_title": "maɬni—towards the ocean, towards the shore",
+        "overview": "An experimental look at the origin of the death myth of the Chinookan people in the Pacific Northwest, following two people as they navigate their own relationships to the spirit world and a place in between life and death.",
+        "popularity": 0.1939,
+        "poster_path": "/m97Eu7AwMeZU4HF1720I76241u1.jpg",
+        "release_date": "2020-01-26",
+        "title": "maɬni—towards the ocean, towards the shore",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cZtMuoFL9MbpUhJpZvpjJgGwrhw.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1052679,
+        "original_language": "en",
+        "original_title": "Rematriation",
+        "overview": "Rematriation explores scientific, cultural, economic and sociopolitical perspectives, as citizens fight to protect the last big trees in British Columbia from being felled. The lessons we take away permeate the fabric of Canadian identity.",
+        "popularity": 0.3801,
+        "poster_path": "/6hZLCK4RvI7K9bpOGe41q23MxXH.jpg",
+        "release_date": "",
+        "title": "Rematriation",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1052101,
+        "original_language": "en",
+        "original_title": "The Pretendians",
+        "overview": "Anishinaabe author Drew Hayden Taylor investigates how — and why — Indigenous identity, culture and art are being appropriated by those who are not First Nations.",
+        "popularity": 0.1422,
+        "poster_path": "/4lBr5xS2A2YEGmyoTv9SzpTS3Kd.jpg",
+        "release_date": "2022-09-30",
+        "title": "The Pretendians",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ngrJjNw3hJRXwMfGLIhchEaBobW.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1242384,
+        "original_language": "en",
+        "original_title": "The Antisocial Network: Memes to Mayhem",
+        "overview": "From Rickrolling to viral conspiracy theories, explore how an anonymous website evolved into a hub for real-world chaos in this documentary.",
+        "popularity": 0.9632,
+        "poster_path": "/AlJKsIzkSU629hEhbRzRb1cSxA1.jpg",
+        "release_date": "2024-03-10",
+        "title": "The Antisocial Network: Memes to Mayhem",
+        "video": false,
+        "vote_average": 6.538,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xgje6VloPsZtGW0KCt24RbDismZ.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 654170,
+        "original_language": "no",
+        "original_title": "Kunstneren og tyven",
+        "overview": "When two of artist Barbora Kysilkova’s most valuable paintings are stolen from a gallery at Frogner in Oslo, the police are able to find the thief after a few days, but the paintings are nowhere to be found. Barbora goes to the trial in hopes of finding clues, but instead she ends up asking the thief if she can paint a portrait of him. This will be the start of a very unusual friendship. Over three years, the cinematic documentary follows the incredible story of the artist looking for her stolen paintings, while at the same time turning the thief into art.",
+        "popularity": 0.5655,
+        "poster_path": "/ldcenmrQen5x8ZJ4NerYhXESc8z.jpg",
+        "release_date": "2020-09-05",
+        "title": "The Painter and the Thief",
+        "video": false,
+        "vote_average": 7.302,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lVnUdJ7nqho86UievvSr1LpfU6k.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 222,
+        "original_language": "de",
+        "original_title": "Berlin, die Symphonie der Großstadt",
+        "overview": "A day in the city of Berlin, which experienced an industrial boom in the 1920s, and still provides an insight into the living and working conditions at that time. Germany had just recovered a little from the worst consequences of the First World War, the great economic crisis was still a few years away and Hitler was not yet an issue at the time.",
+        "popularity": 0.8986,
+        "poster_path": "/1APQoI9PKgZtg6PWZjIbr0U7GvZ.jpg",
+        "release_date": "1927-09-23",
+        "title": "Berlin: Symphony of a Great City",
+        "video": false,
+        "vote_average": 7.504,
+        "vote_count": 125
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pAi6R7JwcjCKCI8lP3Px0dxJlYq.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1232236,
+        "original_language": "fr",
+        "original_title": "Inside The Dream: Dior",
+        "overview": "Unraveling the mystery of perfume creation, the House of Dior is opening its doors. Over the course of a year, we followed new perfumer Francis Kurkdjian in one of his greatest challenges: reinventing the iconic \"J'adore\". A unique sensory journey, from conception to launch, into a secret world of passionate artisans.",
+        "popularity": 0.2668,
+        "poster_path": "/7FyHVttbonV5L9YfMV3EbL4N37h.jpg",
+        "release_date": "2023-11-12",
+        "title": "Inside The Dream: Dior",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cpueibk18ZXLHArQwY04p59Blqx.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1428853,
+        "original_language": "en",
+        "original_title": "Power of Chi",
+        "overview": "The mysterious chi is presented as a force that can be produced by the master and defies all explanation.",
+        "popularity": 0.2839,
+        "poster_path": "/vHFaRqMXbh7zJxsxeBfVGNYiPir.jpg",
+        "release_date": "2022-01-01",
+        "title": "Power of Chi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5hrx1E5ByCu2sUzvt9bF74Y1oZw.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1232929,
+        "original_language": "en",
+        "original_title": "Madu",
+        "overview": "From practicing barefoot on the streets of Lagos to performing on stage in England, twelve year old Anthony Madu leaves his home in Nigeria to study at one of the most prestigious ballet schools in the world. Anthony, who had barely left his neighborhood in Lagos, finds himself thrust into a new world where his wildest dream is suddenly within reach. His journey is a story of extraordinary obstacles, courage, growth, and ultimately, his search for belonging.",
+        "popularity": 1.6039,
+        "poster_path": "/jDnj5eCZ8Dd6YTO9gdo7NrtA9Do.jpg",
+        "release_date": "2024-02-07",
+        "title": "Madu",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4FesoI99irpQDPC7UiFhKkA67yZ.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1232934,
+        "original_language": "id",
+        "original_title": "Pit Dhuwur",
+        "overview": "In the heart of Yogyakarta, a tall bike enthusiast takes a stand against the city's lacklustre cycling infrastructure in the city with the \"Bicycle Friendly City\" label.",
+        "popularity": 0.4187,
+        "poster_path": "/pUE2GCgGYDUaDNe3s0wSUTJQ4YD.jpg",
+        "release_date": "2024-01-19",
+        "title": "Pit Dhuwur",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pD0pcxb7edE4eXA4bqqtt3e2OdV.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1233034,
+        "original_language": "fr",
+        "original_title": "Uapishka",
+        "overview": "North of the 51st parallel, where the dense boreal forest opens onto an arctic islet, the snow-capped peaks of the Uapishka Mountains watch over the Nitassinan of Pessamit. In the heart of winter, a group of Innu and non-Innu adventurers attempt to cross this vast mountain range on snowshoes, completely independently. Faced with the vastness of the territory, the rigors of the northern climate and the impetuous breath of the tundra, they discover each other in a different way, form friendships and unite to better chart their course. Over the kilometres, the adventure reveals a space for meeting, sharing and reconciliation.",
+        "popularity": 0.1461,
+        "poster_path": "/u5jHvgIH79S8H9V3lhChOuQoQLc.jpg",
+        "release_date": "2023-10-14",
+        "title": "Uapishka",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yaMhVVF9WGkEYO7EYhOS1ylLlfR.jpg",
+        "genre_ids": [
+          99,
+          9648
+        ],
+        "id": 456784,
+        "original_language": "en",
+        "original_title": "Angels and Demons Are Real",
+        "overview": "It seems that in recent years Angel sightings and experiences are everywhere. Perhaps this is because the world is more and more complicated and people are feeling exhausted from keeping up when time is moving too fast and they are endlessly distracted by technology which leaves them spiritually empty. Many people believe that Angels and Demons exist and are active in our world today. With demonic possessions on the rise and a world in chaos, it makes sense to those who have experienced and witnessed encounters with the divine that Angels exist and can help us cope with our everyday lives.",
+        "popularity": 0.1269,
+        "poster_path": "/xEn4fwaagws8SUhGpmxTzvmPkWW.jpg",
+        "release_date": "2017-05-01",
+        "title": "Angels and Demons Are Real",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/prwiJV9hfRp1xoF8wOWEMQZpNe5.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 842291,
+        "original_language": "en",
+        "original_title": "ciao Aracà",
+        "overview": "\"...a charming depiction of life as I knew it with my grandparents in my own village...\"  Clara Caleo Green, Cinema Italia UK  \"The sum of the individual fates and life choices paints a picture, the validity of which extends far beyond this village.\"  Joachim Manzin, Black Box  This documentary records the thoughtful and emotional confrontation with time, change, loss and hope related by the members of a small community in the idyllic Ligurian countryside who are dealing with a rapidly changing agricultural industry, transformed by globalisation and technological advances and an increasing number of foreigners buying the empty houses in their village.  Forgoing the use of music and voice over, the film lets Aracà's inhabitants tell their own stories and allows the audience to dive into the rich soundscape of the ligurian alpine countryside.",
+        "popularity": 0.1269,
+        "poster_path": "/pVRyMGA6laYx3kaghm1vZTGrk67.jpg",
+        "release_date": "2020-09-17",
+        "title": "ciao Aracà",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 10764,
+    "total_results": 215271
+  }
+}

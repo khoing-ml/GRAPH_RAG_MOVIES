@@ -1,0 +1,902 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/Amp8FamnKw8jUFptKHOXRL4VseU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "",
+    "id": 576712,
+    "imdb_id": "tt9617716",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Everybody’s Everything",
+    "overview": "The story of artist Lil Peep from his birth in Long Island and meteoric rise as a genre blending pop star & style icon, to his death due to an accidental opioid overdose in Arizona at just 21 years of age.",
+    "popularity": 0.727,
+    "poster_path": "/wbMkjkNX8VylPVLmQ2Dp6i5iayY.jpg",
+    "production_companies": [
+      {
+        "id": 128357,
+        "logo_path": null,
+        "name": "First Access Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-11-12",
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Everybody’s Everything",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 290
+  },
+  "credits": {
+    "id": 576712,
+    "cast": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 2259767,
+        "known_for_department": "Acting",
+        "name": "Lil Peep",
+        "original_name": "Lil Peep",
+        "popularity": 0.1692,
+        "profile_path": "/sob77LHncgMNFhPoxk46TGONz6X.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5c815826c3a3684e9bd64249",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2452754,
+        "known_for_department": "Acting",
+        "name": "Lil Tracy",
+        "original_name": "Lil Tracy",
+        "popularity": 0.1,
+        "profile_path": "/rMLtdNhtvy60qI0UGea6YavHVY9.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "5dd23b4bb76cbb00117d87a1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2689712,
+        "known_for_department": "Acting",
+        "name": "GHOSTEMANE",
+        "original_name": "GHOSTEMANE",
+        "popularity": 0.5462,
+        "profile_path": "/mNgDVJqNW6fsbyQmiBCW7DOBW5K.jpg",
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "5ef31f58967cc70034467382",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532450,
+        "known_for_department": "Acting",
+        "name": "Killstation",
+        "original_name": "Killstation",
+        "popularity": 0.1273,
+        "profile_path": "/vNSIZdtfJsnLmdlCsYIpEi3Hsuw.jpg",
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "626f0483c74eba2e0a69ef4e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532452,
+        "known_for_department": "Acting",
+        "name": "Bexey",
+        "original_name": "Bexey",
+        "popularity": 0.1222,
+        "profile_path": "/AcKcN8ocMgH5w1qwUd3QYlLACIT.jpg",
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "626f04956f53e1009cf574ae",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69932,
+        "known_for_department": "Acting",
+        "name": "Juicy J",
+        "original_name": "Juicy J",
+        "popularity": 0.4764,
+        "profile_path": "/wv1AA9TPt6c2H7WPlJ1Oi66Hxl9.jpg",
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "610278654e52ed00758605c5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1821863,
+        "known_for_department": "Acting",
+        "name": "Post Malone",
+        "original_name": "Post Malone",
+        "popularity": 2.2283,
+        "profile_path": "/njd07ZCMVL81CZFPPU8vs7cVyq0.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "5dd23b52356a710014eaaaad",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2461054,
+        "known_for_department": "Acting",
+        "name": "Liza Womack",
+        "original_name": "Liza Womack",
+        "popularity": 0.4738,
+        "profile_path": "/twukBdtwCtlJzEPAa5wumIQAe97.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "5dd23b3a356a710012ea839d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33061,
+        "known_for_department": "Acting",
+        "name": "John Womack Jr.",
+        "original_name": "John Womack Jr.",
+        "popularity": 0.8478,
+        "profile_path": "/t8hQAUZLVk8aVG0icIcrijhpefP.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5dd23b2bb76cbb00167d5a7e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452755,
+        "known_for_department": "Acting",
+        "name": "Fish Narc",
+        "original_name": "Fish Narc",
+        "popularity": 0.0902,
+        "profile_path": "/7G6uNIFW0ZeCpd4buldpLcXO1df.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "5dd23b67fd6fa1001880dd55",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287414,
+        "known_for_department": "Acting",
+        "name": "Rob Cavallo",
+        "original_name": "Rob Cavallo",
+        "popularity": 0.6688,
+        "profile_path": "/f4iwhwhuLEUDt3Kz7pLSsRGYJML.jpg",
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "5dd23b87b39e3500158a2a9c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461057,
+        "known_for_department": "Acting",
+        "name": "Horse Head",
+        "original_name": "Horse Head",
+        "popularity": 0.0942,
+        "profile_path": "/ltSfdM4CiHJQa6hRshsfCWeXvt8.jpg",
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "5dd23ba557d3780015db807a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461058,
+        "known_for_department": "Acting",
+        "name": "Ilovemakonnen",
+        "original_name": "Ilovemakonnen",
+        "popularity": 0.0623,
+        "profile_path": "/uA4JQaMM0MjrS9i5aYprAlUsVK6.jpg",
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "5dd23bb9fd6fa1001280cf34",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461059,
+        "known_for_department": "Acting",
+        "name": "Jgrxxn",
+        "original_name": "Jgrxxn",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "5dd23bcab76cbb00137d8b6e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461060,
+        "known_for_department": "Acting",
+        "name": "Mackned",
+        "original_name": "Mackned",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "5dd23bd2356a710017eacbca",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532455,
+        "known_for_department": "Acting",
+        "name": "Emma Harris",
+        "original_name": "Emma Harris",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "626f0559cb71b813f8fea544",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532457,
+        "known_for_department": "Acting",
+        "name": "Layla Shapiro",
+        "original_name": "Layla Shapiro",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "626f060f09ed8f0068fdadf7",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2170710,
+        "known_for_department": "Visual Effects",
+        "name": "Alex Noble",
+        "original_name": "Alex Noble",
+        "popularity": 0.6845,
+        "profile_path": null,
+        "credit_id": "617816baa579f90042349bda",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2422815,
+        "known_for_department": "Directing",
+        "name": "Sebastian Jones",
+        "original_name": "Sebastian Jones",
+        "popularity": 0.1005,
+        "profile_path": "/ah0umSHZC0u7GKnWatdjle9Qw3K.jpg",
+        "credit_id": "6681f29168e9836dcedd4884",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2422817,
+        "known_for_department": "Directing",
+        "name": "Ramez Silyan",
+        "original_name": "Ramez Silyan",
+        "popularity": 0.8186,
+        "profile_path": null,
+        "credit_id": "6681f2ae6a8e55ec12c3c9f2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308210,
+        "known_for_department": "Sound",
+        "name": "Ryan Billia",
+        "original_name": "Ryan Billia",
+        "popularity": 0.3182,
+        "profile_path": "/8IsxRx8Ny0xOMFS5yCpUjhgmIHA.jpg",
+        "credit_id": "6681f31147b25bcd5e11ffdb",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2027893,
+        "known_for_department": "Crew",
+        "name": "Javian Ashton Le",
+        "original_name": "Javian Ashton Le",
+        "popularity": 0.4465,
+        "profile_path": null,
+        "credit_id": "6681f384e7919b197def4c35",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30715,
+        "known_for_department": "Directing",
+        "name": "Terrence Malick",
+        "original_name": "Terrence Malick",
+        "popularity": 1.3827,
+        "profile_path": "/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg",
+        "credit_id": "5d75dcba5294e7000ef4d7a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2461054,
+        "known_for_department": "Acting",
+        "name": "Liza Womack",
+        "original_name": "Liza Womack",
+        "popularity": 0.4738,
+        "profile_path": "/twukBdtwCtlJzEPAa5wumIQAe97.jpg",
+        "credit_id": "5dd23c0857d3780015db8102",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461061,
+        "known_for_department": "Production",
+        "name": "Sarah Stennett",
+        "original_name": "Sarah Stennett",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "credit_id": "5dd23c26fd6fa1001280cfcb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461062,
+        "known_for_department": "Production",
+        "name": "Benjamin Soley",
+        "original_name": "Benjamin Soley",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "5dd23c43356a710017eacc4c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2461063,
+        "known_for_department": "Crew",
+        "name": "Nate Wiegman",
+        "original_name": "Nate Wiegman",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "5dd23c5a356a710017eacc5d",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135980,
+        "known_for_department": "Acting",
+        "name": "Patrick Stump",
+        "original_name": "Patrick Stump",
+        "popularity": 1.1165,
+        "profile_path": "/x2qwpQaU0roDtr2boxM7qbABM6x.jpg",
+        "credit_id": "5dd23c66356a710014eaac29",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1528526,
+        "known_for_department": "Sound",
+        "name": "Kyle Seaquist",
+        "original_name": "Kyle Seaquist",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5dd23c8f356a710012ea84ca",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2422815,
+        "known_for_department": "Directing",
+        "name": "Sebastian Jones",
+        "original_name": "Sebastian Jones",
+        "popularity": 0.1005,
+        "profile_path": "/ah0umSHZC0u7GKnWatdjle9Qw3K.jpg",
+        "credit_id": "5ef13615af58cb0034f55ce3",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 576712,
+    "keywords": [
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 41352,
+        "name": "drug overdose"
+      },
+      {
+        "id": 164246,
+        "name": "nostalgic"
+      },
+      {
+        "id": 209792,
+        "name": "candid"
+      },
+      {
+        "id": 227302,
+        "name": "portrait of an artist"
+      },
+      {
+        "id": 282080,
+        "name": "documentary"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      },
+      {
+        "id": 325762,
+        "name": "adoring"
+      },
+      {
+        "id": 325775,
+        "name": "awestruck"
+      },
+      {
+        "id": 340972,
+        "name": "biographical drama"
+      },
+      {
+        "id": 345513,
+        "name": "biographical"
+      },
+      {
+        "id": 345747,
+        "name": "biographical documentary"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5hrx1E5ByCu2sUzvt9bF74Y1oZw.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1232929,
+        "original_language": "en",
+        "original_title": "Madu",
+        "overview": "From practicing barefoot on the streets of Lagos to performing on stage in England, twelve year old Anthony Madu leaves his home in Nigeria to study at one of the most prestigious ballet schools in the world. Anthony, who had barely left his neighborhood in Lagos, finds himself thrust into a new world where his wildest dream is suddenly within reach. His journey is a story of extraordinary obstacles, courage, growth, and ultimately, his search for belonging.",
+        "popularity": 1.6039,
+        "poster_path": "/jDnj5eCZ8Dd6YTO9gdo7NrtA9Do.jpg",
+        "release_date": "2024-02-07",
+        "title": "Madu",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u82RurwuuaHlnv0SWEpSSK8T7a8.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 456348,
+        "original_language": "en",
+        "original_title": "Batman & Bill",
+        "overview": "Everyone thinks that Bob Kane created Batman, but that’s not the whole truth. One author makes it his crusade to make it known that Bill Finger, a struggling writer, actually helped invent the iconic superhero, from concept to costume to the very character we all know and love. Bruce Wayne may be Batman’s secret identity, but his creator was always a true mystery.",
+        "popularity": 0.5874,
+        "poster_path": "/gc1oyq0K8TdtFTXmYV03v536HsI.jpg",
+        "release_date": "2017-05-06",
+        "title": "Batman & Bill",
+        "video": false,
+        "vote_average": 7.132,
+        "vote_count": 76
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sQwZ9sxuhZSf6fYCYRGrDRzxdLl.jpg",
+        "genre_ids": [
+          99,
+          28,
+          12
+        ],
+        "id": 644492,
+        "original_language": "en",
+        "original_title": "White Rhino",
+        "overview": "A professional surf photographer chases down the largest surf ever seen in hopes of capturing a once in a lifetime image. What he receives is much more than that.",
+        "popularity": 0.132,
+        "poster_path": "/wX5aOgVqQvpaJ1e4VFBKUMgCDmM.jpg",
+        "release_date": "2019-08-13",
+        "title": "White Rhino",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aR9sISu8QkHuvp630GuH0adMABj.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 458793,
+        "original_language": "en",
+        "original_title": "Uppity: The Willy T. Ribbs Story",
+        "overview": "An in-depth profile of the life and career of Willy T. Ribbs - the controversial Black driver who shattered the color barrier of professional auto-racing and became the first Black qualifier in the storied history of the Indy 500.",
+        "popularity": 0.8017,
+        "poster_path": "/aBwR1Rkx7pmSAyBWGZnPAtFCRYB.jpg",
+        "release_date": "2020-01-07",
+        "title": "Uppity: The Willy T. Ribbs Story",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t0DkZ3OEpHkzVzEUWhAU81f15Ol.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 458803,
+        "original_language": "pt",
+        "original_title": "Sepultura Endurance",
+        "overview": "The long awaited documentary about Sepultura's incredible journey from Brazil to the world.",
+        "popularity": 1.7584,
+        "poster_path": "/sxvVQ3UTSu92WzxJ3pWZs6Fn5wB.jpg",
+        "release_date": "2017-05-21",
+        "title": "Sepultura Endurance",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kiiRvSqV75kI8DVTcGE7DZbgdg4.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 647551,
+        "original_language": "cs",
+        "original_title": "Karel Svoboda: Šťastná léta",
+        "overview": "",
+        "popularity": 0.1439,
+        "poster_path": "/o20IYP8ieqh3ySFC19q0KfFTJmX.jpg",
+        "release_date": "2020-01-16",
+        "title": "Karel Svoboda: Šťastná léta",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10402,
+          99,
+          35
+        ],
+        "id": 1236419,
+        "original_language": "en",
+        "original_title": "Piece by Piece",
+        "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+        "popularity": 3.4231,
+        "poster_path": "/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+        "release_date": "2024-10-10",
+        "title": "Piece by Piece",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 134
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kCVn7tvJkX7tb3ol2jNTQELmI29.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1236433,
+        "original_language": "fr",
+        "original_title": "Un pasteur",
+        "overview": "Félix, a young, melancholic and secretive shepherd, leads a surprisingly timeless life. He lives alone and works along his father to raise the family herd. From autumn to spring, he looks after his animals, feeds them and keeps them in the dense forests of holm oaks of French Pre-Alps. In the summer, he travels on foot for more than two hundred kilometres, leaving his father to lead the herd to the mountains pastures, in the High Alps Ubaye valley. There, he lives far from everything for many long months, in a mineral and inaccessible world where an invisible being prowls: the wolf. Against the tide of his time, Félix has chosen a profession that isolates him and keeps him out of the world.",
+        "popularity": 1.5054,
+        "poster_path": "/wy56udxC3dd00BAYGP388lnFVC3.jpg",
+        "release_date": "2024-01-25",
+        "title": "A Shepherd",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1432106,
+        "original_language": "en",
+        "original_title": "Cool Water",
+        "overview": "21-year-old Keith Blauschild, formally trained in the culinary arts, is also a self-taught ice carver. Together with his fiancee Angela Boone, Keith sculpts intricate but impermanent artworks for catered affairs, hotels, cruise ships and for advertising promotions. In this short documentary profile, Keith is filmed as he fashions a prototype (a sword-bearing warrior fighting a dragon) for an upcoming ice carving competition. At the contest site, the young man joins scores of other chainsaw-wielding sculptors busily freeing their creations from blocks of ice. Although Keith does not win a prize, his devotion to ice-carving remains intact. Moving from his home in New Jersey to a new life in Florida, Keith is featured as the \"Person of the Week\" on a Florida news broadcast",
+        "popularity": 3.6548,
+        "poster_path": null,
+        "release_date": "1991-01-17",
+        "title": "Cool Water",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nAC3gZkzvSdjRmUJg4zkzSTLUea.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 271372,
+        "original_language": "bn",
+        "original_title": "Bala",
+        "overview": "A documentary about the aging prima ballerina Balasaraswati (popularly known as \"Bala\"), the most famous exponent of the Bharatanatyam dance.",
+        "popularity": 0.5549,
+        "poster_path": "/z2rJWYlY8sNjy9g27AyzPCMV9vt.jpg",
+        "release_date": "1976-01-01",
+        "title": "Bala",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b8zeksERd4rnk3GYmRGceIjsYRu.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 278542,
+        "original_language": "en",
+        "original_title": "I Tarantiniani",
+        "overview": "Tarantino reveres them, and for good reason. Welcome to the world of the kings of the Italian B-Movie.",
+        "popularity": 2.2331,
+        "poster_path": "/zt9EKH4PVpQybzB550LHva4F1UO.jpg",
+        "release_date": "2013-02-21",
+        "title": "I Tarantiniani",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          36,
+          99
+        ],
+        "id": 465241,
+        "original_language": "en",
+        "original_title": "The Half-Life of Genius Physicist Raemer Schreiber",
+        "overview": "Our two-hour film highlights the life and career of Dr. Schreiber with respect and clarity. Raemer, his wife Marge, and young daughter Paula would move to the high-desert of New Mexico where he and other brilliant minds would change the world forever.",
+        "popularity": 0.151,
+        "poster_path": "/6ZjMXFuS080KqKpnH5bstleJOxg.jpg",
+        "release_date": "2018-07-17",
+        "title": "The Half-Life of Genius Physicist Raemer Schreiber",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3znTh8YsDXoMQo7O7OYCgGVyqw7.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1244487,
+        "original_language": "en",
+        "original_title": "ZEF - The Story of Die Antwoord",
+        "overview": "South African producer / director JON DAY spent the last 5 years making a documentary about the mysterious rap-rave group, DIE ANTWOORD. Art directed by surrealist photographer, ROGER BALLEN. Narrated by NINJA & ¥O-LANDI'S daughter, 16 JONES.",
+        "popularity": 0.6097,
+        "poster_path": "/eFPSEfNovs5ve1TTu0fRTQQ43sg.jpg",
+        "release_date": "2024-03-23",
+        "title": "ZEF - The Story of Die Antwoord",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/esZugiLtOtr7WLKCmT4YsmY68OF.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 651275,
+        "original_language": "en",
+        "original_title": "Kylie Minogue: Showtime",
+        "overview": "Kylie Minogue has been a household name for over the last three decades. The Australian bombshell has become a symbol for female independence. She is a true showbiz product and an incredibly successful woman. She is a true showbiz woman. Kylie has been at the top of the charts virtually since 1988 when she released the world wide phenomenon \"The Loco-Motion\". Join Kylie and discover her incredible journey. It is time for Showtime.",
+        "popularity": 0.1943,
+        "poster_path": "/djs9LHHf0a8mwYs0LlV7BmGXp5j.jpg",
+        "release_date": "2016-03-29",
+        "title": "Kylie Minogue: Showtime",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 461670,
+        "original_language": "es",
+        "original_title": "Materialista, idealista, cinematógrafo, magnetófono, buen chico y sádico",
+        "overview": "",
+        "popularity": 0.1252,
+        "poster_path": "/wlwf5SNgyUIEOU5SgEY7DwaI9ta.jpg",
+        "release_date": "2012-06-13",
+        "title": "Materialista, idealista, cinematógrafo, magnetófono, buen chico y sádico",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dycEWazNQfuodZYguTliNVxl0Rz.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1047128,
+        "original_language": "fr",
+        "original_title": "Apolonia, Apolonia",
+        "overview": "When Danish filmmaker Lea Glob first portrayed Apolonia Sokol in 2009, she appeared to be leading a storybook life. The talented Apolonia was born in an underground theater in Paris and grew up in an artists’ community—the ultimate bohemian existence. In her 20s, she studied at the Beaux-Arts de Paris, one of the most prestigious art academies in Europe. Over the years, Lea Glob kept returning to film the charismatic Apolonia and a special bond developed between the two young women.",
+        "popularity": 2.5624,
+        "poster_path": "/1KQQXwH2q9LTORxfikrU52EWYA9.jpg",
+        "release_date": "2023-03-23",
+        "title": "Apolonia, Apolonia",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bYfyNgD1bitHkHY3TITTQhddoSW.jpg",
+        "genre_ids": [
+          99,
+          9648
+        ],
+        "id": 847681,
+        "original_language": "en",
+        "original_title": "The Cosmic Hoax: An Exposé",
+        "overview": "This documentary is Dr. Steven Greer’s answer to the current government and media disinformation campaign promoting 3 big lies:  1. We do not know what these UAPs/ UFOs are. WE DO.  2. Humans cannot make craft that can maneuver like UFOs. WE  CAN and WE DO.  3. The UFOs are a threat. THEY ARE NOT.",
+        "popularity": 0.215,
+        "poster_path": "/kDso8TyBXCR4TuzE0yv8yZYalfj.jpg",
+        "release_date": "2021-07-05",
+        "title": "The Cosmic Hoax: An Exposé",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/euiPWGvbcWqbnEgolcjh72YvPd4.jpg",
+        "genre_ids": [
+          99,
+          36,
+          10770
+        ],
+        "id": 847722,
+        "original_language": "en",
+        "original_title": "Great Homes of Rochester",
+        "overview": "Travel through the streets of Rochester and you’ll find some extraordinary architecture. From California bungalows to English Tudors, French colonials to Victorians, the Flour City is home to so many beautiful dwellings. WXXI takes you on a private tour inside some of these exquisite house in Great Homes of Rochester.",
+        "popularity": 0.1292,
+        "poster_path": "/aHWgNxv7RvVSTxz0cAwBkBiOorP.jpg",
+        "release_date": "2002-03-04",
+        "title": "Great Homes of Rochester",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/etjmogSYio4yDM3sXsM2ZlKtUxa.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1047233,
+        "original_language": "fr",
+        "original_title": "La Grande Cordée",
+        "overview": "",
+        "popularity": 0.1283,
+        "poster_path": "/i2SWQDTTqeXRLFlEp1PpQal0ECt.jpg",
+        "release_date": "1997-01-01",
+        "title": "La Grande Cordée",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Wde6vVUinCJBJ4XrHFAN419bca.jpg",
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 462103,
+        "original_language": "de",
+        "original_title": "Wer war Hitler",
+        "overview": "Hitler's biography told like never before. Besides brief historical localizations by a narrator, only contemporaries and Hitler himself speak: no interviews, no reenactment, no illustrative graphics and no technical gadgets. The testimonies from diaries, letters, speeches and autobiographies are assembled with new, often unpublished archive material. Hitler's life and work are thus reflected in a unique way in interaction with the image of the society in the years 1889 to 1945.",
+        "popularity": 0.3504,
+        "poster_path": "/3IvtUU65Xzuw3StE7VjxDAfWGZc.jpg",
+        "release_date": "2017-11-16",
+        "title": "Who was Hitler",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+      }
+    ],
+    "total_pages": 10902,
+    "total_results": 218036
+  }
+}

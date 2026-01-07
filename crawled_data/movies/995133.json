@@ -1,0 +1,914 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/wO0MIGcA7w7tBI9Ey80Q4Z7qnPm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.bbc.co.uk/programmes/m001gn7t",
+    "id": 995133,
+    "imdb_id": "tt22667880",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Boy, the Mole, the Fox and the Horse",
+    "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
+    "popularity": 3.2329,
+    "poster_path": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+    "production_companies": [
+      {
+        "id": 183947,
+        "logo_path": null,
+        "name": "NoneMore Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 3324,
+        "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+        "name": "BBC",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-12-25",
+    "revenue": 0,
+    "runtime": 35,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A journey, in search of home.",
+    "title": "The Boy, the Mole, the Fox and the Horse",
+    "video": false,
+    "vote_average": 8.209,
+    "vote_count": 683
+  },
+  "credits": {
+    "id": 995133,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3024068,
+        "known_for_department": "Acting",
+        "name": "Jude Coward Nicoll",
+        "original_name": "Jude Coward Nicoll",
+        "popularity": 1.7336,
+        "profile_path": "/eifbyTAxneBQhrZ594gwTizrYBE.jpg",
+        "cast_id": 11,
+        "character": "The Boy (voice)",
+        "credit_id": "634480b6b7a154007cc72050",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2441,
+        "known_for_department": "Acting",
+        "name": "Tom Hollander",
+        "original_name": "Tom Hollander",
+        "popularity": 4.4227,
+        "profile_path": "/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg",
+        "cast_id": 8,
+        "character": "The Mole (voice)",
+        "credit_id": "6344805725b95500822b3d73",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17605,
+        "known_for_department": "Acting",
+        "name": "Idris Elba",
+        "original_name": "Idris Elba",
+        "popularity": 7.5223,
+        "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg",
+        "cast_id": 9,
+        "character": "The Fox (voice)",
+        "credit_id": "63448077d34eb3009036703c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5168,
+        "known_for_department": "Acting",
+        "name": "Gabriel Byrne",
+        "original_name": "Gabriel Byrne",
+        "popularity": 2.9743,
+        "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg",
+        "cast_id": 10,
+        "character": "The Horse (voice)",
+        "credit_id": "6344809f9bcd0f007af9cafa",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3735212,
+        "known_for_department": "Directing",
+        "name": "Peter Baynton",
+        "original_name": "Peter Baynton",
+        "popularity": 0.4244,
+        "profile_path": null,
+        "credit_id": "63447e4b25b95500822b3d12",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3735213,
+        "known_for_department": "Directing",
+        "name": "Charlie Mackesy",
+        "original_name": "Charlie Mackesy",
+        "popularity": 1.341,
+        "profile_path": "/cr8fSfkJ2JOfQgIZX1FjWCKLcMu.jpg",
+        "credit_id": "63447e77cffeed007c787339",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1782620,
+        "known_for_department": "Production",
+        "name": "Cara Speller",
+        "original_name": "Cara Speller",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "credit_id": "63447e8e25b955007a8b9dde",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15344,
+        "known_for_department": "Directing",
+        "name": "J.J. Abrams",
+        "original_name": "J.J. Abrams",
+        "popularity": 2.9591,
+        "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg",
+        "credit_id": "63447eaed6c300007f5f1655",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2014297,
+        "known_for_department": "Production",
+        "name": "Hannah Minghella",
+        "original_name": "Hannah Minghella",
+        "popularity": 0.2353,
+        "profile_path": "/s5QVlwjbZdCJFIgYN4qBQqvTe7H.jpg",
+        "credit_id": "63447ebfb7a1540090c3ca7b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3735214,
+        "known_for_department": "Production",
+        "name": "Jony Ive",
+        "original_name": "Jony Ive",
+        "popularity": 0.0327,
+        "profile_path": "/qmgtDpfav8vsU9zhjD6E0CamZxi.jpg",
+        "credit_id": "63447f9925b95500822b3d4d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57755,
+        "known_for_department": "Acting",
+        "name": "Woody Harrelson",
+        "original_name": "Woody Harrelson",
+        "popularity": 7.1074,
+        "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg",
+        "credit_id": "63447fb3d6c300007aa2ff42",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312262,
+        "known_for_department": "Writing",
+        "name": "Jon Croker",
+        "original_name": "Jon Croker",
+        "popularity": 1.1419,
+        "profile_path": "/miH6limlqar1VBL3ED8ag4sxHKn.jpg",
+        "credit_id": "6344865e9c97bd00796d9dcf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3735213,
+        "known_for_department": "Directing",
+        "name": "Charlie Mackesy",
+        "original_name": "Charlie Mackesy",
+        "popularity": 1.341,
+        "profile_path": "/cr8fSfkJ2JOfQgIZX1FjWCKLcMu.jpg",
+        "credit_id": "63449901d6c300007f5f1b4d",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2153234,
+        "known_for_department": "Sound",
+        "name": "Isobel Waller-Bridge",
+        "original_name": "Isobel Waller-Bridge",
+        "popularity": 0.3098,
+        "profile_path": "/utAh6PAAJ38znlnxEX0ne2pgLV3.jpg",
+        "credit_id": "634499c2a61de1007ddb8217",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1605893,
+        "known_for_department": "Sound",
+        "name": "Geoff Alexander",
+        "original_name": "Geoff Alexander",
+        "popularity": 0.5639,
+        "profile_path": null,
+        "credit_id": "634499fd7a97ab007a9cc637",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3853997,
+        "known_for_department": "Production",
+        "name": "Matthew Freud",
+        "original_name": "Matthew Freud",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "63b1f45a7ef3811f58cb5542",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3854051,
+        "known_for_department": "Editing",
+        "name": "Daniel Budin",
+        "original_name": "Daniel Budin",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "credit_id": "63b1fd085ad76b00e6f957a5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63600,
+        "known_for_department": "Production",
+        "name": "Rachel Freck",
+        "original_name": "Rachel Freck",
+        "popularity": 0.2281,
+        "profile_path": null,
+        "credit_id": "63b1fd1ec56d2d007c8415ec",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3574179,
+        "known_for_department": "Production",
+        "name": "Jessica Mescall",
+        "original_name": "Jessica Mescall",
+        "popularity": 0.1755,
+        "profile_path": "/fqI6b6XrqCHX3W18aR5sfRbulJf.jpg",
+        "credit_id": "63b1fd2d875d1a00e274dcbd",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3854054,
+        "known_for_department": "Art",
+        "name": "Mike McCain",
+        "original_name": "Mike McCain",
+        "popularity": 0.1476,
+        "profile_path": null,
+        "credit_id": "63b1fd524544af00898dbbe2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3107971,
+        "known_for_department": "Production",
+        "name": "Anna FitzSimons",
+        "original_name": "Anna FitzSimons",
+        "popularity": 0.7624,
+        "profile_path": null,
+        "credit_id": "63b1fdaa66362700d70717a3",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7659,
+        "known_for_department": "Sound",
+        "name": "Adrian Rhodes",
+        "original_name": "Adrian Rhodes",
+        "popularity": 1.3144,
+        "profile_path": null,
+        "credit_id": "63b1fe6457530e008501f5d7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7659,
+        "known_for_department": "Sound",
+        "name": "Adrian Rhodes",
+        "original_name": "Adrian Rhodes",
+        "popularity": 1.3144,
+        "profile_path": null,
+        "credit_id": "63b1fe6e875d1a00a01fbd5d",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7659,
+        "known_for_department": "Sound",
+        "name": "Adrian Rhodes",
+        "original_name": "Adrian Rhodes",
+        "popularity": 1.3144,
+        "profile_path": null,
+        "credit_id": "63b1fe7657530e00c482661c",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095762,
+        "known_for_department": "Editing",
+        "name": "Thomas Urbye",
+        "original_name": "Thomas Urbye",
+        "popularity": 0.2168,
+        "profile_path": null,
+        "credit_id": "63b1feacc56d2d00a982e174",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2484055,
+        "known_for_department": "Production",
+        "name": "Ayela Butt",
+        "original_name": "Ayela Butt",
+        "popularity": 0.1738,
+        "profile_path": null,
+        "credit_id": "63b1fee41d1bf4008288e067",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312262,
+        "known_for_department": "Writing",
+        "name": "Jon Croker",
+        "original_name": "Jon Croker",
+        "popularity": 1.1419,
+        "profile_path": "/miH6limlqar1VBL3ED8ag4sxHKn.jpg",
+        "credit_id": "641cfdceae6f0900eadc0258",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3735213,
+        "known_for_department": "Directing",
+        "name": "Charlie Mackesy",
+        "original_name": "Charlie Mackesy",
+        "popularity": 1.341,
+        "profile_path": "/cr8fSfkJ2JOfQgIZX1FjWCKLcMu.jpg",
+        "credit_id": "641cfdd2344a8e007bf249fd",
+        "department": "Writing",
+        "job": "Adaptation"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 995133,
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 3929,
+        "name": "hope"
+      },
+      {
+        "id": 2527,
+        "name": "fox"
+      },
+      {
+        "id": 2673,
+        "name": "horse"
+      },
+      {
+        "id": 15101,
+        "name": "based on children's book"
+      },
+      {
+        "id": 15120,
+        "name": "kindness"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 209792,
+        "name": "candid"
+      },
+      {
+        "id": 234662,
+        "name": "hand drawn animation"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 299369,
+        "name": "courage"
+      },
+      {
+        "id": 325769,
+        "name": "appreciative"
+      },
+      {
+        "id": 325795,
+        "name": "dignified"
+      },
+      {
+        "id": 325824,
+        "name": "hopeful"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 1072981,
+        "original_language": "be",
+        "original_title": "Паданне пра гуслі",
+        "overview": "",
+        "popularity": 0.2552,
+        "poster_path": "/cEAnr4HzAZp9Wyqy3B2hPiLPNRa.jpg",
+        "release_date": "2019-01-01",
+        "title": "Паданне пра гуслі",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 486501,
+        "original_language": "en",
+        "original_title": "Josephine",
+        "overview": "A mysterious woman watches her house burn down and goes on a cathartic journey.",
+        "popularity": 0.7594,
+        "poster_path": "/yzqvrc7TxgM8I1KIptV4tLps4kk.jpg",
+        "release_date": "2016-10-22",
+        "title": "Josephine",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lTVZzQVLL679lPnRBXyIvG9nP12.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 1458612,
+        "original_language": "en",
+        "original_title": "Pow!",
+        "overview": "A Native American kid scrambles to charge his dying video game console at a bustling intertribal powwow.",
+        "popularity": 0.4856,
+        "poster_path": "/lS6OIkUKKwbE862r7k04NzWj9DF.jpg",
+        "release_date": "2025-03-28",
+        "title": "Pow!",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nN4Gs3vZAOJ1D6FRtrwbU9VGYwU.jpg",
+        "genre_ids": [
+          16,
+          14,
+          10751,
+          35,
+          10749,
+          12
+        ],
+        "id": 486589,
+        "original_language": "ko",
+        "original_title": "레드슈즈",
+        "overview": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.",
+        "popularity": 4.5812,
+        "poster_path": "/MBiKqTsouYqAACLYNDadsjhhC0.jpg",
+        "release_date": "2019-07-25",
+        "title": "Red Shoes and the Seven Dwarfs",
+        "video": false,
+        "vote_average": 7.703,
+        "vote_count": 1121
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60IMi4TZJleNQLs1Xwq9FDvyFSE.jpg",
+        "genre_ids": [
+          28,
+          12,
+          18,
+          10751,
+          37
+        ],
+        "id": 38048,
+        "original_language": "en",
+        "original_title": "The Wild Stallion",
+        "overview": "C.J. and Hanna become the greatest of friends when the latter visits the former on the ranch where she lives, with the purpose of photographing the horses for her school project. The two unearth a secret plot which may put the mustangs in danger.",
+        "popularity": 0.4342,
+        "poster_path": "/p3dLLftw7sYmtKtHWbrgqepo5wL.jpg",
+        "release_date": "2009-10-06",
+        "title": "The Wild Stallion",
+        "video": false,
+        "vote_average": 6.068,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mG01EhobVbHfdr4LEQA0jaOjt5c.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10770
+        ],
+        "id": 38060,
+        "original_language": "en",
+        "original_title": "The Lorax",
+        "overview": "The Once-ler, a ruined industrialist, tells the tale of his rise to wealth and subsequent fall, as he disregarded the warnings of a wise old forest creature called the Lorax about the environmental destruction caused by his greed.",
+        "popularity": 3.9494,
+        "poster_path": "/1f2T6PDGXcsCfkeizkwS4O1dyQD.jpg",
+        "release_date": "1972-02-14",
+        "title": "The Lorax",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 138
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 879548,
+        "original_language": "en",
+        "original_title": "Log Boy",
+        "overview": "A woodsman, who loves chopping wood, is relentlessly pestered by a boy made out of logs",
+        "popularity": 0.5254,
+        "poster_path": "/gNfJD4fu9Aldnqe8LTAtmAitg1t.jpg",
+        "release_date": "2018-12-24",
+        "title": "Log Boy",
+        "video": true,
+        "vote_average": 8.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 682519,
+        "original_language": "sk",
+        "original_title": "Biely les",
+        "overview": "Love in the white forest. Watch out for your ears and heart.",
+        "popularity": 0.3268,
+        "poster_path": null,
+        "release_date": "2014-01-01",
+        "title": "White Forest",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/a8Lx6fd8A1x7maSZfl52s5717QY.jpg",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "id": 32673,
+        "original_language": "fr",
+        "original_title": "Le royaume des fées",
+        "overview": "At the royal court, a prince is presenting the princess whom he is pledged to marry when a witch suddenly appears. Though driven off, the witch soon returns, summons some of her servants, and carries off the princess. A rescue party is quickly organized, but the unfortunate captive has been taken to a strange, forbidding realm, from where it will be impossible to rescue her without some special help.",
+        "popularity": 0.4825,
+        "poster_path": "/MgxM4zp5pCKHe8sDFVygb696xK.jpg",
+        "release_date": "1903-07-25",
+        "title": "The Kingdom of the Fairies",
+        "video": false,
+        "vote_average": 6.914,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xh3Gc5LafFjUZ3K1p2PnC9tYagG.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 32713,
+        "original_language": "en",
+        "original_title": "Misty",
+        "overview": "Every year the Chincoteague fire department rounds up the wild ponies of Assateague Island and holds an auction to thin out the herd. The young children set out to raise enough money in hopes that the Phantom will be caught in this years round up. They soon realize they will get more than they bargained for when the Phantom has a surprise for everyone: a foal named Misty.",
+        "popularity": 0.3796,
+        "poster_path": "/1BKGg2CjzhxM95WH3NNQU9JkQxU.jpg",
+        "release_date": "1961-06-04",
+        "title": "Misty",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 299469,
+        "original_language": "en",
+        "original_title": "The Hoarder",
+        "overview": "A greedy little blue jay carries away whatever his beak can grasp. Berries, birds' eggs (nests and all), and even the sun in the sky go into his secret cache.",
+        "popularity": 1.0904,
+        "poster_path": "/ggCROoNsNGJiIRsABuf0mjXTQT4.jpg",
+        "release_date": "1969-01-01",
+        "title": "The Hoarder",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 878677,
+        "original_language": "pt",
+        "original_title": "O Nascimento",
+        "overview": "Short stop motion animation with finger nails.",
+        "popularity": 0.1917,
+        "poster_path": "/mh5Kbi5u5FgflUGa893SnDuhofM.jpg",
+        "release_date": "2009-01-01",
+        "title": "The Birth",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m67smI1IIMmYzCl9axvKNULVKLr.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          16,
+          12
+        ],
+        "id": 301528,
+        "original_language": "en",
+        "original_title": "Toy Story 4",
+        "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+        "popularity": 10.2517,
+        "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+        "release_date": "2019-06-19",
+        "title": "Toy Story 4",
+        "video": false,
+        "vote_average": 7.47,
+        "vote_count": 10277
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sVpnAwsupjzCx7DWfMq8d0KvGyl.jpg",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 681783,
+        "original_language": "id",
+        "original_title": "Nussa",
+        "overview": "Planning to impress his father who is coming home after being abroad for a year, Nussa the smart 9-year-old kid participates in his school’s science competition. But when he receives news that his father cancelled his trip home and is unable to attend the competition, and at the same time a new, smart student named Jonni quickly becomes his rival in the school's science competition, Nussa learns the true meaning of gratitude.",
+        "popularity": 0.2702,
+        "poster_path": "/7YIJfevShJz6mmW6F2zKy4fljeK.jpg",
+        "release_date": "2021-10-14",
+        "title": "Nussa",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jQzmXfjv9p2YVz5NqTTEQdDIwnl.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "id": 35680,
+        "original_language": "en",
+        "original_title": "Madeline",
+        "overview": "Horrified at the prospect of her beloved school being sold, a young French girl named Madeline uses her wit and craftiness to attempt to save it, making an unlikely new friend in the process.",
+        "popularity": 1.5701,
+        "poster_path": "/nAGRLwJC0jv7QlfJR6y32xRZqcF.jpg",
+        "release_date": "1998-07-10",
+        "title": "Madeline",
+        "video": false,
+        "vote_average": 6.219,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/afmdDeou88W4OOJXr1Tepu2tLjX.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 35691,
+        "original_language": "en",
+        "original_title": "Letters to God",
+        "overview": "A young boy fighting cancer writes letters to God, touching lives in his neighborhood and inspiring hope among everyone he comes in contact. An unsuspecting substitute postman, with a troubled life of his own, becomes entangled in the boy's journey and his family by reading the letters. They inspire him to seek a better life for himself and his own son he's lost through his alcohol addiction.",
+        "popularity": 0.7736,
+        "poster_path": "/vkOXEUy9J0GNtrqXY9Z9rl9pDHf.jpg",
+        "release_date": "2010-04-09",
+        "title": "Letters to God",
+        "video": false,
+        "vote_average": 6.828,
+        "vote_count": 137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Aenp56n7u4ZC7i33z9hlBmzyyXZ.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 35807,
+        "original_language": "en",
+        "original_title": "Aquarela do Brasil",
+        "overview": "José Carioca, showing Donald Duck around South America and introducing him to the samba",
+        "popularity": 0.2539,
+        "poster_path": "/gTh34D1rWA6MuW6NRo6By31vSzG.jpg",
+        "release_date": "1942-08-24",
+        "title": "Aquarela do Brasil",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gxEsfgJxgqYL3hlg9yKNU8Qsycq.jpg",
+        "genre_ids": [
+          16,
+          878,
+          10749
+        ],
+        "id": 37910,
+        "original_language": "ja",
+        "original_title": "ほしのこえ",
+        "overview": "It is 2046 when a mysterious alien force begins their annihilation of the human race. Leaving behind the one person she loves, Mikako joins the interstellar battle as a pilot. And so - while Mikako risks her life to save mankind - Noboru waits. The two lovers, worlds apart, desperately strive to remain connected as the gap between them widens at a frightening pace.",
+        "popularity": 4.8918,
+        "poster_path": "/mvRqW2z4iBws3CDkCNmojksyr4V.jpg",
+        "release_date": "2002-02-02",
+        "title": "Voices of a Distant Star",
+        "video": false,
+        "vote_average": 6.537,
+        "vote_count": 321
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3DHBsuI6KkEDc8kz7vdkkYQYTkH.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 37920,
+        "original_language": "en",
+        "original_title": "An American Rhapsody",
+        "overview": "A Hungarian family forced to flee the Communist country for the United States must leave a young daughter behind. Six years later, the family arranges to bring the absent daughter to the United States where she has trouble adjusting. The daughter then decides to travel to Budapest to discover her identity.",
+        "popularity": 0.8935,
+        "poster_path": "/lXkWyYiMKx3o187CYH7fcrzEjAJ.jpg",
+        "release_date": "2001-06-22",
+        "title": "An American Rhapsody",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 79
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yzGwp0gyVGs6oJzk5FslgUWwMwD.jpg",
+        "genre_ids": [
+          16,
+          878
+        ],
+        "id": 37928,
+        "original_language": "ja",
+        "original_title": "センコロール",
+        "overview": "A giant monster sends a town's citizens into a panic, except for a girl named Yuki and her schoolmate Tetsu. Tetsu happens to have his own strange creature named Cenco as a pet. Another boy named Shuu controls the monster threatening the town, and the stage is set for a battle.",
+        "popularity": 0.8726,
+        "poster_path": "/k1IeVdhsM3vnXjEfZr0kdilnttY.jpg",
+        "release_date": "2009-08-22",
+        "title": "Cencoroll",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 50
+      }
+    ],
+    "total_pages": 8047,
+    "total_results": 160924
+  }
+}

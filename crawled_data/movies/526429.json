@@ -1,0 +1,985 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/p1nXKEZAzGuFNNSVD1WM1uVrk1F.jpg",
+    "belongs_to_collection": {
+      "id": 688209,
+      "name": "Made in Abyss Collection",
+      "poster_path": "/sTi70ds9BQ7gzvPJb76ZPYOcPfr.jpg",
+      "backdrop_path": "/q55s0jn3cM5nAJE7EeHAiobU3tU.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "http://miabyss.com",
+    "id": 526429,
+    "imdb_id": "tt10068544",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "劇場版総集編【後編】メイドインアビス 放浪する黄昏",
+    "overview": "Second compilation movie of the TV series which covers episodes 9-13. Riko and Reg descend to the third and fourth layer where Riko has her first experience of the Curse.",
+    "popularity": 1.8838,
+    "poster_path": "/ivEZMkRng0VvDuQUoU8nhtqcfwe.jpg",
+    "production_companies": [
+      {
+        "id": 16738,
+        "logo_path": "/Lf0udeB7OwHoFJ0XIxVwfyGOqE.png",
+        "name": "Kinema Citrus",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2019-01-18",
+    "revenue": 0,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Made in Abyss: Wandering Twilight",
+    "video": false,
+    "vote_average": 8.292,
+    "vote_count": 132
+  },
+  "credits": {
+    "id": 526429,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1647636,
+        "known_for_department": "Acting",
+        "name": "Miyu Tomita",
+        "original_name": "富田美憂",
+        "popularity": 2.892,
+        "profile_path": "/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg",
+        "cast_id": 6,
+        "character": "Riko (voice)",
+        "credit_id": "5e321ee798f1f1000f008760",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1250465,
+        "known_for_department": "Acting",
+        "name": "Mariya Ise",
+        "original_name": "伊瀬茉莉也",
+        "popularity": 2.6339,
+        "profile_path": "/tQWlgrlQ70biWdg7x9E75CtwsuD.jpg",
+        "cast_id": 7,
+        "character": "Reg (voice)",
+        "credit_id": "5e321eed4ca67600144cadd8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1647448,
+        "known_for_department": "Acting",
+        "name": "Shiori Izawa",
+        "original_name": "井澤詩織",
+        "popularity": 2.4574,
+        "profile_path": "/f9V38OeDvRGevWuKc4dN6LB62TH.jpg",
+        "cast_id": 8,
+        "character": "Nanachi (voice)",
+        "credit_id": "5e321ef2ac8e6b0018bfdc3a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225999,
+        "known_for_department": "Acting",
+        "name": "Eri Kitamura",
+        "original_name": "喜多村英梨",
+        "popularity": 2.711,
+        "profile_path": "/9WWqr734lWfs6YOQikkBBs7Rgo4.jpg",
+        "cast_id": 9,
+        "character": "Mitty (voice)",
+        "credit_id": "5e321ef6c56d2d001a513809",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 148447,
+        "known_for_department": "Acting",
+        "name": "Sayaka Ohara",
+        "original_name": "大原さやか",
+        "popularity": 3.5157,
+        "profile_path": "/4WQXLzj0gjYqkYFcTTxAkIwedvr.jpg",
+        "cast_id": 10,
+        "character": "Ozen (voice)",
+        "credit_id": "5e321efcac8e6b001abf853f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235262,
+        "known_for_department": "Acting",
+        "name": "Aki Toyosaki",
+        "original_name": "豊崎愛生",
+        "popularity": 1.8549,
+        "profile_path": "/crZpbb0ILJnH7mIYZV2l4uqQx1J.jpg",
+        "cast_id": 11,
+        "character": "Marulk (voice)",
+        "credit_id": "5e321f01813cb6001248c5b3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253972,
+        "known_for_department": "Acting",
+        "name": "Mutsumi Tamura",
+        "original_name": "田村睦心",
+        "popularity": 1.5331,
+        "profile_path": "/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg",
+        "cast_id": 12,
+        "character": "Nat (voice)",
+        "credit_id": "5e321f06c56d2d001551b091",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255653,
+        "known_for_department": "Acting",
+        "name": "Manami Numakura",
+        "original_name": "沼倉愛美",
+        "popularity": 2.1502,
+        "profile_path": "/eDbMXgeTCA2D6i7894Ag43RADrk.jpg",
+        "cast_id": 13,
+        "character": "Shiggy (voice)",
+        "credit_id": "5e321f0b98f1f1000f0087ef",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1799482,
+        "known_for_department": "Acting",
+        "name": "Natsuko Hara",
+        "original_name": "原奈津子",
+        "popularity": 1.2065,
+        "profile_path": "/78nmowqst7egSHh3GkUdGR0JwdB.jpg",
+        "cast_id": 14,
+        "character": "Ilim (voice)",
+        "credit_id": "5e321f0fc56d2d001551b0a4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1244721,
+        "known_for_department": "Acting",
+        "name": "Shinji Kawada",
+        "original_name": "川田紳司",
+        "popularity": 1.335,
+        "profile_path": "/bynL2ngE9ieW8tSDRUuQM8NmRAE.jpg",
+        "cast_id": 15,
+        "character": "Staff (voice)",
+        "credit_id": "5e321f144ca67600174dad7f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239117,
+        "known_for_department": "Acting",
+        "name": "Yoshimitsu Shimoyama",
+        "original_name": "下山吉光",
+        "popularity": 1.4692,
+        "profile_path": "/h4kyIMZfQ88je27BB6isTrcJJ0A.jpg",
+        "cast_id": 16,
+        "character": "Tankutsuka (voice)",
+        "credit_id": "5e321f18ac8e6b0015bff916",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2463612,
+        "known_for_department": "Acting",
+        "name": "Kaori Motoyama",
+        "original_name": "本山かおり",
+        "popularity": 1.1501,
+        "profile_path": "/yngmc2iUXBs4xuSw302gd2saQNl.jpg",
+        "cast_id": 17,
+        "character": "(voice)",
+        "credit_id": "5e321f22813cb6001448ac26",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9711,
+        "known_for_department": "Acting",
+        "name": "Maaya Sakamoto",
+        "original_name": "坂本真綾",
+        "popularity": 2.6069,
+        "profile_path": "/hPz2oEQui8a4q9aXdBugQf93ONq.jpg",
+        "cast_id": 18,
+        "character": "Lyza / Narrator (voice)",
+        "credit_id": "5e321f39ac8e6b0018bfdce4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9706,
+        "known_for_department": "Acting",
+        "name": "Toshiyuki Morikawa",
+        "original_name": "森川智之",
+        "popularity": 3.4242,
+        "profile_path": "/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg",
+        "cast_id": 19,
+        "character": "Bondrewd (voice)",
+        "credit_id": "5e321f3e813cb6001448ac72",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325949,
+        "known_for_department": "Acting",
+        "name": "Inori Minase",
+        "original_name": "水瀬いのり",
+        "popularity": 3.9832,
+        "profile_path": "/lKc1xtRCLW18O0xaJCL5mJ6ii2.jpg",
+        "cast_id": 20,
+        "character": "Prushka (voice)",
+        "credit_id": "5e321f43c56d2d001551b162",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 148448,
+        "known_for_department": "Acting",
+        "name": "Yoko Soumi",
+        "original_name": "沢海陽子",
+        "popularity": 1.2088,
+        "profile_path": "/4gUG0v1HJPh0gLba6XOcLvTMpto.jpg",
+        "cast_id": 21,
+        "character": "Belchero (voice)",
+        "credit_id": "5eefecb76e3deb0036a2be50",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2862466,
+        "known_for_department": "Acting",
+        "name": "Nodoka Hasegawa",
+        "original_name": "長谷川暖",
+        "popularity": 1.0818,
+        "profile_path": "/gZn9jnapSyTZwhtR29LqXrzvXR9.jpg",
+        "cast_id": 25,
+        "character": "(voice)",
+        "credit_id": "60e3659927ff990074dc90f0",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3147122,
+        "known_for_department": "Acting",
+        "name": "Natsuki",
+        "original_name": "夏生",
+        "popularity": 0.5855,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Child (voice)",
+        "credit_id": "60e3661e8805510074df62f4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3147123,
+        "known_for_department": "Acting",
+        "name": "Sena Shoji",
+        "original_name": "Sena Shoji",
+        "popularity": 0.309,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Child (voice)",
+        "credit_id": "60e3665184591c0074b40be8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3147124,
+        "known_for_department": "Acting",
+        "name": "Miki Egoshi",
+        "original_name": "Miki Egoshi",
+        "popularity": 0.0528,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Child (voice)",
+        "credit_id": "60e36668caa508002efef1a8",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3147125,
+        "known_for_department": "Acting",
+        "name": "Asuka Maesako",
+        "original_name": "前迫愛朱佳",
+        "popularity": 0.5956,
+        "profile_path": "/8bRQEAUviyiIx7o4VKlyF49pv9I.jpg",
+        "cast_id": 29,
+        "character": "(voice)",
+        "credit_id": "60e3669b1e922500462b969b",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361675,
+        "known_for_department": "Sound",
+        "name": "Kevin Penkin",
+        "original_name": "Kevin Penkin",
+        "popularity": 0.5695,
+        "profile_path": "/ijrOjpyxj1yyTs1CEpFxA62xSpK.jpg",
+        "credit_id": "60ba0621899da2002b290e50",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967079,
+        "known_for_department": "Writing",
+        "name": "Akihito Tsukushi",
+        "original_name": "つくしあきひと",
+        "popularity": 1.1385,
+        "profile_path": "/kmoetASd9cB7XM7sNQMNBBsipkZ.jpg",
+        "credit_id": "60ba06e1cb9f4b0058d9b4a8",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361675,
+        "known_for_department": "Sound",
+        "name": "Kevin Penkin",
+        "original_name": "Kevin Penkin",
+        "popularity": 0.5695,
+        "profile_path": "/ijrOjpyxj1yyTs1CEpFxA62xSpK.jpg",
+        "credit_id": "62730c11676ce20051e9f850",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1848209,
+        "known_for_department": "Visual Effects",
+        "name": "Kou Yoshinari",
+        "original_name": "吉成鋼",
+        "popularity": 1.1904,
+        "profile_path": null,
+        "credit_id": "619bb707be7f350090800aca",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992649,
+        "known_for_department": "Writing",
+        "name": "Hideyuki Kurata",
+        "original_name": "倉田英之",
+        "popularity": 0.7179,
+        "profile_path": null,
+        "credit_id": "619bb70d5c071b0065f76631",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230411,
+        "known_for_department": "Directing",
+        "name": "Masayuki Kojima",
+        "original_name": "小島正幸",
+        "popularity": 1.5743,
+        "profile_path": "/ghhW9DpZSKTtbfAsAODEQiDUCgJ.jpg",
+        "credit_id": "64cbee5943cd5400add5d481",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230411,
+        "known_for_department": "Directing",
+        "name": "Masayuki Kojima",
+        "original_name": "小島正幸",
+        "popularity": 1.5743,
+        "profile_path": "/ghhW9DpZSKTtbfAsAODEQiDUCgJ.jpg",
+        "credit_id": "64cbee52706e56014ec4488f",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230411,
+        "known_for_department": "Directing",
+        "name": "Masayuki Kojima",
+        "original_name": "小島正幸",
+        "popularity": 1.5743,
+        "profile_path": "/ghhW9DpZSKTtbfAsAODEQiDUCgJ.jpg",
+        "credit_id": "5bf9f6e00e0a263aba01ff15",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473665,
+        "known_for_department": "Art",
+        "name": "Osamu Masuyama",
+        "original_name": "増山修",
+        "popularity": 1.5451,
+        "profile_path": "/lyhkGJ36gCuDHqXeifjfCXndb5W.jpg",
+        "credit_id": "5bf9f76292514104be01dd78",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16142,
+        "known_for_department": "Visual Effects",
+        "name": "Kazuchika Kise",
+        "original_name": "黄瀬和哉",
+        "popularity": 0.987,
+        "profile_path": "/rb6egNuug67QbRMgYLPMKN45FKL.jpg",
+        "credit_id": "5bf9f74492514104be01dd5d",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 526429,
+    "keywords": [
+      {
+        "id": 516,
+        "name": "child abuse"
+      },
+      {
+        "id": 4978,
+        "name": "immortality"
+      },
+      {
+        "id": 1353,
+        "name": "underground"
+      },
+      {
+        "id": 4759,
+        "name": "exploration"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 10614,
+        "name": "tragedy"
+      },
+      {
+        "id": 12197,
+        "name": "compilation"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 14544,
+        "name": "robot"
+      },
+      {
+        "id": 155587,
+        "name": "mature"
+      },
+      {
+        "id": 175428,
+        "name": "adventurer"
+      },
+      {
+        "id": 177895,
+        "name": "dark fantasy"
+      },
+      {
+        "id": 189092,
+        "name": "journey"
+      },
+      {
+        "id": 194008,
+        "name": "edited from tv series"
+      },
+      {
+        "id": 195668,
+        "name": "seinen"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          878
+        ],
+        "id": 1072941,
+        "original_language": "en",
+        "original_title": "Shinobi",
+        "overview": "In the future, Miko, a Japanese psychic warrior is looking to destroy a corporation that mass produces robots called \"Shinobi\" in order to avenge the death of her loved one.",
+        "popularity": 0.5674,
+        "poster_path": "/oqz5eUeLyhAwwEt1gmqGPbzq445.jpg",
+        "release_date": "",
+        "title": "Shinobi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gMWCBtvIWLm4APa2qlF7QATvQS3.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1458643,
+        "original_language": "ja",
+        "original_title": "ツインズひなひま",
+        "overview": "Two girls dream of going viral on TikToker until they discover something strange in their videos.",
+        "popularity": 0.3121,
+        "poster_path": "/jZjjExtPubcdteOQTSIS0j5eKdV.jpg",
+        "release_date": "2025-03-28",
+        "title": "Twins Hinahima",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yWZCOzib7BipGjYJ39nrplb1Fy.jpg",
+        "genre_ids": [
+          28,
+          16,
+          878
+        ],
+        "id": 303857,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールZ 復活の「F」",
+        "overview": "One peaceful day on Earth, two remnants of Frieza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.",
+        "popularity": 7.9243,
+        "poster_path": "/soq3AxjALdBfdPAm8H7yuMmNL5Y.jpg",
+        "release_date": "2015-04-18",
+        "title": "Dragon Ball Z: Resurrection 'F'",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 1976
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uyvKj5YrunaVbl2Z9kNBA9wIi8D.jpg",
+        "genre_ids": [
+          16,
+          18,
+          878
+        ],
+        "id": 303867,
+        "original_language": "en",
+        "original_title": "World of Tomorrow",
+        "overview": "A little girl is taken on a mind-bending tour of her distant future.",
+        "popularity": 0.703,
+        "poster_path": "/5s7DSOek7Bk2CvcG1zX01bJzJ0x.jpg",
+        "release_date": "2015-01-22",
+        "title": "World of Tomorrow",
+        "video": false,
+        "vote_average": 7.816,
+        "vote_count": 347
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k5OFuW1NdI1Lt57nzXEjxwd8zGv.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          28,
+          35,
+          18
+        ],
+        "id": 303903,
+        "original_language": "ja",
+        "original_title": "ポケモン・ザ・ムービーXY 破壊の繭とディアンシー",
+        "overview": "In the underground Diamond Domain, where many Carbink live, the Mythical Pokémon Diancie serves as ruler. The Heart Diamond that sustains the land is beginning to fall apart, and Diancie is not yet strong enough to create a new one. While seeking help from the Legendary Pokémon Xerneas, Diancie encounters a group of thieves who want to take control of its diamond-producing power–and who awaken the Legendary Pokémon Yveltal from its cocoon in the process! Can Ash and his friends help Diancie discover its true power, stop Yveltal’s rampage, and save the Diamond Domain?",
+        "popularity": 6.0658,
+        "poster_path": "/rA0KbJZbBt2fMmZs8bwPZnzFfDc.jpg",
+        "release_date": "2014-07-19",
+        "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 191
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "id": 1071585,
+        "original_language": "en",
+        "original_title": "M3GAN 2.0",
+        "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+        "popularity": 21.2853,
+        "poster_path": "/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
+        "release_date": "2025-06-25",
+        "title": "M3GAN 2.0",
+        "video": false,
+        "vote_average": 7.348,
+        "vote_count": 1063
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zTgzGV8UYvc3XjIlqaGaujp6tGd.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1071639,
+        "original_language": "ja",
+        "original_title": "平野と鍵浦",
+        "overview": "The diligent high school freshman Akira Kagiura and his senior Taiga Hirano have been roommates for half a year. Kagiura used to be anxious about his future dormitory life, but thanks to his energetic senior looking out for him, he has come to feel content and at ease. As he continues to rely on Hirano more and more each day, he develops strong feelings for his selfless friend. In the six months they have left as roommates, Kagiura is determined to put a name to the relationship he cherishes so dearly before it comes to an end.",
+        "popularity": 0.5381,
+        "poster_path": "/dbgRc2vtKqOf0IpzvtAoovClFAU.jpg",
+        "release_date": "2023-02-17",
+        "title": "Hirano and Kagiura",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zA9p0cZK0AcWepTslez1GL3AwH1.jpg",
+        "genre_ids": [
+          16,
+          878,
+          18,
+          28
+        ],
+        "id": 36613,
+        "original_language": "ja",
+        "original_title": "機動戦艦ナデシコ -The prince of darkness-",
+        "overview": "Two years have passed since the Great War. Akito and Yurika have vanished. The Jovians and the Earthlings have joined forces and Ruri is now captain of Nadesico B. As the popularity of Boson Jumping grows, a vast transportation network has been developed. Dubbed the Hisago Plan, this network of Chulip portals holds the answers to the mysteries behind Bose particles and their power. If those secrets should fall into the wrong hands, it could mean big trouble. And big trouble there is. A Martian splinter group has launched an offensive, leaving the United Forces befuddled and desperate. So much so, in fact, that the former crew of the Nadesico is called back to active duty for a special unsanctioned mission-to save us all. Does this menagerie of misfits have what it takes? Who will win the race for the Boson technology? And what the heck happened to Akito and Yurika?",
+        "popularity": 1.0221,
+        "poster_path": "/bcLVfVAQthw78bGNIoZWATsPdbP.jpg",
+        "release_date": "1998-08-08",
+        "title": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cDyYWcavuvNKtf7VpNR86nWh5XF.jpg",
+        "genre_ids": [
+          878,
+          12,
+          9648
+        ],
+        "id": 36683,
+        "original_language": "ja",
+        "original_title": "20世紀少年 －第1章－ 終わりの始まり",
+        "overview": "In 1969, Kenji, an elementary school kid and his friends built a secret base during their summer holidays. They fantasized that they had to fight villains who were out to conquer the world and wrote them in the Book of Prophecies. Years later in 1997, Kenji becomes a convenience store manager and leads a regular life after giving up his dreams to become a rock star. His boring life is suddenly turned upside down when his old classmate dies mysteriously and an entire family in the neighbourhood disappears. At the same time, a religious cult and its mysterious leader, Friend emerges and a strange chain of events duplicating exactly the events described in the Book of Prophecies follow. Is this the beginning of the end of the world? Who is Friend?",
+        "popularity": 2.0716,
+        "poster_path": "/nb1fd4nZyBLUhkjnAQx5607aBMq.jpg",
+        "release_date": "2008-08-19",
+        "title": "20th Century Boys: Beginning of the End",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 102
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b6AuqUdYl5BV7eIeEL8BuMBfwJ7.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          28,
+          80
+        ],
+        "id": 32873,
+        "original_language": "ja",
+        "original_title": "ルパン三世 バビロンの黄金伝説",
+        "overview": "Lupin squares off with two criminal families and Inspector Zenigata's new female patrol to track down a hoard of biblical-era treasure.",
+        "popularity": 1.4937,
+        "poster_path": "/kpLbAF7NOBGEf1ocGKIIoiDhovC.jpg",
+        "release_date": "1985-07-13",
+        "title": "Lupin the Third: The Legend of the Gold of Babylon",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 57
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b1CEejB82HcpoPdtHWAHOPWboJH.jpg",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          878
+        ],
+        "id": 301470,
+        "original_language": "ja",
+        "original_title": "モルダイバー",
+        "overview": "A naïve young girl accidentally modifies her brother's secret superhero uniform and becomes the unwilling superheroine Moldiver.",
+        "popularity": 0.5226,
+        "poster_path": "/9YZrnEs1DCD5BLyIsOOaz9zKdvJ.jpg",
+        "release_date": "1993-06-01",
+        "title": "Moldiver",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ldB5kcildygAfxFcEsQOZQoJDvS.jpg",
+        "genre_ids": [
+          28,
+          16,
+          18
+        ],
+        "id": 301513,
+        "original_language": "ja",
+        "original_title": "あしたのジョー 劇場版",
+        "overview": "An abridged remake of the first Ashita no Joe TV series, released in 1980 to provide back-story for the second TV series to new fans who were not familiar with the first TV series or the manga.",
+        "popularity": 0.7666,
+        "poster_path": "/gOfIbRRlYlngL3ymChUUEDu95rb.jpg",
+        "release_date": "1980-03-08",
+        "title": "Tomorrow's Joe The Movie",
+        "video": false,
+        "vote_average": 8.833,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wnjsP6SuyJRPr1OwhwDXLFw3cv8.jpg",
+        "genre_ids": [
+          16,
+          12,
+          14
+        ],
+        "id": 37789,
+        "original_language": "ja",
+        "original_title": "R.O.D リード・オア・ダイ",
+        "overview": "A young female agent with a powerful psionic power over paper must stop a plot for world destruction.",
+        "popularity": 0.5034,
+        "poster_path": "/zF1ZFrCAW56M5bN6izUIsy6AShg.jpg",
+        "release_date": "2001-05-23",
+        "title": "R.O.D - Read or Die",
+        "video": true,
+        "vote_average": 6.083,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gq7DxEWheTmULhMekam9ihsiQyo.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10751
+        ],
+        "id": 37797,
+        "original_language": "ja",
+        "original_title": "耳をすませば",
+        "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'.",
+        "popularity": 6.3261,
+        "poster_path": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+        "release_date": "1995-07-15",
+        "title": "Whisper of the Heart",
+        "video": false,
+        "vote_average": 7.949,
+        "vote_count": 2191
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kLKgiP2mks8SqSMwciBzv1sBUi2.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28,
+          12,
+          14
+        ],
+        "id": 37809,
+        "original_language": "ja",
+        "original_title": "Attack of the Super Monsters",
+        "overview": "In the near future it's discovered that the dinosaurs did not die off, but instead live on near the center of the Earth. The evil lord Tyrannus uses the mutated dinosaurs descendents to attack Earth in his effort to rule the world. Can Gemini Force, a group of four superpowered teens who've pledged to protect the Earth, stop his plans? Written by Mike Konczewski 70 millions years ago, the creatures known as dinosaurs mysteriously disappeared from planet Earth. Until now, it was assumed they were extinct. In reality, they had burrowed deep into the Earth and evolved into supermonsters. In the year 2000, the people from planet Earth were amazed and terrified by the greatest catastrophe ever known to mankind: the re-appearance of the dinosaurs. Under the direction of their emperor, Tyrannus, the creatures now seek to destroy mankind.",
+        "popularity": 0.3019,
+        "poster_path": "/9MBpVfIQR7r68AXqdUVyHAHHujF.jpg",
+        "release_date": "1983-01-01",
+        "title": "Attack of the Super Monsters",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 37903,
+        "original_language": "de",
+        "original_title": "Das weiße Band - Eine deutsche Kindergeschichte",
+        "overview": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
+        "popularity": 2.8649,
+        "poster_path": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+        "release_date": "2009-09-24",
+        "title": "The White Ribbon",
+        "video": false,
+        "vote_average": 7.482,
+        "vote_count": 1095
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gxEsfgJxgqYL3hlg9yKNU8Qsycq.jpg",
+        "genre_ids": [
+          16,
+          878,
+          10749
+        ],
+        "id": 37910,
+        "original_language": "ja",
+        "original_title": "ほしのこえ",
+        "overview": "It is 2046 when a mysterious alien force begins their annihilation of the human race. Leaving behind the one person she loves, Mikako joins the interstellar battle as a pilot. And so - while Mikako risks her life to save mankind - Noboru waits. The two lovers, worlds apart, desperately strive to remain connected as the gap between them widens at a frightening pace.",
+        "popularity": 4.8918,
+        "poster_path": "/mvRqW2z4iBws3CDkCNmojksyr4V.jpg",
+        "release_date": "2002-02-02",
+        "title": "Voices of a Distant Star",
+        "video": false,
+        "vote_average": 6.537,
+        "vote_count": 321
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yzGwp0gyVGs6oJzk5FslgUWwMwD.jpg",
+        "genre_ids": [
+          16,
+          878
+        ],
+        "id": 37928,
+        "original_language": "ja",
+        "original_title": "センコロール",
+        "overview": "A giant monster sends a town's citizens into a panic, except for a girl named Yuki and her schoolmate Tetsu. Tetsu happens to have his own strange creature named Cenco as a pet. Another boy named Shuu controls the monster threatening the town, and the stage is set for a battle.",
+        "popularity": 0.8726,
+        "poster_path": "/k1IeVdhsM3vnXjEfZr0kdilnttY.jpg",
+        "release_date": "2009-08-22",
+        "title": "Cencoroll",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 50
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x5ufEAM7bS7DVXaovApamQh5BNE.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12
+        ],
+        "id": 37933,
+        "original_language": "ja",
+        "original_title": "ゲド戦記",
+        "overview": "Something bizarre has come over the land. The kingdom is deteriorating. People are beginning to act strange... What's even more strange is that people are beginning to see dragons, which shouldn't enter the world of humans. Due to all these bizarre events, Ged, a wandering wizard, is investigating the cause. During his journey, he meets Prince Arren, a young distraught teenage boy. While Arren may look like a shy young teen, he has a severe dark side, which grants him strength, hatred, ruthlessness and has no mercy, especially when it comes to protecting Teru. For the witch Kumo this is a perfect opportunity. She can use the boy's \"fears\" against the very one who would help him, Ged.",
+        "popularity": 6.1734,
+        "poster_path": "/y0VnJt4eRPMjA1hpJ8f1EFoVaSf.jpg",
+        "release_date": "2006-07-29",
+        "title": "Tales from Earthsea",
+        "video": false,
+        "vote_average": 6.522,
+        "vote_count": 1424
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jrqmkM0e0F0rRFAw0F0TNEfeyKg.jpg",
+        "genre_ids": [
+          53,
+          18,
+          9648
+        ],
+        "id": 37961,
+        "original_language": "ja",
+        "original_title": "カイジ 人生逆転ゲーム",
+        "overview": "Kaiji Ito moves to Japan after graduating from high school. Unable to find a job and frustrated with society at large, Kaiji spends his days gambling, vandalizing cars, and drinking booze. Two years later and his life is no better. A debt collector named Endo arrives to collect money owed. The debt collector offers two choices to Kaiji: spend 10 years paying off his loan or board a gambling boat for one night to repay his debt & possibly make a boat load of money. Could the debt collector Endo actually be setting up Kaiji? One way or another, for Kaiji it's going to be the night of his life.",
+        "popularity": 1.9284,
+        "poster_path": "/8C7ga0p7Ae2l38TsP82OpWgAMno.jpg",
+        "release_date": "2009-10-10",
+        "title": "Kaiji: The Ultimate Gambler",
+        "video": false,
+        "vote_average": 6.773,
+        "vote_count": 77
+      }
+    ],
+    "total_pages": 7677,
+    "total_results": 153534
+  }
+}

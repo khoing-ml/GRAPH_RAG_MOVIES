@@ -1,0 +1,827 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/ugFxOPHgjY5Q7cRt2UYCi46r7Dt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 30325,
+    "imdb_id": "tt0040898",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Los tres huastecos",
+    "overview": "This is the story of three brothers - a priest, a soldier, and an outlaw - that are raised separately by their godfathers once their mother dies. They cross their paths again when the soldier and the priest move into two towns near the town the outlaw lives in. The drama will unfold once the three brothers meet each other.",
+    "popularity": 0.573,
+    "poster_path": "/hfSIytU4h14iocSTTCyyHdaXul9.jpg",
+    "production_companies": [
+      {
+        "id": 48447,
+        "logo_path": null,
+        "name": "Producciones Rodriguez Hermanos",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1948-08-05",
+    "revenue": 0,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los tres huastecos",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 108
+  },
+  "credits": {
+    "id": 30325,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106080,
+        "known_for_department": "Acting",
+        "name": "Pedro Infante",
+        "original_name": "Pedro Infante",
+        "popularity": 3.1262,
+        "profile_path": "/sfbbx0ZJiEdMPhSSK11qHMApD4H.jpg",
+        "cast_id": 5,
+        "character": "Juan de Dios Andrade / Lorenzo Andrade / Víctor Andrade",
+        "credit_id": "544e0ced0e0a2608d4004122",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 148380,
+        "known_for_department": "Acting",
+        "name": "Blanca Estela Pavón",
+        "original_name": "Blanca Estela Pavón",
+        "popularity": 1.7678,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Maritoña",
+        "credit_id": "52fe440d9251416c91003569",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027087,
+        "known_for_department": "Acting",
+        "name": "María Eugenia Llamas",
+        "original_name": "María Eugenia Llamas",
+        "popularity": 0.188,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tucita",
+        "credit_id": "52fe440d9251416c9100356d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184453,
+        "known_for_department": "Acting",
+        "name": "Fernando Soto",
+        "original_name": "Fernando Soto",
+        "popularity": 0.2875,
+        "profile_path": "/eOSObzqiXrTwzrEDT0D8KMP1X1l.jpg",
+        "cast_id": 6,
+        "character": "Cuco",
+        "credit_id": "58ee6412c3a3684808000143",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027088,
+        "known_for_department": "Acting",
+        "name": "Alejandro Ciangherotti",
+        "original_name": "Alejandro Ciangherotti",
+        "popularity": 0.4765,
+        "profile_path": "/eeGUoqp9Ggfjzte5aSsEj7AHRKE.jpg",
+        "cast_id": 7,
+        "character": "Alejandro",
+        "credit_id": "58ee642c92514113520001ba",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106087,
+        "known_for_department": "Acting",
+        "name": "Antonio R. Frausto",
+        "original_name": "Antonio R. Frausto",
+        "popularity": 0.3427,
+        "profile_path": "/vrF6uMdYGiCWYPVvzgwkZRUloCJ.jpg",
+        "cast_id": 8,
+        "character": "Don Damián",
+        "credit_id": "58ee6445c3a368479e0001a9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027089,
+        "known_for_department": "Acting",
+        "name": "Guillermo Calles",
+        "original_name": "Guillermo Calles",
+        "popularity": 0.6003,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "El Bronco",
+        "credit_id": "58efa3a2c3a3682ea800011e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027090,
+        "known_for_department": "Acting",
+        "name": "Salvador Quiroz",
+        "original_name": "Salvador Quiroz",
+        "popularity": 0.3037,
+        "profile_path": "/s1X1tp8jXluHbEgavIf3n0Bs0Gm.jpg",
+        "cast_id": 12,
+        "character": "Coronel",
+        "credit_id": "58efa3b7c3a3682ec2000125",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027092,
+        "known_for_department": "Acting",
+        "name": "Julio Ahuet",
+        "original_name": "Julio Ahuet",
+        "popularity": 0.2004,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Capitán",
+        "credit_id": "58efa3cb925141742200015e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1027093,
+        "known_for_department": "Acting",
+        "name": "Roberto Corell",
+        "original_name": "Roberto Corell",
+        "popularity": 0.4671,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sacerdote",
+        "credit_id": "58efa3dd92514173d9000139",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 179489,
+        "known_for_department": "Acting",
+        "name": "Chel López",
+        "original_name": "Chel López",
+        "popularity": 0.3178,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Soldado",
+        "credit_id": "58efa3fcc3a3682ec200014c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027101,
+        "known_for_department": "Acting",
+        "name": "Hernán Vera",
+        "original_name": "Hernán Vera",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Cantinero",
+        "credit_id": "58efa415c3a3682e65000167",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1514445,
+        "known_for_department": "Acting",
+        "name": "Leonor Gómez",
+        "original_name": "Leonor Gómez",
+        "popularity": 0.1638,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Nana",
+        "credit_id": "58efa42bc3a3682ec2000165",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1618827,
+        "known_for_department": "Acting",
+        "name": "Andrés Huesca",
+        "original_name": "Andrés Huesca",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "(uncredited)",
+        "credit_id": "58efa44992514173dd0001b3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31795,
+        "known_for_department": "Acting",
+        "name": "Irma Dorantes",
+        "original_name": "Irma Dorantes",
+        "popularity": 0.6557,
+        "profile_path": "/5FZ7NdCyqjNqFOczyjjt19T3yVc.jpg",
+        "cast_id": 19,
+        "character": "(uncredited)",
+        "credit_id": "58efa453c3a3682e440001c3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 975965,
+        "known_for_department": "Acting",
+        "name": "María Luisa Alcalá",
+        "original_name": "María Luisa Alcalá",
+        "popularity": 0.2592,
+        "profile_path": "/gxhLfUpDsQXTv6ricOFbb5WNGvX.jpg",
+        "cast_id": 20,
+        "character": "(uncredited)",
+        "credit_id": "58efa47e92514173fe0001c6",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97967,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodríguez",
+        "original_name": "Ismael Rodríguez",
+        "popularity": 0.6727,
+        "profile_path": "/eF1S9TOq8MxYGztz7U9Rwp5hjqH.jpg",
+        "credit_id": "52fe440d9251416c91003561",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140100,
+        "known_for_department": "Editing",
+        "name": "Fernando Martínez",
+        "original_name": "Fernando Martínez",
+        "popularity": 0.2478,
+        "profile_path": null,
+        "credit_id": "65b83da7223e20017c76acbe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587097,
+        "known_for_department": "Directing",
+        "name": "Rogelio A. González",
+        "original_name": "Rogelio A. González",
+        "popularity": 0.6456,
+        "profile_path": "/xgeLLY34CD9kJlmOEF49yqsF0Ot.jpg",
+        "credit_id": "58ee645f925141136f0001d9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97967,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodríguez",
+        "original_name": "Ismael Rodríguez",
+        "popularity": 0.6727,
+        "profile_path": "/eF1S9TOq8MxYGztz7U9Rwp5hjqH.jpg",
+        "credit_id": "58ee647292514113a40001f3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234726,
+        "known_for_department": "Sound",
+        "name": "Raúl Lavista",
+        "original_name": "Raúl Lavista",
+        "popularity": 0.1372,
+        "profile_path": "/f9HjW8Y0cI3lVZ2779wOvxUuWaU.jpg",
+        "credit_id": "58efa78a92514173e100047c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027084,
+        "known_for_department": "Camera",
+        "name": "Jorge Stahl Jr.",
+        "original_name": "Jorge Stahl Jr.",
+        "popularity": 0.6456,
+        "profile_path": "/tn4mTwx70EnKfD5M1eGXQNwYARn.jpg",
+        "credit_id": "58efa79b92514173e1000492",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027085,
+        "known_for_department": "Art",
+        "name": "Carlos Toussaint",
+        "original_name": "Carlos Toussaint",
+        "popularity": 0.5022,
+        "profile_path": null,
+        "credit_id": "58efa7b0c3a3682e65000427",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511652,
+        "known_for_department": "Sound",
+        "name": "Jesús González Gancy",
+        "original_name": "Jesús González Gancy",
+        "popularity": 1.7847,
+        "profile_path": null,
+        "credit_id": "58efa7ec92514173e4000479",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 30325,
+    "keywords": [
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 5301,
+        "name": "brother"
+      },
+      {
+        "id": 9503,
+        "name": "outlaw"
+      },
+      {
+        "id": 10093,
+        "name": "priest"
+      },
+      {
+        "id": 13065,
+        "name": "soldier"
+      },
+      {
+        "id": 15405,
+        "name": "godfather"
+      },
+      {
+        "id": 33473,
+        "name": "triplet"
+      },
+      {
+        "id": 231473,
+        "name": "charro"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/f8Vy839NPniWZfkBjuG2tcG9rD4.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 479198,
+        "original_language": "en",
+        "original_title": "Tango One",
+        "overview": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+        "popularity": 3.4743,
+        "poster_path": "/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg",
+        "release_date": "2018-03-02",
+        "title": "Tango One",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fPTQdSylJ23RkywieEOnR6WMMLt.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 674599,
+        "original_language": "fi",
+        "original_title": "Sisarukset",
+        "overview": "Thirty-year-old twins Jenna and Joni find out that their father has a third child. Sister Jóna lives in Iceland. The siblings' meeting will change everyone's world, relationships and future. As each searches for meaning in their own lives,  surging between one father, two homelands and three adult siblings, from reunification to separation and back again. Over the years, the siblings encounter themselves and each other, their similarities and differences.",
+        "popularity": 2.9202,
+        "poster_path": "/raK5T861LywXgZ5IJUvudXZ1vWM.jpg",
+        "release_date": "2023-10-27",
+        "title": "Siblings",
+        "video": false,
+        "vote_average": 2.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ypOhDna6flQwGSO4Fl5uaH8i0Tn.jpg",
+        "genre_ids": [
+          18,
+          36,
+          27
+        ],
+        "id": 28365,
+        "original_language": "en",
+        "original_title": "Tower of London",
+        "overview": "In the 15th century Richard Duke of Gloucester, aided by his club-footed executioner Mord, eliminates those ahead of him in succession to the throne, then occupied by his brother King Edward IV of England. As each murder is accomplished he takes particular delight in removing small figurines, each resembling one of the successors, from a throne-room dollhouse, until he alone remains. After the death of Edward he becomes Richard III, King of England, and need only defeat the exiled Henry Tudor to retain power.",
+        "popularity": 0.4035,
+        "poster_path": "/glEWt92HOIq7uUoyMyO3JWyzH6K.jpg",
+        "release_date": "1939-11-17",
+        "title": "Tower of London",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iOhj9IPNRppo5oiJbYSniYtAffZ.jpg",
+        "genre_ids": [
+          10752,
+          18,
+          36
+        ],
+        "id": 28368,
+        "original_language": "en",
+        "original_title": "Gardens of Stone",
+        "overview": "At Arlington National Cemetery during the Vietnam era, veteran sergeant Clell Hazard trains young soldiers while mourning those lost in combat. Unable to return to war himself, he mentors Jackie Willow—the idealistic son of a fallen comrade—hoping to prepare him for the realities of Vietnam and the cost of duty.",
+        "popularity": 1.1058,
+        "poster_path": "/bptiOG8kCoq1WUpWEwMyAIaMED4.jpg",
+        "release_date": "1987-05-05",
+        "title": "Gardens of Stone",
+        "video": false,
+        "vote_average": 6.192,
+        "vote_count": 120
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 28385,
+        "original_language": "en",
+        "original_title": "Sin Sisters",
+        "overview": "When a classmate is accidentally killed, real-life sisters Misty and Chelsea Mundae have to work together to try and hide the body. At a remote cabin in the hills they encounter Juli, who tests their loyalty.",
+        "popularity": 2.3958,
+        "poster_path": "/1kYsvIS8Sv5qUS7P80DAj22TUhI.jpg",
+        "release_date": "2003-07-22",
+        "title": "Sin Sisters",
+        "video": false,
+        "vote_average": 1.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dhxrNQ13cIvg7NMYPqmyCfbxnN7.jpg",
+        "genre_ids": [
+          10751,
+          10770,
+          12,
+          35,
+          14,
+          28,
+          18
+        ],
+        "id": 26736,
+        "original_language": "en",
+        "original_title": "Wizards of Waverly Place: The Movie",
+        "overview": "A young wizard accidentally conjures a spell that puts her family in jeopardy.",
+        "popularity": 2.1803,
+        "poster_path": "/vrjLcGBLurVem5lXN8237qz4tyE.jpg",
+        "release_date": "2009-08-28",
+        "title": "Wizards of Waverly Place: The Movie",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 1768
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6UVM9ptCZTi9CvSrkmWLHdmMZ55.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 26793,
+        "original_language": "fr",
+        "original_title": "Les diables",
+        "overview": "The story of the struggle of an autistic girl and her brother trying to survive without their parents.",
+        "popularity": 0.6809,
+        "poster_path": "/aesSCsKOoiy5CWXVitmOJffLsbl.jpg",
+        "release_date": "2002-09-11",
+        "title": "The Devils",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tcHdogyWBZktk2JtO3oIqdJ24bW.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10402,
+          10751,
+          10749
+        ],
+        "id": 26840,
+        "original_language": "en",
+        "original_title": "Shrek in the Swamp Karaoke Dance Party",
+        "overview": "Shrek and his friends enjoy themselves with some Karaoke partying.",
+        "popularity": 0.999,
+        "poster_path": "/lJg4alrYfp7CDNVID4iGefT9CIn.jpg",
+        "release_date": "2001-11-02",
+        "title": "Shrek in the Swamp Karaoke Dance Party",
+        "video": false,
+        "vote_average": 6.324,
+        "vote_count": 136
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2tKDhaCaMi7ssFgu15p4c0jLZEW.jpg",
+        "genre_ids": [
+          35,
+          10402,
+          10749
+        ],
+        "id": 28658,
+        "original_language": "en",
+        "original_title": "You'll Never Get Rich",
+        "overview": "A Broadway choreographer gets drafted and coincidentally ends up in the same army base as the boyfriend of his object of affection.",
+        "popularity": 0.4217,
+        "poster_path": "/6sdGOX0R1OVVT93kcZHz8xmOLOg.jpg",
+        "release_date": "1941-09-25",
+        "title": "You'll Never Get Rich",
+        "video": false,
+        "vote_average": 6.449,
+        "vote_count": 59
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 479544,
+        "original_language": "bg",
+        "original_title": "Сняг",
+        "overview": "\"Snow\" is a film for the choice, betrayal and forgiveness between brothers and sons, narrated on the background of the harsh reality in an abandoned place.",
+        "popularity": 0.2212,
+        "poster_path": "/oa5cIktJ81t86sSYjsTBtbohH4e.jpg",
+        "release_date": "2015-10-09",
+        "title": "Snow",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 28580,
+        "original_language": "en",
+        "original_title": "The Lost Weekend",
+        "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+        "popularity": 1.265,
+        "poster_path": "/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg",
+        "release_date": "1945-11-29",
+        "title": "The Lost Weekend",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 641
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gXiu6sNEKEC31ytOpveFlycLYNz.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1261934,
+        "original_language": "en",
+        "original_title": "Apollo Boy",
+        "overview": "A young woman thinks back on a series of life advice her deceased brother once shared with her as she goes through the steps of her daily routine. Inspired by a supernatural story the two bonded over in life, she attempts to establish a line of communication with \"Apollo Boy\", a little boy who watches over lonely children from his home on the moon.",
+        "popularity": 0.6269,
+        "poster_path": "/4qbPw3tTdn8C88NzNZz9T4KRBlt.jpg",
+        "release_date": "2022-04-27",
+        "title": "Apollo Boy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/auWKxXKBTTklNivTOl7h63LSJ7J.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 27220,
+        "original_language": "en",
+        "original_title": "Two Brothers",
+        "overview": "An independent drama about two brothers trying to patch up the holes in their relationship, while coming to terms with their personal differences. One brother has moved away from home rather than confront his family with the fact that he's gay; he eventually has a reunion with his older brother, who ran away from home years before, with no explanation regarding where he went and why.",
+        "popularity": 0.3983,
+        "poster_path": "/7oOtfG500G3S3p6lx5DPx2DpZKQ.jpg",
+        "release_date": "2001-07-14",
+        "title": "Two Brothers",
+        "video": false,
+        "vote_average": 4.833,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6GKi4QB60Vw9pDxoOKUosXh2LYk.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 27224,
+        "original_language": "en",
+        "original_title": "Lost in Yonkers",
+        "overview": "In the summer of 1942 two young boys are sent to stay with their stern grandmother Kurnitz and their childlike aunt Bella in Yonkers, New York.",
+        "popularity": 0.4021,
+        "poster_path": "/qPXexoRiDfKoJeCS6ty551Tx6X1.jpg",
+        "release_date": "1993-05-14",
+        "title": "Lost in Yonkers",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aeNAF2tnhgjEyaFVjLxthCYvUn5.jpg",
+        "genre_ids": [
+          12,
+          35,
+          10749,
+          28
+        ],
+        "id": 26866,
+        "original_language": "fr",
+        "original_title": "Cartouche",
+        "overview": "In the 18th century, Louis de Bourguignon is working with the Malichot's gang, but their ways are too 'unethical' for him. He creates his own band, acting under the name of Cartouche, making audacious robberies of the rich people, and even distributing the takings with the poor. Thus, cartouche attracts the people's sympathies, Venus's love, and hate from the Police and Malichot... Cartouche can escape all the traps they set at him - except the entrapments of love. Eventually, he will be saved by a woman, at her own cost.",
+        "popularity": 3.1668,
+        "poster_path": "/5j6hcUIXzG8ltLk2yQeFdhJx6jA.jpg",
+        "release_date": "1962-03-07",
+        "title": "Cartouche",
+        "video": false,
+        "vote_average": 6.344,
+        "vote_count": 192
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 478068,
+        "original_language": "it",
+        "original_title": "Il prete sposato",
+        "overview": "A young Sicilian priest who moved to Rome comes into contact with the high bourgeoisie and receives a lot of sexual attention.",
+        "popularity": 0.659,
+        "poster_path": "/iw63sijgnzCdZ4o89eAUdEWhDfn.jpg",
+        "release_date": "1970-11-01",
+        "title": "The Married Priest",
+        "video": false,
+        "vote_average": 2.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/doFNxTRqDMCLitu838v5Ciuw0si.jpg",
+        "genre_ids": [
+          18,
+          53,
+          35
+        ],
+        "id": 1063574,
+        "original_language": "fr",
+        "original_title": "Miséricorde",
+        "overview": "Jérémie returns to his hometown for the funeral of his former boss, the village baker. He decides to stay for a few days with Martine, the man's widow. A mysterious disappearance, a threatening neighbor and a priest with strange intentions make Jérémie's short stay in the village take an unexpected turn.",
+        "popularity": 2.6818,
+        "poster_path": "/7LVCXVdsGPPXRYGu5SRqgfVP96h.jpg",
+        "release_date": "2024-10-16",
+        "title": "Misericordia",
+        "video": false,
+        "vote_average": 6.429,
+        "vote_count": 140
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqKfIArX3RcHdHot8tDE0NHFxH5.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26513,
+        "original_language": "en",
+        "original_title": "Punishment Park",
+        "overview": "In this fictional documentary, U.S. prisons are at capacity, and President Nixon declares a state of emergency. All new prisoners, most of whom are connected to the antiwar movement, are now given the choice of jail time or spending three days in Punishment Park, where they will be hunted for sport by federal authorities. The prisoners invariably choose the latter option, but learn that, between the desert heat and the brutal police officers, their chances of survival are slim.",
+        "popularity": 3.2868,
+        "poster_path": "/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
+        "release_date": "1971-10-01",
+        "title": "Punishment Park",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 193
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tjdjDn10yDK5R7b6HdwtTASqwmE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 27579,
+        "original_language": "en",
+        "original_title": "The American",
+        "overview": "Dispatched to a small Italian town to await further orders, assassin Jack embarks on a double life that may be more relaxing than is good for him.",
+        "popularity": 5.125,
+        "poster_path": "/5OEOsRaBsSxD0qBtAhus0iKDzr.jpg",
+        "release_date": "2010-08-31",
+        "title": "The American",
+        "video": false,
+        "vote_average": 5.97,
+        "vote_count": 1449
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/EGIbG1zVCdlQnyDFkSwScyMzUo.jpg",
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 27636,
+        "original_language": "it",
+        "original_title": "La frusta e il corpo",
+        "overview": "Disowned in the past by his father, Kurt Menliff, a cruel and sadistic nobleman, returns to the family castle to reclaim his inheritance.",
+        "popularity": 0.9319,
+        "poster_path": "/lydaya4kSCMpev4UwrqrM05fa9k.jpg",
+        "release_date": "1963-08-29",
+        "title": "The Whip and the Body",
+        "video": false,
+        "vote_average": 6.387,
+        "vote_count": 155
+      }
+    ],
+    "total_pages": 20591,
+    "total_results": 411801
+  }
+}

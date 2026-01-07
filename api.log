@@ -1,0 +1,314 @@
+/home/khoi/Code/GRAPH_RAG_MOVIES/src/llm_service.py:1: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+INFO:     Started server process [86128]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+  ✓ Fallback model enabled (Gemini 2.0 Flash - General Knowledge)
+  ✓ Graph Organizer enabled
+
+🚀 Starting Movie GraphRAG API server (v2.0.0)...
+📍 API Documentation: http://localhost:8001/docs
+🌐 Frontend: http://localhost:8001
+💾 Features: Streaming, Favorites, Ratings, History, Export
+
+INFO:     127.0.0.1:53168 - "GET /api/health HTTP/1.1" 200 OK
+
+🔎 Understanding: 'Tôi muốn biết về phim Inception'...
+
+🔧 Query Processor: 'Tôi muốn biết về phim Inception'...
+  ✓ Found 2 entities: ['Inception', 'phim']
+  ✓ Found 0 relations: []
+  ✓ Expanded with 8 related terms
+  ✅ Processed in 1.3ms (confidence: 0.66)
+
+  ✓ Query processed (confidence: 0.66)
+  → Enhanced: 'Tôi muốn biết về phim Inception Inception narrative film tác phẩm story cốt truy...'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 8/8 relevant matches (threshold: 0.5)
+✅ Found 8 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 10 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 8/10 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 8 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 11 refined contexts
+🤖 Generating thoughtful response...
+INFO:     127.0.0.1:52442 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50796 - "GET /?id=d7705a59-09d0-4f51-bbae-ac93d60c10bf&vscodeBrowserReqId=1767694783657 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40030 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40030 - "GET /crawled_data/movies_index.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40030 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+
+🔎 Understanding: 'inception'...
+
+🔧 Query Processor: 'inception'...
+  ✓ Found 1 entities: ['Inception']
+  ✓ Found 0 relations: []
+  ✓ Expanded with 4 related terms
+  ✏️ Query rewritten for better matching
+  ✅ Processed in 1287.1ms (confidence: 0.38)
+
+  ✓ Query processed (confidence: 0.38)
+  ↻ Rewritten: 'inception'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 2/8 relevant matches (threshold: 0.5)
+✅ Found 2 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 2 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 2/2 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 2 contexts by relevance
+    → Reranking by source type
+  ➕ Step 3: Augmentation
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 4 refined contexts
+🤖 Generating thoughtful response...
+INFO:     127.0.0.1:53724 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53724 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FqJ2tW6WMUDux911r6m7haRef0WH.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53002 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FxlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53000 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FgEU2QniE6E77NI6lCU6MxlNBvIx.jpg HTTP/1.1" 200 OK
+
+🔎 Understanding: 'taylor swift mấy grammy'...
+
+🔧 Query Processor: 'taylor swift mấy grammy'...
+  ⚠️  Response blocked (safety): Invalid operation: The `response.text` quick accessor requires the response to c
+  ✓ Found 0 entities: []
+  ✓ Found 0 relations: []
+  ✓ Expanded with 0 related terms
+  ✏️ Query rewritten for better matching
+  ✅ Processed in 2856.6ms (confidence: 0.30)
+
+  ✓ Query processed (confidence: 0.30)
+  ↻ Rewritten: 'Movie taylor swift mấy grammy'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 8/8 relevant matches (threshold: 0.5)
+✅ Found 8 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 9 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 8/9 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 8 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 11 refined contexts
+🤖 Generating thoughtful response...
+  ⚠️ Low confidence detected in RAG answer, trying fallback...
+🔄 Switching to fallback model (Low confidence in RAG answer)...
+✅ Fallback model provided answer
+INFO:     127.0.0.1:49622 - "POST /api/chat HTTP/1.1" 200 OK
+
+🔎 Understanding: 'hà nội có mấy phố phường'...
+
+🔧 Query Processor: 'hà nội có mấy phố phường'...
+  ⚠️  Response blocked (safety): Invalid operation: The `response.text` quick accessor requires the response to c
+  ✓ Found 0 entities: []
+  ✓ Found 0 relations: []
+  ✓ Expanded with 0 related terms
+  ✏️ Query rewritten for better matching
+  ✅ Processed in 1833.3ms (confidence: 0.30)
+
+  ✓ Query processed (confidence: 0.30)
+  ↻ Rewritten: 'Movie hà nội có mấy phố phường'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 8/8 relevant matches (threshold: 0.5)
+✅ Found 8 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 9 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 8/9 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 8 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 11 refined contexts
+🤖 Generating thoughtful response...
+  ⚠️ Low confidence detected in RAG answer, trying fallback...
+🔄 Switching to fallback model (Low confidence in RAG answer)...
+✅ Fallback model provided answer
+INFO:     127.0.0.1:48458 - "POST /api/chat HTTP/1.1" 200 OK
+
+🔎 Understanding: 'có phim avatar 4 không'...
+
+🔧 Query Processor: 'có phim avatar 4 không'...
+  ✓ Found 2 entities: ['phim', 'avatar 4']
+  ✓ Found 0 relations: []
+  ✓ Expanded with 8 related terms
+  ✅ Processed in 1564.0ms (confidence: 0.67)
+
+  ✓ Query processed (confidence: 0.67)
+  → Enhanced: 'có phim avatar 4 không avatar 4 narrative film tác phẩm story cốt truyện...'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 8/8 relevant matches (threshold: 0.5)
+✅ Found 8 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 8 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 8/8 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 8 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 11 refined contexts
+🤖 Generating thoughtful response...
+INFO:     127.0.0.1:53280 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53280 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2Ft6HIqrRAclMCA60NsSmeqe9RmNV.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37586 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2Fg96wHxU7EnoIFwemb2RgohIXrgW.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37582 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FgKY6q7SjCkAU6FqvqWybDYgUKIF.jpg HTTP/1.1" 200 OK
+
+🔎 Understanding: 'hat animated films from Pixar have won Academy Awards and feature voice actors who also appeared in live-action comedies?'...
+
+🔧 Query Processor: 'hat animated films from Pixar have won Academy Awards and feature voice actors who also appeared in live-action comedies?'...
+  ✓ Found 3 entities: ['Pixar have won Academy Awards and feature voice actors who also appeared in live', 'film', 'actor']
+  ✓ Found 2 relations: ['ACTED_IN', 'BELONGS_TO']
+  ✓ Decomposed into 3 sub-queries
+  🔀 Complex query split into 3 sub-queries
+  ✓ Expanded with 9 related terms
+  ✅ Processed in 7247.0ms (confidence: 0.88)
+
+  ✓ Query processed (confidence: 0.88)
+  → Enhanced: 'hat animated films from Pixar have won Academy Awards and feature voice actors w...'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 8/8 relevant matches (threshold: 0.5)
+✅ Found 8 relevant movies in database
+🕸️  Enriching with detailed information...
+  → Using relation-aware search: ['ACTED_IN', 'BELONGS_TO']
+
+  🔧 Organizing 9 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 8/9 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 8 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 11 refined contexts
+🤖 Generating thoughtful response...
+  ⚠️ Low confidence detected in RAG answer, trying fallback...
+🔄 Switching to fallback model (Low confidence in RAG answer)...
+✅ Fallback model provided answer
+INFO:     127.0.0.1:37586 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52876 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F6jmppcaubzLF8wkXM36ganVISCo.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52892 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FuXDfjJbdP4ijW5hWSBrPrlKpxab.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37586 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46646 - "GET /?id=d7705a59-09d0-4f51-bbae-ac93d60c10bf&vscodeBrowserReqId=1767695281166 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43958 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43958 - "GET /crawled_data/movies_index.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43958 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+
+🔎 Understanding: 'xin chào'...
+
+🔧 Query Processor: 'xin chào'...
+  ⚠️  Response blocked (safety): Invalid operation: The `response.text` quick accessor requires the response to c
+  ✓ Found 0 entities: []
+  ✓ Found 0 relations: []
+  ✓ Expanded with 0 related terms
+  ✏️ Query rewritten for better matching
+  ✅ Processed in 1436.7ms (confidence: 0.30)
+
+  ✓ Query processed (confidence: 0.30)
+  ↻ Rewritten: 'Movie xin chào'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 8/8 relevant matches (threshold: 0.5)
+✅ Found 8 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 9 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 8/9 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 8 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 11 refined contexts
+🤖 Generating thoughtful response...
+  ⚠️ Low confidence detected in RAG answer, trying fallback...
+🔄 Switching to fallback model (Low confidence in RAG answer)...
+✅ Fallback model provided answer
+INFO:     127.0.0.1:43958 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43958 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg HTTP/1.1" 200 OK
+
+🔎 Understanding: 'Phim Inception ngon không ?'...
+
+🔧 Query Processor: 'Phim Inception ngon không ?'...
+  ✓ Found 2 entities: ['Phim Inception ngon', 'phim']
+  ✓ Found 0 relations: []
+  ✓ Expanded with 8 related terms
+  ✅ Processed in 0.1ms (confidence: 0.66)
+
+  ✓ Query processed (confidence: 0.66)
+  → Enhanced: 'Phim Inception ngon không ? Phim Inception ngon narrative film tác phẩm story cố...'
+📊 Using Basic Vector Retrieval...
+  ✓ Found 6/8 relevant matches (threshold: 0.5)
+✅ Found 6 relevant movies in database
+🕸️  Enriching with detailed information...
+
+  🔧 Organizing 8 contexts...
+  📊 Step 1: Pruning
+    → Diversity pruning (threshold: 0.65)
+    → Kept 6/8 diverse contexts
+  🔄 Step 2: Reranking
+    → Reranking 6 contexts by relevance
+    → Reranking by source type
+    → Position strategy: important_first
+  ➕ Step 3: Augmentation
+    → Augmented with summary
+    → Augmented with query node
+    → Augmented with metadata
+  ✓ Organization complete: 9 refined contexts
+🤖 Generating thoughtful response...
+  ⚠️ Low confidence detected in RAG answer, trying fallback...
+🔄 Switching to fallback model (Low confidence in RAG answer)...
+✅ Fallback model provided answer
+INFO:     127.0.0.1:49754 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50454 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FeCOtqtfvn7mxGl6nfmq4b1exJRc.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49754 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FxlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50450 - "GET /api/poster?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FlBscKQzEJY1XF2ReZT2vIGrMQ1k.jpg HTTP/1.1" 200 OK

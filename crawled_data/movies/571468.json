@@ -1,0 +1,1329 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/rTVUx5xLnMyeRPYRcZd8XPzSekJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 571468,
+    "imdb_id": "tt7270808",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Freaks Out",
+    "overview": "Four super-powered circus freaks find themselves trapped in war-torn Rome after their foster father is captured by the Nazis.",
+    "popularity": 21.9795,
+    "poster_path": "/6y0qa5rkSMuTmOPyQZ8u0g1VeEF.jpg",
+    "production_companies": [
+      {
+        "id": 779,
+        "logo_path": "/KFFOFoztyjV5epvnW5GerPbcvx.png",
+        "name": "Lucky Red",
+        "origin_country": "IT"
+      },
+      {
+        "id": 74686,
+        "logo_path": "/d86Hxn6IXd9Kq9eSDuXVGdI9rp3.png",
+        "name": "Goon Films",
+        "origin_country": "IT"
+      },
+      {
+        "id": 112442,
+        "logo_path": "/kgCQLJxqmymgg3WR5E7vjvCAqqH.png",
+        "name": "GapBusters",
+        "origin_country": "BE"
+      },
+      {
+        "id": 155990,
+        "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+        "name": "RAI Cinema",
+        "origin_country": "IT"
+      },
+      {
+        "id": 11797,
+        "logo_path": "/61JT9Ldht918n04Q73l2KhCjss.png",
+        "name": "VOO",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2021-10-28",
+    "revenue": 3279079,
+    "runtime": 141,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Freaks Out",
+    "video": false,
+    "vote_average": 7.264,
+    "vote_count": 938
+  },
+  "credits": {
+    "id": 571468,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76339,
+        "known_for_department": "Acting",
+        "name": "Claudio Santamaria",
+        "original_name": "Claudio Santamaria",
+        "popularity": 0.7338,
+        "profile_path": "/5dTilyM0dEMAV9a8kQbD2X4ehQU.jpg",
+        "cast_id": 8,
+        "character": "Fulvio",
+        "credit_id": "5c278e180e0a267933353843",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1707552,
+        "known_for_department": "Acting",
+        "name": "Aurora Giovinazzo",
+        "original_name": "Aurora Giovinazzo",
+        "popularity": 2.174,
+        "profile_path": "/4c4Q1tabrXnZjIXsEhTpVOhVmV1.jpg",
+        "cast_id": 9,
+        "character": "Matilde",
+        "credit_id": "5c278e22c3a3683a66d25bfa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118107,
+        "known_for_department": "Acting",
+        "name": "Pietro Castellitto",
+        "original_name": "Pietro Castellitto",
+        "popularity": 1.3041,
+        "profile_path": "/rmzkMAJNIjlynKZ1stnUvZhaOB.jpg",
+        "cast_id": 10,
+        "character": "Cencio",
+        "credit_id": "5c278e2d92514138cbbeca72",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2204058,
+        "known_for_department": "Acting",
+        "name": "Giancarlo Martini",
+        "original_name": "Giancarlo Martini",
+        "popularity": 0.2575,
+        "profile_path": "/plyf0QlI1FRaxu4L04SSba54lpb.jpg",
+        "cast_id": 11,
+        "character": "Mario",
+        "credit_id": "5c278e35c3a3683a70d265ca",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224378,
+        "known_for_department": "Acting",
+        "name": "Giorgio Tirabassi",
+        "original_name": "Giorgio Tirabassi",
+        "popularity": 1.4526,
+        "profile_path": "/o88lUmQ1FEqBRAgdPk833pBAaSa.jpg",
+        "cast_id": 12,
+        "character": "Israel",
+        "credit_id": "5c278e3d0e0a26792a352590",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224376,
+        "known_for_department": "Acting",
+        "name": "Max Mazzotta",
+        "original_name": "Max Mazzotta",
+        "popularity": 0.8976,
+        "profile_path": "/r4BqzYvI0kc1HJWKI8ajl23yasf.jpg",
+        "cast_id": 13,
+        "character": "The Hunchback",
+        "credit_id": "5c278e46c3a3683a59d252f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285450,
+        "known_for_department": "Acting",
+        "name": "Franz Rogowski",
+        "original_name": "Franz Rogowski",
+        "popularity": 2.2178,
+        "profile_path": "/mXehrpUeS4aXvDZPB0PyofqwSAi.jpg",
+        "cast_id": 14,
+        "character": "Franz",
+        "credit_id": "5c278e520e0a26791f351fea",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145299,
+        "known_for_department": "Acting",
+        "name": "Éric Godon",
+        "original_name": "Éric Godon",
+        "popularity": 0.7366,
+        "profile_path": "/1Wx4gUEVUexDJ80PzX8dyYXrEQc.jpg",
+        "cast_id": 20,
+        "character": "Gus",
+        "credit_id": "5f7dd89b3429ff0037c36531",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118586,
+        "known_for_department": "Acting",
+        "name": "Emilio De Marchi",
+        "original_name": "Emilio De Marchi",
+        "popularity": 1.1371,
+        "profile_path": "/vQNSeUK4eEh5WeHyLxandvSvtvW.jpg",
+        "cast_id": 21,
+        "character": "Wolf",
+        "credit_id": "5f7dd8de0e597b0037b81fff",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1633218,
+        "known_for_department": "Acting",
+        "name": "Anna Tenta",
+        "original_name": "Anna Tenta",
+        "popularity": 1.1283,
+        "profile_path": "/g8n83RGolJQXlomKftz97bhpBGk.jpg",
+        "cast_id": 22,
+        "character": "Irina",
+        "credit_id": "5f7dd8f3b7abb5003868ee3c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550554,
+        "known_for_department": "Acting",
+        "name": "Sebastian Hülk",
+        "original_name": "Sebastian Hülk",
+        "popularity": 3.0461,
+        "profile_path": "/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg",
+        "cast_id": 44,
+        "character": "Amon",
+        "credit_id": "617c74b0651fcf006269b93e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2325257,
+        "known_for_department": "Acting",
+        "name": "Elia Pietschmann",
+        "original_name": "Elia Pietschmann",
+        "popularity": 0.1524,
+        "profile_path": "/oFkkSL9iPw42xdRe6Inj4Dnl3f7.jpg",
+        "cast_id": 23,
+        "character": "Soldato 1",
+        "credit_id": "5f7dd8fe3429ff0036cbad0c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2282246,
+        "known_for_department": "Acting",
+        "name": "Christoph Hülsen",
+        "original_name": "Christoph Hülsen",
+        "popularity": 1.6266,
+        "profile_path": "/udK0npfqFB3926NUQEAj7SQGy86.jpg",
+        "cast_id": 24,
+        "character": "Bern",
+        "credit_id": "5f7dd90a29c62600394edd38",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1375643,
+        "known_for_department": "Acting",
+        "name": "Astrid Meloni",
+        "original_name": "Astrid Meloni",
+        "popularity": 1.3224,
+        "profile_path": "/uvEQ5jgG3gKgJa0PGpOzT6aiBC6.jpg",
+        "cast_id": 25,
+        "character": "Donna scimmia",
+        "credit_id": "5f7dd91c29c6260038512ed2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1318182,
+        "known_for_department": "Acting",
+        "name": "Ed Hendrik",
+        "original_name": "Ed Hendrik",
+        "popularity": 1.8683,
+        "profile_path": "/jcDCpX5WiH0AkLDpR6ELreIn2Ta.jpg",
+        "cast_id": 15,
+        "character": "Soldato tedesco",
+        "credit_id": "5c278e5a0e0a267933353888",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295212,
+        "known_for_department": "Acting",
+        "name": "Ricardo Angelini",
+        "original_name": "Ricardo Angelini",
+        "popularity": 0.3917,
+        "profile_path": "/8b7QyxyWr8v8qsaU63UCoTgP26j.jpg",
+        "cast_id": 58,
+        "character": "Soldato tedesco",
+        "credit_id": "633d478ccf48a1008224dbf3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1383205,
+        "known_for_department": "Acting",
+        "name": "Olivier Bony",
+        "original_name": "Olivier Bony",
+        "popularity": 1.3165,
+        "profile_path": "/16YldyPH4Eh578niB80O4BfsiC4.jpg",
+        "cast_id": 27,
+        "character": "Guercio",
+        "credit_id": "5f7dd93f021cee003645830c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419584,
+        "known_for_department": "Crew",
+        "name": "Massimiliano Ubaldi",
+        "original_name": "Massimiliano Ubaldi",
+        "popularity": 1.0648,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Il bello",
+        "credit_id": "5f7dd96c021cee00373f1dc0",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1871397,
+        "known_for_department": "Acting",
+        "name": "Michelangelo Dalisi",
+        "original_name": "Michelangelo Dalisi",
+        "popularity": 0.3933,
+        "profile_path": "/uSS4iG8HJ2mM1BYXm0cVtgVJriR.jpg",
+        "cast_id": 29,
+        "character": "Gambaletto",
+        "credit_id": "5f7dd97cb7abb5003667dab7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2806851,
+        "known_for_department": "Acting",
+        "name": "Alessandro Arcodia",
+        "original_name": "Alessandro Arcodia",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Nazista",
+        "credit_id": "5f7dd9b6d5ffcb003409842b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2806852,
+        "known_for_department": "Acting",
+        "name": "Davide Balzanetti",
+        "original_name": "Davide Balzanetti",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Gioele",
+        "credit_id": "5f7dd9d435c30a003472e690",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2806853,
+        "known_for_department": "Acting",
+        "name": "Francesca Anna Bellucci",
+        "original_name": "Francesca Anna Bellucci",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Cesira",
+        "credit_id": "5f7dd9e4d861af00387e92a0",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3030710,
+        "known_for_department": "Directing",
+        "name": "Alessio De Leonardis",
+        "original_name": "Alessio De Leonardis",
+        "popularity": 0.1688,
+        "profile_path": "/gAlwGjGSGppmSUkvwcJMiBd78PM.jpg",
+        "credit_id": "628b5cd0209f1812c498daf2",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3560686,
+        "known_for_department": "Directing",
+        "name": "Livia Menichelli",
+        "original_name": "Livia Menichelli",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "628b5cfc7d5db51b291c407d",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3184934,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Costantino",
+        "original_name": "Giuseppe Costantino",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "credit_id": "628b5d080b7316006611087d",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1346689,
+        "known_for_department": "Production",
+        "name": "Fabio Lombardelli",
+        "original_name": "Fabio Lombardelli",
+        "popularity": 0.1957,
+        "profile_path": null,
+        "credit_id": "628b5d346c849271866f9459",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2284605,
+        "known_for_department": "Sound",
+        "name": "Paolo Giuliani",
+        "original_name": "Paolo Giuliani",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "credit_id": "628b5d699a643500aaf49ce6",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541797,
+        "known_for_department": "Camera",
+        "name": "Matteo Carlesimo",
+        "original_name": "Matteo Carlesimo",
+        "popularity": 0.1996,
+        "profile_path": null,
+        "credit_id": "628b5d8aec455255ebd770e6",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570166,
+        "known_for_department": "Art",
+        "name": "Carlo Serafin",
+        "original_name": "Carlo Serafin",
+        "popularity": 0.1691,
+        "profile_path": null,
+        "credit_id": "628b5db2209f1812c637c8af",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1350235,
+        "known_for_department": "Art",
+        "name": "Alessandro Troso",
+        "original_name": "Alessandro Troso",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "credit_id": "628b5dc7d48cee0067a45279",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1425657,
+        "known_for_department": "Art",
+        "name": "Ilaria Fallacara",
+        "original_name": "Ilaria Fallacara",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "628b5dd70b7316009e33ebfe",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239885,
+        "known_for_department": "Crew",
+        "name": "Franco Ragusa",
+        "original_name": "Franco Ragusa",
+        "popularity": 0.3135,
+        "profile_path": null,
+        "credit_id": "628b5df6ec455255ebd77179",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 68261,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Diego Prestopino",
+        "original_name": "Diego Prestopino",
+        "popularity": 1.6019,
+        "profile_path": null,
+        "credit_id": "628b5e1b209f1812c5551e43",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349187,
+        "known_for_department": "Production",
+        "name": "Giuseppe Giglietti",
+        "original_name": "Giuseppe Giglietti",
+        "popularity": 0.2723,
+        "profile_path": "/oHacBHauVT7HdjVoiXoXP8rGB2p.jpg",
+        "credit_id": "628b67e97d5db51b2aa2efdd",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1303032,
+        "known_for_department": "Acting",
+        "name": "Isabella Orsini",
+        "original_name": "Isabella Orsini",
+        "popularity": 0.3882,
+        "profile_path": "/xPWj5AmGcXSOJtPepQ3RrCVPSdz.jpg",
+        "credit_id": "628b683f9a6435005095258d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284972,
+        "known_for_department": "Writing",
+        "name": "Nicola Guaglianone",
+        "original_name": "Nicola Guaglianone",
+        "popularity": 1.4718,
+        "profile_path": "/t3dwxBwlxFtrZTlDYWGB2PkWym4.jpg",
+        "credit_id": "6127814f373ac20044a8d1d7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126616,
+        "known_for_department": "Sound",
+        "name": "Franco Piscopo",
+        "original_name": "Franco Piscopo",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "612781ba5ed9620092e62e78",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1177366,
+        "known_for_department": "Production",
+        "name": "Francesco Vedovati",
+        "original_name": "Francesco Vedovati",
+        "popularity": 1.1877,
+        "profile_path": null,
+        "credit_id": "612781cf55c9260043715e40",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71493,
+        "known_for_department": "Production",
+        "name": "Joseph Rouschop",
+        "original_name": "Joseph Rouschop",
+        "popularity": 0.3546,
+        "profile_path": null,
+        "credit_id": "612781f755c926002a22ac50",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1815681,
+        "known_for_department": "Production",
+        "name": "Jean-Yves Roubin",
+        "original_name": "Jean-Yves Roubin",
+        "popularity": 0.2322,
+        "profile_path": "/fbcbUUJqkxxDOWIBh2CEIbW8KvB.jpg",
+        "credit_id": "61278208d266a2002cd1b346",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2038538,
+        "known_for_department": "Production",
+        "name": "Paolo Del Brocco",
+        "original_name": "Paolo Del Brocco",
+        "popularity": 0.4582,
+        "profile_path": "/hEDpPrgIwBYr24x0dwaDXgAZ2EV.jpg",
+        "credit_id": "6491fe42ae384300e45d09d5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130801,
+        "known_for_department": "Directing",
+        "name": "Gabriele Mainetti",
+        "original_name": "Gabriele Mainetti",
+        "popularity": 0.6652,
+        "profile_path": "/auoEBqlxst2GqgSjC7GDO1uPas9.jpg",
+        "credit_id": "5c278da892514138d7bee4ac",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284972,
+        "known_for_department": "Writing",
+        "name": "Nicola Guaglianone",
+        "original_name": "Nicola Guaglianone",
+        "popularity": 1.4718,
+        "profile_path": "/t3dwxBwlxFtrZTlDYWGB2PkWym4.jpg",
+        "credit_id": "5c278db792514138e1bedd03",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130801,
+        "known_for_department": "Directing",
+        "name": "Gabriele Mainetti",
+        "original_name": "Gabriele Mainetti",
+        "popularity": 0.6652,
+        "profile_path": "/auoEBqlxst2GqgSjC7GDO1uPas9.jpg",
+        "credit_id": "5c278dc692514138e5bedb1b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31011,
+        "known_for_department": "Production",
+        "name": "Andrea Occhipinti",
+        "original_name": "Andrea Occhipinti",
+        "popularity": 0.5879,
+        "profile_path": "/juFzfnpQ8JX5Hvj5NBmSm0Dj9xa.jpg",
+        "credit_id": "5c278dd392514138dabed1b9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1302751,
+        "known_for_department": "Sound",
+        "name": "Michele Braga",
+        "original_name": "Michele Braga",
+        "popularity": 1.0288,
+        "profile_path": "/wIY0kzLtfcrCZ971DtSAbNVKzWs.jpg",
+        "credit_id": "5c278dddc3a3683a62d25194",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130801,
+        "known_for_department": "Directing",
+        "name": "Gabriele Mainetti",
+        "original_name": "Gabriele Mainetti",
+        "popularity": 0.6652,
+        "profile_path": "/auoEBqlxst2GqgSjC7GDO1uPas9.jpg",
+        "credit_id": "5c278de9c3a3683a66d25bb0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543576,
+        "known_for_department": "Camera",
+        "name": "Michele D'Attanasio",
+        "original_name": "Michele D'Attanasio",
+        "popularity": 0.1909,
+        "profile_path": "/kXe2m59vOdKv2pqIXcsXF7cl0UK.jpg",
+        "credit_id": "5c278df292514138d7bee4ea",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130801,
+        "known_for_department": "Directing",
+        "name": "Gabriele Mainetti",
+        "original_name": "Gabriele Mainetti",
+        "popularity": 0.6652,
+        "profile_path": "/auoEBqlxst2GqgSjC7GDO1uPas9.jpg",
+        "credit_id": "5c278e6b92514138dabed241",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35101,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mary Montalto",
+        "original_name": "Mary Montalto",
+        "popularity": 0.281,
+        "profile_path": null,
+        "credit_id": "5c278e89c3a3683a76d25cf1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2463519,
+        "known_for_department": "Editing",
+        "name": "Francesco Di Stefano",
+        "original_name": "Francesco Di Stefano",
+        "popularity": 0.7381,
+        "profile_path": null,
+        "credit_id": "5dfcdb2365686e001890c3aa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413823,
+        "known_for_department": "Art",
+        "name": "Massimiliano Sturiale",
+        "original_name": "Massimiliano Sturiale",
+        "popularity": 0.3972,
+        "profile_path": null,
+        "credit_id": "5dfcdb5126dac100175e1136",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1322753,
+        "known_for_department": "Production",
+        "name": "Jacopo Saraceni",
+        "original_name": "Jacopo Saraceni",
+        "popularity": 0.5556,
+        "profile_path": null,
+        "credit_id": "5fca2e6466a7c30040474246",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2658971,
+        "known_for_department": "Production",
+        "name": "Mattia Guerra",
+        "original_name": "Mattia Guerra",
+        "popularity": 0.2092,
+        "profile_path": "/fijgW79zJC35xdZq6VGKGussBGU.jpg",
+        "credit_id": "5fca2e7f680be8003e18c5cd",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125171,
+        "known_for_department": "Production",
+        "name": "Stefano Massenzi",
+        "original_name": "Stefano Massenzi",
+        "popularity": 0.7143,
+        "profile_path": "/tMjKUHarm9bVMtU39Si4BDbA6kO.jpg",
+        "credit_id": "5fca2e8e43999b003b176b74",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1747950,
+        "known_for_department": "Visual Effects",
+        "name": "Stefano Leoni",
+        "original_name": "Stefano Leoni",
+        "popularity": 0.4136,
+        "profile_path": null,
+        "credit_id": "5fca2ed343999b003d167f7e",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1422522,
+        "known_for_department": "Sound",
+        "name": "Mirko Perri",
+        "original_name": "Mirko Perri",
+        "popularity": 1.9808,
+        "profile_path": null,
+        "credit_id": "5fca2ef543999b003c16d591",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400069,
+        "known_for_department": "Sound",
+        "name": "Angelo Bonanni",
+        "original_name": "Angelo Bonanni",
+        "popularity": 2.534,
+        "profile_path": null,
+        "credit_id": "5fca2f06383df2003c58615f",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 571468,
+    "keywords": [
+      {
+        "id": 291,
+        "name": "circus"
+      },
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 174594,
+        "name": "anti-nazi resistance"
+      },
+      {
+        "id": 191003,
+        "name": "nazi invasion"
+      },
+      {
+        "id": 191223,
+        "name": "freaks"
+      },
+      {
+        "id": 209023,
+        "name": "hidden powers"
+      },
+      {
+        "id": 230022,
+        "name": "nazi occultism"
+      },
+      {
+        "id": 231082,
+        "name": "italian resistance"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vfrK5eoKakx7mVx9Ng2ESkLAdoQ.jpg",
+        "genre_ids": [
+          10752,
+          28,
+          12
+        ],
+        "id": 294998,
+        "original_language": "en",
+        "original_title": "African Express",
+        "overview": "The adventures of three friends running an air charter business in Africa during WW II and their race to prevent a Nazi Baron from escaping to Germany with vital radar equipment.",
+        "popularity": 0.2582,
+        "poster_path": "/mncUXu7Vy3sdNddToizfCjMx5wN.jpg",
+        "release_date": "1990-07-01",
+        "title": "African Express",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10752,
+          18,
+          12
+        ],
+        "id": 674590,
+        "original_language": "ru",
+        "original_title": "Они были актёрами",
+        "overview": "The plot of the film is based on real events of the Great Patriotic War.  When the Nazis occupied Crimea, the actors of the drama theater of the city of Simferopol entered the underground group Sokol. The activities of the underground members were diverse: they put up leaflets with information from Soviet Information Bureau, compiled maps showing the strategic objects of the enemy, and supplied the partisans with medicines.  On April 10, 1944, 3 days before the liberation of Simferopol, the underground members died from enemy bullets — they were shot on the outskirts of the city.",
+        "popularity": 0.2594,
+        "poster_path": "/vOunCfl3tgGmkKE9f8FyfKHZqIr.jpg",
+        "release_date": "1981-12-12",
+        "title": "They Were Actors",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gUesJGcW8oXgS5jvCdKThT0LKha.jpg",
+        "genre_ids": [
+          12,
+          14,
+          27
+        ],
+        "id": 28269,
+        "original_language": "en",
+        "original_title": "The Mighty Gorga",
+        "overview": "A circus owner and a lady trapper trek into the African jungle to capture a giant gorilla for his circus.",
+        "popularity": 0.3587,
+        "poster_path": "/tdw3e6HlceuTHpeASQggbXpVQWw.jpg",
+        "release_date": "1969-07-19",
+        "title": "The Mighty Gorga",
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4sej1lDqfhaotP85czyn3cL88eQ.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          10752
+        ],
+        "id": 28286,
+        "original_language": "en",
+        "original_title": "Reunion in France",
+        "overview": "Frenchwoman Michele de la Becque, an opponent of the Nazis in German-occupied Paris, hides a downed American flyer, Pat Talbot, and attempts to get him safely out of the country.",
+        "popularity": 0.4589,
+        "poster_path": "/25ARg4KpTxk0mTQSAx0WWgmEOqS.jpg",
+        "release_date": "1942-12-25",
+        "title": "Reunion in France",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cOnFl1Egh1tPfIAvbkOhOp0gxNE.jpg",
+        "genre_ids": [
+          18,
+          14
+        ],
+        "id": 26600,
+        "original_language": "en",
+        "original_title": "Between Two Worlds",
+        "overview": "Passengers on an ocean liner can't recall how they got onboard or where they are going. Soon it becomes apparent that they all have something in common.",
+        "popularity": 0.5059,
+        "poster_path": "/t1NeBrt65qUJCcOBOqf8MlTcnOy.jpg",
+        "release_date": "1944-05-20",
+        "title": "Between Two Worlds",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bWIWAIFxQedGNKISR1DoqXUCm8c.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          10752,
+          28,
+          12
+        ],
+        "id": 26659,
+        "original_language": "en",
+        "original_title": "Hanover Street",
+        "overview": "Margaret is a nurse in England during WW2, and married to a secret agent. Things get complicated when she falls for David, an American pilot.",
+        "popularity": 6.1675,
+        "poster_path": "/8esk5JZ2ARFF7YFGVgyFalJL86M.jpg",
+        "release_date": "1979-05-18",
+        "title": "Hanover Street",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 103
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hNokn4XvelzhYTY43hZQCsCniZl.jpg",
+        "genre_ids": [
+          18,
+          53,
+          10752
+        ],
+        "id": 28006,
+        "original_language": "en",
+        "original_title": "I See a Dark Stranger",
+        "overview": "Proud Irishwoman Bridie Quilty journeys to Dublin while World War II rages across Europe. During her travels, she encounters J. Miller, who recruits her as a Nazi spy. She acquires the necessary information that leads to the breakout of a German spy who holds key information about the Allies' newest offensive plans. However, the arrival of British officer David Baynes and his romancing of Bridie lead to unexpected consequences.",
+        "popularity": 0.6283,
+        "poster_path": "/6SrczDpg03JGbWbkBK7M25Y7Da8.jpg",
+        "release_date": "1946-07-04",
+        "title": "I See a Dark Stranger",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jC8ZBsCWiTj4zSr8xQdBcNb08GB.jpg",
+        "genre_ids": [
+          16,
+          35,
+          12
+        ],
+        "id": 28360,
+        "original_language": "en",
+        "original_title": "Falling Hare",
+        "overview": "Relaxing with a carrot at a U.S. Army air field, Bugs is reading \"Victory Through Hare Power\" and scoffs at the notion of mentioned gremlins, little creatures who wreak havoc on planes with their diabolical sabotage.",
+        "popularity": 4.0798,
+        "poster_path": "/kTH9WxOPKAjUHNFQHsOyAeY9AVb.jpg",
+        "release_date": "1943-10-30",
+        "title": "Falling Hare",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 43
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 28391,
+        "original_language": "en",
+        "original_title": "Street Angel",
+        "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+        "popularity": 0.3263,
+        "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
+        "release_date": "1928-04-09",
+        "title": "Street Angel",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w5qaTHK7SIx7k6ijfHpZY9bGuCi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 293363,
+        "original_language": "it",
+        "original_title": "Il venditore di palloncini",
+        "overview": "A young boy tries to make living out of a puppet show when his mother abandons him and his father.",
+        "popularity": 0.2591,
+        "poster_path": "/WGdXET4VOc9u072JewewaSQk5W.jpg",
+        "release_date": "1974-12-21",
+        "title": "The Balloon Vendor",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6hCRE8o7yy0UQkt46NYaB6p9aNY.jpg",
+        "genre_ids": [
+          36,
+          10752,
+          18
+        ],
+        "id": 26843,
+        "original_language": "en",
+        "original_title": "Lion of the Desert",
+        "overview": "This movie tells the story of Omar Mukhtar, an Arab Muslim rebel who fought against the Italian conquest of Libya during the second Italo-Senussi War. It gives western viewers a glimpse into this little-known region and chapter of history, and exposes the savage means by which the conquering army attempted to subdue the natives.",
+        "popularity": 1.9101,
+        "poster_path": "/xm7CKN5mo09RNAcL1IP1xmJ5avT.jpg",
+        "release_date": "1981-04-17",
+        "title": "Lion of the Desert",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 189
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y22C1YyK8YXjU8LHoyA06MclOs6.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 27191,
+        "original_language": "en",
+        "original_title": "The Greatest Show on Earth",
+        "overview": "To ensure a full profitable season, circus manager Brad Braden engages The Great Sebastian, though this moves his girlfriend Holly from her hard-won center trapeze spot. Holly and Sebastian begin a dangerous one-upmanship duel in the ring, while he pursues her on the ground.",
+        "popularity": 1.3949,
+        "poster_path": "/cKI0yGPRh1IlvRKKJRoMZruior8.jpg",
+        "release_date": "1952-02-16",
+        "title": "The Greatest Show on Earth",
+        "video": false,
+        "vote_average": 6.303,
+        "vote_count": 262
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          12,
+          10751
+        ],
+        "id": 293499,
+        "original_language": "en",
+        "original_title": "Goldy: The Last of the Golden Bears",
+        "overview": "Ned Rivers loses his ranch to the railroad and returns to prospecting. In the wild he meets and befriends Jessie who has been wandering in the mountains since her father died. They take care of an orphaned grizzly cub, Goldy, a \"Golden Bear,\" whose mother has been killed by a circus owner looking for a new circus attraction. When the circus owner, Boss Cooperman, arrives Ned and Jessie try to save her with the help of new friends.",
+        "popularity": 0.1781,
+        "poster_path": null,
+        "release_date": "1984-01-01",
+        "title": "Goldy: The Last of the Golden Bears",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yJ4FvKFgLCXy9g1B9atMwc7Qm2I.jpg",
+        "genre_ids": [
+          27,
+          14,
+          878
+        ],
+        "id": 26956,
+        "original_language": "en",
+        "original_title": "Puppet Master III",
+        "overview": "After hearing that mystical toymaker Andre Toulon has managed to create a troupe of sentient, living puppets, Nazi underling Dr. Hess sets his sights on exploiting Toulon's powers for the glory of the Reich.",
+        "popularity": 1.4289,
+        "poster_path": "/uSSZGAEnSJ8ov81i7UVYcFOeThP.jpg",
+        "release_date": "1992-05-01",
+        "title": "Puppet Master III",
+        "video": false,
+        "vote_average": 6.29,
+        "vote_count": 176
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sdhz9qiYkUgMHYwQ1C2Oy9a12Y9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 478062,
+        "original_language": "sh",
+        "original_title": "Pet minuta raja",
+        "overview": "Two concentration camp prisoners are taken by Nazis to disable un exploded bombs in German towns. When they work on the ruins, with their guards safely away, they enjoy a few precious moments of freedom.",
+        "popularity": 0.2152,
+        "poster_path": "/hYm3eOq3LgNXm5SHBru8HuGbHfc.jpg",
+        "release_date": "1959-07-23",
+        "title": "Five Minutes of Paradise",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tlbXdboGNU6mTmNHuG4Jai5qsm2.jpg",
+        "genre_ids": [
+          10752,
+          28,
+          18,
+          36
+        ],
+        "id": 1450383,
+        "original_language": "en",
+        "original_title": "Fear",
+        "overview": "March 1945, on the frontlines of the Tatra Mountains, Romanian and German soldiers prepare for battle, bound by the same hidden fear. In the chaos of combat, beyond bullets and grenades, a harsh truth emerges: in war, they are all just humans.",
+        "popularity": 0.6399,
+        "poster_path": "/yq090Bvah1GDjppTfotf0EFflRc.jpg",
+        "release_date": "2025-03-15",
+        "title": "Fear",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/95Dwih7xB72mlT9cwrQ8aOlZSDo.jpg",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "id": 26522,
+        "original_language": "en",
+        "original_title": "A Soldier's Story",
+        "overview": "In a rural town in Louisiana, a black Master Sergeant is found shot to death just outside the local Army Base. Military lawyer, Captain Davenport—also a black man—is sent from Washington to conduct an investigation. Facing an uncooperative chain of command and fearful black troops, Davenport must battle with deceit and prejudice in order to find out exactly who really did kill the Master Sergeant.",
+        "popularity": 0.6399,
+        "poster_path": "/vSLrddsvH8bJzryOS5BD9qtTtFa.jpg",
+        "release_date": "1984-09-14",
+        "title": "A Soldier's Story",
+        "video": false,
+        "vote_average": 6.785,
+        "vote_count": 198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5T4hHFzhv5BiwyBjuIoWZM6t20A.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          27
+        ],
+        "id": 27503,
+        "original_language": "en",
+        "original_title": "The Unknown",
+        "overview": "On the lam, criminal Alonzo hides in the circus as The Armless Wonder – a performer who uses his feet to hurl knives. Alonzo keeps the arms he really has concealed to hide his identity. Meanwhile, ringmaster's daughter Nanon has a phobia of being touched by men, but is romantically pursued by not only Alonzo but the strongman Malabar. Alonzo's desperation to remain with Nanon will only end in tragedy.",
+        "popularity": 4.068,
+        "poster_path": "/c9R1wE1vMJWMZNdmqXUV8oTaCPQ.jpg",
+        "release_date": "1927-05-29",
+        "title": "The Unknown",
+        "video": false,
+        "vote_average": 7.512,
+        "vote_count": 203
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xE7tdFqGFzIaZqgQ1y4nBuYgVGY.jpg",
+        "genre_ids": [
+          18,
+          53,
+          10749
+        ],
+        "id": 27511,
+        "original_language": "en",
+        "original_title": "He Who Gets Slapped",
+        "overview": "After a baron steals his scientific discoveries, runs away with his wife, and slaps him in public, a man joins a Parisian circus sideshow as a clown whose act consists of being slapped repeatedly and becomes infatuated with a showgirl colleague whose father intends to marry her off to the baron.",
+        "popularity": 0.6643,
+        "poster_path": "/gQzCd1kG5Z0nbOEhKZ7D3H4QUjp.jpg",
+        "release_date": "1924-12-22",
+        "title": "He Who Gets Slapped",
+        "video": false,
+        "vote_average": 7.559,
+        "vote_count": 101
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pkQdoRJ6VpHO7IPl8aqvjbX6EIS.jpg",
+        "genre_ids": [
+          27,
+          14,
+          10752
+        ],
+        "id": 27651,
+        "original_language": "en",
+        "original_title": "Puppet Master: Axis of Evil",
+        "overview": "Following the murder of Andre Toulon by Nazi assassins during the height of World War II, a young Danny Coogan finds his crate of mysterious puppets, and discovers their plan to attack a secret American manufacturing plant.",
+        "popularity": 0.5156,
+        "poster_path": "/xQ2gDpZIOFavS7WH3fq9uIxqiLf.jpg",
+        "release_date": "2010-01-15",
+        "title": "Puppet Master: Axis of Evil",
+        "video": false,
+        "vote_average": 4.66,
+        "vote_count": 72
+      }
+    ],
+    "total_pages": 15950,
+    "total_results": 318999
+  }
+}

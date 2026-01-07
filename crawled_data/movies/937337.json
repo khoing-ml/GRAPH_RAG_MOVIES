@@ -1,0 +1,621 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/pCp9kiUEqDBJQiC9o5p2jrfSJbJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 937337,
+    "imdb_id": "tt14891922",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "¡Qué Despadre!",
+    "overview": "Pedro is a single man in his forties who likes to party, has no children and lives at night. Everything changes when he meets Alin. She mentions to him that she is looking for her dad and that there is a high probability that it is him.",
+    "popularity": 2.0579,
+    "poster_path": "/aZ9qQ3X8xutsWIusMFGKlvkKiyD.jpg",
+    "production_companies": [
+      {
+        "id": 7570,
+        "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+        "name": "Videocine",
+        "origin_country": "MX"
+      },
+      {
+        "id": 258969,
+        "logo_path": "/nWK3YjlZRs5w2egEmnvJLkXhAq2.png",
+        "name": "Spectrum Films",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2022-02-09",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "What a Father!",
+    "video": false,
+    "vote_average": 8.316,
+    "vote_count": 177
+  },
+  "credits": {
+    "id": 937337,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 175615,
+        "known_for_department": "Acting",
+        "name": "Mauricio Ochmann",
+        "original_name": "Mauricio Ochmann",
+        "popularity": 0.8605,
+        "profile_path": "/h5NuTsPV9HdsjPSuBG4vZtvKtlF.jpg",
+        "cast_id": 1,
+        "character": "Pedro",
+        "credit_id": "62063cfed9542000d244cea4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2638304,
+        "known_for_department": "Acting",
+        "name": "Fiona Palomo",
+        "original_name": "Fiona Palomo",
+        "popularity": 1.8745,
+        "profile_path": "/fWA3iIpU1MH43J0ke2ui6vGbJ5R.jpg",
+        "cast_id": 2,
+        "character": "Alin",
+        "credit_id": "62063d160ce1bc006aa8e55b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145184,
+        "known_for_department": "Acting",
+        "name": "Sandra Echeverría",
+        "original_name": "Sandra Echeverría",
+        "popularity": 1.9433,
+        "profile_path": "/2BrDCExAKY7ikVy7Budm4f7f3Pz.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "62063d22cb8028001ba6371e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7351,
+        "known_for_department": "Acting",
+        "name": "Ana Claudia Talancón",
+        "original_name": "Ana Claudia Talancón",
+        "popularity": 2.4111,
+        "profile_path": "/es8No01z8G0MFX2KeiAa2ouRfCD.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "62063d3b38e5100042553c58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589801,
+        "known_for_department": "Acting",
+        "name": "Héctor Suárez",
+        "original_name": "Héctor Suárez",
+        "popularity": 1.0861,
+        "profile_path": "/eKn2KhEiixyxJfc6Fv7n1MEaP3z.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "62063d51848eb90041342afe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3421716,
+        "known_for_department": "Acting",
+        "name": "Paly Duval",
+        "original_name": "Paly Duval",
+        "popularity": 0.234,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "62063d68e640d600dcb5cd93",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1223305,
+        "known_for_department": "Acting",
+        "name": "Renata Ybarra",
+        "original_name": "Renata Ybarra",
+        "popularity": 0.2748,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "62063d9a29733800f7abc6e2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 224320,
+        "known_for_department": "Acting",
+        "name": "Diana Bracho",
+        "original_name": "Diana Bracho",
+        "popularity": 0.6775,
+        "profile_path": "/33QwkFoQj4CzTUCEJ9qbLVtfBHk.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "62063da1c56d2d004104f436",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1431456,
+        "known_for_department": "Acting",
+        "name": "Juan Diego Covarrubias",
+        "original_name": "Juan Diego Covarrubias",
+        "popularity": 0.2946,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "62063dc1af2da80069469343",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3088958,
+        "known_for_department": "Acting",
+        "name": "Mauricio “El Diablito” Barrientos",
+        "original_name": "Mauricio “El Diablito” Barrientos",
+        "popularity": 1.7545,
+        "profile_path": "/gjbWDhGm7vVqGa70BM4Cd2cydYM.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "620640b438e51000a0ab3056",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 220956,
+        "known_for_department": "Directing",
+        "name": "Pedro Pablo Ibarra",
+        "original_name": "Pedro Pablo Ibarra",
+        "popularity": 0.3908,
+        "profile_path": null,
+        "credit_id": "62063df6f48b34011dbfa63c",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 937337,
+    "keywords": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/73kAyIxbCfbCLMgA7GKSWjisnkF.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1052627,
+        "original_language": "es",
+        "original_title": "Amores permitidos",
+        "overview": "Rodrigo and Gabriela have been dating for years, sometimes their relationship seems like best friends, but deep down, they love each other. Their daily lives are disrupted when their best friends, Luz and Jorge, ask them who would be allowed.",
+        "popularity": 2.9213,
+        "poster_path": "/dejVAuBWoPojFUp2ZtjWnQPe8h8.jpg",
+        "release_date": "2022-11-23",
+        "title": "Amores permitidos",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6OkXLK0lYkaPaU901uxrOu5ipKX.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 841276,
+        "original_language": "es",
+        "original_title": "Despedida de soltera 2",
+        "overview": "A young married couple vacations on their honeymoon when the husband falls in love with a sensual girl who is celebrating her bachelorette party and is about to marry a dangerous man. Unfaithful lovers agree to elope with their partners and abandon them forever. The humiliation of the abandoned girl is so great that when she returns to the city to not look bad, she invents that her husband drowned in the sea. This lie causes hilarious complications when the dead man shows up.",
+        "popularity": 0.2798,
+        "poster_path": "/wYS8ZomSlaMOkeFiFxKAi4Ksw2k.jpg",
+        "release_date": "2020-01-01",
+        "title": "Despedida de soltera 2",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6XtYSu5Gte3DFfBt53JT6ranqOa.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 275723,
+        "original_language": "es",
+        "original_title": "Viva Mi Desgracia",
+        "overview": "After drinking a special concoction made of various types of alcohol, the once-timid Ramon (Pedro Infante) suddenly turns into a brawler and extroverted ladies' man. With his newfound confidence, Ramon attempts to win the heart of the woman (María Antonieta Pons) he loves. Full of enjoyable songs and funny scenes, this entertaining Mexican musical centers on a wealthy man who finally realizes that money can't buy him love.",
+        "popularity": 0.2153,
+        "poster_path": "/qplRZwER5vAqjMZh71KpIPSsC8b.jpg",
+        "release_date": "1944-01-01",
+        "title": "Viva Mi Desgracia",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rzmeMOYiAPXxmL10aG3vaxVcax5.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 464805,
+        "original_language": "es",
+        "original_title": "Narcosatánicos Diabólicos",
+        "overview": "Roberto makes a pact with the devil to please his multiple lovers sexually, Satan accepts the deal but promises to snatch his soul when he finds true love. Meanwhile, two cops are on the lookout for those responsible of a murderous drug on the streets.",
+        "popularity": 0.4004,
+        "poster_path": "/f2FYGsJPJWLnsnzI3wHO6vQP7LM.jpg",
+        "release_date": "1991-03-07",
+        "title": "Diabolical Narco Satanists",
+        "video": false,
+        "vote_average": 6.855,
+        "vote_count": 56
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/udMz6DDYDKUFJ636iB3hctHsaCz.jpg",
+        "genre_ids": [
+          35,
+          28
+        ],
+        "id": 276174,
+        "original_language": "es",
+        "original_title": "Santo contra Capulina",
+        "overview": "Calpuina is a night-watchman in a wharehouse, a perfect job for him. When some thieves break in and steal some crates, El Santo is after them because they are using the wharehouse for diamond smuggling. Capulina hinders their capture. Then he decides that he will put on a wrestler's mask and help El Santo to caputre the crooks.",
+        "popularity": 0.1995,
+        "poster_path": "/mc2sOEYI9OMl3MkepwwRssjHp6j.jpg",
+        "release_date": "1969-12-04",
+        "title": "Santo vs. Capulina",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bmjo4w9MoLag2BjayBIHCAl0w0e.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 4786,
+        "original_language": "es",
+        "original_title": "Rudo y Cursi",
+        "overview": "Two brothers living a hard life of manual labor in rural Mexico have a simple dream: saving enough money to build their mother her dream house. But fate has other plans. A friendly game of soccer leads to first Rudo, then to Cursi being taken on by the nation’s top talent scout. Suddenly, they find themselves living the high life of star athletes: fame, fortune, fast cars and beautiful women.",
+        "popularity": 1.4446,
+        "poster_path": "/2J3puhJdawCVeVKLDXTpgY4TAl3.jpg",
+        "release_date": "2008-12-19",
+        "title": "Rudo & Cursi",
+        "video": false,
+        "vote_average": 7.05,
+        "vote_count": 220
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/krO9SO7DRctt9Eg5AX4rdMR4LkU.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1233620,
+        "original_language": "es",
+        "original_title": "¡Qué Huevos, Sofía!",
+        "overview": "Sofía quits her job after confronting her misogynistic boss. Determined, she starts her own company to rival her former employer, igniting a David vs. Goliath showdown in the business world.",
+        "popularity": 2.0115,
+        "poster_path": "/obYQkGeTciQx3HNz8O78igbJjV6.jpg",
+        "release_date": "2025-02-27",
+        "title": "Winner Takes the Cake",
+        "video": false,
+        "vote_average": 8.447,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tujZCE6oFuj9Tqvah6okB3zQt8G.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 295476,
+        "original_language": "es",
+        "original_title": "Amok",
+        "overview": "After being caught embezzling from his clinic to impress his high society lover and support his gambling habit, a doctor flees to a remote Indian village to volunteer as a humanitarian aid worker. There he tries to mitigate the onslaught of a strange disease called \"Amok,\" while his past continues to haunt him.",
+        "popularity": 3.0132,
+        "poster_path": "/zlXl10UxWEah2CmHZuRIrhe76EI.jpg",
+        "release_date": "1944-12-22",
+        "title": "Amok",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "id": 667257,
+        "original_language": "es",
+        "original_title": "Cosas imposibles",
+        "overview": "After the death of her abusive husband, Matilde finds her new best friend in Miguel, her young, insecure, and disoriented neighbor.",
+        "popularity": 4.9635,
+        "poster_path": "/t2Ew8NZ8Ci2kqmoecZUNQUFDJnQ.jpg",
+        "release_date": "2021-06-17",
+        "title": "Impossible Things",
+        "video": false,
+        "vote_average": 8.425,
+        "vote_count": 418
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q2FY8sbqaSJBWz5ABg1E6lNiAbB.jpg",
+        "genre_ids": [
+          35,
+          28,
+          80
+        ],
+        "id": 14399,
+        "original_language": "es",
+        "original_title": "Matando Cabos",
+        "overview": "Two young men get involved with some criminals while trying to free the tycoon they kidnapped.",
+        "popularity": 3.2726,
+        "poster_path": "/d6fY8CZH2UyFlFi8r8odbJR0YEt.jpg",
+        "release_date": "2004-07-16",
+        "title": "Killing Cabos",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 170
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gECNX7niA7xa1xoSjRfGmfJDD68.jpg",
+        "genre_ids": [
+          12,
+          35,
+          10751
+        ],
+        "id": 286000,
+        "original_language": "es",
+        "original_title": "¡El que no corre... vuela!",
+        "overview": "After mistakenly going to jail, Maria makes friends with a woman whose kids live in the streets and Maria gets the idea to help them.",
+        "popularity": 0.3054,
+        "poster_path": "/8lRr75QYzJR5zZeRdiCwd3yleI5.jpg",
+        "release_date": "1982-06-25",
+        "title": "¡El que no corre... vuela!",
+        "video": false,
+        "vote_average": 7.917,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/umAxZQoJ0I6YlwYB5NqLqD7NjdX.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14,
+          27
+        ],
+        "id": 29826,
+        "original_language": "es",
+        "original_title": "La Leyenda de la Nahuala",
+        "overview": "Leo San Juan, an insecure child of nine years old, lives eternally frightened by horror stories that Nando tells his older brother. Within these stories it is 'The Legend of Nahuala', according to which, an old abandoned Casona is possessed by the spirit of an evil witch known as the Nahuala.",
+        "popularity": 1.5856,
+        "poster_path": "/nQ94eTRXQogJTDwlbq0R8VXSNMZ.jpg",
+        "release_date": "2007-10-31",
+        "title": "The Legend of the Nahuala",
+        "video": false,
+        "vote_average": 7.841,
+        "vote_count": 227
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pZ6PvuFsXHgGMpWFKbXHGPNcQc3.jpg",
+        "genre_ids": [
+          35,
+          37
+        ],
+        "id": 30131,
+        "original_language": "es",
+        "original_title": "El Siete Machos",
+        "overview": "Rosario, the niece of the rancher, returns to the ranch after ten years of absence. She takes in Margarito, a worker at the ranch, who is immediately smitten by her. Rosario is rescued from a runaway horse by the Seven Men, an outlaw a la Robin Hood that steals from the rich and gives to the poor. He also happens to be the twin brother of Margarito, unbeknownst to him. The confusion between Margarito and the Seven Men generates great comical situations in the film.",
+        "popularity": 0.8923,
+        "poster_path": "/swiX95Bg0B0SX4x3cAZ197j26re.jpg",
+        "release_date": "1951-02-05",
+        "title": "El Siete Machos",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 99
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ugFxOPHgjY5Q7cRt2UYCi46r7Dt.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 30325,
+        "original_language": "es",
+        "original_title": "Los tres huastecos",
+        "overview": "This is the story of three brothers - a priest, a soldier, and an outlaw - that are raised separately by their godfathers once their mother dies. They cross their paths again when the soldier and the priest move into two towns near the town the outlaw lives in. The drama will unfold once the three brothers meet each other.",
+        "popularity": 0.573,
+        "poster_path": "/hfSIytU4h14iocSTTCyyHdaXul9.jpg",
+        "release_date": "1948-08-05",
+        "title": "Los tres huastecos",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 108
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rQbnmkATRS9AIHx4zkwuMi7ioUE.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 30327,
+        "original_language": "es",
+        "original_title": "Ustedes los ricos",
+        "overview": "Pepe el Toro is married to Celia la Chorreada and they have two children.",
+        "popularity": 0.4339,
+        "poster_path": "/pkBBSxHguj92XT2pnUo872geS1b.jpg",
+        "release_date": "1948-12-31",
+        "title": "You the Rich",
+        "video": false,
+        "vote_average": 7.647,
+        "vote_count": 58
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l0NyLNtNllZgHdSvcnJ5wpkzdSx.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 313228,
+        "original_language": "es",
+        "original_title": "Escuela de música",
+        "overview": "",
+        "popularity": 1.5871,
+        "poster_path": "/onwomH1dS0LtVs4zsXR4DOh9XYE.jpg",
+        "release_date": "1955-10-12",
+        "title": "Music School",
+        "video": false,
+        "vote_average": 7.655,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gM7FfkCyN5WGAo0yxGFF4ejIgxz.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          10402
+        ],
+        "id": 314097,
+        "original_language": "es",
+        "original_title": "Los hijos de María Morales",
+        "overview": "Two brothers known in town for their womanizing, drinking and rowdiness meet their matches when two girls who like them decide to tame the two machos.",
+        "popularity": 0.4095,
+        "poster_path": "/ux4SrScqJrsYnlVOVFOjQrFRwPH.jpg",
+        "release_date": "1952-08-13",
+        "title": "Los hijos de María Morales",
+        "video": false,
+        "vote_average": 7.115,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xKWKsL7VgaN5Ep697TB3H03lglM.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1096905,
+        "original_language": "es",
+        "original_title": "¿Cómo matar a mamá?",
+        "overview": "After learning an irreversible truth, Camila, Teté and Margo must abandon their busy lives to come up with a plan to end their mother Rosalinda's life.",
+        "popularity": 0.1428,
+        "poster_path": "/zQch27gPbimK96vtbrEq4jFHg2D.jpg",
+        "release_date": "2023-05-10",
+        "title": "¿Cómo matar a mamá?",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eojywftaqRVeCNvMg8Ah9RsjH9g.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 50724,
+        "original_language": "es",
+        "original_title": "La mujer de mi hermano",
+        "overview": "After almost 10 years of marriage, attractive Zoe discovers that her marriage lacks passion and surprise, and is seduced by the possibility of finding those sensations already forgotten in her husband's brother. From this premise a series of events lead these three characters to a dangerous game of revenges, secrets and passions. Two brothers and one woman: the triangle is outlined in a disquieting way. It is a bomb that triggers family secrets, the contained rage of desire and the unmanageable power of love. An exciting story that subjugates the viewer from beginning to end.  Even though Zoe/Sonia has been married to Ignacio/Ishan for about a decade, they are unable to have children. She wants to be intimate but he prefers to be ready for intimacy on Saturdays only, and she gets physically drawn to his artistic brother, Gonzalo/Rohan. Then things get complicated for her after she tests positive for motherhood and finds that her husband may be gay.",
+        "popularity": 2.5165,
+        "poster_path": "/bDB9p8z2vzbF6wJzWct0PwfXl4H.jpg",
+        "release_date": "2005-11-04",
+        "title": "My Brother's Wife",
+        "video": false,
+        "vote_average": 6.393,
+        "vote_count": 136
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5YET9m7TTrKyc5bxG9lzSo29buk.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 41002,
+        "original_language": "es",
+        "original_title": "El Mago",
+        "overview": "A slapstick fantasy of the amorous adventures of a magician a la Cantinflas.",
+        "popularity": 0.2641,
+        "poster_path": "/xJpMqBKcJPM7Fuu5upLnFRCQoVc.jpg",
+        "release_date": "1949-05-04",
+        "title": "El Mago",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 26
+      }
+    ],
+    "total_pages": 11535,
+    "total_results": 230686
+  }
+}

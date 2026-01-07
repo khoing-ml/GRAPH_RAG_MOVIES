@@ -1,0 +1,1289 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
+    "belongs_to_collection": {
+      "id": 1119879,
+      "name": "Ice Road Collection",
+      "poster_path": "/jhP97IsbqmT3yoBqZoHbVLoafBI.jpg",
+      "backdrop_path": "/gtIvGzCinBaojazTQKSnzwwDTTY.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://2cm.es/1g-1R",
+    "id": 1119878,
+    "imdb_id": "tt27621210",
+    "origin_country": [
+      "AU",
+      "NP",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Ice Road: Vengeance",
+    "overview": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
+    "popularity": 26.5125,
+    "poster_path": "/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+    "production_companies": [
+      {
+        "id": 14589,
+        "logo_path": "/5WrEKsyGdTfT3T075EukSoIuxSU.png",
+        "name": "Code Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33603,
+        "logo_path": "/K1SdQd49Kx3QRx0djfHbzeotCz.png",
+        "name": "Shivhans Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 19456,
+        "logo_path": "/d6rHHbJPFkDlULQsvxYgRh9McvN.png",
+        "name": "Envision Media Arts",
+        "origin_country": "US"
+      },
+      {
+        "id": 33768,
+        "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+        "name": "The Solution",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-06-27",
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ice Road: Vengeance",
+    "video": false,
+    "vote_average": 6.253,
+    "vote_count": 548
+  },
+  "credits": {
+    "id": 1119878,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3896,
+        "known_for_department": "Acting",
+        "name": "Liam Neeson",
+        "original_name": "Liam Neeson",
+        "popularity": 11.105,
+        "profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg",
+        "cast_id": 1,
+        "character": "Mike McCann",
+        "credit_id": "644e12e96beaea14a72b544d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64439,
+        "known_for_department": "Acting",
+        "name": "Fan Bingbing",
+        "original_name": "范冰冰",
+        "popularity": 5.683,
+        "profile_path": "/pV2wYJiiPd6cgHK580PKD0GM4Dc.jpg",
+        "cast_id": 4,
+        "character": "Dhani Yangchen",
+        "credit_id": "65c4e1499451e70184bd6eac",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55174,
+        "known_for_department": "Acting",
+        "name": "Marcus Thomas",
+        "original_name": "Marcus Thomas",
+        "popularity": 1.352,
+        "profile_path": "/gMRYZQZ1TZxgjb8yWpkVTs0BIdm.jpg",
+        "cast_id": 41,
+        "character": "Gurty",
+        "credit_id": "68646d8329304a93781f82a8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2459258,
+        "known_for_department": "Acting",
+        "name": "Grace O'Sullivan",
+        "original_name": "Grace O'Sullivan",
+        "popularity": 2.9974,
+        "profile_path": "/ifgurjdagUpyw9Dyh4yYtN0p3R7.jpg",
+        "cast_id": 13,
+        "character": "Starr Myers",
+        "credit_id": "6673da88a7e066bddb25cb0e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5538791,
+        "known_for_department": "Acting",
+        "name": "Saksham Sharma",
+        "original_name": "Saksham Sharma",
+        "popularity": 0.3289,
+        "profile_path": "/vjyz2K6mqfw3T2X8uWv19Xlrqvd.jpg",
+        "cast_id": 31,
+        "character": "Vijay Rai",
+        "credit_id": "686468d0e23b86f33b4d0e52",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42394,
+        "known_for_department": "Acting",
+        "name": "Bernard Curry",
+        "original_name": "Bernard Curry",
+        "popularity": 1.0018,
+        "profile_path": "/tSZTKbE0TkU0CbZxzgeixqlyoTq.jpg",
+        "cast_id": 7,
+        "character": "Professor Myers",
+        "credit_id": "6673da448248617a704eb4ef",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93119,
+        "known_for_department": "Acting",
+        "name": "Geoff Morrell",
+        "original_name": "Geoff Morrell",
+        "popularity": 0.5573,
+        "profile_path": "/zdbbOZPOb1VeAXh1idj9fKeHE87.jpg",
+        "cast_id": 9,
+        "character": "Spike",
+        "credit_id": "6673da586f1a1f7f458f1871",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386458,
+        "known_for_department": "Acting",
+        "name": "Mahesh Jadu",
+        "original_name": "Mahesh Jadu",
+        "popularity": 1.1876,
+        "profile_path": "/pugsskE62XbyYRruJk8KGk3JVdC.jpg",
+        "cast_id": 6,
+        "character": "Rudra Yash",
+        "credit_id": "6673da3b8248617a704eb4e9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4841107,
+        "known_for_department": "Acting",
+        "name": "Amelia Bishop",
+        "original_name": "Amelia Bishop",
+        "popularity": 1.251,
+        "profile_path": "/9PETfDjcqwfOJEPTuv6xrRVcHQy.jpg",
+        "cast_id": 38,
+        "character": "Jeet",
+        "credit_id": "68646c0fa32bd49d5349584a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502688,
+        "known_for_department": "Acting",
+        "name": "Shapoor Batliwalla",
+        "original_name": "Shapoor Batliwalla",
+        "popularity": 0.3892,
+        "profile_path": "/s0Bu0S4k3PaPWIZQiAhmyo7KvlC.jpg",
+        "cast_id": 46,
+        "character": "Ganesh Rai",
+        "credit_id": "686516213308f084151f8328",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1519093,
+        "known_for_department": "Acting",
+        "name": "Monish Anand",
+        "original_name": "Monish Anand",
+        "popularity": 0.2358,
+        "profile_path": "/lzk8mkaUwFjdfr00r0KjWCucvwF.jpg",
+        "cast_id": 45,
+        "character": "Captain Shankar",
+        "credit_id": "68651616fedbbead7dfb85cd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2259333,
+        "known_for_department": "Acting",
+        "name": "Shivantha Wijesinha",
+        "original_name": "Shivantha Wijesinha",
+        "popularity": 0.6658,
+        "profile_path": "/bQZ4ps82LdSY0F2A5VPfTEAJmM9.jpg",
+        "cast_id": 12,
+        "character": "Lieutenant Mangal",
+        "credit_id": "6673da7c240cb0cdc225cb49",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4377186,
+        "known_for_department": "Acting",
+        "name": "CJ. Bloomfield",
+        "original_name": "CJ. Bloomfield",
+        "popularity": 0.3686,
+        "profile_path": "/aAD2L9PpAsj32AXkqTkteI6NXem.jpg",
+        "cast_id": 32,
+        "character": "Yug",
+        "credit_id": "686468fe0f4534c2a349576d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 187196,
+        "known_for_department": "Acting",
+        "name": "Michala Banas",
+        "original_name": "Michala Banas",
+        "popularity": 1.2003,
+        "profile_path": "/7RLtXdQJ3fYs0KzIpycGlGlbNxp.jpg",
+        "cast_id": 8,
+        "character": "V.A. Pyschiatrist",
+        "credit_id": "6673da52df5756417f93e368",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4707738,
+        "known_for_department": "Acting",
+        "name": "Ira Chakraborty",
+        "original_name": "Ira Chakraborty",
+        "popularity": 0.4891,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Hotel Staff",
+        "credit_id": "686469840826f61b6df840e8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4095643,
+        "known_for_department": "Acting",
+        "name": "Sarah Fitzgerald",
+        "original_name": "Sarah Fitzgerald",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Female Protester",
+        "credit_id": "68ca278dd7dfcd60bfe4f8cc",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2946032,
+        "known_for_department": "Acting",
+        "name": "Salim Fayad",
+        "original_name": "Salim Fayad",
+        "popularity": 0.2218,
+        "profile_path": "/hIVvvKqw5AVRjJ0RdxGR2mWyGHb.jpg",
+        "cast_id": 35,
+        "character": "Jorgo",
+        "credit_id": "686469b43b76b128454d0df9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2646671,
+        "known_for_department": "Acting",
+        "name": "Kaden Hartcher",
+        "original_name": "Kaden Hartcher",
+        "popularity": 0.4972,
+        "profile_path": "/4SbhcfR8yKTII0PAcNZDxczXN38.jpg",
+        "cast_id": 10,
+        "character": "Banda",
+        "credit_id": "6673da6456c093ad8b5487de",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5538794,
+        "known_for_department": "Acting",
+        "name": "Seth Kannof",
+        "original_name": "Seth Kannof",
+        "popularity": 0.0718,
+        "profile_path": "/mtjLPmopS7TyBxF7yF2UwcD24YK.jpg",
+        "cast_id": 36,
+        "character": "TSA Agent",
+        "credit_id": "686469d232e24904594957d1",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5693617,
+        "known_for_department": "Acting",
+        "name": "Suvith Ravichandra",
+        "original_name": "Suvith Ravichandra",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Taxi Driver #1",
+        "credit_id": "68ca295c20ff0eb265e36104",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5693619,
+        "known_for_department": "Acting",
+        "name": "Benoy Varghese",
+        "original_name": "Benoy Varghese",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Taxi Driver #2",
+        "credit_id": "68ca29858d0df64d36de81f3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4215084,
+        "known_for_department": "Acting",
+        "name": "Khisraw Jones-Shukoor",
+        "original_name": "Khisraw Jones-Shukoor",
+        "popularity": 0.0578,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Taxi Driver #3",
+        "credit_id": "68ca299ec7707e90f6e3608f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3389023,
+        "known_for_department": "Acting",
+        "name": "Kaivu Suvarna",
+        "original_name": "Kaivu Suvarna",
+        "popularity": 0.1249,
+        "profile_path": "/20e5OVMujZ4o8pUbnlinB2AaZJB.jpg",
+        "cast_id": 37,
+        "character": "Desk Clerk",
+        "credit_id": "68646ba507c870e1b51f8220",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5538825,
+        "known_for_department": "Acting",
+        "name": "Glen Oliver",
+        "original_name": "Glen Oliver",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Ranger Captain",
+        "credit_id": "686470bb61fb1fda4c4148e7",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3049201,
+        "known_for_department": "Acting",
+        "name": "Anna-Mai Hoek",
+        "original_name": "Anna-Mai Hoek",
+        "popularity": 0.212,
+        "profile_path": "/cGM2xbxRpgq4idCAyzpnWuErxit.jpg",
+        "cast_id": 51,
+        "character": "V.A. Surgeon",
+        "credit_id": "68ca2a82d29322529ce4f944",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2616172,
+        "known_for_department": "Acting",
+        "name": "Darcy Brown",
+        "original_name": "Darcy Brown",
+        "popularity": 0.0808,
+        "profile_path": "/wL7NRBm0beWlj9HDwxSuXHd8qOb.jpg",
+        "cast_id": 52,
+        "character": "Bennie",
+        "credit_id": "68ca2b27b3e6723ec41f2032",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5693626,
+        "known_for_department": "Acting",
+        "name": "Josh Jurlina",
+        "original_name": "Josh Jurlina",
+        "popularity": 0.0546,
+        "profile_path": "/lHiqkxZVlrFLRIifVNlSjfRgckA.jpg",
+        "cast_id": 53,
+        "character": "Elvis",
+        "credit_id": "68ca2b60c77941ef6713f4cc",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5693629,
+        "known_for_department": "Acting",
+        "name": "Jackson Hookway",
+        "original_name": "Jackson Hookway",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "X Game Crew #3",
+        "credit_id": "68ca2c3b7154839b4dde81c6",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5693631,
+        "known_for_department": "Acting",
+        "name": "Jackson Rutherford",
+        "original_name": "Jackson Rutherford",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "X Game Crew #4",
+        "credit_id": "68ca2c4b05e4aa7115e3613c",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2971935,
+        "known_for_department": "Acting",
+        "name": "Eleanor Barkla",
+        "original_name": "Eleanor Barkla",
+        "popularity": 0.2016,
+        "profile_path": "/vpFrILTm0NsxdTEoZFz80apCwOc.jpg",
+        "cast_id": 56,
+        "character": "Tonya",
+        "credit_id": "68ca2e21cff00b05381f0530",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5538804,
+        "known_for_department": "Acting",
+        "name": "Luke Clayson",
+        "original_name": "Luke Clayson",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Paul",
+        "credit_id": "68646c8461fb1fda4c4148c9",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2391549,
+        "known_for_department": "Acting",
+        "name": "Sunny S. Walia",
+        "original_name": "Sunny S. Walia",
+        "popularity": 0.8271,
+        "profile_path": "/ju7GWd7GrOUUYmbWWtpXKqqLcRd.jpg",
+        "cast_id": 33,
+        "character": "Corrupt Nepali Policeman #1",
+        "credit_id": "6864695a984607c6c3d12692",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1985783,
+        "known_for_department": "Acting",
+        "name": "Sahil Saluja",
+        "original_name": "Sahil Saluja",
+        "popularity": 0.616,
+        "profile_path": "/qTBl4MjJYPN52K0iaLAXMKLfOdm.jpg",
+        "cast_id": 44,
+        "character": "Corrupt Nepali Policeman #2",
+        "credit_id": "68651601b8717a3db7eef7ea",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5693643,
+        "known_for_department": "Acting",
+        "name": "Li Weng",
+        "original_name": "Li Weng",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Chinese Soldier",
+        "credit_id": "68ca2eafb7979703bc13f4aa",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1521611,
+        "known_for_department": "Acting",
+        "name": "Katharine Innes",
+        "original_name": "Katharine Innes",
+        "popularity": 0.3074,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Starr's Mother",
+        "credit_id": "68ca2ec49cd707e317683333",
+        "order": 34
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4589985,
+        "known_for_department": "Acting",
+        "name": "Zhou Yeye",
+        "original_name": "周叶叶",
+        "popularity": 0.6204,
+        "profile_path": "/ap1oYlYFBtDZu890pkfFT46SIJa.jpg",
+        "credit_id": "6634b4149590e30129bb8552",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 876,
+        "known_for_department": "Writing",
+        "name": "Jonathan Hensleigh",
+        "original_name": "Jonathan Hensleigh",
+        "popularity": 0.9956,
+        "profile_path": "/5TAo4TG1kqXWFhOf3ahhkQSfdOj.jpg",
+        "credit_id": "644e12f6a6c10402fc675b11",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 876,
+        "known_for_department": "Writing",
+        "name": "Jonathan Hensleigh",
+        "original_name": "Jonathan Hensleigh",
+        "popularity": 0.9956,
+        "profile_path": "/5TAo4TG1kqXWFhOf3ahhkQSfdOj.jpg",
+        "credit_id": "644e12fca6c10404a2675bd7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38576,
+        "known_for_department": "Acting",
+        "name": "Al Corley",
+        "original_name": "Al Corley",
+        "popularity": 1.4674,
+        "profile_path": "/7FYJ9s23DauPBo11cr81IaAjMEt.jpg",
+        "credit_id": "6673dabb67e8c4e89b4eb11f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1067252,
+        "known_for_department": "Production",
+        "name": "Lee Nelson",
+        "original_name": "Lee Nelson",
+        "popularity": 0.3196,
+        "profile_path": null,
+        "credit_id": "6673dad4c2ebaf2fcfa3c3fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46328,
+        "known_for_department": "Production",
+        "name": "John Leonetti",
+        "original_name": "John Leonetti",
+        "popularity": 0.4062,
+        "profile_path": null,
+        "credit_id": "6673db37ab719201b74eb1e3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014925,
+        "known_for_department": "Production",
+        "name": "Myles Nestel",
+        "original_name": "Myles Nestel",
+        "popularity": 0.5969,
+        "profile_path": null,
+        "credit_id": "6673db42abd54a4cb1fc595d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 987068,
+        "known_for_department": "Production",
+        "name": "Lisa Wilson",
+        "original_name": "Lisa Wilson",
+        "popularity": 1.2419,
+        "profile_path": null,
+        "credit_id": "6673db4dee15bd57ba54877d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1555794,
+        "known_for_department": "Production",
+        "name": "Shivani Rawat",
+        "original_name": "Shivani Rawat",
+        "popularity": 1.4268,
+        "profile_path": "/iQ9LMlu4H9MwkGYwdVoATnAaWHX.jpg",
+        "credit_id": "6673dadf67e8c4e89b4eb122",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1973051,
+        "known_for_department": "Production",
+        "name": "Stevie Ray",
+        "original_name": "Stevie Ray",
+        "popularity": 0.8049,
+        "profile_path": null,
+        "credit_id": "6673db7483515d7e12fc595d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227093,
+        "known_for_department": "Production",
+        "name": "Jonathan Dana",
+        "original_name": "Jonathan Dana",
+        "popularity": 0.2257,
+        "profile_path": null,
+        "credit_id": "6673db0f033d3be1148f18cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967484,
+        "known_for_department": "Production",
+        "name": "David Buelow",
+        "original_name": "David Buelow",
+        "popularity": 0.0819,
+        "profile_path": null,
+        "credit_id": "6673db0392e2561424cef69d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20064,
+        "known_for_department": "Production",
+        "name": "Julie Goldstein",
+        "original_name": "Julie Goldstein",
+        "popularity": 0.6395,
+        "profile_path": "/bn29hI66SPiuw90I9lQOe33Ch2f.jpg",
+        "credit_id": "6673db295feb30f1e1cef633",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38577,
+        "known_for_department": "Production",
+        "name": "Eugene Musso",
+        "original_name": "Eugene Musso",
+        "popularity": 0.4772,
+        "profile_path": null,
+        "credit_id": "6673dac71eb93bc9534eb6c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2483132,
+        "known_for_department": "Production",
+        "name": "Connor Flanagan",
+        "original_name": "Connor Flanagan",
+        "popularity": 0.2938,
+        "profile_path": "/feWctHdsam9nihOfJMyMOVX3WXI.jpg",
+        "credit_id": "6673db1ec2567d41a4548739",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38578,
+        "known_for_department": "Production",
+        "name": "Bart Rosenblatt",
+        "original_name": "Bart Rosenblatt",
+        "popularity": 0.3922,
+        "profile_path": null,
+        "credit_id": "6673daec6283a6acca16c14b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1699816,
+        "known_for_department": "Production",
+        "name": "David Tish",
+        "original_name": "David Tish",
+        "popularity": 0.225,
+        "profile_path": null,
+        "credit_id": "6673daf5c2ebaf2fcfa3c401",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75994,
+        "known_for_department": "Art",
+        "name": "Penny Southgate",
+        "original_name": "Penny Southgate",
+        "popularity": 0.7593,
+        "profile_path": null,
+        "credit_id": "6673db7f12bd1d117c4eb4ce",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55906,
+        "known_for_department": "Sound",
+        "name": "Michael Yezerski",
+        "original_name": "Michael Yezerski",
+        "popularity": 0.3082,
+        "profile_path": null,
+        "credit_id": "68515e58ce8654cdb7065d78",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 460,
+        "known_for_department": "Camera",
+        "name": "Tom Stern",
+        "original_name": "Tom Stern",
+        "popularity": 0.9283,
+        "profile_path": "/wKcwnnvdWrGBqdho0SYSp7xFKv7.jpg",
+        "credit_id": "686471d79b677a4572bb3bde",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1119878,
+    "keywords": [
+      {
+        "id": 3070,
+        "name": "mercenary"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 192779,
+        "name": "mount everest"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      },
+      {
+        "id": 325773,
+        "name": "audacious"
+      },
+      {
+        "id": 325805,
+        "name": "embarrassed"
+      },
+      {
+        "id": 325840,
+        "name": "optimistic"
+      },
+      {
+        "id": 325855,
+        "name": "urgent"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          12,
+          18,
+          878
+        ],
+        "id": 1041557,
+        "original_language": "ja",
+        "original_title": "ウルトラマン コネクションPresents TAMASHII NATIONSスペシャル配信：ウルトラマントリガー編",
+        "overview": "Ultraman Connection Presents: Tamashii Nations Special Streaming featuring Ultraman Trigger is a special filmed stage show based on various Ultraman characters and released on YouTube as a part of the eponymous stream.",
+        "popularity": 0.2402,
+        "poster_path": "/3s0aPnfgHmeYm6qpM7M2S47LEDL.jpg",
+        "release_date": "2022-10-19",
+        "title": "Ultraman Connection Presents: Tamashii Nations Special Streaming featuring Ultraman Trigger",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          28
+        ],
+        "id": 1196162,
+        "original_language": "en",
+        "original_title": "Samaritan 2",
+        "overview": "A sequel to the 2022 superhero film.",
+        "popularity": 2.1429,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Samaritan 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 603692,
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 18.281,
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "release_date": "2023-03-22",
+        "title": "John Wick: Chapter 4",
+        "video": false,
+        "vote_average": 7.713,
+        "vote_count": 7571
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1197137,
+        "original_language": "en",
+        "original_title": "Black Phone 2",
+        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "popularity": 42.6635,
+        "poster_path": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+        "release_date": "2025-10-15",
+        "title": "Black Phone 2",
+        "video": false,
+        "vote_average": 6.815,
+        "vote_count": 782
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/39ugdENlqixBu6MjaO3Og5yLNFR.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1193126,
+        "original_language": "ja",
+        "original_title": "特捜戦隊デカレンジャー20th ファイヤーボール・ブースター",
+        "overview": "Celebrating the 20th anniversary of the Tokusou Sentai Dekaranger series, the six detectives who fight with cool and burning hearts gather again to face the \"Great Plan\" that threatens peace on Earth!",
+        "popularity": 0.5968,
+        "poster_path": "/iuey7GTiq5Vf6M28QTU9ZtbdmpC.jpg",
+        "release_date": "2024-06-07",
+        "title": "Tokusou Sentai Dekaranger 20th: Fireball Booster",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 1196573,
+        "original_language": "en",
+        "original_title": "She Rides Shotgun",
+        "overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
+        "popularity": 24.4062,
+        "poster_path": "/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
+        "release_date": "2025-07-31",
+        "title": "She Rides Shotgun",
+        "video": false,
+        "vote_average": 7.068,
+        "vote_count": 191
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          10752
+        ],
+        "id": 603184,
+        "original_language": "en",
+        "original_title": "The Killers",
+        "overview": "B-grade action film denotes a wealthy dignitary abducted by elite armed mercenary forces, and the gallant heroes who must brave the \"Green Hell\" of Africa to rescue him.",
+        "popularity": 0.9593,
+        "poster_path": "/42Epr81ZgrPGOuAGajYyRpzogfE.jpg",
+        "release_date": "1971-01-08",
+        "title": "The Killers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jYaoVDJ9J6Me3J0EQCABzQ99YVG.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 627336,
+        "original_language": "ml",
+        "original_title": "L2: എമ്പുരാൻ",
+        "overview": "Five years after becoming Chief Minister of Kerala, Jathin Ramdas' move to align with communal forces led by Balraj 'Baba' Bajrangi, triggers Stephen Nedumpally aka Khureshi Ab'raam to return with his Man Friday Zayed Masood to save his home state and settle scores.",
+        "popularity": 1.8631,
+        "poster_path": "/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg",
+        "release_date": "2025-03-27",
+        "title": "L2: Empuraan",
+        "video": false,
+        "vote_average": 6.22,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53
+        ],
+        "id": 1595191,
+        "original_language": "en",
+        "original_title": "Night Ride",
+        "overview": "Mark is waiting for his tram home when he’s suddenly approached by Violet — a girl who insists she knows him and offers detail after detail to prove it. The only issue: Mark has no memory of her at all.",
+        "popularity": 0.1258,
+        "poster_path": "/dZK8CSFdxdIbfPoVQNe5Xu4jR4r.jpg",
+        "release_date": "2025-12-11",
+        "title": "Night Ride",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1212489,
+        "original_language": "en",
+        "original_title": "The Resurrection of the Christ: Part Two",
+        "overview": "The second part of a two-part sequel to The Passion of the Christ. Plot TBA.",
+        "popularity": 0.3968,
+        "poster_path": null,
+        "release_date": "2027-05-06",
+        "title": "The Resurrection of the Christ: Part Two",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/btMzNp7apb51M8mZIGcw8wYSG8h.jpg",
+        "genre_ids": [
+          28,
+          878
+        ],
+        "id": 1218111,
+        "original_language": "ja",
+        "original_title": "仮面ライダーギーツ ジャマト・アウェイキング",
+        "overview": "The Riders make their final assault against the ever-growing Jyamato, hoping to discover the secrets of their existence and return peace to the world.",
+        "popularity": 0.8747,
+        "poster_path": "/9EP5wjBaft8IYVFxx5cTyCjj4ck.jpg",
+        "release_date": "2024-03-08",
+        "title": "Kamen Rider Geats: Jyamato Awaking",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ePGj23iFeSCFs2iBjhhXdEvGRw5.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1218005,
+        "original_language": "en",
+        "original_title": "Orphans",
+        "overview": "A ruthless con artist targets a wealthy European household, but her calculated scheme hits an unexpected snag when someone discovers her dark past and vows to expose her true identity.",
+        "popularity": 3.4495,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Orphans",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          12
+        ],
+        "id": 1216425,
+        "original_language": "en",
+        "original_title": "Uncharted 2",
+        "overview": "In development.",
+        "popularity": 0.6104,
+        "poster_path": "/r0NcSE4hu887nzVuVWfmAZZIKLb.jpg",
+        "release_date": "",
+        "title": "Uncharted 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
+        "genre_ids": [
+          28,
+          9648,
+          53,
+          878
+        ],
+        "id": 615173,
+        "original_language": "ko",
+        "original_title": "마녀(魔女) Part2. The Other One",
+        "overview": "A girl wakes up in a huge secret laboratory, then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.",
+        "popularity": 14.5849,
+        "poster_path": "/9YTuscJXmr9Iua62amCgGSU8PDW.jpg",
+        "release_date": "2022-06-15",
+        "title": "The Witch: Part 2. The Other One",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 408
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hUfnYsVMmXcbcwzWHr62jTtpdkE.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 629017,
+        "original_language": "en",
+        "original_title": "Run Hide Fight",
+        "overview": "A 17-year-old girl uses her wits, survival skills, and compassion to fight for her life, and those of her fellow classmates, against a group of live-streaming school shooters.",
+        "popularity": 2.7631,
+        "poster_path": "/wlP25H14OvKoFORIwuKomZzioA5.jpg",
+        "release_date": "2021-06-17",
+        "title": "Run Hide Fight",
+        "video": false,
+        "vote_average": 6.62,
+        "vote_count": 338
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+        "genre_ids": [
+          16,
+          28,
+          10749,
+          14
+        ],
+        "id": 1218925,
+        "original_language": "ja",
+        "original_title": "劇場版 チェンソーマン レゼ篇",
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "popularity": 70.5943,
+        "poster_path": "/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+        "release_date": "2025-09-19",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "video": false,
+        "vote_average": 8.291,
+        "vote_count": 557
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3ciAiEBD4yxZYoXMxEnZF6Q0u58.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 627725,
+        "original_language": "en",
+        "original_title": "The Banker",
+        "overview": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration—and equal access to the American Dream.",
+        "popularity": 3.7094,
+        "poster_path": "/biXzsw22U6vSd0XktmZwAOc4uik.jpg",
+        "release_date": "2020-03-06",
+        "title": "The Banker",
+        "video": false,
+        "vote_average": 7.635,
+        "vote_count": 1054
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1ox1G4HL0w7k4yvtIJVciJVCDhW.jpg",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "id": 1226840,
+        "original_language": "en",
+        "original_title": "Things Will Be Different",
+        "overview": "In order to escape the police after a robbery, two estranged siblings lay low in a metaphysical farmhouse that hides them away in a different time. There they reckon with a mysterious force that pushes their familial bonds to unnatural breaking points.",
+        "popularity": 0.629,
+        "poster_path": "/8vpYPns2SjbmgqkE72e69knRMGY.jpg",
+        "release_date": "2024-10-04",
+        "title": "Things Will Be Different",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 67
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 1227128,
+        "original_language": "hi",
+        "original_title": "रेड २",
+        "overview": "Set seven years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who is attempting to take down a seemingly benevolent politician.",
+        "popularity": 2.2934,
+        "poster_path": "/562SAxZP1sLuYqDDTuODu3hdGyx.jpg",
+        "release_date": "2025-05-01",
+        "title": "Raid 2",
+        "video": false,
+        "vote_average": 6.355,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 634649,
+        "original_language": "en",
+        "original_title": "Spider-Man: No Way Home",
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "popularity": 22.2513,
+        "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "release_date": "2021-12-15",
+        "title": "Spider-Man: No Way Home",
+        "video": false,
+        "vote_average": 7.936,
+        "vote_count": 21410
+      }
+    ],
+    "total_pages": 17355,
+    "total_results": 347098
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/gmNX2bJuS7jLocgWPazIqaGMfwE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81106901",
+    "id": 740996,
+    "imdb_id": "tt13058290",
+    "origin_country": [
+      "US",
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "블랙핑크: 세상을 밝혀라",
+    "overview": "Record-shattering Korean girl band BLACKPINK tell their story —  and detail the hard fought journey of the dreams and trials behind their meteoric rise.",
+    "popularity": 1.57,
+    "poster_path": "/wwrvjmcgkDyB2RbCbIVLXZf82pl.jpg",
+    "production_companies": [
+      {
+        "id": 89394,
+        "logo_path": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+        "name": "RadicalMedia",
+        "origin_country": "US"
+      },
+      {
+        "id": 44337,
+        "logo_path": "/iwhtnZBonWETPISDFB1DDWplSzA.png",
+        "name": "YG Entertainment",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-10-14",
+    "revenue": 0,
+    "runtime": 79,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      },
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The rise of a global phenomena.",
+    "title": "BLACKPINK: Light Up the Sky",
+    "video": false,
+    "vote_average": 8.211,
+    "vote_count": 510
+  },
+  "credits": {
+    "id": 740996,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1875840,
+        "known_for_department": "Acting",
+        "name": "JISOO",
+        "original_name": "지수",
+        "popularity": 2.767,
+        "profile_path": "/hfHbHfR8pj5UO6f8AaeIbbQvcXy.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5f581f45befb090037550537",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1875841,
+        "known_for_department": "Acting",
+        "name": "JENNIE",
+        "original_name": "제니",
+        "popularity": 4.8436,
+        "profile_path": "/r3nR0MKcKSEz8tlafvywc0WTdys.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "5f581f4dda10f000380c23a0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1875842,
+        "known_for_department": "Acting",
+        "name": "ROSÉ",
+        "original_name": "로제",
+        "popularity": 1.4723,
+        "profile_path": "/qAu8cDQto6hbYa3YmVWvEjH4vuM.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "5f581f3c8c22c00037c83cf9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1875844,
+        "known_for_department": "Acting",
+        "name": "LISA",
+        "original_name": "ลิซ่า",
+        "popularity": 2.8325,
+        "profile_path": "/qI8vV0rh9XWC7FObzEGDRSg4PBN.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "5f581f2fbefb09003554c1bb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2810559,
+        "known_for_department": "Acting",
+        "name": "Teddy Park",
+        "original_name": "Teddy Park",
+        "popularity": 1.0245,
+        "profile_path": "/nFO4IZlQFIYi0Gyh4ewyD2te82s.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "5f81d9a869eb900039bb4fe7",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1489789,
+        "known_for_department": "Sound",
+        "name": "Aska Matsumiya",
+        "original_name": "Aska Matsumiya",
+        "popularity": 0.9341,
+        "profile_path": null,
+        "credit_id": "61eb2d47e48860001efba58f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1055512,
+        "known_for_department": "Directing",
+        "name": "Caroline Suh",
+        "original_name": "Caroline Suh",
+        "popularity": 0.6268,
+        "profile_path": "/ydZjLInXLsBzAA2WNYgXUC8Oz09.jpg",
+        "credit_id": "5f582387da10f000390c1c7a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69241,
+        "known_for_department": "Production",
+        "name": "Jon Kamen",
+        "original_name": "Jon Kamen",
+        "popularity": 0.4976,
+        "profile_path": "/1mhCSh4K7u320tbf5UMhFXBQ6tM.jpg",
+        "credit_id": "5f5824274e6742003629c0b3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1693049,
+        "known_for_department": "Production",
+        "name": "Zara Duffy",
+        "original_name": "Zara Duffy",
+        "popularity": 0.6686,
+        "profile_path": null,
+        "credit_id": "5f5824434e674200382994e1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770793,
+        "known_for_department": "Production",
+        "name": "David Sirulnick",
+        "original_name": "David Sirulnick",
+        "popularity": 0.0891,
+        "profile_path": null,
+        "credit_id": "5f5824382d93750038a0d588",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1505090,
+        "known_for_department": "Production",
+        "name": "Cara Mones",
+        "original_name": "Cara Mones",
+        "popularity": 0.7873,
+        "profile_path": null,
+        "credit_id": "5f582417d388ae00374fd540",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2800326,
+        "known_for_department": "Editing",
+        "name": "Peter Holmes",
+        "original_name": "Peter Holmes",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "5f772205944a570034c79e4f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401467,
+        "known_for_department": "Camera",
+        "name": "Luke McCoubrey",
+        "original_name": "Luke McCoubrey",
+        "popularity": 2.3066,
+        "profile_path": null,
+        "credit_id": "5f870570d4b9d900372669c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2815024,
+        "known_for_department": "Sound",
+        "name": "M.J. Lee",
+        "original_name": "M.J. Lee",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "5f8705488258fc0034aafab7",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 740996,
+    "keywords": [
+      {
+        "id": 186799,
+        "name": "girl group"
+      },
+      {
+        "id": 225273,
+        "name": "k-pop"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 672452,
+        "original_language": "ko",
+        "original_title": "La Rouge",
+        "overview": "",
+        "popularity": 1.4559,
+        "poster_path": "/cR68kmU7sqADm6S4ghsnkUG4reP.jpg",
+        "release_date": "2019-11-23",
+        "title": "La Rouge",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sBRlWueVUiJVYoogTjey2OJPSOq.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 672458,
+        "original_language": "ko",
+        "original_title": "NCT 127 | 1st Tour | NEO CITY - The Origin",
+        "overview": "NCT 127 1st Tour: NEO CITY - The Origin is NCT 127's first solo concert which was held in various cities in South Korea & Japan. The concert began on January 26, 2019.",
+        "popularity": 0.2052,
+        "poster_path": "/l1soCgY0hOwjD15IGa2qmMJHT1S.jpg",
+        "release_date": "2023-09-22",
+        "title": "NCT 127 | 1st Tour | NEO CITY - The Origin",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5Z0gWuWHhh1pYXX3eiXohPFvwoo.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 672490,
+        "original_language": "ja",
+        "original_title": "EXO PLANET #2 The EXO'luxion in Japan",
+        "overview": "EXO PLANET #2 - The EXO'luXion was the second tour of South Korean-Chinese boy band EXO. The tour began in Seoul's Olympic Gymnastics Arena on March 7, 2015. The tour was officially announced in January 2015 with the first five dates in South Korea. The tour had 39 dates throughout Asia and five dates in North America.",
+        "popularity": 0.1849,
+        "poster_path": "/uj7pOdl6Ozim65JCsWDgk94fgmN.jpg",
+        "release_date": "2016-03-09",
+        "title": "EXO PLANET #2 The EXO'luxion in Japan",
+        "video": true,
+        "vote_average": 9.1,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/86X09HCJo8s83s32H2Frz7G0jMx.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 1063453,
+        "original_language": "ko",
+        "original_title": "방탄소년단: 옛 투 컴 인 시네마",
+        "overview": "Join RM, Jin, SUGA, j-hope, Jimin, V and Jung Kook in this special cinematic cut, re-edited and remixed for the big screen. Watch new close-up angles and a whole new view of the entire concert, BTS Yet To Come in Busan. Featuring hit songs from across the group's career, including \"Dynamite,\" \"Butter\" and “IDOL,\" plus the first concert performance of \"Run BTS\" from the group’s latest album Proof.",
+        "popularity": 1.0628,
+        "poster_path": "/eWb45OsBHSO2t1j068bqDsPOGG9.jpg",
+        "release_date": "2023-02-01",
+        "title": "BTS: Yet to Come in Cinemas",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 110
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gL9nh0qYWFgFMPaePhKZ5xlNxiV.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 26723,
+        "original_language": "en",
+        "original_title": "Imagine: John Lennon",
+        "overview": "The biography of former Beatle, John Lennon—narrated by Lennon himself—with extensive material from Yoko Ono's personal collection, previously unseen footage from Lennon's private archives, and interviews with David Bowie, his first wife Cynthia, second wife Yoko Ono and sons Julian and Sean.",
+        "popularity": 1.6409,
+        "poster_path": "/r2wfq5fU65GRenTYrTGV3alPoNj.jpg",
+        "release_date": "1988-09-30",
+        "title": "Imagine: John Lennon",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 83
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w5cPbneYssT6yPgChPcCRInpUYb.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 484465,
+        "original_language": "ko",
+        "original_title": "에스엠타운 더 스테이지",
+        "overview": "Behind the scenes look and interviews with the performers of SM Entertainment as they travel to China, Japan, and Korea for their \"SMTOWN Live World Tour IV\".",
+        "popularity": 0.5083,
+        "poster_path": "/29tK983zIaqohsoBMGnQFf69L19.jpg",
+        "release_date": "2015-08-13",
+        "title": "SMTown: The Stage",
+        "video": true,
+        "vote_average": 9.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10402,
+          10770
+        ],
+        "id": 294697,
+        "original_language": "en",
+        "original_title": "My Boyfriend's Back",
+        "overview": "A female singing group from the '60s reunites for a TV special.",
+        "popularity": 0.2327,
+        "poster_path": "/mjuK11Z48RCFOZcbuhEyrMdldww.jpg",
+        "release_date": "1989-09-24",
+        "title": "My Boyfriend's Back",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/socMWFFL8f5j41tVQ9TO64QkSxB.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          18,
+          10402,
+          10770
+        ],
+        "id": 27621,
+        "original_language": "en",
+        "original_title": "The Cheetah Girls: One World",
+        "overview": "Chanel, Dorinda, and Aqua are off to India to star in a Bollywood movie. But when they discover that they will have to compete against each other to get the role in the movie, will the Cheetahs break up again?",
+        "popularity": 0.9904,
+        "poster_path": "/pnDjj8nMf1AUKuQsHLrOVOMa3H9.jpg",
+        "release_date": "2008-08-22",
+        "title": "The Cheetah Girls: One World",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dzH6sLazV6YUzbJL9ahh8MAV4KY.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1069377,
+        "original_language": "fr",
+        "original_title": "Mögöbalu, Les Maîtres des Tambours d'Afrique",
+        "overview": "",
+        "popularity": 0.4839,
+        "poster_path": "/4izXxFJnYkTjNje504g0c7nFM37.jpg",
+        "release_date": "1998-01-01",
+        "title": "Mögöbalu, Les Maîtres des Tambours d'Afrique",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1068475,
+        "original_language": "ja",
+        "original_title": "イコノイフェス 2021",
+        "overview": "Rino Sashihara's idol group =LOVE and its sister group ≠ME (Not Equal Me) held day and night joint concert \"IkoNoi Fes 2021\" at Fuji-Q Highland Conifer Forest on Saturday, October 9, 2021.",
+        "popularity": 0.1851,
+        "poster_path": "/5XbbfcmkWb9jHztOhvEhkqW3Hih.jpg",
+        "release_date": "2022-08-31",
+        "title": "IkoNoi Fes 2021",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xuZCGRwUo8ODi4ILik1sqRQBgwv.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 1071292,
+        "original_language": "ko",
+        "original_title": "RM Live in Seoul @ 롤링홀",
+        "overview": "RM performs an intimate set to a crowd of 200 at Rolling Hall in Seoul, presenting his newest album 'Indigo'.",
+        "popularity": 0.5226,
+        "poster_path": "/zKQsYeVqO9fzJ5qqShDGVwV24ZN.jpg",
+        "release_date": "2022-12-15",
+        "title": "RM Live in Seoul @ Rolling Hall",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z4U2kdSWXHQ3eEGsXB9O1p98jIZ.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 26236,
+        "original_language": "en",
+        "original_title": "ABBA in Concert",
+        "overview": "ABBA's 1979 tour of North America and Europe, with emphasis on performances at Wembley Arena, London.",
+        "popularity": 0.2304,
+        "poster_path": "/8pP89e3w4yL71lCHYDKKU8htwzP.jpg",
+        "release_date": "1980-04-07",
+        "title": "ABBA in Concert",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402
+        ],
+        "id": 1451882,
+        "original_language": "ko",
+        "original_title": "댄싱아이돌",
+        "overview": "'Dancing Idol' is a show in which six different rookie K-pop groups (three boy groups and three girl groups) present their renditions of K-pop's top hits.  The show will be lead by Super Junior's Shindong and Oh My Girl's Yoo Ah as they add commentary to the competition between the six junior groups; Cherry Bullet, Elris, Rocket Punch, VeriVery, OnlyOneOf and ONEUS.",
+        "popularity": 0.1581,
+        "poster_path": "/zPk7C5FOYWLbI8W3J9IqOuri02y.jpg",
+        "release_date": "2020-08-18",
+        "title": "Dancing Idol",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ayQhlLDXyXigLkn1U41oZmDWoPV.jpg",
+        "genre_ids": [
+          35,
+          10402,
+          99
+        ],
+        "id": 1063307,
+        "original_language": "en",
+        "original_title": "Pavements",
+        "overview": "'90s indie-rock band Pavement reunites for their sold-out 2022 tour. But as preparations get underway, surreal tributes emerge: an off-Broadway musical adaptation of their songs, a museum devoted entirely to the band’s legacy, and a shamelessly awards-baiting Hollywood biopic.",
+        "popularity": 3.9431,
+        "poster_path": "/9ZCWGDGk1GJGQtlu2X5gDVbnU0v.jpg",
+        "release_date": "2025-05-02",
+        "title": "Pavements",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1063313,
+        "original_language": "en",
+        "original_title": "The Fire and the Rose",
+        "overview": "A documentary on the life and work of the composer Sofia Gubaidulina.",
+        "popularity": 0.1587,
+        "poster_path": "/12WTgfzdKbSSk5ygpHGLpoGpG1s.jpg",
+        "release_date": "1990-01-01",
+        "title": "The Fire and the Rose",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tJA8ZFa6JULhzZ6Rv8UphPinA0v.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 679914,
+        "original_language": "fr",
+        "original_title": "Debbie Harry: Atomic Blondie",
+        "overview": "Portrait of Debbie Harry, co-founder of Blondie, punk rock pioneer, that was one of the few feminine icon in rock music at that time.",
+        "popularity": 0.4108,
+        "poster_path": "/vOiquUJQ2FAmhwQJ0HVI3ZaiDb5.jpg",
+        "release_date": "2018-08-17",
+        "title": "Debbie Harry: Atomic Blondie",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/98MW3zxRdBzlnyLpAQvMdY0pe6G.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          18,
+          10402,
+          10770
+        ],
+        "id": 37609,
+        "original_language": "en",
+        "original_title": "The Cheetah Girls 2",
+        "overview": "Best friends Galleria, Chanel, Dorinda, and Aqua, A.K.A. the girl band \"The Cheetahs,\" get the opportunity of a lifetime when they strut their way to Barcelona, Spain, to perform in an international music festival. Along the way, the \"amigas Cheetahs\" learn that, although their paths are not the same, they are lucky to have one another for the journey.",
+        "popularity": 1.1527,
+        "poster_path": "/cKLATvYcVUn6FfmgOU811TJgHWl.jpg",
+        "release_date": "2006-07-31",
+        "title": "The Cheetah Girls 2",
+        "video": false,
+        "vote_average": 6.296,
+        "vote_count": 411
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aCIcZUtcmOYux5h3k10wlod4VgO.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 37640,
+        "original_language": "en",
+        "original_title": "Let's Get Lost",
+        "overview": "Documentary about jazz great Chet Baker that intercuts footage from the 1950s, when he was part of West Coast Cool, and from his last years. We see the young Baker, he of the beautiful face, in California and in Italy, where he appeared in at least one movie and at least one jail cell (for drug possession). And, we see the aged Baker, detached, indifferent, his face a ruin. Includes interviews with his children and ex-wife, women companions, and musicians.",
+        "popularity": 0.6938,
+        "poster_path": "/voAn1Btvyy9icPHaf7HNwBfFZor.jpg",
+        "release_date": "1988-09-15",
+        "title": "Let's Get Lost",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wMrLyLcQS5A1Lt0HPJc4te3oSRM.jpg",
+        "genre_ids": [
+          10402
+        ],
+        "id": 31207,
+        "original_language": "en",
+        "original_title": "Girls Aloud: Out of Control Live from the O2",
+        "overview": "The UK's greatest girl group filmed the show in May this year at The O2 arena in London. During the 32 date tour Girls Aloud played to approximately half a million people. The live extravaganza was dubbed their best live tour to date by the fans whilst the press raved about it. The London paper said it was their best live tour to date whilst The Times gave the show 4 stars.",
+        "popularity": 0.1249,
+        "poster_path": "/7e86bz1UuvoZxffiV1zCvg6ie33.jpg",
+        "release_date": "2009-08-08",
+        "title": "Girls Aloud: Out of Control Live from the O2",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7jzCLnt5IDGDHhNAKTfbq1In4dM.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1076708,
+        "original_language": "en",
+        "original_title": "Music by John Williams",
+        "overview": "His unforgettable scores are an essential part of some of the most beloved movies of our time, over a career that spans decades. See and hear maestro John Williams' own story, with insights from filmmakers, musicians, and others he has inspired, complete with rare behind-the-scenes looks at the making of movie history.",
+        "popularity": 0.9109,
+        "poster_path": "/dIZ3SzuT3YuAWX1fjdxDevbwQBX.jpg",
+        "release_date": "2024-11-01",
+        "title": "Music by John Williams",
+        "video": false,
+        "vote_average": 8.047,
+        "vote_count": 74
+      }
+    ],
+    "total_pages": 13167,
+    "total_results": 263323
+  }
+}

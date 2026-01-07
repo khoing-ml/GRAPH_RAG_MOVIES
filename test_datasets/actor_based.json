@@ -1,0 +1,706 @@
+{
+  "category": "actor_based",
+  "description": "Complex queries about actors, their roles, collaborations, and career trajectories",
+  "test_cases": [
+    {
+      "id": 1,
+      "query": "Which actors have worked with Christopher Nolan multiple times and what types of roles do they typically play in his films?",
+      "entities": ["Christopher Nolan"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 2,
+      "query": "Find actors who have played both heroes and villains in different franchises",
+      "entities": ["hero", "villain", "franchise"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "PART_OF_SERIES"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 3,
+      "query": "Which actors have won Academy Awards in different decades and how did their roles evolve?",
+      "entities": ["Academy Awards"],
+      "relations": ["ACTED_IN", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 4,
+      "query": "Compare the filmographies of Daniel Day-Lewis and Christian Bale in terms of method acting roles",
+      "entities": ["Daniel Day-Lewis", "Christian Bale", "method acting"],
+      "relations": ["ACTED_IN", "ACTING_STYLE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 5,
+      "query": "Which actors have successfully transitioned from comedy to dramatic roles and won awards?",
+      "entities": ["comedy", "drama"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "WON_AWARD"],
+      "complexity": "high"
+    },
+    {
+      "id": 6,
+      "query": "Find actors who have worked with the same director more than 5 times across their career",
+      "entities": [],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 7,
+      "query": "Which actors have played real historical figures multiple times in different films?",
+      "entities": ["historical", "biographical"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BASED_ON"],
+      "complexity": "high"
+    },
+    {
+      "id": 8,
+      "query": "Compare the action filmographies of Tom Cruise and how his stunt work evolved over decades",
+      "entities": ["Tom Cruise", "action"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "PERFORMED_STUNTS"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 9,
+      "query": "Which actors have the most diverse range across different genres and time periods?",
+      "entities": [],
+      "relations": ["ACTED_IN", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 10,
+      "query": "Find actors who have starred in films that later became cult classics",
+      "entities": ["cult classic"],
+      "relations": ["ACTED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 11,
+      "query": "Which child actors successfully transitioned to adult roles and maintained critical acclaim?",
+      "entities": ["child actor"],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 12,
+      "query": "Compare the collaborations between Robert De Niro and Al Pacino across different directors",
+      "entities": ["Robert De Niro", "Al Pacino"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 13,
+      "query": "Which actors have directed themselves in films and how did those films perform?",
+      "entities": [],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 14,
+      "query": "Find actors who have played the same character across multiple decades in reboots",
+      "entities": ["reboot"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "REMAKE_OF"],
+      "complexity": "high"
+    },
+    {
+      "id": 15,
+      "query": "Which actors have the highest average film ratings and what genres do they predominantly work in?",
+      "entities": [],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 16,
+      "query": "Compare the Marvel and DC superhero roles of actors who have worked in both universes",
+      "entities": ["Marvel", "DC", "superhero"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "PART_OF_UNIVERSE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 17,
+      "query": "Which actors have worked with all three: Scorsese, Spielberg, and Tarantino?",
+      "entities": ["Scorsese", "Spielberg", "Tarantino"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 18,
+      "query": "Find actors who have portrayed characters with disabilities and the critical reception of those roles",
+      "entities": ["disability"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 19,
+      "query": "Which British actors have most successfully crossed over to Hollywood and in what genres?",
+      "entities": ["British", "Hollywood"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "COUNTRY"],
+      "complexity": "high"
+    },
+    {
+      "id": 20,
+      "query": "Compare the horror film careers of actors known for other genres",
+      "entities": ["horror"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 21,
+      "query": "Which actors have the most on-screen chemistry based on their multiple collaborations?",
+      "entities": [],
+      "relations": ["ACTED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 22,
+      "query": "Find actors who started in independent films and later became blockbuster stars",
+      "entities": ["independent", "blockbuster"],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 23,
+      "query": "Which actors have played characters in multiple adaptations of the same source material?",
+      "entities": ["adaptation"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "ADAPTED_FROM"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 24,
+      "query": "Compare the career choices of Leonardo DiCaprio and how his collaboration with Scorsese defined his trajectory",
+      "entities": ["Leonardo DiCaprio", "Scorsese"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 25,
+      "query": "Which actors have the longest gap between Oscar nominations and what changed in their careers?",
+      "entities": ["Oscar"],
+      "relations": ["ACTED_IN", "NOMINATED_FOR"],
+      "complexity": "high"
+    },
+    {
+      "id": 26,
+      "query": "Find actors who have played against type and received critical acclaim for those roles",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 27,
+      "query": "Which actors have starred in the most films based on video games or comic books?",
+      "entities": ["video game", "comic book"],
+      "relations": ["ACTED_IN", "ADAPTED_FROM"],
+      "complexity": "medium"
+    },
+    {
+      "id": 28,
+      "query": "Compare the voice acting careers of actors in animated films versus their live-action work",
+      "entities": ["animated", "live-action"],
+      "relations": ["ACTED_IN", "FILM_TYPE"],
+      "complexity": "high"
+    },
+    {
+      "id": 29,
+      "query": "Which actors have worked in both Hollywood and Bollywood successfully?",
+      "entities": ["Hollywood", "Bollywood"],
+      "relations": ["ACTED_IN", "COUNTRY"],
+      "complexity": "medium"
+    },
+    {
+      "id": 30,
+      "query": "Find actors whose debut films were directed by famous directors and launched their careers",
+      "entities": ["debut"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 31,
+      "query": "Which actors have played multiple characters in the same film franchise?",
+      "entities": ["franchise"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "PART_OF_SERIES"],
+      "complexity": "high"
+    },
+    {
+      "id": 32,
+      "query": "Compare the science fiction roles of actors across different decades and technological changes",
+      "entities": ["science fiction"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 33,
+      "query": "Which actors have the most consistent box office performance regardless of genre?",
+      "entities": [],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 34,
+      "query": "Find actors who have worked with the same co-star in more than three different films",
+      "entities": [],
+      "relations": ["ACTED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 35,
+      "query": "Which actors have successfully balanced television and film careers simultaneously?",
+      "entities": ["television", "film"],
+      "relations": ["ACTED_IN", "MEDIUM"],
+      "complexity": "high"
+    },
+    {
+      "id": 36,
+      "query": "Compare the period drama performances of Cate Blanchett across different historical eras",
+      "entities": ["Cate Blanchett", "period drama"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "SET_IN_YEAR"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 37,
+      "query": "Which actors have played characters that became iconic in pop culture?",
+      "entities": ["iconic"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 38,
+      "query": "Find actors who have received critical acclaim but never won major awards",
+      "entities": [],
+      "relations": ["ACTED_IN", "NOMINATED_FOR"],
+      "complexity": "high"
+    },
+    {
+      "id": 39,
+      "query": "Which actors have the most diverse language performances across international films?",
+      "entities": ["international"],
+      "relations": ["ACTED_IN", "LANGUAGE"],
+      "complexity": "high"
+    },
+    {
+      "id": 40,
+      "query": "Compare the romantic comedy performances of actors known primarily for action films",
+      "entities": ["romantic comedy", "action"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 41,
+      "query": "Which actors have played musicians or artists in biographical films most convincingly?",
+      "entities": ["musician", "artist", "biographical"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BASED_ON"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 42,
+      "query": "Find actors who have performed their own stunts extensively and the impact on their careers",
+      "entities": [],
+      "relations": ["ACTED_IN", "PERFORMED_STUNTS"],
+      "complexity": "high"
+    },
+    {
+      "id": 43,
+      "query": "Which actors have the most nominations without wins and eventually won in a surprising role?",
+      "entities": [],
+      "relations": ["ACTED_IN", "NOMINATED_FOR", "WON_AWARD"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 44,
+      "query": "Compare the thriller performances of actors across Hitchcock-style versus modern thrillers",
+      "entities": ["thriller", "Hitchcock"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 45,
+      "query": "Which actors have successfully portrayed characters across multiple generations in different films?",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 46,
+      "query": "Find actors who have worked in noir and neo-noir films and how their performances differ",
+      "entities": ["noir", "neo-noir"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 47,
+      "query": "Which actors have the most memorable one-liner quotes in action films?",
+      "entities": ["action"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 48,
+      "query": "Compare the transformative physical performances of actors who gained or lost weight for roles",
+      "entities": [],
+      "relations": ["ACTED_IN", "PHYSICAL_TRANSFORMATION"],
+      "complexity": "high"
+    },
+    {
+      "id": 49,
+      "query": "Which actors have played law enforcement characters most frequently across different genres?",
+      "entities": ["law enforcement"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 50,
+      "query": "Find actors who transitioned from stage to screen and maintained theatrical quality in films",
+      "entities": ["stage", "screen"],
+      "relations": ["ACTED_IN", "PREVIOUS_WORK"],
+      "complexity": "high"
+    },
+    {
+      "id": 51,
+      "query": "Which actors have played antagonists that audiences sympathized with?",
+      "entities": ["antagonist"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 52,
+      "query": "Compare the ensemble cast performances in Tarantino films versus Anderson films",
+      "entities": ["Tarantino", "Anderson", "ensemble"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 53,
+      "query": "Which actors have worked with the Coen Brothers multiple times and what roles did they play?",
+      "entities": ["Coen Brothers"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 54,
+      "query": "Find actors who have portrayed the same character in different universes or timelines",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 55,
+      "query": "Which actors have the most dramatic career comebacks after career lulls?",
+      "entities": [],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 56,
+      "query": "Compare the western film performances of classic versus contemporary actors",
+      "entities": ["western", "classic", "contemporary"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 57,
+      "query": "Which actors have played scientists or intellectuals most believably across different films?",
+      "entities": ["scientist", "intellectual"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 58,
+      "query": "Find actors who have worked in horror films early in their careers and later avoided the genre",
+      "entities": ["horror"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 59,
+      "query": "Which actors have the most successful transition from model or athlete to acclaimed actor?",
+      "entities": ["model", "athlete"],
+      "relations": ["ACTED_IN", "PREVIOUS_CAREER"],
+      "complexity": "high"
+    },
+    {
+      "id": 60,
+      "query": "Compare the war film performances of actors and their approach to portraying soldiers",
+      "entities": ["war"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 61,
+      "query": "Which actors have played characters with mental illness most sensitively and accurately?",
+      "entities": ["mental illness"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 62,
+      "query": "Find actors who have starred in films that won Best Picture but didn't win Best Actor",
+      "entities": ["Best Picture", "Best Actor"],
+      "relations": ["ACTED_IN", "WON_AWARD"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 63,
+      "query": "Which actors have the most memorable death scenes across their filmography?",
+      "entities": [],
+      "relations": ["ACTED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 64,
+      "query": "Compare the spy thriller performances of actors across different film franchises",
+      "entities": ["spy", "thriller", "franchise"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "PART_OF_SERIES"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 65,
+      "query": "Which actors have successfully portrayed characters from different ethnic backgrounds?",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 66,
+      "query": "Find actors who have worked with A24 studio and how it shaped their career choices",
+      "entities": ["A24"],
+      "relations": ["ACTED_IN", "PRODUCED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 67,
+      "query": "Which actors have played time travelers or characters in time loop stories?",
+      "entities": ["time travel", "time loop"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 68,
+      "query": "Compare the Shakespeare adaptations performed by different classical actors",
+      "entities": ["Shakespeare", "classical"],
+      "relations": ["ACTED_IN", "ADAPTED_FROM"],
+      "complexity": "high"
+    },
+    {
+      "id": 69,
+      "query": "Which actors have the most diverse age range of characters they've portrayed?",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 70,
+      "query": "Find actors who have played both fictional and real versions of the same type of character",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BASED_ON"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 71,
+      "query": "Which actors have worked in films that premiered at Sundance and later became mainstream?",
+      "entities": ["Sundance"],
+      "relations": ["ACTED_IN", "PREMIERED_AT"],
+      "complexity": "high"
+    },
+    {
+      "id": 72,
+      "query": "Compare the romantic lead performances of actors across different decades of their careers",
+      "entities": ["romantic lead"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 73,
+      "query": "Which actors have played characters in parallel universes or alternate realities?",
+      "entities": ["parallel universe", "alternate reality"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 74,
+      "query": "Find actors who have worked with indie directors before they became mainstream",
+      "entities": ["indie"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 75,
+      "query": "Which actors have the most successful transition from antagonist roles to protagonist roles?",
+      "entities": ["antagonist", "protagonist"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 76,
+      "query": "Compare the boxing or sports film performances of actors who underwent physical training",
+      "entities": ["boxing", "sports"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "PHYSICAL_TRAINING"],
+      "complexity": "high"
+    },
+    {
+      "id": 77,
+      "query": "Which actors have played characters that became Halloween costume trends?",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 78,
+      "query": "Find actors who have worked in films by all three Andersons: Wes, Paul Thomas, and Brad",
+      "entities": ["Wes Anderson", "Paul Thomas Anderson", "Brad Anderson"],
+      "relations": ["ACTED_IN", "DIRECTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 79,
+      "query": "Which actors have played characters in space exploration films across different eras?",
+      "entities": ["space exploration"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 80,
+      "query": "Compare the heist film performances of actors and their character archetypes",
+      "entities": ["heist"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 81,
+      "query": "Which actors have portrayed lawyers or attorneys most frequently in courtroom dramas?",
+      "entities": ["lawyer", "attorney", "courtroom drama"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 82,
+      "query": "Find actors who have worked in motion capture performances and traditional acting",
+      "entities": ["motion capture"],
+      "relations": ["ACTED_IN", "PERFORMANCE_TYPE"],
+      "complexity": "high"
+    },
+    {
+      "id": 83,
+      "query": "Which actors have played characters inspired by Greek or Roman mythology?",
+      "entities": ["Greek mythology", "Roman mythology"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BASED_ON"],
+      "complexity": "medium"
+    },
+    {
+      "id": 84,
+      "query": "Compare the survival film performances of actors in isolation or extreme conditions",
+      "entities": ["survival", "isolation"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 85,
+      "query": "Which actors have successfully portrayed characters with accents different from their own?",
+      "entities": [],
+      "relations": ["ACTED_IN", "ACCENT"],
+      "complexity": "medium"
+    },
+    {
+      "id": 86,
+      "query": "Find actors who have worked in zombie or post-apocalyptic films across different franchises",
+      "entities": ["zombie", "post-apocalyptic", "franchise"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "PART_OF_SERIES"],
+      "complexity": "high"
+    },
+    {
+      "id": 87,
+      "query": "Which actors have played mentor or teacher roles that inspired audiences?",
+      "entities": ["mentor", "teacher"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 88,
+      "query": "Compare the fantasy film performances of actors in Lord of the Rings versus Game of Thrones cast",
+      "entities": ["fantasy", "Lord of the Rings", "Game of Thrones"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 89,
+      "query": "Which actors have played characters that broke gender stereotypes in their genres?",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 90,
+      "query": "Find actors who have worked in films that became Broadway shows or musicals",
+      "entities": ["Broadway", "musical"],
+      "relations": ["ACTED_IN", "ADAPTED_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 91,
+      "query": "Which actors have the most memorable cameo appearances in unexpected films?",
+      "entities": ["cameo"],
+      "relations": ["ACTED_IN", "ROLE_TYPE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 92,
+      "query": "Compare the detective or investigator roles played by actors across different mystery films",
+      "entities": ["detective", "investigator", "mystery"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 93,
+      "query": "Which actors have played characters dealing with artificial intelligence or robots?",
+      "entities": ["artificial intelligence", "robot"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "medium"
+    },
+    {
+      "id": 94,
+      "query": "Find actors who have worked in films by Pixar or Disney Animation in voice roles",
+      "entities": ["Pixar", "Disney Animation", "voice"],
+      "relations": ["ACTED_IN", "PRODUCED_BY", "ROLE_TYPE"],
+      "complexity": "high"
+    },
+    {
+      "id": 95,
+      "query": "Which actors have played pirates or sailors in adventure films most memorably?",
+      "entities": ["pirate", "sailor", "adventure"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 96,
+      "query": "Compare the medical drama performances of actors who played doctors or surgeons",
+      "entities": ["medical drama", "doctor", "surgeon"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 97,
+      "query": "Which actors have successfully portrayed twins or multiple roles in the same film?",
+      "entities": ["twin", "multiple roles"],
+      "relations": ["ACTED_IN", "PLAYED_ROLE"],
+      "complexity": "high"
+    },
+    {
+      "id": 98,
+      "query": "Find actors who have worked in film noir revivals and how they approached the style",
+      "entities": ["film noir"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 99,
+      "query": "Which actors have played characters in disaster films across different types of catastrophes?",
+      "entities": ["disaster"],
+      "relations": ["ACTED_IN", "BELONGS_TO"],
+      "complexity": "medium"
+    },
+    {
+      "id": 100,
+      "query": "Compare the political thriller performances of actors and the real-world events they depicted",
+      "entities": ["political thriller"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "BASED_ON"],
+      "complexity": "very_high"
+    }
+  ]
+}

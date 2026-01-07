@@ -1,0 +1,946 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/i0c2rE6x1RCXktYk4Bv4NBWh5gO.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81581946",
+    "id": 1291559,
+    "imdb_id": "tt31078761",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "余命一年の僕が、余命半年の君と出会った話。",
+    "overview": "With only a year left to live, 17-year-old Akito finds new meaning in life by bringing joy to a terminally ill girl who has just six months remaining.",
+    "popularity": 8.0343,
+    "poster_path": "/173FD4a0rpSF30z4CoWx6qdx8Ry.jpg",
+    "production_companies": [
+      {
+        "id": 955,
+        "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+        "name": "Nikkatsu Corporation",
+        "origin_country": "JP"
+      },
+      {
+        "id": 146106,
+        "logo_path": "/eW8K469XBEJdaHtzgLe2r0IxZim.png",
+        "name": "Django Film",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2024-06-26",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Drawing Closer",
+    "video": false,
+    "vote_average": 8.363,
+    "vote_count": 183
+  },
+  "credits": {
+    "id": 1291559,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288018,
+        "known_for_department": "Acting",
+        "name": "Ren Nagase",
+        "original_name": "永瀬廉",
+        "popularity": 2.1771,
+        "profile_path": "/psPiNe4JGygQ6mGjWiMlXlWhT1c.jpg",
+        "cast_id": 1,
+        "character": "Akito Hayasaka",
+        "credit_id": "6646aef8d7cfe15bee9a2c60",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2222685,
+        "known_for_department": "Acting",
+        "name": "Natsuki Deguchi",
+        "original_name": "出口夏希",
+        "popularity": 1.7771,
+        "profile_path": "/gLWbN85sIY4gIyfUZ82WACrc3Db.jpg",
+        "cast_id": 2,
+        "character": "Haruna Sakurai",
+        "credit_id": "6646af03c0fa664adb25a16e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2209661,
+        "known_for_department": "Acting",
+        "name": "Mayuu Yokota",
+        "original_name": "横田真悠",
+        "popularity": 2.2738,
+        "profile_path": "/lAFr1AdjtQeVGbl9UoVpdXYLpuN.jpg",
+        "cast_id": 3,
+        "character": "Ayaka Miura",
+        "credit_id": "6646af0fcee5ab90aa2dd963",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255308,
+        "known_for_department": "Acting",
+        "name": "Fumino Kimura",
+        "original_name": "木村文乃",
+        "popularity": 1.7478,
+        "profile_path": "/u9LWuxLvwl8cO7C7RtjxXHIGI5J.jpg",
+        "cast_id": 7,
+        "character": "Mikiko",
+        "credit_id": "6646afa6243f2fd4193b1655",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135374,
+        "known_for_department": "Acting",
+        "name": "Nene Otsuka",
+        "original_name": "大塚寧々",
+        "popularity": 2.1656,
+        "profile_path": "/48TFOrOB7oZOJ0LXbYQb7p5PE1z.jpg",
+        "cast_id": 8,
+        "character": "Jimi Hayasaka",
+        "credit_id": "6646afb534617fd7ff34487c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74195,
+        "known_for_department": "Acting",
+        "name": "Toru Nakamura",
+        "original_name": "仲村トオル",
+        "popularity": 1.8534,
+        "profile_path": "/hZuETSVRoDV5L8AuS5hKmAi6Wzr.jpg",
+        "cast_id": 9,
+        "character": "Kazuki Hayasaka",
+        "credit_id": "6646afc03866fbb2d1412394",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127892,
+        "known_for_department": "Acting",
+        "name": "Yasuko Matsuyuki",
+        "original_name": "松雪泰子",
+        "popularity": 2.1524,
+        "profile_path": "/zHZGOORiG3BoNMiskCJ4UkHrCvW.jpg",
+        "cast_id": 10,
+        "character": "Hazuki Sakurai",
+        "credit_id": "6646afce0d6cd6f50f2f18d3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1412422,
+        "known_for_department": "Acting",
+        "name": "Kyoka Shibata",
+        "original_name": "杏花",
+        "popularity": 1.6145,
+        "profile_path": "/5rwR4LNHyuC5xwGpd3zWaRKhOlu.jpg",
+        "cast_id": 12,
+        "character": "Eri Fujimoto",
+        "credit_id": "6646affd1e067b31c39a2ac0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3803007,
+        "known_for_department": "Acting",
+        "name": "Rui Tsukishima",
+        "original_name": "月島琉衣",
+        "popularity": 1.9666,
+        "profile_path": "/8Ug3ar5eT4AhSKL5kY14daf4PDh.jpg",
+        "cast_id": 14,
+        "character": "Natsumi Hayasaka",
+        "credit_id": "6646b0264ec66580d0ef0b17",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4718844,
+        "known_for_department": "Acting",
+        "name": "Ikuho Akiya",
+        "original_name": "Ikuho Akiya",
+        "popularity": 0.7962,
+        "profile_path": "/kIZtl9UGdKHGNk716geZJ9j3bKO.jpg",
+        "cast_id": 15,
+        "character": "Shota Murai",
+        "credit_id": "6646b0684668485cd72de189",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79006,
+        "known_for_department": "Acting",
+        "name": "Kenji Mizuhashi",
+        "original_name": "水橋研二",
+        "popularity": 1.4677,
+        "profile_path": "/2ydE4b4j3gFmx7kPPrGOuVyM4DX.jpg",
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "6927cf7e1dd378966bd9cdd9",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133251,
+        "known_for_department": "Directing",
+        "name": "Takahiro Miki",
+        "original_name": "三木孝浩",
+        "popularity": 1.6988,
+        "profile_path": "/jUNq43kSRj6dXzDaUzmcDEsT095.jpg",
+        "credit_id": "6646af44f6e142e5ba34416e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1057922,
+        "known_for_department": "Writing",
+        "name": "Tomoko Yoshida",
+        "original_name": "吉田智子",
+        "popularity": 1.3724,
+        "profile_path": null,
+        "credit_id": "6646af6af6a9c96dae3d80dc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133251,
+        "known_for_department": "Directing",
+        "name": "Takahiro Miki",
+        "original_name": "三木孝浩",
+        "popularity": 1.6988,
+        "profile_path": "/jUNq43kSRj6dXzDaUzmcDEsT095.jpg",
+        "credit_id": "6646af80b8704f56b19a2c5d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3740764,
+        "known_for_department": "Production",
+        "name": "Shuhei Akita",
+        "original_name": "秋田周平",
+        "popularity": 0.722,
+        "profile_path": null,
+        "credit_id": "667e758f0a08f44c9dd7afc6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551659,
+        "known_for_department": "Camera",
+        "name": "Hiro'o Yanagida",
+        "original_name": "柳田裕男",
+        "popularity": 1.2164,
+        "profile_path": null,
+        "credit_id": "678cf04dd094ea7af14335cf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3016310,
+        "known_for_department": "Sound",
+        "name": "suis",
+        "original_name": "suis",
+        "popularity": 0.5526,
+        "profile_path": "/iVDKgg25HaEqnJvYBR4pebI27XQ.jpg",
+        "credit_id": "67e2b8c216a3c5c224f06932",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2248640,
+        "known_for_department": "Acting",
+        "name": "Seiji Kameda",
+        "original_name": "亀田誠治",
+        "popularity": 0.8784,
+        "profile_path": null,
+        "credit_id": "67e2b8dda63bcc4997dc741d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327211,
+        "known_for_department": "Sound",
+        "name": "Soichiro Mauchi",
+        "original_name": "山内総一郎",
+        "popularity": 0.2158,
+        "profile_path": null,
+        "credit_id": "67e2b91c7b7313b5aef06868",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327213,
+        "known_for_department": "Sound",
+        "name": "Daisuke Kanazawa",
+        "original_name": "金澤ダイスケ",
+        "popularity": 0.2939,
+        "profile_path": null,
+        "credit_id": "67e2b9aad4052f4793dc766d",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327215,
+        "known_for_department": "Sound",
+        "name": "Shinichi Kato",
+        "original_name": "加藤慎一",
+        "popularity": 0.2717,
+        "profile_path": null,
+        "credit_id": "67e2b9e2e28af41cfc76006f",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2190761,
+        "known_for_department": "Editing",
+        "name": "Naoya Bando",
+        "original_name": "坂東直哉",
+        "popularity": 1.0231,
+        "profile_path": null,
+        "credit_id": "68a57e5ba23952beb0bcb367",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555165,
+        "known_for_department": "Production",
+        "name": "Tomoo Fukatsu",
+        "original_name": "深津智男",
+        "popularity": 0.525,
+        "profile_path": null,
+        "credit_id": "68a57e836b5d2453afbcb299",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1912598,
+        "known_for_department": "Sound",
+        "name": "Yoshifumi Kureishi",
+        "original_name": "久連石由文",
+        "popularity": 0.8132,
+        "profile_path": null,
+        "credit_id": "68a57eb3bb77dfbbbb5dd386",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132940,
+        "known_for_department": "Visual Effects",
+        "name": "Shûji Asano",
+        "original_name": "浅野秀二",
+        "popularity": 0.6608,
+        "profile_path": null,
+        "credit_id": "68a57ec3ef046dd0e15dd2ab",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3145525,
+        "known_for_department": "Sound",
+        "name": "Yui Arima",
+        "original_name": "有馬由衣",
+        "popularity": 0.963,
+        "profile_path": null,
+        "credit_id": "68a57eed4c7db4159c3e8528",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1924562,
+        "known_for_department": "Lighting",
+        "name": "Yasushi Miyao",
+        "original_name": "宮尾康史",
+        "popularity": 0.9763,
+        "profile_path": null,
+        "credit_id": "68b49695f34fd9cd7654e3c1",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679627,
+        "known_for_department": "Production",
+        "name": "Manabu Kuwahara",
+        "original_name": "桑原学",
+        "popularity": 0.5585,
+        "profile_path": null,
+        "credit_id": "68bff5cb4232fbfcd74e64fd",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1123054,
+        "known_for_department": "Production",
+        "name": "Yume Minamidani",
+        "original_name": "南谷夢",
+        "popularity": 0.7135,
+        "profile_path": null,
+        "credit_id": "68bff7a82ac2f5635f1bce65",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5723221,
+        "known_for_department": "Art",
+        "name": "Jin SUZUKI",
+        "original_name": "鈴木仁",
+        "popularity": 0.5389,
+        "profile_path": null,
+        "credit_id": "68dd8246d747b9d0bd38d17c",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1389607,
+        "known_for_department": "Art",
+        "name": "Hidefumi Hanatani",
+        "original_name": "花谷秀文",
+        "popularity": 1.3868,
+        "profile_path": "/iFtNvwRULE77teCDtVwxAgiNFq0.jpg",
+        "credit_id": "68dd8266a6ccdd420dbb1c25",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5723231,
+        "known_for_department": "Visual Effects",
+        "name": "Yui Furuhashi",
+        "original_name": "古橋由衣",
+        "popularity": 0.6018,
+        "profile_path": null,
+        "credit_id": "68dd82cd76b8e9eb48531ace",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3077199,
+        "known_for_department": "Sound",
+        "name": "Toshihiro Sugita",
+        "original_name": "杉田寿宏",
+        "popularity": 1.0414,
+        "profile_path": null,
+        "credit_id": "68de83a194b168fa4aca45c4",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4081208,
+        "known_for_department": "Sound",
+        "name": "Masaharu Tanabe",
+        "original_name": "田辺正晴",
+        "popularity": 0.7432,
+        "profile_path": null,
+        "credit_id": "68f5c5ae49b44a7ba6691473",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2336317,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chieko Naijô",
+        "original_name": "内城千栄子",
+        "popularity": 0.8468,
+        "profile_path": null,
+        "credit_id": "69023b30906203996d0142e1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1291559,
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 6564,
+        "name": "terminal illness"
+      },
+      {
+        "id": 33910,
+        "name": "high school student"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 644838,
+        "original_language": "cs",
+        "original_title": "Experiment",
+        "overview": "",
+        "popularity": 0.1343,
+        "poster_path": null,
+        "release_date": "1943-09-03",
+        "title": "Experiment",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nekSba6sQBLlzoQgGKxDw2p8JwS.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 644852,
+        "original_language": "de",
+        "original_title": "Narziss und Goldmund",
+        "overview": "In the dark middle ages, young unruly Goldmund is sent to a monastery by his father to atone for the sins of his mother, who abandoned them. There, he meets Narcissus, a brilliant, scholarly novice who is introverted and aloof. A unique and deep life-long friendship is born. Narcissus chooses to remain detached from the world in prayer and meditation. Goldmund, passionate, sensual and impulsive, runs away from the monastery to live a picaresque wanderer’s life, his amorous and artistic adventures leading him to discover the extremes of both ecstasy and pain. Several thrilling years pass until one day these friends cross paths again...",
+        "popularity": 0.7514,
+        "poster_path": "/jPQjMwhoHDdKfbGNOb4ilMWm6l2.jpg",
+        "release_date": "2020-03-12",
+        "title": "Narcissus and Goldmund",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 184,
+        "original_language": "en",
+        "original_title": "Jackie Brown",
+        "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+        "popularity": 5.2697,
+        "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+        "release_date": "1997-12-25",
+        "title": "Jackie Brown",
+        "video": false,
+        "vote_average": 7.359,
+        "vote_count": 6740
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "id": 192,
+        "original_language": "en",
+        "original_title": "The Name of the Rose",
+        "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+        "popularity": 4.2931,
+        "poster_path": "/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg",
+        "release_date": "1986-09-24",
+        "title": "The Name of the Rose",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 3221
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+        "genre_ids": [
+          18,
+          53,
+          12
+        ],
+        "id": 204,
+        "original_language": "fr",
+        "original_title": "Le Salaire de la peur",
+        "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+        "popularity": 3.1867,
+        "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+        "release_date": "1953-04-22",
+        "title": "The Wages of Fear",
+        "video": false,
+        "vote_average": 8.004,
+        "vote_count": 1040
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 220,
+        "original_language": "en",
+        "original_title": "East of Eden",
+        "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+        "popularity": 1.8402,
+        "poster_path": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+        "release_date": "1955-04-10",
+        "title": "East of Eden",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 790
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i8fiqKaQklF02VmQYhSxmwa8KOH.jpg",
+        "genre_ids": [
+          9648,
+          10749,
+          53
+        ],
+        "id": 223,
+        "original_language": "en",
+        "original_title": "Rebecca",
+        "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+        "popularity": 3.3825,
+        "poster_path": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+        "release_date": "1940-03-23",
+        "title": "Rebecca",
+        "video": false,
+        "vote_average": 7.895,
+        "vote_count": 1910
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 227,
+        "original_language": "en",
+        "original_title": "The Outsiders",
+        "overview": "In 1960s Tulsa, class divisions ignite a violent rivalry between the working-class Greasers and the privileged Socs. When a deadly encounter forces two Greasers, Ponyboy and Johnny, to flee, their struggle for survival and redemption exposes the fragile innocence and enduring bonds of youth on the wrong side of town.",
+        "popularity": 5.2456,
+        "poster_path": "/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg",
+        "release_date": "1983-03-25",
+        "title": "The Outsiders",
+        "video": false,
+        "vote_average": 7.198,
+        "vote_count": 1490
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vzkueeO7XwkziTDla4ncF6H4laQ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 228,
+        "original_language": "de",
+        "original_title": "Der blaue Engel",
+        "overview": "Prim professor Immanuel Rath finds some of his students ogling racy photos of cabaret performer Lola Lola and visits a local club, The Blue Angel, in an attempt to catch them there. Seeing Lola perform, the teacher is filled with lust, eventually resigning his position at the school to marry the young woman. However, his marriage to a coquette -- whose job is to entice men -- proves to be more difficult than Rath imagined.",
+        "popularity": 1.2689,
+        "poster_path": "/khz2rKLAPDVu9auJt1sR1HO9SCG.jpg",
+        "release_date": "1930-04-01",
+        "title": "The Blue Angel",
+        "video": false,
+        "vote_average": 7.289,
+        "vote_count": 349
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 235,
+        "original_language": "en",
+        "original_title": "Stand by Me",
+        "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+        "popularity": 10.7391,
+        "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+        "release_date": "1986-08-08",
+        "title": "Stand by Me",
+        "video": false,
+        "vote_average": 7.848,
+        "vote_count": 6276
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 33.0354,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.685,
+        "vote_count": 22232
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 18.3623,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 13444
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xxiPjhXigJ4zPiqqrA77FK10ULo.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 245,
+        "original_language": "en",
+        "original_title": "About a Boy",
+        "overview": "Will Freeman is a good-looking, smooth-talking bachelor whose primary goal in life is avoiding any kind of responsibility. But when he invents an imaginary son in order to meet attractive single moms, Will gets a hilarious lesson about life from a bright, but hopelessly geeky 12-year-old named Marcus. Now, as Will struggles to teach Marcus the art of being cool, Marcus teaches Will that you're never too old to grow up.",
+        "popularity": 2.7581,
+        "poster_path": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+        "release_date": "2002-04-26",
+        "title": "About a Boy",
+        "video": false,
+        "vote_average": 6.684,
+        "vote_count": 2327
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s4H3XiCwHrjtMP4cBCO5L5tDVg3.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10751
+        ],
+        "id": 257,
+        "original_language": "en",
+        "original_title": "Oliver Twist",
+        "overview": "When 9-year-old orphan Oliver Twist dares to ask his cruel taskmaster, Mr. Bumble, for a second serving of gruel, he's hired out as an apprentice. Escaping that dismal fate, young Oliver falls in with the street urchin known as the Artful Dodger and his criminal mentor, Fagin. When kindly Mr. Brownlow takes Oliver in, Fagin's evil henchman Bill Sikes plots to kidnap the boy.",
+        "popularity": 5.1774,
+        "poster_path": "/zhPdYZ3x2uanhM1SyBj4CuL6hSa.jpg",
+        "release_date": "2005-09-23",
+        "title": "Oliver Twist",
+        "video": false,
+        "vote_average": 6.746,
+        "vote_count": 1218
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 268111,
+        "original_language": "ja",
+        "original_title": "嗤う伊右衛門",
+        "overview": "Having put down his sword and given up the will to fight, the masterless samurai Iemon lives in solitude while being haunted by his violent enigmatic past...",
+        "popularity": 0.7045,
+        "poster_path": "/9qIZBRR5LBARppeYYBpnV5mFyRh.jpg",
+        "release_date": "2004-02-07",
+        "title": "Warau Iemon",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+        "genre_ids": [
+          18,
+          878
+        ],
+        "id": 19,
+        "original_language": "de",
+        "original_title": "Metropolis",
+        "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+        "popularity": 5.249,
+        "poster_path": "/vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
+        "release_date": "1927-01-10",
+        "title": "Metropolis",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 2993
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 28,
+        "original_language": "en",
+        "original_title": "Apocalypse Now",
+        "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+        "popularity": 10.1249,
+        "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "release_date": "1979-05-19",
+        "title": "Apocalypse Now",
+        "video": false,
+        "vote_average": 8.268,
+        "vote_count": 8791
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cFZRtb1Q4whERknfYtj7Fjsvxpg.jpg",
+        "genre_ids": [
+          878,
+          18,
+          53
+        ],
+        "id": 78,
+        "original_language": "en",
+        "original_title": "Blade Runner",
+        "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+        "popularity": 13.2987,
+        "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "release_date": "1982-06-25",
+        "title": "Blade Runner",
+        "video": false,
+        "vote_average": 7.941,
+        "vote_count": 14581
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60PJPzXtQmLQdaCNuWUrrHe1mzu.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 86,
+        "original_language": "de",
+        "original_title": "Elementarteilchen",
+        "overview": "Based on Michel Houellebecq's controversial novel, Atomised (aka The Elementary Particles) focuses on Michael and Bruno, two very different half-brothers and their disturbed sexuality.  After a chaotic childhood with a hippie mother only caring for her affairs, Michael, a molecular biologist, is more interested in genes than women, while Bruno is obsessed with his sexual desires, but mostly finds his satisfaction with prostitutes.  But Bruno's life changes when he gets to know the experienced Christiane.  In the meantime, Michael meets Annabelle, the love of his youth, again.",
+        "popularity": 2.8704,
+        "poster_path": "/wpGpR7GewyApPgqPvuWadBAfmFc.jpg",
+        "release_date": "2006-02-10",
+        "title": "The Elementary Particles",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 144
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 93,
+        "original_language": "en",
+        "original_title": "Anatomy of a Murder",
+        "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+        "popularity": 2.4806,
+        "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+        "release_date": "1959-07-01",
+        "title": "Anatomy of a Murder",
+        "video": false,
+        "vote_average": 7.851,
+        "vote_count": 1109
+      }
+    ],
+    "total_pages": 15464,
+    "total_results": 309262
+  }
+}

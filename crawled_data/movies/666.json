@@ -1,0 +1,1393 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/lrLIy9OFRQg4VkhrCyolfNXJEUH.jpg",
+    "belongs_to_collection": null,
+    "budget": 2900000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 666,
+    "imdb_id": "tt0140888",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Central do Brasil",
+    "overview": "An emotional journey of a former school teacher, who writes letters for illiterate people, and a young boy, whose mother has just died, as they search for the father he never knew.",
+    "popularity": 2.5735,
+    "poster_path": "/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg",
+    "production_companies": [
+      {
+        "id": 393,
+        "logo_path": "/5lf9uTroyzjNDOyu86qWV0eqIPc.png",
+        "name": "MACT Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 346,
+        "logo_path": "/ymwuRMQkrQojx55MeMO861Rdecz.png",
+        "name": "VideoFilmes",
+        "origin_country": "BR"
+      },
+      {
+        "id": 40994,
+        "logo_path": "/kyl2LrS9dGnBcJRLx6ST2Qsaxan.png",
+        "name": "RioFilme",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1998-04-03",
+    "revenue": 5596708,
+    "runtime": 110,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Between hope and solitude, two lives cross and reinvent themselves",
+    "title": "Central Station",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 1007
+  },
+  "credits": {
+    "id": 666,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10055,
+        "known_for_department": "Acting",
+        "name": "Fernanda Montenegro",
+        "original_name": "Fernanda Montenegro",
+        "popularity": 1.531,
+        "profile_path": "/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg",
+        "cast_id": 29,
+        "character": "Isadora \"Dora\" Teixeira",
+        "credit_id": "52fe4267c3a36847f801bb41",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10059,
+        "known_for_department": "Acting",
+        "name": "Vinícius de Oliveira",
+        "original_name": "Vinícius de Oliveira",
+        "popularity": 1.5806,
+        "profile_path": "/olMuhlR9hoGO35m6jnD7VvonSeO.jpg",
+        "cast_id": 31,
+        "character": "Josué Fontenele de Paiva",
+        "credit_id": "52fe4267c3a36847f801bb49",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10057,
+        "known_for_department": "Acting",
+        "name": "Marília Pêra",
+        "original_name": "Marília Pêra",
+        "popularity": 0.3743,
+        "profile_path": "/aumgSFLIRN3iJ9HChsBQLEFggQ7.jpg",
+        "cast_id": 30,
+        "character": "Irene",
+        "credit_id": "52fe4267c3a36847f801bb45",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10061,
+        "known_for_department": "Acting",
+        "name": "Othon Bastos",
+        "original_name": "Othon Bastos",
+        "popularity": 0.6633,
+        "profile_path": "/cKZos1GKCQNHbaUqa9byGGl90rq.jpg",
+        "cast_id": 33,
+        "character": "César",
+        "credit_id": "52fe4267c3a36847f801bb51",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10062,
+        "known_for_department": "Acting",
+        "name": "Otávio Augusto",
+        "original_name": "Otávio Augusto",
+        "popularity": 0.4657,
+        "profile_path": "/rLtfa3Q92dQ60YtH7iJc10ISJAY.jpg",
+        "cast_id": 34,
+        "character": "Pedrão",
+        "credit_id": "52fe4267c3a36847f801bb55",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8600,
+        "known_for_department": "Acting",
+        "name": "Matheus Nachtergaele",
+        "original_name": "Matheus Nachtergaele",
+        "popularity": 0.6313,
+        "profile_path": "/zgTT5AP7NYa2hN0jUqHIHkNyp2v.jpg",
+        "cast_id": 36,
+        "character": "Isaías Paiva",
+        "credit_id": "52fe4267c3a36847f801bb5d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52584,
+        "known_for_department": "Acting",
+        "name": "Caio Junqueira",
+        "original_name": "Caio Junqueira",
+        "popularity": 0.7104,
+        "profile_path": "/oO2ncA8EDcszRl4T3d82rPVRQ4w.jpg",
+        "cast_id": 50,
+        "character": "Moisés Paiva",
+        "credit_id": "5785198ac3a3684f94005830",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10063,
+        "known_for_department": "Acting",
+        "name": "Stela Freitas",
+        "original_name": "Stella Freitas",
+        "popularity": 0.2932,
+        "profile_path": "/wip6RvU9Up5zze4Tifwq8EIpdIw.jpg",
+        "cast_id": 35,
+        "character": "Yolanda",
+        "credit_id": "52fe4267c3a36847f801bb59",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55011,
+        "known_for_department": "Acting",
+        "name": "Maria Menezes",
+        "original_name": "Maria Menezes",
+        "popularity": 0.3412,
+        "profile_path": "/2tvX93vn2BsZGtIoZ6groko63Xi.jpg",
+        "cast_id": 55,
+        "character": "Waitress",
+        "credit_id": "57851bc192514137c20042cf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337623,
+        "known_for_department": "Acting",
+        "name": "Sergio Kato",
+        "original_name": "Sergio Kato",
+        "popularity": 0.6401,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Dora's Client",
+        "credit_id": "57851ca4925141044a002852",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10060,
+        "known_for_department": "Acting",
+        "name": "Soia Lira",
+        "original_name": "Soia Lira",
+        "popularity": 0.8025,
+        "profile_path": "/omMVXaJv8DgkdpAl1JLKLZ9QhE8.jpg",
+        "cast_id": 32,
+        "character": "Ana Fontenele",
+        "credit_id": "52fe4267c3a36847f801bb4d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 933139,
+        "known_for_department": "Acting",
+        "name": "Rita Assemany",
+        "original_name": "Rita Assemany",
+        "popularity": 0.3891,
+        "profile_path": "/Aqsplr60u1QubIK7JCpZqTMnNQA.jpg",
+        "cast_id": 51,
+        "character": "Jessé's Wife",
+        "credit_id": "57851a09c3a3685ae0004e99",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55010,
+        "known_for_department": "Acting",
+        "name": "Harildo Déda",
+        "original_name": "Harildo Déda",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Bené",
+        "credit_id": "57851a71c3a36867910029d9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511425,
+        "known_for_department": "Acting",
+        "name": "Gildásio Leite",
+        "original_name": "Gildásio Leite",
+        "popularity": 0.1699,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Man on the bus",
+        "credit_id": "57851ad892514137c2004265",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364415,
+        "known_for_department": "Acting",
+        "name": "Nanego Lira",
+        "original_name": "Nanego Lira",
+        "popularity": 0.153,
+        "profile_path": "/qqjgCJgVFhkDHmnC7TYyFGzpZU4.jpg",
+        "cast_id": 54,
+        "character": "Nordeste preacher",
+        "credit_id": "57851b13c3a36857d9005022",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1331384,
+        "known_for_department": "Art",
+        "name": "José Pereira da Silva",
+        "original_name": "José Pereira da Silva",
+        "popularity": 0.001,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Dora's Client",
+        "credit_id": "57851c2dc3a3684ef7005d41",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230171,
+        "known_for_department": "Acting",
+        "name": "Everaldo Pontes",
+        "original_name": "Everaldo Pontes",
+        "popularity": 0.4474,
+        "profile_path": "/jGYjtd1Iez626GzWBkULNpKhuHD.jpg",
+        "cast_id": 57,
+        "character": "Dora's Client",
+        "credit_id": "57851c51c3a36820130017fd",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415432,
+        "known_for_department": "Acting",
+        "name": "Inaldo Santana",
+        "original_name": "Inaldo Santana",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Dora's Client",
+        "credit_id": "57851cdcc3a36857d900513b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1200357,
+        "known_for_department": "Acting",
+        "name": "Gideon Rosa",
+        "original_name": "Gideon Rosa",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Jessé",
+        "credit_id": "57851d50c3a3685ae0005094",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2375801,
+        "known_for_department": "Acting",
+        "name": "Antonieta Noronha",
+        "original_name": "Antonieta Noronha",
+        "popularity": 0.306,
+        "profile_path": "/tdfYsuKvj4VfNNosLRx8nE8FXEK.jpg",
+        "cast_id": 63,
+        "character": "Violeta",
+        "credit_id": "5d42650f7719d7001162905e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367414,
+        "known_for_department": "Acting",
+        "name": "Socorro Nobre",
+        "original_name": "Socorro Nobre",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Dora's Client",
+        "credit_id": "65b6c9c11089ba017df6e9ba",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1316780,
+        "known_for_department": "Acting",
+        "name": "Iami Rebouças",
+        "original_name": "Iami Rebouças",
+        "popularity": 0.0734,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Woman in the photograph",
+        "credit_id": "65b6cac9a284eb017c0a3f16",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8574,
+        "known_for_department": "Directing",
+        "name": "Walter Salles",
+        "original_name": "Walter Salles",
+        "popularity": 0.9575,
+        "profile_path": "/g2ZnolTMK9BCB97bZRBgnMaa3e1.jpg",
+        "credit_id": "52fe4266c3a36847f801baad",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10043,
+        "known_for_department": "Art",
+        "name": "Cassio Amarante",
+        "original_name": "Cassio Amarante",
+        "popularity": 0.2737,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bb07",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8574,
+        "known_for_department": "Directing",
+        "name": "Walter Salles",
+        "original_name": "Walter Salles",
+        "popularity": 0.9575,
+        "profile_path": "/g2ZnolTMK9BCB97bZRBgnMaa3e1.jpg",
+        "credit_id": "52fe4266c3a36847f801ba9b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10044,
+        "known_for_department": "Art",
+        "name": "Carla Caffé",
+        "original_name": "Carla Caffé",
+        "popularity": 1.5387,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bb0d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10031,
+        "known_for_department": "Creator",
+        "name": "João Emanuel Carneiro",
+        "original_name": "João Emanuel Carneiro",
+        "popularity": 0.7253,
+        "profile_path": "/k9Hx6enjo019tDZ2m8zkhHjhWRD.jpg",
+        "credit_id": "52fe4266c3a36847f801baa7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8576,
+        "known_for_department": "Sound",
+        "name": "Antonio Pinto",
+        "original_name": "Antonio Pinto",
+        "popularity": 0.326,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801baef",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10054,
+        "known_for_department": "Sound",
+        "name": "Bruno Tarrière",
+        "original_name": "Bruno Tarrière",
+        "popularity": 0.3027,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bb3d",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10033,
+        "known_for_department": "Production",
+        "name": "Thomas Garvin",
+        "original_name": "Thomas Garvin",
+        "popularity": 0.2941,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bac5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10038,
+        "known_for_department": "Camera",
+        "name": "Walter Carvalho",
+        "original_name": "Walter Carvalho",
+        "popularity": 0.5483,
+        "profile_path": "/y7FAwZ5YBKvCjkNRMTMIksaG97r.jpg",
+        "credit_id": "52fe4266c3a36847f801bae3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10030,
+        "known_for_department": "Writing",
+        "name": "Marcos Bernstein",
+        "original_name": "Marcos Bernstein",
+        "popularity": 0.5149,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801baa1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10041,
+        "known_for_department": "Editing",
+        "name": "Isabelle Rathery",
+        "original_name": "Isabelle Rathery",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bafb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10050,
+        "known_for_department": "Sound",
+        "name": "Jean-Claude Brisson",
+        "original_name": "Jean-Claude Brisson",
+        "popularity": 0.2069,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bb2b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10040,
+        "known_for_department": "Editing",
+        "name": "Felipe Lacerda",
+        "original_name": "Felipe Lacerda",
+        "popularity": 0.1211,
+        "profile_path": "/ghNzIL6alaWqkWmdvTi69FTsUSj.jpg",
+        "credit_id": "52fe4266c3a36847f801baf5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10042,
+        "known_for_department": "Directing",
+        "name": "Sérgio Machado",
+        "original_name": "Sérgio Machado",
+        "popularity": 0.3839,
+        "profile_path": "/hXf14FCTI2MwuoT48bHIo90pwOF.jpg",
+        "credit_id": "52fe4266c3a36847f801bb01",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8564,
+        "known_for_department": "Production",
+        "name": "Elisa Tolomelli",
+        "original_name": "Elisa Tolomelli",
+        "popularity": 0.1933,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bab9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10032,
+        "known_for_department": "Production",
+        "name": "Arthur Cohn",
+        "original_name": "Arthur Cohn",
+        "popularity": 0.6082,
+        "profile_path": "/4elUZlTRNjY7OzzIY44Dg7zBfyH.jpg",
+        "credit_id": "52fe4266c3a36847f801bab3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10045,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cristina Camargo",
+        "original_name": "Cristina Camargo",
+        "popularity": 0.484,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bb13",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10046,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Antoine Garabedian",
+        "original_name": "Antoine Garabedian",
+        "popularity": 0.1398,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bb19",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10049,
+        "known_for_department": "Art",
+        "name": "Marcelo Larrea",
+        "original_name": "Marcelo Larrea",
+        "popularity": 0.0778,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bb25",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8571,
+        "known_for_department": "Production",
+        "name": "Donald Ranvaud",
+        "original_name": "Donald Ranvaud",
+        "popularity": 0.1748,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801babf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10048,
+        "known_for_department": "Art",
+        "name": "Mônica Costa",
+        "original_name": "Mônica Costa",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bb1f",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10039,
+        "known_for_department": "Sound",
+        "name": "Jaques Morelenbaum",
+        "original_name": "Jaques Morelenbaum",
+        "popularity": 0.12,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bae9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10053,
+        "known_for_department": "Sound",
+        "name": "Mark A. Van Der Willigen",
+        "original_name": "Mark A. Van Der Willigen",
+        "popularity": 1.1992,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bb37",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10036,
+        "known_for_department": "Production",
+        "name": "Afonso Coaracy",
+        "original_name": "Afonso Coaracy",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bad7",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10052,
+        "known_for_department": "Sound",
+        "name": "François Groult",
+        "original_name": "François Groult",
+        "popularity": 0.4394,
+        "profile_path": "/q6O0bSxJh9vGEXcUjAeLsUPMqLA.jpg",
+        "credit_id": "52fe4267c3a36847f801bb31",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10037,
+        "known_for_department": "Production",
+        "name": "Lillian Birnbaum",
+        "original_name": "Lillian Birnbaum",
+        "popularity": 0.1843,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801badd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10034,
+        "known_for_department": "Production",
+        "name": "Jack Gajos",
+        "original_name": "Jack Gajos",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bacb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10035,
+        "known_for_department": "Production",
+        "name": "Paulo Carlos De Brito",
+        "original_name": "Paulo Carlos De Brito",
+        "popularity": 0.6616,
+        "profile_path": null,
+        "credit_id": "52fe4266c3a36847f801bad1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8559,
+        "known_for_department": "Directing",
+        "name": "Kátia Lund",
+        "original_name": "Kátia Lund",
+        "popularity": 0.6318,
+        "profile_path": null,
+        "credit_id": "57843b82c3a368178e002479",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1405777,
+        "known_for_department": "Camera",
+        "name": "Marcelo Brasil",
+        "original_name": "Marcelo Brasil",
+        "popularity": 0.147,
+        "profile_path": null,
+        "credit_id": "57843fabc3a368178e0025f7",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542917,
+        "known_for_department": "Editing",
+        "name": "Yvan Lucas",
+        "original_name": "Yvan Lucas",
+        "popularity": 0.4373,
+        "profile_path": "/d4T7CJP3zI41BOTTNKknWMl6XMI.jpg",
+        "credit_id": "57843e5ec3a36838000007b6",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 228772,
+        "known_for_department": "Production",
+        "name": "Martine De Clermont-Tonnerre",
+        "original_name": "Martine De Clermont-Tonnerre",
+        "popularity": 0.695,
+        "profile_path": null,
+        "credit_id": "57843afa9251411be6000761",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112188,
+        "known_for_department": "Crew",
+        "name": "Sergio Farjalla Jr.",
+        "original_name": "Sergio Farjalla Jr.",
+        "popularity": 0.5979,
+        "profile_path": null,
+        "credit_id": "57843da292514121bd0027ff",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10042,
+        "known_for_department": "Directing",
+        "name": "Sérgio Machado",
+        "original_name": "Sérgio Machado",
+        "popularity": 0.3839,
+        "profile_path": "/hXf14FCTI2MwuoT48bHIo90pwOF.jpg",
+        "credit_id": "57843d3c92514121bd0027d6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478209,
+        "known_for_department": "Production",
+        "name": "Paula Chevallet",
+        "original_name": "Paula Chevallet",
+        "popularity": 0.1636,
+        "profile_path": null,
+        "credit_id": "57843f2ec3a36837f00008bf",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1532338,
+        "known_for_department": "Visual Effects",
+        "name": "Mauricio Couto Bevilaqua",
+        "original_name": "Mauricio Couto Bevilaqua",
+        "popularity": 0.5065,
+        "profile_path": null,
+        "credit_id": "57843d7fc3a3683800000766",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429602,
+        "known_for_department": "Camera",
+        "name": "Júnior Malta",
+        "original_name": "Júnior Malta",
+        "popularity": 0.3551,
+        "profile_path": null,
+        "credit_id": "57843fd7c3a36817a100281d",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10031,
+        "known_for_department": "Creator",
+        "name": "João Emanuel Carneiro",
+        "original_name": "João Emanuel Carneiro",
+        "popularity": 0.7253,
+        "profile_path": "/k9Hx6enjo019tDZ2m8zkhHjhWRD.jpg",
+        "credit_id": "57843bbec3a36817a70028f6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8574,
+        "known_for_department": "Directing",
+        "name": "Walter Salles",
+        "original_name": "Walter Salles",
+        "popularity": 0.9575,
+        "profile_path": "/g2ZnolTMK9BCB97bZRBgnMaa3e1.jpg",
+        "credit_id": "57843aab9251411bc9000759",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466123,
+        "known_for_department": "Directing",
+        "name": "Vinicius Coimbra",
+        "original_name": "Vinicius Coimbra",
+        "popularity": 0.4642,
+        "profile_path": "/rdAT8XvOabYJqVhpHGxzNe2wUel.jpg",
+        "credit_id": "57843c5492514121bb00261d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635402,
+        "known_for_department": "Acting",
+        "name": "Zezé di Camargo",
+        "original_name": "Zezé di Camargo",
+        "popularity": 0.3445,
+        "profile_path": "/o88mVVqt1tKRHie1QmRPyVVhAHl.jpg",
+        "credit_id": "57c8528c9251416278000192",
+        "department": "Sound",
+        "job": "Additional Soundtrack"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629881,
+        "known_for_department": "Acting",
+        "name": "Luciano Camargo",
+        "original_name": "Luciano Camargo",
+        "popularity": 0.2085,
+        "profile_path": "/mrzkb1KvQvwjaL01CSJlIDkpggy.jpg",
+        "credit_id": "57c8531792514162780001e0",
+        "department": "Sound",
+        "job": "Additional Soundtrack"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 666,
+    "keywords": [
+      {
+        "id": 1809,
+        "name": "rio de janeiro"
+      },
+      {
+        "id": 3344,
+        "name": "letter"
+      },
+      {
+        "id": 3593,
+        "name": "wilderness"
+      },
+      {
+        "id": 10508,
+        "name": "teacher"
+      },
+      {
+        "id": 13014,
+        "name": "orphan"
+      },
+      {
+        "id": 18044,
+        "name": "railroad"
+      },
+      {
+        "id": 33457,
+        "name": "alcoholic"
+      },
+      {
+        "id": 158639,
+        "name": "missing parent"
+      },
+      {
+        "id": 158642,
+        "name": "long lost relative"
+      },
+      {
+        "id": 158651,
+        "name": "realism"
+      },
+      {
+        "id": 163117,
+        "name": "child trafficking"
+      },
+      {
+        "id": 163599,
+        "name": "death of parent"
+      },
+      {
+        "id": 167043,
+        "name": "road movie"
+      },
+      {
+        "id": 168350,
+        "name": "bus station"
+      },
+      {
+        "id": 196581,
+        "name": "lost child"
+      },
+      {
+        "id": 211733,
+        "name": "unwanted child"
+      },
+      {
+        "id": 216079,
+        "name": "truck stop"
+      },
+      {
+        "id": 222511,
+        "name": "woman and child"
+      },
+      {
+        "id": 233606,
+        "name": "lonely woman"
+      },
+      {
+        "id": 260005,
+        "name": "train station"
+      },
+      {
+        "id": 334474,
+        "name": "letter writer"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/aW8LEj0xCbdwsWHoaFuJXNVYJwW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 295074,
+        "original_language": "lv",
+        "original_title": "Izlaiduma Gads",
+        "overview": "The Lesson tells the story of Zane, a devoted teacher mentoring the senior class in a Latvian high school. She tries to live her life in the most meaningful way possible. She takes her mission as a teacher seriously, and works hard to help her students develop their talents. Even so, as a younger teacher it’s hard for Zane to keep her distance from the class – the students soon become a sort of family to her. When she realizes she’s falling in love with one of them, the others start to feel left out. She faces a stark choice between personal happiness and the pressures of society.",
+        "popularity": 0.1934,
+        "poster_path": "/sZ9wf9E8pKEUVOfhoGVbJTpojJy.jpg",
+        "release_date": "2014-10-10",
+        "title": "The Lesson",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bDuosrdJBpHvNMD9pzWQcD4ldBv.jpg",
+        "genre_ids": [
+          28,
+          12,
+          18,
+          10751
+        ],
+        "id": 27985,
+        "original_language": "en",
+        "original_title": "Far from Home: The Adventures of Yellow Dog",
+        "overview": "Teenager Angus adopts a stray dog and names him Yellow. Several days later, while travelling along the coast of British Columbia with Angus's father, John, the boy and dog become stranded when turbulent waters capsize their boat. Angus's parents relentlessly badger rescue teams. Angus, schooled by his father in wilderness survival skills, and assisted by the intelligent Yellow Dog, tries to attract rescuers.",
+        "popularity": 1.066,
+        "poster_path": "/bHtNHOiSmfX1KlJwc9Jvc8sYcjB.jpg",
+        "release_date": "1995-01-13",
+        "title": "Far from Home: The Adventures of Yellow Dog",
+        "video": false,
+        "vote_average": 6.181,
+        "vote_count": 94
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jbEbL1gl8VQBAX43kcPCMfBZum7.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          10402
+        ],
+        "id": 28345,
+        "original_language": "en",
+        "original_title": "Heidi",
+        "overview": "Heidi is orphaned and her uncaring maternal Aunt Dete takes her to the mountains to live with her reclusive, grumpy paternal grandfather, Adolph Kramer. Heidi brings her grandfather back into mountain society through her sweet ways and sheer love. When Dete later returns and steals Heidi away to become the companion of a rich man's wheelchair-bound daughter, the grandfather is heartsick to discover his little girl missing and immediately sets out to get her back.",
+        "popularity": 4.2036,
+        "poster_path": "/rIfA5X4pYJOHyFPZFqWLOu7yfiZ.jpg",
+        "release_date": "1937-10-15",
+        "title": "Heidi",
+        "video": false,
+        "vote_average": 6.826,
+        "vote_count": 115
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eIMOU6rAceFLx37oeJn3Tqh5R2e.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10749
+        ],
+        "id": 28564,
+        "original_language": "en",
+        "original_title": "Manhattan Melodrama",
+        "overview": "The friendship between two orphans endures even though they grow up on opposite sides of the law and fall in love with the same woman.",
+        "popularity": 4.2016,
+        "poster_path": "/gAuBeXANJ0NhlQY7kmas63dFMz7.jpg",
+        "release_date": "1934-05-04",
+        "title": "Manhattan Melodrama",
+        "video": false,
+        "vote_average": 6.961,
+        "vote_count": 76
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jsoJNVwZ9tXxEdtGoJstzJAJ4xH.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 28575,
+        "original_language": "en",
+        "original_title": "I'll Cry Tomorrow",
+        "overview": "Deprived of a normal childhood by her ambitious mother, Lillian Roth becomes a star of Broadway and Hollywood before she is twenty. Shortly before her marriage to her childhood sweetheart, David Tredman, he dies and Lillian takes her first drink of many down the road of becoming an alcoholic.",
+        "popularity": 1.8724,
+        "poster_path": "/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg",
+        "release_date": "1955-12-25",
+        "title": "I'll Cry Tomorrow",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kEU7Bbd9ANvziXlyD0dbN6l31Ht.jpg",
+        "genre_ids": [
+          10402,
+          35,
+          18,
+          10749
+        ],
+        "id": 28665,
+        "original_language": "en",
+        "original_title": "Fame",
+        "overview": "At New York's High School of Performing Arts, students from all walks of life get the chance to hone their skills as singers, actors, dancers, and more. Over four years, these young men and women will see if they truly have the dedication and talent to achieve success, while still juggling regular schoolwork, feelings of self-doubt, and budding romances.",
+        "popularity": 3.8186,
+        "poster_path": "/hm7f9a0BdjV9OLOJ5wFWQq55Jfd.jpg",
+        "release_date": "2009-09-23",
+        "title": "Fame",
+        "video": false,
+        "vote_average": 5.709,
+        "vote_count": 375
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 28580,
+        "original_language": "en",
+        "original_title": "The Lost Weekend",
+        "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+        "popularity": 1.265,
+        "poster_path": "/8ggIOoCzt8xT2ePl8DdlRtXgcOh.jpg",
+        "release_date": "1945-11-29",
+        "title": "The Lost Weekend",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 641
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bCyK6eETwA6kzxLxDDuwJ3l7Wdw.jpg",
+        "genre_ids": [
+          9648,
+          27,
+          18
+        ],
+        "id": 27130,
+        "original_language": "en",
+        "original_title": "I Walked with a Zombie",
+        "overview": "A nurse in the Caribbean turns to voodoo in hopes of curing her patient, a mindless woman whose husband she's fallen in love with.",
+        "popularity": 2.1314,
+        "poster_path": "/uoyBR8XNxPQRojujtczfG1qJezY.jpg",
+        "release_date": "1943-04-21",
+        "title": "I Walked with a Zombie",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 319
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x8YgNond1tLZq3YbhpczonVKig2.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 27221,
+        "original_language": "de",
+        "original_title": "Wo die grünen Ameisen träumen",
+        "overview": "The Australian Aborigines (in this film anyway) believe that this is the place where the green ants go to dream, and that if their dreams are disturbed, it will bring down disaster on us all. The Aborigines' belief is not shared by a giant mining company, which wants to tear open the soil and search for uranium.",
+        "popularity": 0.6396,
+        "poster_path": "/60oMOwmWwpN8dnOkRIjoUA7i5K.jpg",
+        "release_date": "1984-08-31",
+        "title": "Where the Green Ants Dream",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdNMIUmeCSJcLN672JNIxNFp1Zi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 27236,
+        "original_language": "en",
+        "original_title": "Two-Lane Blacktop",
+        "overview": "A driver and mechanic drag racing for money cross paths with a female hitchhiker and a drifter who challenges them to a cross-country race.",
+        "popularity": 0.8533,
+        "poster_path": "/8GSjw941Maq4oDvbYqbyc6UM8WH.jpg",
+        "release_date": "1971-07-07",
+        "title": "Two-Lane Blacktop",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 249
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yFuycXpdyqiOltfsanHkq5A1T5g.jpg",
+        "genre_ids": [
+          878,
+          12,
+          18
+        ],
+        "id": 870697,
+        "original_language": "it",
+        "original_title": "Shelter",
+        "overview": "",
+        "popularity": 0.2998,
+        "poster_path": "/mqJRrDmxyW5pOc84kPBWjwe0Kf6.jpg",
+        "release_date": "2022-06-04",
+        "title": "Shelter",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          12
+        ],
+        "id": 293483,
+        "original_language": "en",
+        "original_title": "Silence of the North",
+        "overview": "Director Allan King's 1981 drama, based on true events, stars Ellen Burstyn as a strong-willed woman struggling to survive with her family in the Canadian wilderness.",
+        "popularity": 0.2212,
+        "poster_path": "/kN1M5DwTy6BEOWTOXJgNOproHQM.jpg",
+        "release_date": "1981-10-23",
+        "title": "Silence of the North",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xxjaZgVbWF1mhoB7Gemg9RCYdH5.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 27457,
+        "original_language": "pt",
+        "original_title": "Tempos de Paz",
+        "overview": "Rio de Janeiro, April 18, 1945. Brazil's foreign policy aligns closely with that of the United States and opens a brief period of democratic rule after the end of World War 2. For years, hundreds of people were arrested and tortured by the Vargas regime. But with the external pressure, several political prisoners gain freedom.",
+        "popularity": 0.443,
+        "poster_path": "/6h2ou2xX8YECug32wzRSjLmNYoF.jpg",
+        "release_date": "2009-08-14",
+        "title": "Peacetime",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1262182,
+        "original_language": "tr",
+        "original_title": "The Word",
+        "overview": "A young boy and his father arguing on the road while the son teaching his father how to drive. Gradually, the tension between the two increases and causes a conflict between them.",
+        "popularity": 0.3073,
+        "poster_path": "/rfU2E5sitA8DKN4JsqpnVdhL9zl.jpg",
+        "release_date": "2021-10-30",
+        "title": "The Word",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/a4DVPRMNFk8TieWltgd57Ak0ctM.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 477654,
+        "original_language": "es",
+        "original_title": "Museo",
+        "overview": "Mexico, 1985. Juan and Wilson, two perennial Veterinary students, perpetrate an audacious heist in the National Museum of Anthropology, running away with a loot of more than hundred invaluable pieces of Mayan art, unaware of the consequences of their outrageous act.",
+        "popularity": 0.6499,
+        "poster_path": "/cZ10lucxQH5ixwOoh8iYypFmwJ2.jpg",
+        "release_date": "2018-08-23",
+        "title": "Museo",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 150
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4nSYIK4v6irS0bSXXL0bZRtkbkd.jpg",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "id": 27506,
+        "original_language": "en",
+        "original_title": "West of Zanzibar",
+        "overview": "A magician seeks vengeance upon the man who paralyzed him and the illegitimate daughter he sired with the magician's wife.",
+        "popularity": 1.6003,
+        "poster_path": "/zwnhJhF73rADB9MURcpQ6AeLrPg.jpg",
+        "release_date": "1928-11-24",
+        "title": "West of Zanzibar",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oOWqqq8mQMgcotdPrcXtEAlcA1V.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 27595,
+        "original_language": "en",
+        "original_title": "Charlie & Boots",
+        "overview": "Paul Hogan plays Charlie McFarland and Shane Jacobson plays his estranged son, Boots. After a family tragedy Charlie and Boots try and put their differences aside and head off on the road trip of a lifetime - from regional Victoria to the Cape York Peninsula - they overcome many challenges to reach their dream - to fish off the northern most tip of Australia.",
+        "popularity": 4.2606,
+        "poster_path": "/sskyVJp4LfMFqbXQadCnM2unlNB.jpg",
+        "release_date": "2009-09-03",
+        "title": "Charlie & Boots",
+        "video": false,
+        "vote_average": 6.122,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iSyamPnnvRMhkHEpBDDtS6vVH4I.jpg",
+        "genre_ids": [
+          28,
+          35,
+          18
+        ],
+        "id": 294413,
+        "original_language": "te",
+        "original_title": "ఆగడు",
+        "overview": "Shankar, a trigger-happy encounter specialist with a tragic past, is posted to Bokkapatnam village , to halt the illegal operations of the influential don Damodar, whose dream project is to build a power plant also with whom Shankar has a personal score to settle.",
+        "popularity": 0.6878,
+        "poster_path": "/xDRDhFd4A9QSnJlE5hIJPVSyYuL.jpg",
+        "release_date": "2014-09-19",
+        "title": "Aagadu",
+        "video": false,
+        "vote_average": 4.525,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qbhn6c9vwtzprBnXaxhBMJi6aMn.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 673504,
+        "original_language": "en",
+        "original_title": "Kelly",
+        "overview": "A young girl comes to terms with her life in foster care.",
+        "popularity": 1.264,
+        "poster_path": "/2OnQSDAB3XioKSlwOLzlZh85Xg6.jpg",
+        "release_date": "2015-09-17",
+        "title": "Kelly",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 14066,
+    "total_results": 281302
+  }
+}

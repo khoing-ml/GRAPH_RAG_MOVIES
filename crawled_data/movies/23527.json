@@ -1,0 +1,1045 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/3k1PKmzNEosWFaOR1yC9ZKIYqmm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "http://www.first-squad.com",
+    "id": 23527,
+    "imdb_id": "tt1343712",
+    "origin_country": [
+      "CA",
+      "DE",
+      "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Первый отряд",
+    "overview": "Set during the opening days of World War II on the Eastern Front. Its main cast are a group of Soviet teenagers with extraordinary abilities; the teenagers have been drafted to form a special unit to fight the invading German army. They are opposed by a Schutzstaffel officer who is attempting to raise from the dead a supernatural army of crusaders from the 12th-century Order of the Sacred Cross.",
+    "popularity": 34.7817,
+    "poster_path": "/hBj1aTnGf4564Klv9yIbSuB7Y8w.jpg",
+    "production_companies": [
+      {
+        "id": 4229,
+        "logo_path": "/vCUA9kMmzSevwtuda1lmf2NcWDX.png",
+        "name": "Molot Entertainment",
+        "origin_country": "CA"
+      },
+      {
+        "id": 10868,
+        "logo_path": "/9779IFPDaVxYmmWOHHfRyH17qnx.png",
+        "name": "STUDIO4℃",
+        "origin_country": "JP"
+      },
+      {
+        "id": 79046,
+        "logo_path": null,
+        "name": "Golden Network Asia",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "RU",
+        "name": "Russia"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2009-05-13",
+    "revenue": 0,
+    "runtime": 73,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "First Squad: The Moment of Truth",
+    "video": false,
+    "vote_average": 6.246,
+    "vote_count": 140
+  },
+  "credits": {
+    "id": 23527,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 122182,
+        "known_for_department": "Acting",
+        "name": "Sergei Aisman",
+        "original_name": "Sergei Aisman",
+        "popularity": 0.3222,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Baron Von Wolff (voice)",
+        "credit_id": "52fe446cc3a368484e022467",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 122183,
+        "known_for_department": "Acting",
+        "name": "Michael Beskorovainy",
+        "original_name": "Michael Beskorovainy",
+        "popularity": 0.112,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Hunchback (voice)",
+        "credit_id": "52fe446cc3a368484e02246b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 122184,
+        "known_for_department": "Acting",
+        "name": "Elena Chebaturkina",
+        "original_name": "Elena Chebaturkina",
+        "popularity": 0.2458,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Nadaya Ruslanova (voice)",
+        "credit_id": "52fe446cc3a368484e02246f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 122185,
+        "known_for_department": "Acting",
+        "name": "Damir Eldarov",
+        "original_name": "Damir Eldarov",
+        "popularity": 0.3753,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Marat (voice)",
+        "credit_id": "52fe446cc3a368484e022473",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1122041,
+        "known_for_department": "Acting",
+        "name": "Olga Golovanova",
+        "original_name": "Olga Golovanova",
+        "popularity": 1.1282,
+        "profile_path": "/tzYRc2m6QAnt5MrTnA0rkafT8EY.jpg",
+        "cast_id": 29,
+        "character": "Nadya's Mother / Twins (voice)",
+        "credit_id": "52fe446cc3a368484e0224b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338151,
+        "known_for_department": "Sound",
+        "name": "Alexander Gruzdev",
+        "original_name": "Александр Груздев",
+        "popularity": 1.1506,
+        "profile_path": "/cXqlLCwHkiM6hhQwXGKbEtZMkwK.jpg",
+        "cast_id": 42,
+        "character": "General Below (voice)",
+        "credit_id": "6713cb24d5b7926e946fc87c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1122043,
+        "known_for_department": "Acting",
+        "name": "Artem Kipnis",
+        "original_name": "Artem Kipnis",
+        "popularity": 0.2804,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Doctor (voice)",
+        "credit_id": "52fe446cc3a368484e0224c1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122044,
+        "known_for_department": "Acting",
+        "name": "Rudolf Pankov",
+        "original_name": "Рудольф Панков",
+        "popularity": 1.8772,
+        "profile_path": "/sV6A8iYKpk21hR2lnPqktcrJhb5.jpg",
+        "cast_id": 32,
+        "character": "Monk (voice)",
+        "credit_id": "52fe446cc3a368484e0224c5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295816,
+        "known_for_department": "Acting",
+        "name": "Mikhail Tikhonov",
+        "original_name": "Михаил Тихонов",
+        "popularity": 1.1056,
+        "profile_path": "/qo5UIaDXBmMRWlSS4Nnf6upnULl.jpg",
+        "cast_id": 33,
+        "character": "Leo (Voice)",
+        "credit_id": "530a4e12925141111a003a6c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295817,
+        "known_for_department": "Acting",
+        "name": "Nikita Prozorovsky",
+        "original_name": "Никита Прозоровский",
+        "popularity": 1.4698,
+        "profile_path": "/yguZGPUIoKiJntz9cn3cIQsghAl.jpg",
+        "cast_id": 34,
+        "character": "Obergruppenfuhrer SS Linz",
+        "credit_id": "530a4ed6925141110e003ed2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1190708,
+        "known_for_department": "Acting",
+        "name": "Irina Savina",
+        "original_name": "Ирина Савина",
+        "popularity": 1.4146,
+        "profile_path": "/340LZsS3ZBop7zfgb3h42IwJj3g.jpg",
+        "cast_id": 35,
+        "character": "Valya",
+        "credit_id": "530a5061925141785e001c9a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1295818,
+        "known_for_department": "Acting",
+        "name": "Ludmila Shuvalova",
+        "original_name": "Ludmila Shuvalova",
+        "popularity": 0.2055,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Zena",
+        "credit_id": "530a50a8925141111a003a92",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544616,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Pashutin",
+        "original_name": "Александр Пашутин",
+        "popularity": 1.4207,
+        "profile_path": "/nfco9PW85tPb4u8xNJPdo3s4lnO.jpg",
+        "cast_id": 39,
+        "character": "Alexandr Pogodin (voice)",
+        "credit_id": "61aa6dcdc5c1ef004500af04",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935194,
+        "known_for_department": "Acting",
+        "name": "Georgi Martirosyan",
+        "original_name": "Георгий Мартиросян",
+        "popularity": 0.9172,
+        "profile_path": "/rmrTsfvsU6XwlHKOk2UuzgiD4Ga.jpg",
+        "cast_id": 40,
+        "character": "Arkadiy Yugan (voice)",
+        "credit_id": "61aa6ddcd2f5b5006575a4e6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2632739,
+        "known_for_department": "Acting",
+        "name": "Pavel Kipnis",
+        "original_name": "Павел Кипнис",
+        "popularity": 0.87,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "doctor (voice)",
+        "credit_id": "61aa6dfc180dea00455ff4a8",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90257,
+        "known_for_department": "Sound",
+        "name": "João Da Costa Pinto",
+        "original_name": "João Da Costa Pinto",
+        "popularity": 1.1671,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022445",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90256,
+        "known_for_department": "Sound",
+        "name": "DJ Krush",
+        "original_name": "DJ Krush",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e02243f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90162,
+        "known_for_department": "Production",
+        "name": "Eiko Tanaka",
+        "original_name": "田中栄子",
+        "popularity": 1.0964,
+        "profile_path": "/sMkSRVn8d36f5NIbDICqi46O3Q5.jpg",
+        "credit_id": "52fe446cc3a368484e02242d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90251,
+        "known_for_department": "Directing",
+        "name": "Alexey Klimov",
+        "original_name": "Alexey Klimov",
+        "popularity": 0.2983,
+        "profile_path": "/obw87qEemrQv7z2XYV2ik0s5ha6.jpg",
+        "credit_id": "52fe446cc3a368484e022485",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90252,
+        "known_for_department": "Writing",
+        "name": "Misha Shprits",
+        "original_name": "Misha Shprits",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022427",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90255,
+        "known_for_department": "Editing",
+        "name": "Sergey Akimov",
+        "original_name": "Sergey Akimov",
+        "popularity": 0.2277,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022439",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90260,
+        "known_for_department": "Production",
+        "name": "Vladimir Zhelezniakov",
+        "original_name": "Vladimir Zhelezniakov",
+        "popularity": 0.1955,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022457",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1122039,
+        "known_for_department": "Production",
+        "name": "Kazuhiro Takei",
+        "original_name": "Kazuhiro Takei",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e02249d",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90251,
+        "known_for_department": "Directing",
+        "name": "Alexey Klimov",
+        "original_name": "Alexey Klimov",
+        "popularity": 0.2983,
+        "profile_path": "/obw87qEemrQv7z2XYV2ik0s5ha6.jpg",
+        "credit_id": "52fe446cc3a368484e02247f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90251,
+        "known_for_department": "Directing",
+        "name": "Alexey Klimov",
+        "original_name": "Alexey Klimov",
+        "popularity": 0.2983,
+        "profile_path": "/obw87qEemrQv7z2XYV2ik0s5ha6.jpg",
+        "credit_id": "52fe446cc3a368484e022433",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90258,
+        "known_for_department": "Editing",
+        "name": "Kumiko Sakamoto",
+        "original_name": "坂本久美子",
+        "popularity": 1.2859,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e0224b5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90252,
+        "known_for_department": "Writing",
+        "name": "Misha Shprits",
+        "original_name": "Misha Shprits",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e02248b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90261,
+        "known_for_department": "Directing",
+        "name": "Vladimir Zhelezniakov",
+        "original_name": "Vladimir Zhelezniakov",
+        "popularity": 0.2137,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e02245d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1122037,
+        "known_for_department": "Production",
+        "name": "Kaeko Sakamoto",
+        "original_name": "Kaeko Sakamoto",
+        "popularity": 0.4614,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022491",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122038,
+        "known_for_department": "Writing",
+        "name": "Eric P. Sherman",
+        "original_name": "Eric P. Sherman",
+        "popularity": 1.8278,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022497",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90251,
+        "known_for_department": "Directing",
+        "name": "Alexey Klimov",
+        "original_name": "Alexey Klimov",
+        "popularity": 0.2983,
+        "profile_path": "/obw87qEemrQv7z2XYV2ik0s5ha6.jpg",
+        "credit_id": "52fe446cc3a368484e022421",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90259,
+        "known_for_department": "Visual Effects",
+        "name": "Yoshiharu Ashino",
+        "original_name": "芦野芳晴",
+        "popularity": 1.134,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022451",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90252,
+        "known_for_department": "Writing",
+        "name": "Misha Shprits",
+        "original_name": "Misha Shprits",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e022479",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1122040,
+        "known_for_department": "Crew",
+        "name": "Aleksandr Aleshnikov",
+        "original_name": "Aleksandr Aleshnikov",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e0224a3",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90255,
+        "known_for_department": "Editing",
+        "name": "Sergey Akimov",
+        "original_name": "Sergey Akimov",
+        "popularity": 0.2277,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e0224a9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90257,
+        "known_for_department": "Sound",
+        "name": "João Da Costa Pinto",
+        "original_name": "João Da Costa Pinto",
+        "popularity": 1.1671,
+        "profile_path": null,
+        "credit_id": "52fe446cc3a368484e0224af",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2868249,
+        "known_for_department": "Production",
+        "name": "Yury Stepanov",
+        "original_name": "Юрий Степанов",
+        "popularity": 0.6347,
+        "profile_path": "/sADb3FRuG2BgDgwFrGeVCubsiGY.jpg",
+        "credit_id": "6104c28617c443002daba780",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90262,
+        "known_for_department": "Visual Effects",
+        "name": "Hirofumi Nakata",
+        "original_name": "中田博文",
+        "popularity": 1.3177,
+        "profile_path": null,
+        "credit_id": "618a5c8a6e0d72004245d8f5",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 23527,
+    "keywords": [
+      {
+        "id": 6152,
+        "name": "supernatural"
+      },
+      {
+        "id": 10834,
+        "name": "super soldier"
+      },
+      {
+        "id": 166454,
+        "name": "russian army"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tgHO1DdnaS0xHcRxBHxE4kOQeIm.jpg",
+        "genre_ids": [
+          35,
+          14
+        ],
+        "id": 2978,
+        "original_language": "en",
+        "original_title": "Ghostbusters II",
+        "overview": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+        "popularity": 13.9821,
+        "poster_path": "/yObYPMA58DnTMvJooFW7GG6jWAt.jpg",
+        "release_date": "1989-06-16",
+        "title": "Ghostbusters II",
+        "video": false,
+        "vote_average": 6.595,
+        "vote_count": 4699
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1BXH1156pFDfBnlFiWLO6CUzJJd.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10749,
+          9648,
+          14
+        ],
+        "id": 648457,
+        "original_language": "ja",
+        "original_title": "DEEMO サクラノオト -あなたの奏でた音が、今も響く-",
+        "overview": "Deemo is a lonely individual who lives in solitude, playing the piano in a castle. One day, a girl who has lost her memory falls from the sky. Wanting to help her recover her memories and return to her world, Deemo discovers that a tree kept atop the piano will grow whenever the piano is played.",
+        "popularity": 10.3536,
+        "poster_path": "/myQiAsoHWmVcoHkpYqb8jI0fhGD.jpg",
+        "release_date": "2022-02-25",
+        "title": "DEEMO Memorial Keys",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n09N2izas4LjZ3wlGK35XYV6PD9.jpg",
+        "genre_ids": [
+          35,
+          9648,
+          878
+        ],
+        "id": 1052280,
+        "original_language": "en",
+        "original_title": "It's What's Inside",
+        "overview": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+        "popularity": 3.0716,
+        "poster_path": "/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+        "release_date": "2024-01-19",
+        "title": "It's What's Inside",
+        "video": false,
+        "vote_average": 6.458,
+        "vote_count": 717
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y3BGYpWY8ZUv2kYHmyRhiKQAab3.jpg",
+        "genre_ids": [
+          18,
+          14,
+          27
+        ],
+        "id": 10256,
+        "original_language": "en",
+        "original_title": "Metamorphosis",
+        "overview": "In the Seventeenth Century, while Hungary is fighting the Turks, the population of a small village in the Carpathian Mountains faces the evil Countess Elizabeth Bathory, accused of drinking and bathing in blood of virgin women.",
+        "popularity": 2.7595,
+        "poster_path": "/3bjEVcdBm0H7HDqYSxiNc3j0xZr.jpg",
+        "release_date": "2007-01-01",
+        "title": "Metamorphosis",
+        "video": false,
+        "vote_average": 4.37,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c0OnUa4nmLdbM63CZZtyehjCaQ2.jpg",
+        "genre_ids": [
+          28,
+          14,
+          53
+        ],
+        "id": 10546,
+        "original_language": "en",
+        "original_title": "The Crow: City of Angels",
+        "overview": "A murder victim is brought back to life by a mysterious crow. With the help of a beautiful woman, he exacts revenge on his killers – only to realize his enemy has discovered the one weakness that can destroy him forever.",
+        "popularity": 1.8622,
+        "poster_path": "/ppOoLiO2JY0BJQdixs08xrQuAA6.jpg",
+        "release_date": "1996-08-29",
+        "title": "The Crow: City of Angels",
+        "video": false,
+        "vote_average": 5.508,
+        "vote_count": 581
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u5qbQIk9SxvVFz3hiBGbbvJnT59.jpg",
+        "genre_ids": [
+          53,
+          27,
+          878
+        ],
+        "id": 279087,
+        "original_language": "en",
+        "original_title": "Specter",
+        "overview": "The town of Midground is threatened by a tsunami caused by a massive earthquake in the North Pacific Ocean. After other unexplainable events transpire, Chase Lombardi and friends are forced to discover whether they are experiencing a natural phenomenon or something else all together.",
+        "popularity": 1.6403,
+        "poster_path": "/je0498EYKg39euyvu0ZvRmD8jhk.jpg",
+        "release_date": "2014-09-09",
+        "title": "Specter",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qMDmS822SQHp4TeSMoW9IVCaI3X.jpg",
+        "genre_ids": [
+          18,
+          14,
+          10749
+        ],
+        "id": 849438,
+        "original_language": "zh",
+        "original_title": "鲛绡碧",
+        "overview": "In a power-hungry Chang’an, a vengeful merman returns to the man who once owned him—this time with a blade, not love.",
+        "popularity": 0.4288,
+        "poster_path": "/hn32EiYLqBbnzblMK98RD1P8UL5.jpg",
+        "release_date": "2019-11-18",
+        "title": "Mermaid's Jade",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 277623,
+        "original_language": "ja",
+        "original_title": "6時間後に君は死ぬ",
+        "overview": "\"You will die six hours later.\" Keishi, a youth who proclaims himself a seer, suddenly says this to Mio, who is walking along the streets of Shibuya. At first, Mio scoffs at it as nonsense but ever since her acquaintance was murdered a few days ago, she realises that she has also become a victim of a stalker. Half believing it, she decides to hang around with Keishi. Later, with the help of Sawaki, a detective she knows, the stalker is identified. She thinks the case is closed but a totally unexpected person attacks her...",
+        "popularity": 0.6236,
+        "poster_path": "/7V32EqGrJ4CAHNk4xMx55VXTWM9.jpg",
+        "release_date": "2008-09-28",
+        "title": "You'll Die Six Hours Later",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5KBNE9Wc0fnPFZrSwaKSTAzEpYq.jpg",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "id": 456688,
+        "original_language": "ja",
+        "original_title": "サクラダリセット 前篇",
+        "overview": "In the town of Sakurada, where about half of the residents have special abilities, high schooler Kei Asai is able to remember everything. His classmate Misora Haruki has the power to reset the world by three days. If they combine their powers, they can go back in time by three days and retain their memory.",
+        "popularity": 0.8367,
+        "poster_path": "/vPEGGLwhAmL8XZDibj3dwYQJY1a.jpg",
+        "release_date": "2017-03-25",
+        "title": "Sagrada Reset Part 1",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tYwkQigtc8afw0XeEogSSG0YcYQ.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53,
+          10752
+        ],
+        "id": 1369,
+        "original_language": "en",
+        "original_title": "Rambo: First Blood Part II",
+        "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+        "popularity": 8.6337,
+        "poster_path": "/lIyUiHted0eWUceCx2ZHLnQGmgy.jpg",
+        "release_date": "1985-05-21",
+        "title": "Rambo: First Blood Part II",
+        "video": false,
+        "vote_average": 6.653,
+        "vote_count": 4180
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1771,
+        "original_language": "en",
+        "original_title": "Captain America: The First Avenger",
+        "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+        "popularity": 8.1276,
+        "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+        "release_date": "2011-07-22",
+        "title": "Captain America: The First Avenger",
+        "video": false,
+        "vote_average": 7.004,
+        "vote_count": 22345
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cb1hZXieb4npx0F2K4yL1WL6NQQ.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          14
+        ],
+        "id": 1235431,
+        "original_language": "ja",
+        "original_title": "【推しの子】-The Final Act-",
+        "overview": "Goro is a gynecologist and idol fan who’s in shock after his favorite star, Ai, announces an impromptu hiatus. Little does Goro realize that he’s about to forge a bond with her that defies all common sense! Lies are an idol’s weapon!",
+        "popularity": 6.2197,
+        "poster_path": "/29BjXB8dPvLvJJgZFetd8PvwYiw.jpg",
+        "release_date": "2024-12-20",
+        "title": "Oshi no Ko -The Final Act-",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/imTDSaVLNrcNjthSkQh1liYdkiK.jpg",
+        "genre_ids": [
+          14,
+          10770
+        ],
+        "id": 646732,
+        "original_language": "en",
+        "original_title": "Ghosting: The Spirit of Christmas",
+        "overview": "The quirky and heart-warming story of Jess, who goes on the greatest first date of her life, but inadvertently ‘ghosts’ Ben when she tragically dies in a car accident on the way home. Stuck on Earth, with no idea how to ascend, Jess will need the help of her best friend Kara, the only person who can still see and hear her.",
+        "popularity": 1.1738,
+        "poster_path": "/jyQzq671GijcsNFm4SuUmx95Xco.jpg",
+        "release_date": "2019-12-04",
+        "title": "Ghosting: The Spirit of Christmas",
+        "video": false,
+        "vote_average": 5.611,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 1724,
+        "original_language": "en",
+        "original_title": "The Incredible Hulk",
+        "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+        "popularity": 14.4822,
+        "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "release_date": "2008-06-12",
+        "title": "The Incredible Hulk",
+        "video": false,
+        "vote_average": 6.229,
+        "vote_count": 12405
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+        "genre_ids": [
+          27,
+          53,
+          878
+        ],
+        "id": 1562,
+        "original_language": "en",
+        "original_title": "28 Weeks Later",
+        "overview": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+        "popularity": 9.608,
+        "poster_path": "/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+        "release_date": "2007-04-26",
+        "title": "28 Weeks Later",
+        "video": false,
+        "vote_average": 6.605,
+        "vote_count": 5243
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kvdy0Ijjo2r9qsnWV4Dzx07qwnc.jpg",
+        "genre_ids": [
+          80,
+          14,
+          18
+        ],
+        "id": 1427,
+        "original_language": "en",
+        "original_title": "Perfume: The Story of a Murderer",
+        "overview": "Jean-Baptiste Grenouille, born in the stench of 18th century Paris, develops a superior olfactory sense, which he uses to create the world's finest perfumes. However, his work takes a dark turn as he tries to preserve scents in the search for the ultimate perfume.",
+        "popularity": 9.217,
+        "poster_path": "/2wrFrUej8ri5EpjgIkjKTAnr686.jpg",
+        "release_date": "2006-09-13",
+        "title": "Perfume: The Story of a Murderer",
+        "video": false,
+        "vote_average": 7.365,
+        "vote_count": 4851
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xvRw6xelC1Va5gy2Vyhv1x8yJ4e.jpg",
+        "genre_ids": [
+          27,
+          14,
+          35
+        ],
+        "id": 1043303,
+        "original_language": "id",
+        "original_title": "Klab Astral",
+        "overview": "Athira invited her classmates to join her club, Klab Astral. She and her best friend Arya, held a big welcoming party at her house. Turns out, nobody showed up. Instead, there is a group of demons who can't wait to join in.",
+        "popularity": 0.2076,
+        "poster_path": "/r6GFsuL3AMpdZLDQzkiNu6Ybbho.jpg",
+        "release_date": "2022-10-31",
+        "title": "Klab Astral",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jLbpgkxA5PSgzmcszT8yCOyPkgf.jpg",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "id": 675,
+        "original_language": "en",
+        "original_title": "Harry Potter and the Order of the Phoenix",
+        "overview": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+        "popularity": 22.8203,
+        "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+        "release_date": "2007-07-08",
+        "title": "Harry Potter and the Order of the Phoenix",
+        "video": false,
+        "vote_average": 7.674,
+        "vote_count": 20398
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 271110,
+        "original_language": "en",
+        "original_title": "Captain America: Civil War",
+        "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+        "popularity": 14.2187,
+        "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "release_date": "2016-04-27",
+        "title": "Captain America: Civil War",
+        "video": false,
+        "vote_average": 7.447,
+        "vote_count": 23625
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uKzOqe4cA02xcHe9s90ruTU1zYO.jpg",
+        "genre_ids": [
+          18,
+          878
+        ],
+        "id": 457046,
+        "original_language": "ja",
+        "original_title": "サクラダリセット 後篇",
+        "overview": "In the town of Sakurada, where about half of the residents have special abilities, high schooler Kei Asai is able to remember everything. His classmate Misora Haruki has the power to reset the world by three days. If they combine their powers, they can go back in time by three days and retain their memory.",
+        "popularity": 0.7758,
+        "poster_path": "/eqgU8jFtjC219rd7d6oGFWE6w99.jpg",
+        "release_date": "2017-05-13",
+        "title": "Sagrada Reset Part 2",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 7745,
+    "total_results": 154890
+  }
+}

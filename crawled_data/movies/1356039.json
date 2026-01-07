@@ -1,0 +1,1067 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81936018",
+    "id": 1356039,
+    "imdb_id": "tt23648788",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Contraataque",
+    "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+    "popularity": 10.6779,
+    "poster_path": "/38I76hGcFY6xB47pjm7pZwkfuAF.jpg",
+    "production_companies": [
+      {
+        "id": 84651,
+        "logo_path": "/o7gUREdtNzQ3Alrck13tlvcNKvv.png",
+        "name": "Draco Films",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2025-02-27",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Counterattack",
+    "video": false,
+    "vote_average": 8.276,
+    "vote_count": 773
+  },
+  "credits": {
+    "id": 1356039,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309460,
+        "known_for_department": "Acting",
+        "name": "Luis Alberti",
+        "original_name": "Luis Alberti",
+        "popularity": 1.3265,
+        "profile_path": "/1uf6WXebWuL0oEMM2z8ulcnRro.jpg",
+        "cast_id": 5,
+        "character": "Capitán Guerrero",
+        "credit_id": "66e3c4abc81b24b3fe23e431",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89445,
+        "known_for_department": "Acting",
+        "name": "Noé Hernández",
+        "original_name": "Noé Hernández",
+        "popularity": 1.1661,
+        "profile_path": "/l3NXUy1x5buKHawSw4xye5JW8pl.jpg",
+        "cast_id": 4,
+        "character": "Josefo \"El Aguijón\" Urías",
+        "credit_id": "66e3c49f9013fe872223dd91",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1311441,
+        "known_for_department": "Acting",
+        "name": "Leonardo Alonso",
+        "original_name": "Leonardo Alonso",
+        "popularity": 0.3668,
+        "profile_path": "/3SJUI4IeqjZfG7yNh76CbkQfzfg.jpg",
+        "cast_id": 6,
+        "character": "Tanque",
+        "credit_id": "66e3c4b69013fe872223dd97",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2139802,
+        "known_for_department": "Acting",
+        "name": "Luis Curiel",
+        "original_name": "Luis Curiel",
+        "popularity": 0.5726,
+        "profile_path": "/5FMxoburwNLvKlYIFPEoSLDDogu.jpg",
+        "cast_id": 11,
+        "character": "Pollo",
+        "credit_id": "67c0e728c029139b0e35c0df",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3524227,
+        "known_for_department": "Acting",
+        "name": "Guillermo Nava",
+        "original_name": "Guillermo Nava",
+        "popularity": 2.1609,
+        "profile_path": "/yKMqnDsv4rfKYOg1t4EHkIDPywQ.jpg",
+        "cast_id": 9,
+        "character": "Toro",
+        "credit_id": "66e3c4dbc81b24b3fe23e447",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1521266,
+        "known_for_department": "Acting",
+        "name": "David Calderón León",
+        "original_name": "David Calderón León",
+        "popularity": 0.5968,
+        "profile_path": "/mwAilgEQ8LZjsLau2X7nmL3PmvB.jpg",
+        "cast_id": 8,
+        "character": "Combo",
+        "credit_id": "66e3c4c99013fe872223dda0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2385744,
+        "known_for_department": "Acting",
+        "name": "Mayra Batalla",
+        "original_name": "Mayra Batalla",
+        "popularity": 0.947,
+        "profile_path": "/2tHR2fCTNfs3bxu53BQZUM3ybFq.jpg",
+        "cast_id": 3,
+        "character": "Lucía",
+        "credit_id": "66e3c49a0000000000b97ea7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031255,
+        "known_for_department": "Acting",
+        "name": "Israel Islas",
+        "original_name": "Israel Islas",
+        "popularity": 0.4679,
+        "profile_path": "/2LEQGnhXBrmtscQfNtf9igVeN2E.jpg",
+        "cast_id": 12,
+        "character": "Román \"El Sacristán\" Urías",
+        "credit_id": "67c0e78bb6c7e3425ca25e4b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2503171,
+        "known_for_department": "Acting",
+        "name": "Ishbel Bautista",
+        "original_name": "Ishbel Bautista",
+        "popularity": 1.4111,
+        "profile_path": "/u9VVamUF0EB2tEAe6DncNjeA1j4.jpg",
+        "cast_id": 13,
+        "character": "La Cobra",
+        "credit_id": "67c0e79914a4396cafc8f233",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273843,
+        "known_for_department": "Acting",
+        "name": "Frida Jiser",
+        "original_name": "Frida Jiser",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Karla",
+        "credit_id": "67c0eba6ab2d8b81ccc8e440",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3759491,
+        "known_for_department": "Acting",
+        "name": "Mario Alberto Monroy",
+        "original_name": "Mario Alberto Monroy",
+        "popularity": 0.2306,
+        "profile_path": "/5epUo9ReGNUE1ySDZbowoyRpO5M.jpg",
+        "cast_id": 17,
+        "character": "Tuco",
+        "credit_id": "67c0ebccc93271491f35b4b2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4511906,
+        "known_for_department": "Acting",
+        "name": "Alberto Ornelas",
+        "original_name": "Alberto Ornelas",
+        "popularity": 0.2387,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Maik",
+        "credit_id": "67c1bc939adcd2562535bf71",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1734664,
+        "known_for_department": "Acting",
+        "name": "Pedro Joaquín",
+        "original_name": "Pedro Joaquín",
+        "popularity": 0.2047,
+        "profile_path": "/zQ1xnJ7appZ8S2298W9vVfgJ6BF.jpg",
+        "cast_id": 7,
+        "character": "Chucho",
+        "credit_id": "66e3c4c0c81b24b3fe23e43e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964098,
+        "known_for_department": "Acting",
+        "name": "Edgar Novoa",
+        "original_name": "Edgar Novoa",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Agente Márquez",
+        "credit_id": "67c1bcbb10e79c3424a27302",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1044087,
+        "known_for_department": "Acting",
+        "name": "Guillermo Quintanilla",
+        "original_name": "Guillermo Quintanilla",
+        "popularity": 0.4467,
+        "profile_path": "/V06zmGwn5lUzhgW7YreDMnFCt2.jpg",
+        "cast_id": 15,
+        "character": "Coronel Marcelo Díaz",
+        "credit_id": "67c0e7e4bc6935a001a2610e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273806,
+        "known_for_department": "Acting",
+        "name": "Sergio Jurado Molina",
+        "original_name": "Sergio Jurado Molina",
+        "popularity": 0.202,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Secretario Arvizu",
+        "credit_id": "67c0e7cb14a4396cafc8f26b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3438244,
+        "known_for_department": "Acting",
+        "name": "Luz Ramos",
+        "original_name": "Luz Ramos",
+        "popularity": 0.2263,
+        "profile_path": "/3EsLAZSnze3Ryg10CGAsLbzLNu5.jpg",
+        "cast_id": 18,
+        "character": "Teniente Stum",
+        "credit_id": "67c0ebddab2d8b81ccc8e46d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3339638,
+        "known_for_department": "Acting",
+        "name": "Roberta Burns",
+        "original_name": "Roberta Burns",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Sargento Atenea",
+        "credit_id": "67c0ebf2591b238d2635909c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2191327,
+        "known_for_department": "Acting",
+        "name": "Alejandra Herrera",
+        "original_name": "Alejandra Herrera",
+        "popularity": 0.1877,
+        "profile_path": "/hI7nPYC5kq22dXsSVpY0MIu6Qle.jpg",
+        "cast_id": 20,
+        "character": "Sargento Letal",
+        "credit_id": "67c0ec04c93271491f35b4fd",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5275211,
+        "known_for_department": "Acting",
+        "name": "José Luis Enriquez Serna",
+        "original_name": "José Luis Enriquez Serna",
+        "popularity": 0.2533,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Joaquín",
+        "credit_id": "67c1bd3ac153ece2e2a271f0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309799,
+        "known_for_department": "Acting",
+        "name": "Mario Escalante",
+        "original_name": "Mario Escalante",
+        "popularity": 0.2266,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Lalo 'El Marrano'",
+        "credit_id": "67c0ec28ab2d8b81ccc8e4b1",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3103284,
+        "known_for_department": "Acting",
+        "name": "Manuel Villegas",
+        "original_name": "Manuel Villegas",
+        "popularity": 0.2489,
+        "profile_path": "/fBTOBPOZqWJR0rlZZJvkR6BxOWD.jpg",
+        "cast_id": 41,
+        "character": "Adalberto",
+        "credit_id": "67c1bd769adcd2562535c001",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827054,
+        "known_for_department": "Acting",
+        "name": "Cesar Antulio",
+        "original_name": "Cesar Antulio",
+        "popularity": 0.254,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Agente Físcal",
+        "credit_id": "67c1bda00d255c44c1c90132",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 964826,
+        "known_for_department": "Directing",
+        "name": "Chava Cartas",
+        "original_name": "Chava Cartas",
+        "popularity": 0.4821,
+        "profile_path": "/2KgMJhywrNcNvlxKschlNyYQpsL.jpg",
+        "credit_id": "66e3c487c81b24b3fe23e42b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1487904,
+        "known_for_department": "Writing",
+        "name": "José Rubén Escalante Méndez",
+        "original_name": "José Rubén Escalante Méndez",
+        "popularity": 0.1332,
+        "profile_path": null,
+        "credit_id": "66e3c4929013fe872223dd89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1686310,
+        "known_for_department": "Editing",
+        "name": "Carlos Silva Vallejo",
+        "original_name": "Carlos Silva Vallejo",
+        "popularity": 0.5436,
+        "profile_path": "/t9ovbm4jsq3DQEBPBVP2yZX8K0T.jpg",
+        "credit_id": "67b50818038242713756637c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1114888,
+        "known_for_department": "Production",
+        "name": "Francisco González Compeán",
+        "original_name": "Francisco González Compeán",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "67c0ec67ab2d8b81ccc8e4e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4292939,
+        "known_for_department": "Production",
+        "name": "Sebastian Jurado",
+        "original_name": "Sebastian Jurado",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "67c0ec72c93271491f35b548",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4292940,
+        "known_for_department": "Production",
+        "name": "Ximena Basaguren",
+        "original_name": "Ximena Basaguren",
+        "popularity": 0.185,
+        "profile_path": null,
+        "credit_id": "67c0ec8bc93271491f35b561",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4244400,
+        "known_for_department": "Production",
+        "name": "Rodrigo de Pedro",
+        "original_name": "Rodrigo de Pedro",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "67c0ecae0d255c44c1c8ea44",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273859,
+        "known_for_department": "Production",
+        "name": "Sofía Legarreta Monroy",
+        "original_name": "Sofía Legarreta Monroy",
+        "popularity": 0.4945,
+        "profile_path": null,
+        "credit_id": "67c0ecebab2d8b81ccc8e53a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1697753,
+        "known_for_department": "Production",
+        "name": "Karina Blanco",
+        "original_name": "Karina Blanco",
+        "popularity": 0.1072,
+        "profile_path": null,
+        "credit_id": "67c0ecfcc93271491f35b5d8",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273170,
+        "known_for_department": "Editing",
+        "name": "Sam Baixauli",
+        "original_name": "Sam Baixauli",
+        "popularity": 0.0856,
+        "profile_path": null,
+        "credit_id": "67c0ed3dc93271491f35b644",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1857961,
+        "known_for_department": "Art",
+        "name": "Tato Cartas",
+        "original_name": "Tato Cartas",
+        "popularity": 0.1989,
+        "profile_path": null,
+        "credit_id": "67c0ed74c93271491f35b692",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1575564,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Atzin Hernández",
+        "original_name": "Atzin Hernández",
+        "popularity": 2.6027,
+        "profile_path": null,
+        "credit_id": "67c0ed81e4a5b8bf00c8f311",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4292942,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Catalina Hernandez",
+        "original_name": "Catalina Hernandez",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "credit_id": "67c0ed92b0c5684bada23b3e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2475476,
+        "known_for_department": "Camera",
+        "name": "Beto Casillas",
+        "original_name": "Beto Casillas",
+        "popularity": 0.2533,
+        "profile_path": null,
+        "credit_id": "67c0edbfb0c5684bada23b77",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1184836,
+        "known_for_department": "Sound",
+        "name": "Alejandro de Icaza",
+        "original_name": "Alejandro de Icaza",
+        "popularity": 0.3385,
+        "profile_path": null,
+        "credit_id": "67c0ee00e4a5b8bf00c8f35f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2945011,
+        "known_for_department": "Sound",
+        "name": "Sandra Ramírez Aguilera",
+        "original_name": "Sandra Ramírez Aguilera",
+        "popularity": 0.1661,
+        "profile_path": null,
+        "credit_id": "67c0ee0ec5de842b4ba259a2",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1305822,
+        "known_for_department": "Sound",
+        "name": "Víctor Hernández Stumpfhauser",
+        "original_name": "Víctor Hernández Stumpfhauser",
+        "popularity": 0.3432,
+        "profile_path": "/rn1EOj4swuonscyy1GU9baFzk7u.jpg",
+        "credit_id": "67c1bbf09adcd2562535bf24",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2475521,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodriguez III",
+        "original_name": "Ismael Rodriguez III",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "credit_id": "67c5570a4b1639904ae75bce",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1356039,
+    "keywords": [
+      {
+        "id": 534,
+        "name": "mexico"
+      },
+      {
+        "id": 5616,
+        "name": "usa–mexico border"
+      },
+      {
+        "id": 15218,
+        "name": "special forces"
+      },
+      {
+        "id": 162365,
+        "name": "military"
+      },
+      {
+        "id": 267329,
+        "name": "narcos"
+      },
+      {
+        "id": 347706,
+        "name": "murcielagos"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
+        "genre_ids": [
+          27,
+          53,
+          878
+        ],
+        "id": 170,
+        "original_language": "en",
+        "original_title": "28 Days Later",
+        "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+        "popularity": 16.5304,
+        "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+        "release_date": "2002-10-31",
+        "title": "28 Days Later",
+        "video": false,
+        "vote_average": 7.236,
+        "vote_count": 8053
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/doUBcqc4dT4kJO5UHAj1jpwNHhr.jpg",
+        "genre_ids": [
+          18,
+          28,
+          35,
+          53
+        ],
+        "id": 11556,
+        "original_language": "es",
+        "original_title": "Nicotina",
+        "overview": "A hacker who is spying on a pretty neighbour messes up his assignment to break into Swiss bank accounts for Russian mobsters.",
+        "popularity": 2.5526,
+        "poster_path": "/Y5O3hU5DpH4Kz1wcPDumGjTkxb.jpg",
+        "release_date": "2003-10-03",
+        "title": "Nicotina",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 90
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "genre_ids": [
+          53,
+          80,
+          28
+        ],
+        "id": 1054867,
+        "original_language": "en",
+        "original_title": "One Battle After Another",
+        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+        "popularity": 89.2504,
+        "poster_path": "/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "release_date": "2025-09-23",
+        "title": "One Battle After Another",
+        "video": false,
+        "vote_average": 7.46,
+        "vote_count": 2247
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eYrjffVvcc0MEgy9RcquvWyBGtQ.jpg",
+        "genre_ids": [
+          878,
+          28,
+          18,
+          14
+        ],
+        "id": 9425,
+        "original_language": "en",
+        "original_title": "Soldier",
+        "overview": "Sergeant Todd is a veteran soldier for an elite group of the armed forces. After being defeated by a new breed of genetically engineered soldiers, he is dumped on a waste planet and left for dead. He soon interacts with a group of crash survivors who lead out a peaceful existence. The peace is broken as the new soldiers land on the planet to eliminate the colony, which Sergeant Todd must defend.",
+        "popularity": 5.9663,
+        "poster_path": "/rYy5m4nnjdlvB6dyGkP9ELZbUZz.jpg",
+        "release_date": "1998-10-23",
+        "title": "Soldier",
+        "video": false,
+        "vote_average": 6.408,
+        "vote_count": 902
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6c7j7MQCczzNVvcrNEiXbs8Kt2p.jpg",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "id": 9509,
+        "original_language": "en",
+        "original_title": "Man on Fire",
+        "overview": "Jaded ex-CIA operative John Creasy reluctantly accepts a job as the bodyguard for a 10-year-old girl in Mexico City. They clash at first, but eventually bond, and when she's kidnapped he's consumed by fury and will stop at nothing to save her life.",
+        "popularity": 10.402,
+        "poster_path": "/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
+        "release_date": "2004-04-23",
+        "title": "Man on Fire",
+        "video": false,
+        "vote_average": 7.459,
+        "vote_count": 5471
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n6b4WxGWaFn7V5MaAIV6EJLwlvj.jpg",
+        "genre_ids": [
+          878,
+          28,
+          27
+        ],
+        "id": 9711,
+        "original_language": "en",
+        "original_title": "Species III",
+        "overview": "After she delivers her child in an ambulance, alien Eve is killed by a half-breed. Fortunately, Dr. Abbot scoops up the baby alien and escapes. In time, the baby grows into a gorgeous blonde named Sara and begins her quest to find a worthy mate. But Sara is also savage and leaves a trail of deaths in her wake. This carnage makes chemistry student Dean question whether to help her race or not.",
+        "popularity": 2.9394,
+        "poster_path": "/8BelHo8qmaurZjPS9hipSQ79Rr6.jpg",
+        "release_date": "2005-01-14",
+        "title": "Species III",
+        "video": false,
+        "vote_average": 5.194,
+        "vote_count": 451
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k6TwVdyLvBL6G4Go4WZBjXEjnAN.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "id": 8490,
+        "original_language": "en",
+        "original_title": "Borderline",
+        "overview": "Jeb Maynard is a patrolman guarding the U.S.-Mexican border, whose partner and buddy Scooter has just been murdered. Maynard knows that a smuggler of illegal aliens is responsible for Scooter's death, but the feds insist that drug dealers committed the crime.",
+        "popularity": 3.9482,
+        "poster_path": "/2waGlqv59q6CyzcYozsBh8BNqfx.jpg",
+        "release_date": "1980-12-19",
+        "title": "Borderline",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1240302,
+        "original_language": "tr",
+        "original_title": "7 Melek",
+        "overview": "On 15 July 2016, a faction within the Turkish Armed Forces, organized as the Peace at Home Council, attempted a coup d'état against state institutions, including the government and president Recep Tayyip Erdoğan. Seven female Special Forces officers were paramount in the defeat but lost their lives.",
+        "popularity": 0.635,
+        "poster_path": null,
+        "release_date": "",
+        "title": "7 Angels",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
+        "genre_ids": [
+          18,
+          28,
+          80
+        ],
+        "id": 7347,
+        "original_language": "pt",
+        "original_title": "Tropa de Elite",
+        "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
+        "popularity": 4.3103,
+        "poster_path": "/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+        "release_date": "2007-10-12",
+        "title": "Elite Squad",
+        "video": false,
+        "vote_average": 8.061,
+        "vote_count": 2608
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg",
+        "genre_ids": [
+          53,
+          28,
+          18,
+          10752
+        ],
+        "id": 8963,
+        "original_language": "en",
+        "original_title": "Crimson Tide",
+        "overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+        "popularity": 3.9225,
+        "poster_path": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+        "release_date": "1995-05-12",
+        "title": "Crimson Tide",
+        "video": false,
+        "vote_average": 7.179,
+        "vote_count": 1914
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/phJnPutSg663Xc9lSa3UNp9C5zg.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          53
+        ],
+        "id": 10049,
+        "original_language": "en",
+        "original_title": "Attack Force",
+        "overview": "Marshall Lawson is the commander of an elite military unit. Marshall Lawson loses his strike-team in a cold-blooded and seemingly random attack, and he takes it upon himself to investigate the attack, with the help of his girlfriend Tia and his friend Dwayne.",
+        "popularity": 3.4623,
+        "poster_path": "/pcd5EzwGMF4247BvtfEbz3bUpPU.jpg",
+        "release_date": "2006-12-05",
+        "title": "Attack Force",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 108
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28,
+          18
+        ],
+        "id": 22843,
+        "original_language": "ja",
+        "original_title": "ヱヴァンゲリヲン新劇場版：破",
+        "overview": "Under constant attack by monstrous creatures called Angels that seek to eradicate humankind, U.N. Special Agency NERV introduces two new EVA pilots to help defend the city of Tokyo-3: the mysterious Makinami Mari Illustrous and the intense Asuka Langley Shikinami. Meanwhile, Gendo Ikari and SEELE proceed with a secret project that involves both Rei and Shinji.",
+        "popularity": 3.9835,
+        "poster_path": "/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg",
+        "release_date": "2009-06-26",
+        "title": "Evangelion: 2.0 You Can (Not) Advance",
+        "video": false,
+        "vote_average": 7.786,
+        "vote_count": 957
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vhRh9mAZMA5z6dcIgXmSTuKuUfK.jpg",
+        "genre_ids": [
+          16,
+          28,
+          10751
+        ],
+        "id": 22888,
+        "original_language": "en",
+        "original_title": "G.I. Joe: Spy Troops",
+        "overview": "When a COBRA spy steals a powerful new technology, the GI JOE team fights back with spies of their own! Duke, Shipwreck, Wild Bill and the rest of the GI JOE team have to strike quickly, before Cobra Commander and his forces turn the stolen device into a dangerous weapon for evil!",
+        "popularity": 0.2125,
+        "poster_path": "/QB7wJqVenUHJXJJA5EEaqdz8m5.jpg",
+        "release_date": "2003-09-23",
+        "title": "G.I. Joe: Spy Troops",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nfuuLBV1Ka51MgTh7kbhG5sDAR.jpg",
+        "genre_ids": [
+          28,
+          16,
+          53
+        ],
+        "id": 22927,
+        "original_language": "en",
+        "original_title": "G.I. Joe: Resolute",
+        "overview": "G.I. JOE is a highly trained, classified special operations unit composed of men and women from around the globe. G.I. JOE: RESOLUTE, the raging battle between G.I. JOE and COBRA has never been more intense. Every life is at stake… and even the good guys can die. This is no game. Your favorite G.I. JOE characters are back… but this time, no one is safe.",
+        "popularity": 0.1635,
+        "poster_path": "/4DoHuvewXUjgcZxhSNIq8BiyfR9.jpg",
+        "release_date": "2009-04-25",
+        "title": "G.I. Joe: Resolute",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqKfIArX3RcHdHot8tDE0NHFxH5.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26513,
+        "original_language": "en",
+        "original_title": "Punishment Park",
+        "overview": "In this fictional documentary, U.S. prisons are at capacity, and President Nixon declares a state of emergency. All new prisoners, most of whom are connected to the antiwar movement, are now given the choice of jail time or spending three days in Punishment Park, where they will be hunted for sport by federal authorities. The prisoners invariably choose the latter option, but learn that, between the desert heat and the brutal police officers, their chances of survival are slim.",
+        "popularity": 3.2868,
+        "poster_path": "/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
+        "release_date": "1971-10-01",
+        "title": "Punishment Park",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 193
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s1dwr70QEBoLGs0DR0bOdFnVdrM.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18,
+          9648
+        ],
+        "id": 26773,
+        "original_language": "es",
+        "original_title": "El Traspatio",
+        "overview": "Officer Blanca Bravo arrives in Juarez, Mexico — a grim nexus of corporate colonialism and sexual tourism — to investigate a rash of killings targeting female migrant workers. But with no help from the locals, bringing the responsible parties to justice becomes a frustrating exercise. As Bravo rails against indifference and local corruption, she finds herself on a collision course with Mickey Santos, a Mexican mogul with a taste for young prostitutes.",
+        "popularity": 3.926,
+        "poster_path": "/c8tW88xV002Dfrf835t17dSDKwh.jpg",
+        "release_date": "2009-02-20",
+        "title": "Backyard",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qmy3lk8YY9tBFfwMoPavUEM59u5.jpg",
+        "genre_ids": [
+          53,
+          18,
+          80
+        ],
+        "id": 26578,
+        "original_language": "en",
+        "original_title": "The Falcon and the Snowman",
+        "overview": "The true story of a disillusioned military contractor employee and his drug pusher childhood friend who became walk-in spies for the Soviet Union.",
+        "popularity": 0.8741,
+        "poster_path": "/oDeaorrKpjzYgH1c9ePoJ3x9qvw.jpg",
+        "release_date": "1985-01-25",
+        "title": "The Falcon and the Snowman",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 169
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e93Upxk1sCLdscVKD7pQNLiaqVI.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28,
+          35,
+          10749
+        ],
+        "id": 18828,
+        "original_language": "en",
+        "original_title": "Double Take",
+        "overview": "A man on the run takes another man's passport, only to find himself stuck with the identity of a street hustler.",
+        "popularity": 5.352,
+        "poster_path": "/gNyudcF4Z8LVJn4IxauOptG6dcb.jpg",
+        "release_date": "2001-01-12",
+        "title": "Double Take",
+        "video": false,
+        "vote_average": 5.55,
+        "vote_count": 109
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7piVB6weeJdWB6xL0wzJJeHNo6O.jpg",
+        "genre_ids": [
+          12,
+          18,
+          10751
+        ],
+        "id": 671295,
+        "original_language": "en",
+        "original_title": "Blue Miracle",
+        "overview": "To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.",
+        "popularity": 2.609,
+        "poster_path": "/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg",
+        "release_date": "2021-05-27",
+        "title": "Blue Miracle",
+        "video": false,
+        "vote_average": 7.358,
+        "vote_count": 295
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          80
+        ],
+        "id": 671374,
+        "original_language": "es",
+        "original_title": "Traficantes de muerte",
+        "overview": "A city is terrorized by vicious drug dealers.",
+        "popularity": 0.1366,
+        "poster_path": "/vQdvEmQvoD86Iy4LzLs5g4RDEr6.jpg",
+        "release_date": "1995-01-01",
+        "title": "Death Dealers",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+      }
+    ],
+    "total_pages": 5950,
+    "total_results": 118993
+  }
+}

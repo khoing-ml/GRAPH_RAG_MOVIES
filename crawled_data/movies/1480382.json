@@ -1,0 +1,1417 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/mQwD7GtPTkv6WF5m8AJWGrO5XOE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.sansebastianfestival.com/2025/sections_and_films/7/731622/in",
+    "id": 1480382,
+    "imdb_id": "tt36943034",
+    "origin_country": [
+      "TN"
+    ],
+    "original_language": "ar",
+    "original_title": "صوت هند رجب",
+    "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
+    "popularity": 5.4638,
+    "poster_path": "/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+    "production_companies": [
+      {
+        "id": 269768,
+        "logo_path": null,
+        "name": "Mime Films",
+        "origin_country": "TN"
+      },
+      {
+        "id": 75445,
+        "logo_path": "/50IoGWPcL7wSYz3DTm8bptWGuwy.png",
+        "name": "Tanit Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 6705,
+        "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+        "name": "Film4 Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 145428,
+        "logo_path": "/dgUV94AxFEumfIICKEg5UdCCU3k.png",
+        "name": "MBC Studios",
+        "origin_country": "SA"
+      },
+      {
+        "id": 281557,
+        "logo_path": null,
+        "name": "Amed Khan Foundation",
+        "origin_country": "US"
+      },
+      {
+        "id": 273151,
+        "logo_path": null,
+        "name": "Stiching Giustra International Foundation",
+        "origin_country": "NL"
+      },
+      {
+        "id": 240936,
+        "logo_path": "/wN70OtZbXDumEr7hdU2A11s5AJL.png",
+        "name": "Watermelon Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 273152,
+        "logo_path": null,
+        "name": "Utopia Studios",
+        "origin_country": ""
+      },
+      {
+        "id": 273153,
+        "logo_path": null,
+        "name": "PFF",
+        "origin_country": ""
+      },
+      {
+        "id": 281558,
+        "logo_path": null,
+        "name": "World Within",
+        "origin_country": "US"
+      },
+      {
+        "id": 64061,
+        "logo_path": null,
+        "name": "MeMo Films",
+        "origin_country": "IT"
+      },
+      {
+        "id": 122613,
+        "logo_path": "/9czdZVht6AV7ziI5ARzFnIctNkw.png",
+        "name": "Sunnyland Film",
+        "origin_country": "CY"
+      },
+      {
+        "id": 168683,
+        "logo_path": null,
+        "name": "RaeFilm Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 27543,
+        "logo_path": null,
+        "name": "JW Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 152983,
+        "logo_path": "/kWQtEKt9OOdtIRerChq3mKpBOUF.png",
+        "name": "Willa",
+        "origin_country": "US"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 186224,
+        "logo_path": null,
+        "name": "Valentine",
+        "origin_country": "US"
+      },
+      {
+        "id": 281559,
+        "logo_path": null,
+        "name": "The Rambourg Foundation",
+        "origin_country": "GB"
+      },
+      {
+        "id": 199569,
+        "logo_path": "/wR1ZvnZH2iedpRA7OKfRUYLYf5e.png",
+        "name": "Common Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 219011,
+        "logo_path": "/6wYQkbHzfWPmJ4JQh5KghCcJ4qI.png",
+        "name": "1888 Films",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "TN",
+        "name": "Tunisia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "CY",
+        "name": "Cyprus"
+      },
+      {
+        "iso_3166_1": "SA",
+        "name": "Saudi Arabia"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2025-09-25",
+    "revenue": 3095917,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Voice of Hind Rajab",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 119
+  },
+  "credits": {
+    "id": 1480382,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3120512,
+        "known_for_department": "Acting",
+        "name": "Motaz Malhees",
+        "original_name": "Motaz Malhees",
+        "popularity": 0.575,
+        "profile_path": "/zJpFeotJjnlCDzPJldh2HnCGWnJ.jpg",
+        "cast_id": 7,
+        "character": "Omar A. Alqam",
+        "credit_id": "687f65500213a4f73538e0d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4813228,
+        "known_for_department": "Acting",
+        "name": "Saja Kilani",
+        "original_name": "Saja Kilani",
+        "popularity": 0.1183,
+        "profile_path": "/4I9iG1c8J2CYlWYgOtuWOrLVhQK.jpg",
+        "cast_id": 8,
+        "character": "Rana Hassan Faqih",
+        "credit_id": "687f655b48ea55973355d75a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 764,
+        "known_for_department": "Acting",
+        "name": "Amer Hlehel",
+        "original_name": "Amer Hlehel",
+        "popularity": 0.6117,
+        "profile_path": "/5jMEeDf5OeQVxkFOZoiNmUMXSP.jpg",
+        "cast_id": 5,
+        "character": "Mahdi M. Aljamal",
+        "credit_id": "687f65332c5aa3134538dfc3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41645,
+        "known_for_department": "Acting",
+        "name": "Clara Khoury",
+        "original_name": "Clara Khoury",
+        "popularity": 0.8391,
+        "profile_path": "/fZRKDltimEEw6CKV7BHyT4cJVHi.jpg",
+        "cast_id": 6,
+        "character": "Nisreen Jeries Qawas",
+        "credit_id": "687f653d23e3f6d09038df60",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5740784,
+        "known_for_department": "Acting",
+        "name": "Nesbat Serhan",
+        "original_name": "Nesbat Serhan",
+        "popularity": 0.2891,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Leila",
+        "credit_id": "68e83d675cb7a31b7f30c15a",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381379,
+        "known_for_department": "Directing",
+        "name": "Kaouther Ben Hania",
+        "original_name": "Kaouther Ben Hania",
+        "popularity": 0.6023,
+        "profile_path": "/4tUq5FvpfdqLjQLEr4dwoGiXg7f.jpg",
+        "credit_id": "682324df323ba67fdd864609",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27579,
+        "known_for_department": "Acting",
+        "name": "Odessa Rae",
+        "original_name": "Odessa Rae",
+        "popularity": 1.969,
+        "profile_path": "/9Nsmcyl9SgccNSmoY8ARVSGjQOZ.jpg",
+        "credit_id": "682324e6b3ef0ec9808645f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208693,
+        "known_for_department": "Production",
+        "name": "James Wilson",
+        "original_name": "James Wilson",
+        "popularity": 0.2882,
+        "profile_path": "/1iABUZ8ojpdSosyWKezohLyYMIu.jpg",
+        "credit_id": "682324ef752abbbbf85a30af",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213260,
+        "known_for_department": "Production",
+        "name": "Nadim Cheikhrouha",
+        "original_name": "Nadim Cheikhrouha",
+        "popularity": 0.2967,
+        "profile_path": "/4aYFqFAONcuFGLPwJjQNkfDhr3F.jpg",
+        "credit_id": "68232500d332be6464a16702",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2372098,
+        "known_for_department": "Production",
+        "name": "Elizabeth Woodward",
+        "original_name": "Elizabeth Woodward",
+        "popularity": 0.119,
+        "profile_path": "/9ys0WQWaD8v1wUTnDTVEVQwD64E.jpg",
+        "credit_id": "68800ad12b930fb6d552968f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531290,
+        "known_for_department": "Camera",
+        "name": "Juan Sarmiento G.",
+        "original_name": "Juan Sarmiento G.",
+        "popularity": 0.1263,
+        "profile_path": null,
+        "credit_id": "688c1e3b8c8d2a12d5de5db4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381379,
+        "known_for_department": "Directing",
+        "name": "Kaouther Ben Hania",
+        "original_name": "Kaouther Ben Hania",
+        "popularity": 0.6023,
+        "profile_path": "/4tUq5FvpfdqLjQLEr4dwoGiXg7f.jpg",
+        "credit_id": "688c1e44d63f08817bde5d47",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3065979,
+        "known_for_department": "Editing",
+        "name": "Maxime Mathis",
+        "original_name": "Maxime Mathis",
+        "popularity": 0.2863,
+        "profile_path": null,
+        "credit_id": "688c1e6b0667fffd8f7ce86e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1673383,
+        "known_for_department": "Editing",
+        "name": "Qutaiba Barhamji",
+        "original_name": "Qutaiba Barhamji",
+        "popularity": 0.4323,
+        "profile_path": "/aheT581Gakc8CHOcG6xEDNVCBUA.jpg",
+        "credit_id": "688c1e791881a0c10311cceb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381379,
+        "known_for_department": "Directing",
+        "name": "Kaouther Ben Hania",
+        "original_name": "Kaouther Ben Hania",
+        "popularity": 0.6023,
+        "profile_path": "/4tUq5FvpfdqLjQLEr4dwoGiXg7f.jpg",
+        "credit_id": "689d7989b787a192fb268ed4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 287,
+        "known_for_department": "Acting",
+        "name": "Brad Pitt",
+        "original_name": "Brad Pitt",
+        "popularity": 9.488,
+        "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg",
+        "credit_id": "68aed0e556d6df4510b37091",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73421,
+        "known_for_department": "Acting",
+        "name": "Joaquin Phoenix",
+        "original_name": "Joaquin Phoenix",
+        "popularity": 5.289,
+        "profile_path": "/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
+        "credit_id": "68aed0f0ace3f79f4456b5fc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108916,
+        "known_for_department": "Acting",
+        "name": "Rooney Mara",
+        "original_name": "Rooney Mara",
+        "popularity": 2.7744,
+        "profile_path": "/zT6UyHFHEQ9RcKykplWCycKBnoS.jpg",
+        "credit_id": "68aed10dc2431cc7c456b71e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11218,
+        "known_for_department": "Directing",
+        "name": "Alfonso Cuarón",
+        "original_name": "Alfonso Cuarón",
+        "popularity": 1.4149,
+        "profile_path": "/eoCHiXaQzGgx9RiwXnt3k239FLc.jpg",
+        "credit_id": "68aed117df425abfc10f8982",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66728,
+        "known_for_department": "Directing",
+        "name": "Jonathan Glazer",
+        "original_name": "Jonathan Glazer",
+        "popularity": 0.8162,
+        "profile_path": "/lGaM7P0vjhhWs5EmIecsN6PYfxG.jpg",
+        "credit_id": "68aed1238b622c62fcfa91ed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20458,
+        "known_for_department": "Production",
+        "name": "Dede Gardner",
+        "original_name": "Dede Gardner",
+        "popularity": 0.7619,
+        "profile_path": "/uQ0Zgn4MZe5q1fMTb0m9Vi5ZqNK.jpg",
+        "credit_id": "68aed1328b622c62fcfa91f0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967387,
+        "known_for_department": "Production",
+        "name": "Jeremy Kleiner",
+        "original_name": "Jeremy Kleiner",
+        "popularity": 1.2045,
+        "profile_path": "/rRccbqvpL5HU73n1CLmJs9fyzzc.jpg",
+        "credit_id": "68aed141504dc8189856b80f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634532,
+        "known_for_department": "Production",
+        "name": "Frank Giustra",
+        "original_name": "Frank Giustra",
+        "popularity": 0.3005,
+        "profile_path": "/alOHWwtgXhWfu2CnJMocWpcDU4l.jpg",
+        "credit_id": "68aef0d3d40a5578d44ebc89",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4546403,
+        "known_for_department": "Production",
+        "name": "Baptiste Leroy",
+        "original_name": "Baptiste Leroy",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "credit_id": "68aef172da06d7b43f62494b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1714541,
+        "known_for_department": "Production",
+        "name": "Jemima Khan",
+        "original_name": "Jemima Khan",
+        "popularity": 0.1827,
+        "profile_path": "/h14fVOu0AuCwKCfJ7isgfrCHXny.jpg",
+        "credit_id": "68aef3e4e44b7e96dc3d8b69",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1605100,
+        "known_for_department": "Art",
+        "name": "Bessem Marzouk",
+        "original_name": "Bessem Marzouk",
+        "popularity": 0.3453,
+        "profile_path": null,
+        "credit_id": "68b21e45775000a3dd3ef57f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928949,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Khadija Zeggaï",
+        "original_name": "Khadija Zeggaï",
+        "popularity": 0.6887,
+        "profile_path": "/y12bY7eUChhLj43010qxWqVwf2f.jpg",
+        "credit_id": "68b21e4c8b4a2674b09e1227",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4081323,
+        "known_for_department": "Sound",
+        "name": "Amal Attia",
+        "original_name": "Amal Attia",
+        "popularity": 0.2149,
+        "profile_path": null,
+        "credit_id": "68b21e55fd136946b73ef65a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533620,
+        "known_for_department": "Sound",
+        "name": "Elias Boughedir",
+        "original_name": "Elias Boughedir",
+        "popularity": 0.1233,
+        "profile_path": null,
+        "credit_id": "68b21e5b78edceaf8a3ef545",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54963,
+        "known_for_department": "Sound",
+        "name": "Lars Ginzel",
+        "original_name": "Lars Ginzel",
+        "popularity": 0.5573,
+        "profile_path": null,
+        "credit_id": "68b21e6dc10c3aae583cc655",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1631874,
+        "known_for_department": "Sound",
+        "name": "Gwennolé Le Borgne",
+        "original_name": "Gwennolé Le Borgne",
+        "popularity": 1.6957,
+        "profile_path": null,
+        "credit_id": "68b21e73a5023be18b1f193f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720299,
+        "known_for_department": "Sound",
+        "name": "Marion Papinot",
+        "original_name": "Marion Papinot",
+        "popularity": 0.1243,
+        "profile_path": null,
+        "credit_id": "68b21e7ad2e2d1f954b4eaec",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422252,
+        "known_for_department": "Sound",
+        "name": "Amine Bouhafa",
+        "original_name": "Amine Bouhafa",
+        "popularity": 0.637,
+        "profile_path": "/21hvlXxVdEByncaIANqlmcbwFII.jpg",
+        "credit_id": "68b21e80ec607674b039728d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1126877,
+        "known_for_department": "Production",
+        "name": "Geralyn White Dreyfous",
+        "original_name": "Geralyn White Dreyfous",
+        "popularity": 0.6537,
+        "profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+        "credit_id": "68b5e9b5d7a489111115876a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1015887,
+        "known_for_department": "Production",
+        "name": "Badie Ali",
+        "original_name": "Badie Ali",
+        "popularity": 0.3731,
+        "profile_path": null,
+        "credit_id": "68b6469f06975622773cd6c9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1015889,
+        "known_for_department": "Production",
+        "name": "Hamza Ali",
+        "original_name": "Hamza Ali",
+        "popularity": 0.8277,
+        "profile_path": null,
+        "credit_id": "68b646ae72909b2f681f2b55",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3540058,
+        "known_for_department": "Production",
+        "name": "Guillaume Rambourg",
+        "original_name": "Guillaume Rambourg",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "68b710d48c8bae38943cdcea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666356,
+        "known_for_department": "Production",
+        "name": "Sarah Rambourg",
+        "original_name": "Sarah Rambourg",
+        "popularity": 0.1157,
+        "profile_path": null,
+        "credit_id": "68b710e0c31c873c839e29bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1728377,
+        "known_for_department": "Production",
+        "name": "Sawsan Asfari",
+        "original_name": "Sawsan Asfari",
+        "popularity": 0.2958,
+        "profile_path": null,
+        "credit_id": "68b710ee7ddb1b490f2013a2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3050299,
+        "known_for_department": "Production",
+        "name": "Tiziana Sousou",
+        "original_name": "Tiziana Sousou",
+        "popularity": 0.1236,
+        "profile_path": null,
+        "credit_id": "68b710fb047d2ab5bd2017e6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666360,
+        "known_for_department": "Production",
+        "name": "Ramez Sousou",
+        "original_name": "Ramez Sousou",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "68b7110581068fc11d3f0c6f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666362,
+        "known_for_department": "Production",
+        "name": "Amed Khan",
+        "original_name": "Amed Khan",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "credit_id": "68b71121a988d733b154f3a0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666364,
+        "known_for_department": "Production",
+        "name": "Jorie Graham",
+        "original_name": "Jorie Graham",
+        "popularity": 0.0537,
+        "profile_path": null,
+        "credit_id": "68b7114581068fc11d3f0c79",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1880280,
+        "known_for_department": "Production",
+        "name": "Mohannad Malas",
+        "original_name": "Mohannad Malas",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "68b7115372909b2f681f2ec0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1394803,
+        "known_for_department": "Production",
+        "name": "Farhana Bhula",
+        "original_name": "Farhana Bhula",
+        "popularity": 1.0,
+        "profile_path": "/xv4DuQUt7ZZkqXAMqLB9obFaked.jpg",
+        "credit_id": "68b7115fd8e3857cde3f0a6a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1813278,
+        "known_for_department": "Production",
+        "name": "Ali Jaafar",
+        "original_name": "Ali Jaafar",
+        "popularity": 0.1666,
+        "profile_path": null,
+        "credit_id": "68b7116a9dc1c57f3bb50021",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666368,
+        "known_for_department": "Production",
+        "name": "Samar Akrouk",
+        "original_name": "Samar Akrouk",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "68b71177196fde9d0f158834",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2748708,
+        "known_for_department": "Directing",
+        "name": "Hana Al Omair",
+        "original_name": "Hana Al Omair",
+        "popularity": 0.1531,
+        "profile_path": null,
+        "credit_id": "68b7118474f60b437f2015b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666371,
+        "known_for_department": "Production",
+        "name": "Karim Ahmad",
+        "original_name": "Karim Ahmad",
+        "popularity": 0.2333,
+        "profile_path": null,
+        "credit_id": "68b71194a988d733b154f3b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666372,
+        "known_for_department": "Production",
+        "name": "Michella Rivera-Gravage",
+        "original_name": "Michella Rivera-Gravage",
+        "popularity": 0.1294,
+        "profile_path": null,
+        "credit_id": "68b7119e5d4b26d95d158b9a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2057954,
+        "known_for_department": "Production",
+        "name": "Francesco Melzi d'Eril",
+        "original_name": "Francesco Melzi d'Eril",
+        "popularity": 0.2779,
+        "profile_path": null,
+        "credit_id": "68b711ab3da99c665e1f30af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2057955,
+        "known_for_department": "Production",
+        "name": "Gabriele Moratti",
+        "original_name": "Gabriele Moratti",
+        "popularity": 0.5566,
+        "profile_path": null,
+        "credit_id": "68b711c7196fde9d0f15883b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666377,
+        "known_for_department": "Production",
+        "name": "Sabine Getty",
+        "original_name": "Sabine Getty",
+        "popularity": 0.2728,
+        "profile_path": null,
+        "credit_id": "68b711d37eda1c6aba1f2ddb",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5593975,
+        "known_for_department": "Production",
+        "name": "Stephanie Nadi Olson",
+        "original_name": "Stephanie Nadi Olson",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "68b711f59dc1c57f3bb5002f",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666382,
+        "known_for_department": "Production",
+        "name": "Erik Nadi Olson",
+        "original_name": "Erik Nadi Olson",
+        "popularity": 0.1678,
+        "profile_path": null,
+        "credit_id": "68b71206f3cce1a824158730",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147955,
+        "known_for_department": "Production",
+        "name": "Regina K. Scully",
+        "original_name": "Regina K. Scully",
+        "popularity": 1.4037,
+        "profile_path": "/dZPx8pJ9mi6UYLPZHZUgcyhy5Jf.jpg",
+        "credit_id": "68f47c2a7bd03a4b5b7e2f14",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1480382,
+    "keywords": [
+      {
+        "id": 5907,
+        "name": "palestinian-israeli conflict"
+      },
+      {
+        "id": 537,
+        "name": "palestine"
+      },
+      {
+        "id": 1327,
+        "name": "war crimes"
+      },
+      {
+        "id": 5945,
+        "name": "zionism"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 10656,
+        "name": "child in peril"
+      },
+      {
+        "id": 208908,
+        "name": "gaza strip"
+      },
+      {
+        "id": 275377,
+        "name": "gaza"
+      },
+      {
+        "id": 280115,
+        "name": "devastating"
+      },
+      {
+        "id": 324873,
+        "name": "israeli war crimes"
+      },
+      {
+        "id": 325825,
+        "name": "horrified"
+      },
+      {
+        "id": 328636,
+        "name": "crimes against civilians"
+      },
+      {
+        "id": 329574,
+        "name": "2020s"
+      },
+      {
+        "id": 339404,
+        "name": "palestinian genocide"
+      },
+      {
+        "id": 339405,
+        "name": "gaza massacres"
+      },
+      {
+        "id": 354876,
+        "name": "colonial genocide"
+      },
+      {
+        "id": 354877,
+        "name": "settler genocide"
+      },
+      {
+        "id": 354878,
+        "name": "genocide of indigenous peoples"
+      },
+      {
+        "id": 358280,
+        "name": "hind rajab"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/A2tQrEbK8T9gxa6kLW7Fc65EXlO.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 649394,
+        "original_language": "en",
+        "original_title": "Worth",
+        "overview": "Kenneth Feinberg, a powerful D.C. lawyer appointed Special Master of the 9/11 Fund, fights off the cynicism, bureaucracy, and politics associated with administering government funds and, in doing so, discovers what life is worth.",
+        "popularity": 5.4293,
+        "poster_path": "/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg",
+        "release_date": "2021-07-21",
+        "title": "Worth",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 359
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10770,
+          18
+        ],
+        "id": 461651,
+        "original_language": "en",
+        "original_title": "A Case for Life",
+        "overview": "To save her unborn child, she had to fight for the right to die. A True Story",
+        "popularity": 0.2419,
+        "poster_path": null,
+        "release_date": "1996-02-18",
+        "title": "A Case for Life",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 272252,
+        "original_language": "en",
+        "original_title": "Courtship",
+        "overview": "In 1915, Elizabeth has fallen in love with Horace Robedaux, a young man her father condemns as a \"wild boy.\" No matter how strict and protective, her parents cannot deter their daughter's growing independence.",
+        "popularity": 1.9831,
+        "poster_path": "/cpBPkpzmgaCfehRiqYaA00owUur.jpg",
+        "release_date": "1987-01-01",
+        "title": "Courtship",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36,
+          10770
+        ],
+        "id": 272165,
+        "original_language": "en",
+        "original_title": "Solomon Northup's Odyssey",
+        "overview": "This is based on a true story. Solomon Northrop is a black man in the mid 19th century before slavery was abolished. He's a born free man who works as a carpenter and is also a part time musician. One day he is approached by some men who want him to play for them. However, that is not their intention; they have kidnapped him and sold him into slavery. Now he has to endure the hardships that he has been spared because of his status as a free man. And his family who don't know what happened to him is searching for him but where do they go? And Solomon also wishes to let them know where he is so that they could get him but unfortunately no one believes his story or is willing to help him.",
+        "popularity": 0.2717,
+        "poster_path": "/rUalKWgf3ORcXwqUiHADyM48uuA.jpg",
+        "release_date": "1984-12-10",
+        "title": "Solomon Northup's Odyssey",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xkwDjCgATmNk0CPLwiT5khr4O4v.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 272750,
+        "original_language": "en",
+        "original_title": "Age 13",
+        "overview": "Tells the story of Andrew, a 13-year-old whose mother dies and leaves him with an indifferent step-father. Andrew, receiving only hostility from his classmates and step-father, begins to steal. An understanding counselor at school helps Andrew reform and readjust.",
+        "popularity": 0.9166,
+        "poster_path": "/tk4W8frmoAVgU7xsNiFyLB3VjeH.jpg",
+        "release_date": "1955-01-01",
+        "title": "Age 13",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eMiRBwTf7wWyuGCrDI9yHKOoPH8.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 4107,
+        "original_language": "en",
+        "original_title": "Bloody Sunday",
+        "overview": "The dramatised story of the Irish civil rights protest march on January 30 1972 which ended in a massacre by British troops.",
+        "popularity": 5.175,
+        "poster_path": "/oqdQMDJucR7R0ol0LFvzmqcDyEb.jpg",
+        "release_date": "2002-01-25",
+        "title": "Bloody Sunday",
+        "video": false,
+        "vote_average": 7.252,
+        "vote_count": 331
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8WneCViPYXAcnJcJ2VZuAPPHQ5p.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80,
+          36
+        ],
+        "id": 4169,
+        "original_language": "en",
+        "original_title": "Breach",
+        "overview": "Eric O'Neill, a low-level surveillance expert with the FBI, believes he is accomplishing his dream of becoming a full-fledged agent, with his unexpected promotion and assignment to clerk for Robert Hanssen, a renowned senior agent with 25 years in the FBI. However, he soon learns the reason for his promotion is to gain Hanssen's trust and find proof that he is a traitor to the country. Determined to draw the suspected double-agent out of deep cover, O'Neill finds himself in a lethal game of spy vs. spy, where nothing is as it seems.",
+        "popularity": 2.4276,
+        "poster_path": "/m2iVkJPxDrrink7NiE412nFBMQj.jpg",
+        "release_date": "2007-02-12",
+        "title": "Breach",
+        "video": false,
+        "vote_average": 6.61,
+        "vote_count": 639
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+        "genre_ids": [
+          18,
+          53,
+          10752
+        ],
+        "id": 6106,
+        "original_language": "en",
+        "original_title": "Salvador",
+        "overview": "In 1980, an American journalist covering the Salvadoran Civil War becomes entangled with both the leftist guerrilla groups and the right-wing military dictatorship while trying to rescue his girlfriend and her children.",
+        "popularity": 4.1938,
+        "poster_path": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+        "release_date": "1986-04-23",
+        "title": "Salvador",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 390
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8fKwAhkHUv9T0eEK9ec7TYJX4iO.jpg",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "id": 462996,
+        "original_language": "en",
+        "original_title": "Love, Kennedy",
+        "overview": "Kennedy Hansen is a funny, loving child but inexplicably she begins to fall. It takes years for the diagnosis… Juvenile Batten Disease, an extremely rare, terrible and terminal prognosis. There is no cure for Batten Disease and after living only sixteen years, Kennedy leaves behind a great legacy of love and friendship. But her story doesn't end at her death, that's when the miracles really begin. Based on a true story.",
+        "popularity": 3.0807,
+        "poster_path": "/1D4aZJk7OefGwKlakQvYU8GeBIz.jpg",
+        "release_date": "2017-06-02",
+        "title": "Love, Kennedy",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gwlx0r6NyWUuaI6MNajpYHPogZ1.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 274479,
+        "original_language": "en",
+        "original_title": "Joy",
+        "overview": "A story based on the life of a struggling Long Island single mom who became one of the country's most successful entrepreneurs.",
+        "popularity": 3.1532,
+        "poster_path": "/nZAs0HbW82TI1i4Xid83M941Pki.jpg",
+        "release_date": "2015-12-24",
+        "title": "Joy",
+        "video": false,
+        "vote_average": 6.551,
+        "vote_count": 4223
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 274327,
+        "original_language": "en",
+        "original_title": "Little Girl Lost",
+        "overview": "This heart-wrenching story inspired by real events depicts the trials of the Brady family, who are trying desperately to adopt a helpless little girl they took in when she was in a foster care program. Clara and Tim Brady are in for the fight of their lives as they find that adopting Tella will not be so easy -- especially when social services puts her back into the care of her abusive father.",
+        "popularity": 0.4788,
+        "poster_path": "/qQU7GN7NXVe35ntptmZJWzPqBxt.jpg",
+        "release_date": "1988-04-25",
+        "title": "Little Girl Lost",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3K0jhgkLebbkf5ANbfkplu1SmhU.jpg",
+        "genre_ids": [
+          12,
+          18,
+          10752
+        ],
+        "id": 5925,
+        "original_language": "en",
+        "original_title": "The Great Escape",
+        "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+        "popularity": 7.0767,
+        "poster_path": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "release_date": "1963-07-03",
+        "title": "The Great Escape",
+        "video": false,
+        "vote_average": 7.94,
+        "vote_count": 2733
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 10312,
+        "original_language": "en",
+        "original_title": "Patch Adams",
+        "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh—even if it meant risking his own career.",
+        "popularity": 3.2794,
+        "poster_path": "/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+        "release_date": "1998-12-25",
+        "title": "Patch Adams",
+        "video": false,
+        "vote_average": 7.31,
+        "vote_count": 3369
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9I9VYNau1KU77OQAcF6WnfOtGcU.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 10385,
+        "original_language": "en",
+        "original_title": "Hanging Up",
+        "overview": "Three sisters - Georgia, Eve, and Maddy - do what they do best with life, love, and lunacy on the telephone lines that bind - when their curmudgeonly father, Lou, is admitted to a Los Angeles Hospital. After years of wild living, intermittent affection, and constant phoning, he is finally threatening to die.",
+        "popularity": 1.1199,
+        "poster_path": "/lnnFFGhIXi6ZDU3r29eKHKTHdq0.jpg",
+        "release_date": "2000-02-16",
+        "title": "Hanging Up",
+        "video": false,
+        "vote_average": 5.253,
+        "vote_count": 184
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 10400,
+        "original_language": "en",
+        "original_title": "The Hurricane",
+        "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+        "popularity": 2.2488,
+        "poster_path": "/eOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg",
+        "release_date": "1999-09-17",
+        "title": "The Hurricane",
+        "video": false,
+        "vote_average": 7.437,
+        "vote_count": 1482
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6nCy4OrV7gxhDc3lBSUxkNALPej.jpg",
+        "genre_ids": [
+          28,
+          36,
+          18,
+          12,
+          10752
+        ],
+        "id": 1051486,
+        "original_language": "en",
+        "original_title": "Stockholm Bloodbath",
+        "overview": "In 1520, the notorious and power-hungry Danish King Christian II is determined to seize the Swedish crown from Sten Sture, no matter what it takes. Meanwhile, sisters Freja and Anne make a solemn promise to seek revenge on the men who brutally murdered their family. Everything comes to a head in the heart of Stockholm, where the sisters are drawn into a ruthless political struggle between Sweden and Denmark that culminates in a mass execution, presided over by the mad King \"Christian the Tyrant,\" known as the Stockholm Bloodbath.",
+        "popularity": 7.053,
+        "poster_path": "/tzXOB8nxO70SfSbOhrYcY94x6MI.jpg",
+        "release_date": "2024-01-19",
+        "title": "Stockholm Bloodbath",
+        "video": false,
+        "vote_average": 6.209,
+        "vote_count": 43
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qPeMXSecEnk4PFW6caRJJrJAe3b.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 9766,
+        "original_language": "en",
+        "original_title": "Gridiron Gang",
+        "overview": "Under the leadership of their counselor, teenagers at a juvenile detention center gain self-esteem by playing football together. Based on a true story.",
+        "popularity": 2.8891,
+        "poster_path": "/miwVKL47bL8R0xjrOxIQcaR5ADU.jpg",
+        "release_date": "2006-09-15",
+        "title": "Gridiron Gang",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1052
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1WRwy3EDc2LVtwauzIMMGVJLEI5.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 9787,
+        "original_language": "en",
+        "original_title": "Lords of Dogtown",
+        "overview": "The radical true story behind three teenage surfers from Venice Beach, California, who took skateboarding to the extreme and changed the world of sports forever. Stacy Peralta, Tony Alva and Jay Adams are the Z-Boys, a bunch of nobodies until they create a new style of skateboarding that becomes a worldwide phenomenon. But when their hobby becomes a business, the success shreds their friendship.",
+        "popularity": 1.8866,
+        "poster_path": "/k2NiPfydLSwmk28C6qpvpJPuqtq.jpg",
+        "release_date": "2005-06-03",
+        "title": "Lords of Dogtown",
+        "video": false,
+        "vote_average": 7.093,
+        "vote_count": 782
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+        "genre_ids": [
+          18,
+          36,
+          80,
+          53,
+          28
+        ],
+        "id": 9829,
+        "original_language": "en",
+        "original_title": "United 93",
+        "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+        "popularity": 2.5912,
+        "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+        "release_date": "2006-04-28",
+        "title": "United 93",
+        "video": false,
+        "vote_average": 7.102,
+        "vote_count": 1579
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7zRAZFZ4xVMyoLEvCb4Au41uvny.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 10217,
+        "original_language": "en",
+        "original_title": "The Sweet Hereafter",
+        "overview": "A small mountain community in Canada is devastated when a school bus accident leaves more than a dozen of its children dead. A big-city lawyer arrives to help the survivors' and victims' families prepare a class-action suit, but his efforts only seem to push the townspeople further apart. At the same time, one teenage survivor of the accident has to reckon with the loss of innocence brought about by a different kind of damage.",
+        "popularity": 1.3598,
+        "poster_path": "/gJy7LMq4b5qO5fsSUSoBgm24BHf.jpg",
+        "release_date": "1997-09-25",
+        "title": "The Sweet Hereafter",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 414
+      }
+    ],
+    "total_pages": 14031,
+    "total_results": 280603
+  }
+}

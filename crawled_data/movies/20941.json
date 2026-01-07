@@ -1,0 +1,1157 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/oaUWMPGxpb4OsVCrppmlhQA2bwb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "",
+    "id": 20941,
+    "imdb_id": "tt0387914",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Voces inocentes",
+    "overview": "A young boy, attempting to have a normal childhood in 1980s El Salvador, is caught up in a dramatic fight for his life when he desperately tries to avoid the war that is raging all around him.",
+    "popularity": 3.7538,
+    "poster_path": "/hvwB4LdMCLzqXsk5ZjR77vzPkGk.jpg",
+    "production_companies": [
+      {
+        "id": 84497,
+        "logo_path": null,
+        "name": "Santo Domingo Films",
+        "origin_country": ""
+      },
+      {
+        "id": 5084,
+        "logo_path": null,
+        "name": "Altavista Films",
+        "origin_country": "MX"
+      },
+      {
+        "id": 28334,
+        "logo_path": null,
+        "name": "MUVI Films",
+        "origin_country": ""
+      },
+      {
+        "id": 2253,
+        "logo_path": null,
+        "name": "Lawrence Bender Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 84498,
+        "logo_path": null,
+        "name": "Organización Santo Domingo",
+        "origin_country": ""
+      },
+      {
+        "id": 59,
+        "logo_path": "/b1tj5EWcFQLYaQrw1D9V4s8kUgN.png",
+        "name": "A Band Apart",
+        "origin_country": "US"
+      },
+      {
+        "id": 35,
+        "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+        "name": "Lions Gate Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "PR",
+        "name": "Puerto Rico"
+      }
+    ],
+    "release_date": "2005-01-28",
+    "revenue": 837000,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Innocent Voices",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 508
+  },
+  "credits": {
+    "id": 20941,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145059,
+        "known_for_department": "Acting",
+        "name": "Carlos Padilla",
+        "original_name": "Carlos Padilla",
+        "popularity": 2.631,
+        "profile_path": "/xyeTntUUIfPH66vnlinwy7Tl1Ir.jpg",
+        "cast_id": 1000,
+        "character": "Chava",
+        "credit_id": "52fe4404c3a368484e00ae09",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 145061,
+        "known_for_department": "Acting",
+        "name": "Xuna Primus",
+        "original_name": "Xuna Primus",
+        "popularity": 0.2904,
+        "profile_path": null,
+        "cast_id": 1002,
+        "character": "Cristina Maria",
+        "credit_id": "52fe4404c3a368484e00ae0d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10839,
+        "known_for_department": "Acting",
+        "name": "Leonor Varela",
+        "original_name": "Leonor Varela",
+        "popularity": 2.1479,
+        "profile_path": "/ooZQvMganzssNGoTKaIgFXM38U7.jpg",
+        "cast_id": 1003,
+        "character": "Kella",
+        "credit_id": "52fe4404c3a368484e00ae11",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72128,
+        "known_for_department": "Acting",
+        "name": "José María Yázpik",
+        "original_name": "José María Yázpik",
+        "popularity": 0.7472,
+        "profile_path": "/1IjbKEx6ExJy7LRaK3cBHJyosUt.jpg",
+        "cast_id": 1004,
+        "character": "Uncle Beto",
+        "credit_id": "52fe4404c3a368484e00ae15",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660431,
+        "known_for_department": "Acting",
+        "name": "Gustavo Muñoz",
+        "original_name": "Gustavo Muñoz",
+        "popularity": 0.1746,
+        "profile_path": null,
+        "cast_id": 1028,
+        "character": "Ancha",
+        "credit_id": "5854b1c39251411a46039372",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 104982,
+        "known_for_department": "Acting",
+        "name": "Ofelia Medina",
+        "original_name": "Ofelia Medina",
+        "popularity": 0.8184,
+        "profile_path": "/8lRQ05k1UAEB8vf8WdxZ9Hh6J0j.jpg",
+        "cast_id": 1029,
+        "character": "Mama Toya",
+        "credit_id": "5854b1d5c3a3682dfe039e06",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1603,
+        "known_for_department": "Acting",
+        "name": "Daniel Giménez Cacho",
+        "original_name": "Daniel Giménez Cacho",
+        "popularity": 1.1918,
+        "profile_path": "/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg",
+        "cast_id": 1030,
+        "character": "Priest",
+        "credit_id": "5854b1dd92514175ad02cdf2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69865,
+        "known_for_department": "Acting",
+        "name": "Jesús Ochoa",
+        "original_name": "Jesús Ochoa",
+        "popularity": 0.6806,
+        "profile_path": "/7q5cin3hrPIhMqRkPZ2sSyTrqlk.jpg",
+        "cast_id": 1031,
+        "character": "Chofer",
+        "credit_id": "5854b1e59251416fa1038768",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723683,
+        "known_for_department": "Acting",
+        "name": "Jorge Angel Toriello",
+        "original_name": "Jorge Angel Toriello",
+        "popularity": 0.4369,
+        "profile_path": null,
+        "cast_id": 1032,
+        "character": "Fito",
+        "credit_id": "5854b1f0925141724d00e34d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18460,
+        "known_for_department": "Acting",
+        "name": "Adrian Alonso",
+        "original_name": "Adrian Alonso",
+        "popularity": 1.8265,
+        "profile_path": "/eAuuznlFGH9DDpCzYGeLE8c0k46.jpg",
+        "cast_id": 1033,
+        "character": "Chele",
+        "credit_id": "5854b203c3a3682dfe039e20",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1484103,
+        "known_for_department": "Acting",
+        "name": "Andrés Márquez",
+        "original_name": "Andrés Márquez",
+        "popularity": 0.3437,
+        "profile_path": null,
+        "cast_id": 1034,
+        "character": "Marcos",
+        "credit_id": "5854b20d925141724d00e367",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 971924,
+        "known_for_department": "Acting",
+        "name": "Alejandro Felipe",
+        "original_name": "Alejandro Felipe",
+        "popularity": 0.5189,
+        "profile_path": "/n03DoSQBwwRVmvzh4Sm3sMpOnSG.jpg",
+        "cast_id": 1035,
+        "character": "Ricardito (as Alejandro Felipe Flores)",
+        "credit_id": "5854b21ac3a368258f030f8f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723685,
+        "known_for_department": "Acting",
+        "name": "Ana Paulina Caceres",
+        "original_name": "Ana Paulina Caceres",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "cast_id": 1036,
+        "character": "Rosita (as Ana Paulina Cáceres)",
+        "credit_id": "5854b22392514146c9027568",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36586,
+        "known_for_department": "Acting",
+        "name": "Paulina Gaitán",
+        "original_name": "Paulina Gaitán",
+        "popularity": 2.7619,
+        "profile_path": "/7A5ehPIhsbPGucp4Gr6zjnVSebt.jpg",
+        "cast_id": 1037,
+        "character": "Angelita (as Paulina Gaytan Ruíz)",
+        "credit_id": "5854b2a392514175ad02ce6e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78881,
+        "known_for_department": "Acting",
+        "name": "Alan Chávez",
+        "original_name": "Alan Chávez",
+        "popularity": 0.4006,
+        "profile_path": "/hchPlisdjEkOtuELgVJzZJYLLwi.jpg",
+        "cast_id": 1038,
+        "character": "Antonio (as Alan Andreé)",
+        "credit_id": "5854b2ac9251416f6303b812",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18468,
+        "known_for_department": "Acting",
+        "name": "Gustavo Sánchez Parra",
+        "original_name": "Gustavo Sánchez Parra",
+        "popularity": 0.5521,
+        "profile_path": "/ymg31PTbKfOxE7jV4QSgtCZKPbg.jpg",
+        "cast_id": 1039,
+        "character": "Teniente Ruíz",
+        "credit_id": "5854b2b8c3a368258c02ef5e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57410,
+        "known_for_department": "Acting",
+        "name": "Héctor Jiménez",
+        "original_name": "Héctor Jiménez",
+        "popularity": 1.0586,
+        "profile_path": "/i6Q6G8HWLof7zXNbTgvpI6MuC3P.jpg",
+        "cast_id": 1040,
+        "character": "Raton",
+        "credit_id": "5854b2c2c3a368258c02ef66",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129456,
+        "known_for_department": "Acting",
+        "name": "Guillermo Ríos",
+        "original_name": "Guillermo Ríos",
+        "popularity": 0.768,
+        "profile_path": "/9wtf0Oes040Vou7emxFDUddlz1N.jpg",
+        "cast_id": 1041,
+        "character": "Soldado",
+        "credit_id": "5854b2cfc3a3682f58036ca4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723686,
+        "known_for_department": "Acting",
+        "name": "Lourdes Villareal",
+        "original_name": "Lourdes Villareal",
+        "popularity": 0.2145,
+        "profile_path": null,
+        "cast_id": 1042,
+        "character": "Dona Celia",
+        "credit_id": "5854b2dbc3a36806a702b03b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723687,
+        "known_for_department": "Acting",
+        "name": "Ania Yarasech",
+        "original_name": "Ania Yarasech",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 1043,
+        "character": "Maestra Carmen",
+        "credit_id": "5854b2e39251416f6303b855",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723688,
+        "known_for_department": "Acting",
+        "name": "Prisiliana Hernández",
+        "original_name": "Prisiliana Hernández",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "cast_id": 1044,
+        "character": "Dona Amalia",
+        "credit_id": "5854b2eec3a3682fb8041f0f",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723689,
+        "known_for_department": "Acting",
+        "name": "Aurelio Perea Morales",
+        "original_name": "Aurelio Perea Morales",
+        "popularity": 0.1366,
+        "profile_path": null,
+        "cast_id": 1045,
+        "character": "Don Yeyo",
+        "credit_id": "5854b2f79251416fa1038815",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46085,
+        "known_for_department": "Directing",
+        "name": "Luis Mandoki",
+        "original_name": "Luis Mandoki",
+        "popularity": 0.3652,
+        "profile_path": "/52n4X9YpcVkeMH7IHMiMYk7molA.jpg",
+        "credit_id": "52fe4404c3a368484e00ae1b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145063,
+        "known_for_department": "Writing",
+        "name": "Oscar Orlando Torres",
+        "original_name": "Oscar Orlando Torres",
+        "popularity": 0.2116,
+        "profile_path": null,
+        "credit_id": "52fe4404c3a368484e00ae27",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1311463,
+        "known_for_department": "Writing",
+        "name": "Francisco Payó González",
+        "original_name": "Francisco Payó González",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "6560253724418200ad5d44ba",
+        "department": "Camera",
+        "job": "BTS Footage"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46085,
+        "known_for_department": "Directing",
+        "name": "Luis Mandoki",
+        "original_name": "Luis Mandoki",
+        "popularity": 0.3652,
+        "profile_path": "/52n4X9YpcVkeMH7IHMiMYk7molA.jpg",
+        "credit_id": "55ebfaeb9251413e3a00e9a8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1346271,
+        "known_for_department": "Production",
+        "name": "Elba Luis Lugo",
+        "original_name": "Elba Luis Lugo",
+        "popularity": 0.1465,
+        "profile_path": null,
+        "credit_id": "58365930925141318f0075e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723677,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gilda Navarro",
+        "original_name": "Gilda Navarro",
+        "popularity": 0.3579,
+        "profile_path": null,
+        "credit_id": "5854b06ac3a36827a5034997",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69870,
+        "known_for_department": "Production",
+        "name": "Mónica Lozano",
+        "original_name": "Mónica Lozano",
+        "popularity": 0.9799,
+        "profile_path": "/2wNQUIzDpuW9QdgfyAhnSxZ5gTg.jpg",
+        "credit_id": "5854b0c0925141724d00e231",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8531,
+        "known_for_department": "Production",
+        "name": "Anna Roth",
+        "original_name": "Anna Roth",
+        "popularity": 0.4547,
+        "profile_path": null,
+        "credit_id": "5854b0f89251416f10039a8b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145063,
+        "known_for_department": "Writing",
+        "name": "Oscar Orlando Torres",
+        "original_name": "Oscar Orlando Torres",
+        "popularity": 0.2116,
+        "profile_path": null,
+        "credit_id": "5854b10a9251416fad037cd1",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2545,
+        "known_for_department": "Production",
+        "name": "Lawrence Bender",
+        "original_name": "Lawrence Bender",
+        "popularity": 2.364,
+        "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg",
+        "credit_id": "5854b090c3a368258c02edc6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 958014,
+        "known_for_department": "Art",
+        "name": "Sandra Cabriada",
+        "original_name": "Sandra Cabriada",
+        "popularity": 0.1646,
+        "profile_path": null,
+        "credit_id": "5854b06092514146c902741e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1356138,
+        "known_for_department": "Editing",
+        "name": "Aleshka Ferrero",
+        "original_name": "Aleshka Ferrero",
+        "popularity": 0.1786,
+        "profile_path": null,
+        "credit_id": "5854b00ec3a3683150034759",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1723679,
+        "known_for_department": "Production",
+        "name": "Carlos Llergo",
+        "original_name": "Carlos Llergo",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "5854b0829251416f6303b66a",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40547,
+        "known_for_department": "Art",
+        "name": "Antonio Muñohierro",
+        "original_name": "Antonio Muñohierro",
+        "popularity": 0.1289,
+        "profile_path": null,
+        "credit_id": "5854b01dc3a36827a503495b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17674,
+        "known_for_department": "Production",
+        "name": "Carla Hool",
+        "original_name": "Carla Hool",
+        "popularity": 0.3707,
+        "profile_path": "/roRnDzbFJHWq6r01BvUXhHU7bmE.jpg",
+        "credit_id": "5854b015c3a368258c02ed76",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 544150,
+        "known_for_department": "Production",
+        "name": "Miguel Necoechea",
+        "original_name": "Miguel Necoechea",
+        "popularity": 0.3893,
+        "profile_path": null,
+        "credit_id": "5854b0d1c3a368258c02ee08",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723678,
+        "known_for_department": "Production",
+        "name": "Giordo Ganem",
+        "original_name": "Giordo Ganem",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5854b078925141724d00e1e5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54983,
+        "known_for_department": "Sound",
+        "name": "André Abujamra",
+        "original_name": "André Abujamra",
+        "popularity": 0.7321,
+        "profile_path": "/kq1B1dlAMtCXmgWoGirxq8j618l.jpg",
+        "credit_id": "5854aff99251411a4603921f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723680,
+        "known_for_department": "Production",
+        "name": "Tery Lopez",
+        "original_name": "Tery Lopez",
+        "popularity": 0.071,
+        "profile_path": null,
+        "credit_id": "5854b0b6c3a36831500347d9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1723681,
+        "known_for_department": "Production",
+        "name": "Alejandro Soberón Kuri",
+        "original_name": "Alejandro Soberón Kuri",
+        "popularity": 0.118,
+        "profile_path": null,
+        "credit_id": "5854b10092514146c9027494",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69869,
+        "known_for_department": "Production",
+        "name": "Federico González Compeán",
+        "original_name": "Federico González Compeán",
+        "popularity": 0.1064,
+        "profile_path": "/hekfKuYNPJEPRBn3vv2ZXzTHHyh.jpg",
+        "credit_id": "5854b098c3a368258c02edd7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20693,
+        "known_for_department": "Camera",
+        "name": "Juan Ruiz Anchía",
+        "original_name": "Juan Ruiz Anchía",
+        "popularity": 0.4254,
+        "profile_path": null,
+        "credit_id": "5854b000c3a36827a5034948",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46085,
+        "known_for_department": "Directing",
+        "name": "Luis Mandoki",
+        "original_name": "Luis Mandoki",
+        "popularity": 0.3652,
+        "profile_path": "/52n4X9YpcVkeMH7IHMiMYk7molA.jpg",
+        "credit_id": "5854b0c9c3a368258c02edfd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335071,
+        "known_for_department": "Crew",
+        "name": "Jesus G. Duran",
+        "original_name": "Jesus G. Duran",
+        "popularity": 1.5021,
+        "profile_path": null,
+        "credit_id": "68605238abd2d2fbe491589b",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 20941,
+    "keywords": [
+      {
+        "id": 1008,
+        "name": "guerrilla warfare"
+      },
+      {
+        "id": 7605,
+        "name": "el salvador"
+      },
+      {
+        "id": 11336,
+        "name": "young boy"
+      },
+      {
+        "id": 172391,
+        "name": "catholic priest"
+      },
+      {
+        "id": 190337,
+        "name": "child soldier"
+      },
+      {
+        "id": 208289,
+        "name": "1980s"
+      },
+      {
+        "id": 241982,
+        "name": "children in wartime"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 28,
+        "original_language": "en",
+        "original_title": "Apocalypse Now",
+        "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+        "popularity": 10.1249,
+        "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "release_date": "1979-05-19",
+        "title": "Apocalypse Now",
+        "video": false,
+        "vote_average": 8.268,
+        "vote_count": 8791
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10402
+        ],
+        "id": 71,
+        "original_language": "en",
+        "original_title": "Billy Elliot",
+        "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+        "popularity": 3.2778,
+        "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+        "release_date": "2000-09-28",
+        "title": "Billy Elliot",
+        "video": false,
+        "vote_average": 7.594,
+        "vote_count": 3996
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wNFiDhGnrnSfyqYxzeAa8mFnUhj.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 140,
+        "original_language": "es",
+        "original_title": "La mala educación",
+        "overview": "An examination on the effect of Franco-era religious schooling and sexual abuse on the lives of two longtime friends.",
+        "popularity": 1.5222,
+        "poster_path": "/du716YH0PKiL2kZgIPLkEblgHLX.jpg",
+        "release_date": "2004-03-19",
+        "title": "Bad Education",
+        "video": false,
+        "vote_average": 7.36,
+        "vote_count": 1025
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+        "genre_ids": [
+          14,
+          18,
+          9648
+        ],
+        "id": 141,
+        "original_language": "en",
+        "original_title": "Donnie Darko",
+        "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+        "popularity": 9.7704,
+        "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+        "release_date": "2001-01-19",
+        "title": "Donnie Darko",
+        "video": false,
+        "vote_average": 7.766,
+        "vote_count": 13080
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/63ItW5WInTWZkRdyTfCZIn6ZvbH.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 392,
+        "original_language": "en",
+        "original_title": "Chocolat",
+        "overview": "In the winter of 1959, a single mother and her young daughter arrive in a rural French town, where they open an unusual chocolate shop that disrupts the moral fiber of the strictly Catholic townsfolk and mayor.",
+        "popularity": 3.7795,
+        "poster_path": "/7sUfspdrvxLMgGkrOq46lPh0Scj.jpg",
+        "release_date": "2000-12-22",
+        "title": "Chocolat",
+        "video": false,
+        "vote_average": 6.973,
+        "vote_count": 3431
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 850165,
+        "original_language": "en",
+        "original_title": "The Iron Claw",
+        "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+        "popularity": 3.8146,
+        "poster_path": "/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
+        "release_date": "2023-12-21",
+        "title": "The Iron Claw",
+        "video": false,
+        "vote_average": 7.527,
+        "vote_count": 1132
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nO7raOhTt6QcrYjkb1dL8VaTA3e.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 11240,
+        "original_language": "en",
+        "original_title": "My Beautiful Laundrette",
+        "overview": "A young Pakistani Briton manages a rundown laundrette with his lover while dealing with tension in his family, the local Pakistani community, and a persistent mob of skinheads.",
+        "popularity": 1.5834,
+        "poster_path": "/hfGWxrtbRnxg19ouEYBtQKtMZcN.jpg",
+        "release_date": "1985-11-16",
+        "title": "My Beautiful Laundrette",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 293
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bRYAXMSYXPsNbtAUmgxCbecS0BZ.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 280218,
+        "original_language": "fr",
+        "original_title": "1987",
+        "overview": "In 1987, Ricardo is 17 years old. This summer, Ricardo has a busy schedule: loose his virginity, find a way to get into bars, have a car, spend time with his friends. In order to rapidly make money, Ricardo decides to use his italian inheritance and take a shortcut in the medium of crime. But things will go wrong...",
+        "popularity": 0.7042,
+        "poster_path": "/h5Od9rVwDBJ9FEtfyxJxjakaoZA.jpg",
+        "release_date": "2014-11-23",
+        "title": "1987",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 37
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xQpsxWPaAZW77G1L2Nzi2EAhizZ.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 9445,
+        "original_language": "en",
+        "original_title": "Apt Pupil",
+        "overview": "One day in 1984, Todd Bowden, a brilliant high school boy fascinated by the history of Nazism, stumbles across an old man whose appearance resembles that of Kurt Dussander, a wanted Nazi war criminal. A month later, Todd decides to knock on his door.",
+        "popularity": 5.513,
+        "poster_path": "/pU3fvfSvrs5pZFdODPCzoLk95Ws.jpg",
+        "release_date": "1998-10-23",
+        "title": "Apt Pupil",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 696
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bzthCK47te73ZwusnkGp4d5YGtF.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 9512,
+        "original_language": "de",
+        "original_title": "Am Tag als Bobby Ewing starb",
+        "overview": "1986 - The protest movement against the construction of the nuclear power plant in Brokdorf is on its last legs. Only one rural commune remains: the \"Alternative Wohnkollektiv Regenbogen\". For them, it could go on and on with endless consensus discussions, shearing sheep and naked communal bathing. One day, the lowland communards are joined by two city dwellers, Hanne and her son Niels. While Hanne gets used to scream therapy and raising vegetables surprisingly quickly - and even more quickly to the tantra games with commune guru Peter - Niels has less and less desire for the dogmatic commune rules. Out of defiance, he joins the violent nuclear power plant resistance, thus upsetting the tranquil chaos of the commune. The big bang, however, comes when a reactor explodes in distant Chernobyl. Exactly on the day Bobby Ewing dies, the petroleum prince from \"Dallas\" and series favorite of the commune.",
+        "popularity": 0.2298,
+        "poster_path": "/qUUCNkjWr1f4cKPcL5iiuWPk9Se.jpg",
+        "release_date": "2005-01-19",
+        "title": "Am Tag als Bobby Ewing starb",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6rgiRuLHn65d3qalkc7YjrtmDQW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 9701,
+        "original_language": "en",
+        "original_title": "North Country",
+        "overview": "A fictionalized account of the first major successful sexual harassment case in the United States — Jenson vs. Eveleth Mines, where a woman who endured a range of abuse while working as a miner filed and won the landmark 1984 lawsuit.",
+        "popularity": 4.126,
+        "poster_path": "/upxUN4zmX79o49mBW9htKZDeNq7.jpg",
+        "release_date": "2005-02-12",
+        "title": "North Country",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 709
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A159OAi9EAU9v4l3sfMhpMqSK5v.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 8618,
+        "original_language": "en",
+        "original_title": "The History Boys",
+        "overview": "The story of an unruly class of bright, funny history students at a Yorkshire grammar school in pursuit of an undergraduate place at Oxford or Cambridge. Bounced between their maverick English master, a young and shrewd teacher hired to up their test scores, a grossly out-numbered history teacher, and a headmaster obsessed with results, the boys attempt to pass.",
+        "popularity": 1.1648,
+        "poster_path": "/klybhTU75GUcQbzdVXUhsZgq1EV.jpg",
+        "release_date": "2006-10-02",
+        "title": "The History Boys",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 210
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5mO6N0SOlPQmoGYGjzOZfuX4Nmm.jpg",
+        "genre_ids": [
+          10752,
+          28,
+          878
+        ],
+        "id": 8738,
+        "original_language": "en",
+        "original_title": "The Final Countdown",
+        "overview": "During routine manoeuvres near Hawaii in 1980, the aircraft-carrier USS Nimitz is caught in a strange vortex-like storm, throwing the ship back in time to 1941—mere hours before the Japanese attack on Pearl Harbor.",
+        "popularity": 2.7338,
+        "poster_path": "/nJmWPdreWnbdjMpmXB5rnJMvsK1.jpg",
+        "release_date": "1980-01-31",
+        "title": "The Final Countdown",
+        "video": false,
+        "vote_average": 6.618,
+        "vote_count": 645
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y4sWnBV6z92nhCeWavndfUggRoz.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 8929,
+        "original_language": "en",
+        "original_title": "Johnny Mad Dog",
+        "overview": "A cast of unknown performers are used in this drama about child soldiers fighting a war in an unnamed African country.",
+        "popularity": 0.6859,
+        "poster_path": "/7YspfHUzOSpqdEiGJIR9P6ab0g.jpg",
+        "release_date": "2008-05-20",
+        "title": "Johnny Mad Dog",
+        "video": false,
+        "vote_average": 6.148,
+        "vote_count": 64
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/puTxjGPJALnjxXsO2k5OEHzf1ME.jpg",
+        "genre_ids": [
+          36,
+          18,
+          10752
+        ],
+        "id": 8996,
+        "original_language": "de",
+        "original_title": "Europa Europa",
+        "overview": "A Jewish boy separated from his family in the early days of WWII poses as a German orphan and is taken into the heart of the Nazi world as a 'war hero' and eventually becomes a Hitler Youth.",
+        "popularity": 3.0914,
+        "poster_path": "/nwcixlq1Qbc5yKllBn1YTp6GdHh.jpg",
+        "release_date": "1990-11-14",
+        "title": "Europa Europa",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 269
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4TPTiEzAeItjXxWaPZtpnMyexXN.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 9032,
+        "original_language": "en",
+        "original_title": "Big Daddy",
+        "overview": "A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned and he becomes the unlikely foster father.",
+        "popularity": 4.443,
+        "poster_path": "/cqFnFg6YS8urJT6YC95IDkn0VHz.jpg",
+        "release_date": "1999-06-25",
+        "title": "Big Daddy",
+        "video": false,
+        "vote_average": 6.494,
+        "vote_count": 3438
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8r9RoGfwGmn1pn0G3sbvHHemSWF.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          36
+        ],
+        "id": 277216,
+        "original_language": "en",
+        "original_title": "Straight Outta Compton",
+        "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+        "popularity": 5.0952,
+        "poster_path": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+        "release_date": "2015-08-11",
+        "title": "Straight Outta Compton",
+        "video": false,
+        "vote_average": 7.782,
+        "vote_count": 4100
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1241843,
+        "original_language": "en",
+        "original_title": "The Vortex",
+        "overview": "In 1980 Las Vegas, a Native Paiute cleaning lady enters a slots room at the MGM Grand Casino, setting off a chain of strange and unexplained events. Meanwhile, in-house comic Pete plays shrink to a host of colorful misfits while dodging mobsters and collectors. Struggling with a gambling addiction, he faces a life-altering decision that may determine his fate.",
+        "popularity": 3.712,
+        "poster_path": "/rXEye38NvJym9Hm2FyclQFeJFwl.jpg",
+        "release_date": "2025-02-14",
+        "title": "The Vortex",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6hCRE8o7yy0UQkt46NYaB6p9aNY.jpg",
+        "genre_ids": [
+          36,
+          10752,
+          18
+        ],
+        "id": 26843,
+        "original_language": "en",
+        "original_title": "Lion of the Desert",
+        "overview": "This movie tells the story of Omar Mukhtar, an Arab Muslim rebel who fought against the Italian conquest of Libya during the second Italo-Senussi War. It gives western viewers a glimpse into this little-known region and chapter of history, and exposes the savage means by which the conquering army attempted to subdue the natives.",
+        "popularity": 1.9101,
+        "poster_path": "/xm7CKN5mo09RNAcL1IP1xmJ5avT.jpg",
+        "release_date": "1981-04-17",
+        "title": "Lion of the Desert",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 189
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z6pa3lVZFWtfESF8rI7P9QSq6a9.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 483465,
+        "original_language": "pl",
+        "original_title": "Dwie korony",
+        "overview": "Recreation of facts and stories of both experts and people who met Maximilian Kolbe and were shocked by his words and actions.",
+        "popularity": 2.607,
+        "poster_path": "/3GRXJr8a9szceO5YdqF3B3GyaKm.jpg",
+        "release_date": "2017-10-13",
+        "title": "Two Crowns",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 9
+      }
+    ],
+    "total_pages": 14283,
+    "total_results": 285643
+  }
+}

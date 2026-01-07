@@ -1,0 +1,1312 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+    "belongs_to_collection": {
+      "id": 8580,
+      "name": "The Karate Kid Collection",
+      "poster_path": "/o6h2F0C5eZOy50Q76fNYzc9mvvw.jpg",
+      "backdrop_path": "/vG9eCvIfSoucQZ9EFEOrSXhesws.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://karatekid.movie",
+    "id": 1011477,
+    "imdb_id": "tt1674782",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Karate Kid: Legends",
+    "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+    "popularity": 20.1961,
+    "poster_path": "/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5219,
+        "logo_path": null,
+        "name": "Sunswept Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-05-08",
+    "revenue": 117105466,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "When masters unite a new legacy begins.",
+    "title": "Karate Kid: Legends",
+    "video": false,
+    "vote_average": 7.073,
+    "vote_count": 1053
+  },
+  "credits": {
+    "id": 1011477,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 16.3821,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "cast_id": 2,
+        "character": "Mr. Han",
+        "credit_id": "64d22a0c85090f00e7988224",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3033265,
+        "known_for_department": "Acting",
+        "name": "Ben Wang",
+        "original_name": "Ben Wang",
+        "popularity": 1.8777,
+        "profile_path": "/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg",
+        "cast_id": 61,
+        "character": "Li Fong",
+        "credit_id": "687f90d3be0fabb0b238e1b5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11866,
+        "known_for_department": "Acting",
+        "name": "Joshua Jackson",
+        "original_name": "Joshua Jackson",
+        "popularity": 4.0043,
+        "profile_path": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg",
+        "cast_id": 9,
+        "character": "Victor Lipani",
+        "credit_id": "65e25f15dd25890163f1e598",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2030076,
+        "known_for_department": "Acting",
+        "name": "Sadie Stanley",
+        "original_name": "Sadie Stanley",
+        "popularity": 3.165,
+        "profile_path": "/zfjr9nkUTWJ2EekyiWmYdxscrSJ.jpg",
+        "cast_id": 10,
+        "character": "Mia Lipani",
+        "credit_id": "65e8d201713ea6017c52ff49",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21702,
+        "known_for_department": "Acting",
+        "name": "Ming-Na Wen",
+        "original_name": "Ming-Na Wen",
+        "popularity": 4.5482,
+        "profile_path": "/eqCzFF83It56cUdjpskzvg8jgq.jpg",
+        "cast_id": 11,
+        "character": "Dr. Fong",
+        "credit_id": "65e8f6847f4f21017bd9b50b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148455,
+        "known_for_department": "Acting",
+        "name": "Wyatt Oleff",
+        "original_name": "Wyatt Oleff",
+        "popularity": 3.1611,
+        "profile_path": "/gDnNsX6haa6Dx7yDCwFxIbJfQlj.jpg",
+        "cast_id": 13,
+        "character": "Alan",
+        "credit_id": "660d8d8ba88587017ce88cf4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204191,
+        "known_for_department": "Acting",
+        "name": "Aramis Knight",
+        "original_name": "Aramis Knight",
+        "popularity": 2.5569,
+        "profile_path": "/l1w7atqr6aJuxwzcM4soZ9ZWBJc.jpg",
+        "cast_id": 14,
+        "character": "Conor",
+        "credit_id": "660d8d9235818f01623a7708",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2877,
+        "known_for_department": "Acting",
+        "name": "Ralph Macchio",
+        "original_name": "Ralph Macchio",
+        "popularity": 2.7146,
+        "profile_path": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg",
+        "cast_id": 3,
+        "character": "Daniel LaRusso",
+        "credit_id": "655ce7ebea84c710922b55e4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4259090,
+        "known_for_department": "Acting",
+        "name": "Olivia Yang Avis",
+        "original_name": "Olivia Yang Avis",
+        "popularity": 0.162,
+        "profile_path": "/pivh0T464SptIRJnioEUmv2331P.jpg",
+        "cast_id": 32,
+        "character": "Young Girl",
+        "credit_id": "685195c9fdcaba79a9e7b9c4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510706,
+        "known_for_department": "Acting",
+        "name": "Aaron Wang",
+        "original_name": "Aaron Wang",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Young Student",
+        "credit_id": "685195db5e41815ade92df74",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 200615,
+        "known_for_department": "Acting",
+        "name": "Nicholas Carella",
+        "original_name": "Nicholas Carella",
+        "popularity": 1.0329,
+        "profile_path": "/hf0y4WiVpLNmfLXv7aHcB2b3udd.jpg",
+        "cast_id": 34,
+        "character": "Fat Jerry",
+        "credit_id": "685195ff1e910d1663ec94a4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1787399,
+        "known_for_department": "Acting",
+        "name": "Shaunette Renée Wilson",
+        "original_name": "Shaunette Renée Wilson",
+        "popularity": 1.3408,
+        "profile_path": "/fPjeTxxE2sB0bQUcAoO13mKsKK5.jpg",
+        "cast_id": 23,
+        "character": "Ms. Morgan",
+        "credit_id": "67671702919287ef53910f7a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73610,
+        "known_for_department": "Acting",
+        "name": "Tim Rozon",
+        "original_name": "Tim Rozon",
+        "popularity": 2.1986,
+        "profile_path": "/i43AGRDzYoMPqhTyRKL96H3PSxx.jpg",
+        "cast_id": 35,
+        "character": "O'Shea",
+        "credit_id": "6851961c1a89bdfe18b31442",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2781467,
+        "known_for_department": "Crew",
+        "name": "Mig Buenacruz",
+        "original_name": "Mig Buenacruz",
+        "popularity": 0.1725,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Conor's Sparring Partner",
+        "credit_id": "68519642d50eacc9ee065e06",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510709,
+        "known_for_department": "Acting",
+        "name": "Li Li",
+        "original_name": "Li Li",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Chinese Worker",
+        "credit_id": "68519676838f63befd5ea495",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510711,
+        "known_for_department": "Acting",
+        "name": "Henri Forget",
+        "original_name": "Henri Forget",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Conor's Pal",
+        "credit_id": "685196a81b18548debb6e094",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4297735,
+        "known_for_department": "Acting",
+        "name": "Noé Poblete",
+        "original_name": "Noé Poblete",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Conor's Pal",
+        "credit_id": "685196baaabfd2948f065e91",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510714,
+        "known_for_department": "Acting",
+        "name": "Oscar Ge",
+        "original_name": "Oscar Ge",
+        "popularity": 0.3566,
+        "profile_path": "/wjo8Yputq645wU5TMjE5xEnSXIR.jpg",
+        "cast_id": 40,
+        "character": "Bo Fong",
+        "credit_id": "685196e42d1c4972436aeb30",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510716,
+        "known_for_department": "Acting",
+        "name": "Marco Zhang",
+        "original_name": "Marco Zhang",
+        "popularity": 0.1734,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Young Li",
+        "credit_id": "68519700f6e367030db3144b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502987,
+        "known_for_department": "Acting",
+        "name": "Yusuf A. Ahmed",
+        "original_name": "Yusuf A. Ahmed",
+        "popularity": 0.3266,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Thug",
+        "credit_id": "6851971970a511a770bbd887",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315612,
+        "known_for_department": "Acting",
+        "name": "Ruben Maldonado",
+        "original_name": "Ruben Maldonado",
+        "popularity": 0.1452,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Thug",
+        "credit_id": "6851975a19feb96c87e7b9a7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5510725,
+        "known_for_department": "Acting",
+        "name": "Jason Hsu",
+        "original_name": "Jason Hsu",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Thug",
+        "credit_id": "68519781363835b4736aeb1e",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83520,
+        "known_for_department": "Acting",
+        "name": "Marcus Aurelio",
+        "original_name": "Marcus Aurelio",
+        "popularity": 0.6034,
+        "profile_path": "/zX30udWTNjG8pi1sSlYev6pGscI.jpg",
+        "cast_id": 45,
+        "character": "Ortiz",
+        "credit_id": "685197975ddf1a7904b6e081",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646452,
+        "known_for_department": "Acting",
+        "name": "Christian Jadah",
+        "original_name": "Christian Jadah",
+        "popularity": 1.1525,
+        "profile_path": "/mIyyQ8maFwGv4s4can7c0mwN9UX.jpg",
+        "cast_id": 46,
+        "character": "Social Club Referee",
+        "credit_id": "685197b5fda511c5aeb6e197",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1652142,
+        "known_for_department": "Acting",
+        "name": "Niko Nikolov",
+        "original_name": "Niko Nikolov",
+        "popularity": 0.1885,
+        "profile_path": "/lwFaAmH0E6htjdl8iVojFdx23ks.jpg",
+        "cast_id": 47,
+        "character": "Ortiz's Corner Man",
+        "credit_id": "685197c82aa04beb11065e43",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2603202,
+        "known_for_department": "Acting",
+        "name": "Chance Jones",
+        "original_name": "Chance Jones",
+        "popularity": 0.1748,
+        "profile_path": "/jRCW9rnLSvAifj0EzZyrnbe4acU.jpg",
+        "cast_id": 48,
+        "character": "Hype Man",
+        "credit_id": "685197eebae92965b9b6e226",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2510599,
+        "known_for_department": "Crew",
+        "name": "Mustafa Bulut",
+        "original_name": "Mustafa Bulut",
+        "popularity": 0.3664,
+        "profile_path": "/zsRY4imj8KHwWfKf3RPuB1iNhgI.jpg",
+        "cast_id": 49,
+        "character": "Buddha Stevens",
+        "credit_id": "68519800aeba2d2fe4b3141c",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207369,
+        "known_for_department": "Acting",
+        "name": "Dennis Lafond",
+        "original_name": "Dennis Lafond",
+        "popularity": 0.2195,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Bronx Referee",
+        "credit_id": "6851981f43552493605ea4c0",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510739,
+        "known_for_department": "Acting",
+        "name": "Anthony Correa Baniaga Jr.",
+        "original_name": "Anthony Correa Baniaga Jr.",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Queens Tornado",
+        "credit_id": "6851983db89ed3ce386aeb03",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 166430,
+        "known_for_department": "Acting",
+        "name": "Richard Chevolleau",
+        "original_name": "Richard Chevolleau",
+        "popularity": 0.7966,
+        "profile_path": "/cdhiFvkAdNxY7Y45qf83XX6zgfb.jpg",
+        "cast_id": 52,
+        "character": "Brooklyn Referee",
+        "credit_id": "68519854b717883dc5065f2c",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3712039,
+        "known_for_department": "Acting",
+        "name": "Canecia Gordon",
+        "original_name": "Canecia Gordon",
+        "popularity": 0.2101,
+        "profile_path": "/h6fgQ1LczHR89lCAdJAZw98jxS2.jpg",
+        "cast_id": 53,
+        "character": "Subway Worker",
+        "credit_id": "6851987bb3e2070fd85ea421",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930327,
+        "known_for_department": "Acting",
+        "name": "Nobuya Shimamoto",
+        "original_name": "Nobuya Shimamoto",
+        "popularity": 1.8995,
+        "profile_path": "/ocn3uQD9E01BTe3bQkeN9r0KE8M.jpg",
+        "cast_id": 54,
+        "character": "Manhattan Referee",
+        "credit_id": "685198921ffc3eeabb5ea3e9",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5510744,
+        "known_for_department": "Acting",
+        "name": "Dylan Stanley",
+        "original_name": "Dylan Stanley",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Delivery Guy",
+        "credit_id": "685198af353e974b73e7ba4e",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56124,
+        "known_for_department": "Acting",
+        "name": "William Zabka",
+        "original_name": "William Zabka",
+        "popularity": 4.0752,
+        "profile_path": "/AoTxNif6Kv5KtIk3YdfQUxLrLeR.jpg",
+        "cast_id": 29,
+        "character": "Johnny Lawrence",
+        "credit_id": "681d73e9d4640b66d40b2d27",
+        "order": 33
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61,
+        "known_for_department": "Writing",
+        "name": "Robert Mark Kamen",
+        "original_name": "Robert Mark Kamen",
+        "popularity": 1.4468,
+        "profile_path": "/t7XwxMyS2ANsDDsRWJY7FhdjgQ5.jpg",
+        "credit_id": "65605024244182014e884f87",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 484466,
+        "known_for_department": "Writing",
+        "name": "Christopher Murphey",
+        "original_name": "Christopher Murphey",
+        "popularity": 0.3725,
+        "profile_path": null,
+        "credit_id": "65605031244182010cb3ff32",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203521,
+        "known_for_department": "Writing",
+        "name": "Rob Lieber",
+        "original_name": "Rob Lieber",
+        "popularity": 1.1207,
+        "profile_path": "/1HgV4XOcFc7yvDyeOqwJRXXnKYc.jpg",
+        "credit_id": "6326b33a89b5610083540844",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674284,
+        "known_for_department": "Directing",
+        "name": "Jonathan Entwistle",
+        "original_name": "Jonathan Entwistle",
+        "popularity": 1.9264,
+        "profile_path": "/lyDMiDgT9bMG5v15yARaNtXBJZm.jpg",
+        "credit_id": "655ce81a7f054018d344f35c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10569,
+        "known_for_department": "Production",
+        "name": "Karen Rosenfelt",
+        "original_name": "Karen Rosenfelt",
+        "popularity": 0.4219,
+        "profile_path": "/oLPdV2FysVgAbIKURSA9SiYPwMJ.jpg",
+        "credit_id": "655ce84953866e00ff0ab735",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1868938,
+        "known_for_department": "Camera",
+        "name": "Justin Brown",
+        "original_name": "Justin Brown",
+        "popularity": 0.2527,
+        "profile_path": null,
+        "credit_id": "660d67c015dea0017c3652b5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1868277,
+        "known_for_department": "Directing",
+        "name": "Richard Graves",
+        "original_name": "Richard Graves",
+        "popularity": 0.4575,
+        "profile_path": null,
+        "credit_id": "66cb721a1b064392ba48b30f",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1056043,
+        "known_for_department": "Production",
+        "name": "Jenny Hinkey",
+        "original_name": "Jenny Hinkey",
+        "popularity": 0.315,
+        "profile_path": null,
+        "credit_id": "67130158e818700f3054ab3e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2877,
+        "known_for_department": "Acting",
+        "name": "Ralph Macchio",
+        "original_name": "Ralph Macchio",
+        "popularity": 2.7146,
+        "profile_path": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg",
+        "credit_id": "6713015ff9c663319123ec55",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192700,
+        "known_for_department": "Sound",
+        "name": "George Drakoulias",
+        "original_name": "George Drakoulias",
+        "popularity": 1.6967,
+        "profile_path": "/7oiF0TXUhNQRsugEkmwsOQyik0V.jpg",
+        "credit_id": "6761fe473327e5e5e3c26f33",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404094,
+        "known_for_department": "Sound",
+        "name": "Dominic Lewis",
+        "original_name": "Dominic Lewis",
+        "popularity": 0.72,
+        "profile_path": "/8r3uR9LxtCG72l9JS4fjfVc3wdZ.jpg",
+        "credit_id": "6761fe503327e5e5e3c26f44",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1397713,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mirren Gordon-Crozier",
+        "original_name": "Mirren Gordon-Crozier",
+        "popularity": 0.5135,
+        "profile_path": null,
+        "credit_id": "6761fe5b3327e5e5e3c26f48",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52450,
+        "known_for_department": "Editing",
+        "name": "Dana E. Glauberman",
+        "original_name": "Dana E. Glauberman",
+        "popularity": 1.8235,
+        "profile_path": "/dlik9ug8g80f2PWacp2Qdu3gyfD.jpg",
+        "credit_id": "6761fe649c68a885a6bdeccc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1155578,
+        "known_for_department": "Art",
+        "name": "Maya Sigel",
+        "original_name": "Maya Sigel",
+        "popularity": 0.2403,
+        "profile_path": null,
+        "credit_id": "6761fe71c75632d622bdedb4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1790333,
+        "known_for_department": "Directing",
+        "name": "Shanna Roberts Salée",
+        "original_name": "Shanna Roberts Salée",
+        "popularity": 0.5311,
+        "profile_path": "/8lqq4Hylw8LhAeC27nLqjBDY0XN.jpg",
+        "credit_id": "67d1d7812575f01b3a606bb9",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1331704,
+        "known_for_department": "Crew",
+        "name": "Peng Zhang",
+        "original_name": "Peng Zhang",
+        "popularity": 1.0076,
+        "profile_path": "/zqTT45yVwdgaR5mCSJ1uoQXUF90.jpg",
+        "credit_id": "68082498276bf64e41ab278b",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1331704,
+        "known_for_department": "Crew",
+        "name": "Peng Zhang",
+        "original_name": "Peng Zhang",
+        "popularity": 1.0076,
+        "profile_path": "/zqTT45yVwdgaR5mCSJ1uoQXUF90.jpg",
+        "credit_id": "68082523276bf64e41ab27d3",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13179,
+        "known_for_department": "Sound",
+        "name": "Tony Lamberti",
+        "original_name": "Tony Lamberti",
+        "popularity": 0.4147,
+        "profile_path": "/gICSJtipCXdHOoQ7QSBesXDgppg.jpg",
+        "credit_id": "6829f1d374d5a83882f5580f",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18617,
+        "known_for_department": "Editing",
+        "name": "Colby Parker, Jr.",
+        "original_name": "Colby Parker, Jr.",
+        "popularity": 1.1222,
+        "profile_path": null,
+        "credit_id": "68c35d4723f2e8fbbd2d2dee",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1138277,
+        "known_for_department": "Art",
+        "name": "Tim Blake",
+        "original_name": "Tim Blake",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "68c35d6123f2e8fbbd2d2df2",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15733,
+        "known_for_department": "Art",
+        "name": "Tina Jones",
+        "original_name": "Tina Jones",
+        "popularity": 0.4637,
+        "profile_path": null,
+        "credit_id": "68c35d75f7167f44762488f8",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5740906,
+        "known_for_department": "Crew",
+        "name": "Xiang-Yang Xu",
+        "original_name": "Xiang-Yang Xu",
+        "popularity": 0.4916,
+        "profile_path": null,
+        "credit_id": "68e84ec82a9297081cb7ae6a",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1011477,
+    "keywords": [
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 779,
+        "name": "martial arts"
+      },
+      {
+        "id": 780,
+        "name": "kung fu"
+      },
+      {
+        "id": 1310,
+        "name": "mentor"
+      },
+      {
+        "id": 1594,
+        "name": "ex-boyfriend"
+      },
+      {
+        "id": 3436,
+        "name": "karate"
+      },
+      {
+        "id": 33683,
+        "name": "beijing, china"
+      },
+      {
+        "id": 156159,
+        "name": "martial arts tournament"
+      },
+      {
+        "id": 156162,
+        "name": "martial arts training"
+      },
+      {
+        "id": 164246,
+        "name": "nostalgic"
+      },
+      {
+        "id": 194166,
+        "name": "living abroad"
+      },
+      {
+        "id": 226747,
+        "name": "overprotective mother"
+      },
+      {
+        "id": 325853,
+        "name": "sympathetic"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          35
+        ],
+        "id": 153,
+        "original_language": "en",
+        "original_title": "Lost in Translation",
+        "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+        "popularity": 7.3773,
+        "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+        "release_date": "2003-09-18",
+        "title": "Lost in Translation",
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 7805
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          18
+        ],
+        "id": 164,
+        "original_language": "en",
+        "original_title": "Breakfast at Tiffany's",
+        "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+        "popularity": 6.2143,
+        "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "release_date": "1961-10-06",
+        "title": "Breakfast at Tiffany's",
+        "video": false,
+        "vote_average": 7.628,
+        "vote_count": 4389
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 165,
+        "original_language": "en",
+        "original_title": "Back to the Future Part II",
+        "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+        "popularity": 10.9703,
+        "poster_path": "/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+        "release_date": "1989-11-22",
+        "title": "Back to the Future Part II",
+        "video": false,
+        "vote_average": 7.773,
+        "vote_count": 13569
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "id": 168,
+        "original_language": "en",
+        "original_title": "Star Trek IV: The Voyage Home",
+        "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+        "popularity": 3.2981,
+        "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+        "release_date": "1986-11-26",
+        "title": "Star Trek IV: The Voyage Home",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 1586
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 196,
+        "original_language": "en",
+        "original_title": "Back to the Future Part III",
+        "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+        "popularity": 11.6582,
+        "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "release_date": "1990-05-25",
+        "title": "Back to the Future Part III",
+        "video": false,
+        "vote_average": 7.489,
+        "vote_count": 11218
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+        "genre_ids": [
+          53,
+          12
+        ],
+        "id": 213,
+        "original_language": "en",
+        "original_title": "North by Northwest",
+        "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+        "popularity": 6.1604,
+        "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+        "release_date": "1959-08-06",
+        "title": "North by Northwest",
+        "video": false,
+        "vote_average": 7.978,
+        "vote_count": 4367
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c4hWk3pBYlpukYNFeEq29wpxAO1.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 233,
+        "original_language": "en",
+        "original_title": "The Wanderers",
+        "overview": "The streets of the Bronx are owned by '60s youth gangs where the joy and pain of adolescence is lived. Philip Kaufman tells his take on the novel by Richard Price about the history of the Italian-American gang ‘The Wanderers.’",
+        "popularity": 1.5322,
+        "poster_path": "/p8vxJHlCbmmnUX3p8bEAzXZfcIT.jpg",
+        "release_date": "1979-07-13",
+        "title": "The Wanderers",
+        "video": false,
+        "vote_average": 6.967,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 235,
+        "original_language": "en",
+        "original_title": "Stand by Me",
+        "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+        "popularity": 10.7391,
+        "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+        "release_date": "1986-08-08",
+        "title": "Stand by Me",
+        "video": false,
+        "vote_average": 7.848,
+        "vote_count": 6276
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 18.3623,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 13443
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 242,
+        "original_language": "en",
+        "original_title": "The Godfather Part III",
+        "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+        "popularity": 14.4319,
+        "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+        "release_date": "1990-12-25",
+        "title": "The Godfather Part III",
+        "video": false,
+        "vote_average": 7.418,
+        "vote_count": 6644
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP6WiYHQUUXo6ZaXI06enkMsxkF.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28
+        ],
+        "id": 246,
+        "original_language": "ja",
+        "original_title": "座頭市",
+        "overview": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
+        "popularity": 2.7254,
+        "poster_path": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg",
+        "release_date": "2003-09-06",
+        "title": "Zatoichi",
+        "video": false,
+        "vote_average": 7.233,
+        "vote_count": 921
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kYaqmkeCSqNSat8nKgdLSz0A20l.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 248,
+        "original_language": "en",
+        "original_title": "Pocketful of Miracles",
+        "overview": "A New York gangster and his girlfriend attempt to turn street beggar Apple Annie into a society lady when the peddler learns her daughter is marrying royalty.",
+        "popularity": 1.611,
+        "poster_path": "/xjXwcGJjT5tE22wazQUYH32HwU8.jpg",
+        "release_date": "1961-12-18",
+        "title": "Pocketful of Miracles",
+        "video": false,
+        "vote_average": 7.273,
+        "vote_count": 176
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28
+        ],
+        "id": 254,
+        "original_language": "en",
+        "original_title": "King Kong",
+        "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+        "popularity": 11.2924,
+        "poster_path": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+        "release_date": "2005-12-12",
+        "title": "King Kong",
+        "video": false,
+        "vote_average": 6.888,
+        "vote_count": 8296
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+        "genre_ids": [
+          878,
+          18,
+          10749
+        ],
+        "id": 38,
+        "original_language": "en",
+        "original_title": "Eternal Sunshine of the Spotless Mind",
+        "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+        "popularity": 13.4181,
+        "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+        "release_date": "2004-03-19",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "video": false,
+        "vote_average": 8.092,
+        "vote_count": 15911
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10402
+        ],
+        "id": 71,
+        "original_language": "en",
+        "original_title": "Billy Elliot",
+        "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+        "popularity": 3.2778,
+        "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+        "release_date": "2000-09-28",
+        "title": "Billy Elliot",
+        "video": false,
+        "vote_average": 7.594,
+        "vote_count": 3996
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+        "genre_ids": [
+          18,
+          12,
+          28,
+          36
+        ],
+        "id": 79,
+        "original_language": "zh",
+        "original_title": "英雄",
+        "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+        "popularity": 8.4594,
+        "poster_path": "/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
+        "release_date": "2002-07-22",
+        "title": "Hero",
+        "video": false,
+        "vote_average": 7.506,
+        "vote_count": 2408
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2hS80sTgsSmK0T61bd5J9YBc52k.jpg",
+        "genre_ids": [
+          80,
+          18,
+          28
+        ],
+        "id": 101,
+        "original_language": "fr",
+        "original_title": "Léon",
+        "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+        "popularity": 16.6292,
+        "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+        "release_date": "1994-09-14",
+        "title": "Léon: The Professional",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 15663
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 103,
+        "original_language": "en",
+        "original_title": "Taxi Driver",
+        "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+        "popularity": 14.744,
+        "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "release_date": "1976-02-09",
+        "title": "Taxi Driver",
+        "video": false,
+        "vote_average": 8.131,
+        "vote_count": 13064
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28,
+          10749
+        ],
+        "id": 146,
+        "original_language": "zh",
+        "original_title": "卧虎藏龍",
+        "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+        "popularity": 9.5615,
+        "poster_path": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+        "release_date": "2000-07-06",
+        "title": "Crouching Tiger, Hidden Dragon",
+        "video": false,
+        "vote_average": 7.433,
+        "vote_count": 3454
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+        "genre_ids": [
+          878,
+          12,
+          9648
+        ],
+        "id": 152,
+        "original_language": "en",
+        "original_title": "Star Trek: The Motion Picture",
+        "overview": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
+        "popularity": 3.7836,
+        "poster_path": "/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+        "release_date": "1979-12-07",
+        "title": "Star Trek: The Motion Picture",
+        "video": false,
+        "vote_average": 6.481,
+        "vote_count": 1848
+      }
+    ],
+    "total_pages": 16542,
+    "total_results": 330821
+  }
+}

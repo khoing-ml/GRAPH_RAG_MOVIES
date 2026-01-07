@@ -1,0 +1,521 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/rxQjuLpnvve3nuDOeWSqhKTdSTj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/80194946",
+    "id": 529414,
+    "imdb_id": "tt8467922",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Franco Escamilla: por la anécdota",
+    "overview": "Mexican stand-up comedian Franco Escamilla draws his jokes from real-life experiences -- and he's willing to do anything for new material. He's not afraid to make generalizations about how men bathe. But he is scared to talk to strangers. Especially at funerals.",
+    "popularity": 0.4248,
+    "poster_path": "/iT5LzAICUgviiSY0d5461MKNSOc.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2018-06-08",
+    "revenue": 0,
+    "runtime": 66,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Franco Escamilla: por la anécdota",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 140
+  },
+  "credits": {
+    "id": 529414,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021651,
+        "known_for_department": "Acting",
+        "name": "Franco Escamilla",
+        "original_name": "Franco Escamilla",
+        "popularity": 1.1229,
+        "profile_path": "/ruB2oWA78u4TlMeCb82TU9beL2G.jpg",
+        "cast_id": 0,
+        "character": "Himself",
+        "credit_id": "5b1e81990e0a264fa700b0a1",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021651,
+        "known_for_department": "Acting",
+        "name": "Franco Escamilla",
+        "original_name": "Franco Escamilla",
+        "popularity": 1.1229,
+        "profile_path": "/ruB2oWA78u4TlMeCb82TU9beL2G.jpg",
+        "credit_id": "6509ef5081c7be013af10647",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2062093,
+        "known_for_department": "Directing",
+        "name": "Ulises Valencia",
+        "original_name": "Ulises Valencia",
+        "popularity": 0.2366,
+        "profile_path": null,
+        "credit_id": "5b1e81c6925141661800c2d2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1306083,
+        "known_for_department": "Production",
+        "name": "Vidal Cantú",
+        "original_name": "Vidal Cantú",
+        "popularity": 0.1334,
+        "profile_path": null,
+        "credit_id": "5dbcc6540792e100184bdc9d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1306082,
+        "known_for_department": "Production",
+        "name": "Adolfo Franco",
+        "original_name": "Adolfo Franco",
+        "popularity": 0.1805,
+        "profile_path": "/kry16Q38RJw4iCAMFCMexZTChNS.jpg",
+        "credit_id": "5dbcc6370f2fbd00117b4878",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2446529,
+        "known_for_department": "Sound",
+        "name": "Carlos Arredondo",
+        "original_name": "Carlos Arredondo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5dbcc6ae97a4e600157c6efd",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 529414,
+    "keywords": [
+      {
+        "id": 3485,
+        "name": "comedian"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1850,
+        "original_language": "en",
+        "original_title": "Man on the Moon",
+        "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+        "popularity": 2.0008,
+        "poster_path": "/d8rahmdfryjdmvLpSsDOUhGVQXl.jpg",
+        "release_date": "1999-12-22",
+        "title": "Man on the Moon",
+        "video": false,
+        "vote_average": 7.246,
+        "vote_count": 1905
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uuJRKUZ4jWIVLC7g7USejfeqfoD.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1236400,
+        "original_language": "de",
+        "original_title": "Die Ironie des Lebens",
+        "overview": "The 67-year-old Edgar is the most successful elderly comedian in Germany. Every evening on stage, he makes fun of everything that concerns older people: failed relationships, ungrateful children, a declining libido, rapidly deteriorating health, general uselessness and imminent death. But as soon as the show is over, what's left is a man who is really lonely and tries to fill his empty evenings with groupies and alcohol. When, after 25 years, he meets his ex-wife Eva again, who is terminally ill with cancer, the two begin to fall in love again against all odds and Eva decides to accompany Edgar on his comedy tour through Germany and Austria...",
+        "popularity": 0.2295,
+        "poster_path": "/hdwFE7AGfgVv0qFbjpqHPwKmNa1.jpg",
+        "release_date": "2024-09-05",
+        "title": "Die Ironie des Lebens",
+        "video": false,
+        "vote_average": 6.125,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1235400,
+        "original_language": "en",
+        "original_title": "#Cancelholtzman",
+        "overview": "A new stand-up special from comedy legend Brian Holtzman, live from the main room of the world famous Comedy Store.",
+        "popularity": 0.6434,
+        "poster_path": "/3nYADazjrVnDe0NcONyk1tumBv3.jpg",
+        "release_date": "2023-05-31",
+        "title": "#Cancelholtzman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 272950,
+        "original_language": "en",
+        "original_title": "Paddy McGuinness - Saturday Night Live",
+        "overview": "Let the party see the people! The star of ITV1's primetime dating show, Take Me Out is back on tour for 2011! Paddy McGuinness' effortless charm, charisma and disarming manner with a live audience are second to none. Watch him live and at his funniest on one of 2011's most eagerly anticipated stand-up tours.",
+        "popularity": 0.1408,
+        "poster_path": "/mngb7Fo2RAf6UJYyke6s57zos9y.jpg",
+        "release_date": "2011-11-21",
+        "title": "Paddy McGuinness - Saturday Night Live",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 460625,
+        "original_language": "en",
+        "original_title": "The Funny Farm",
+        "overview": "The laughs are nonstop as a gang of ambitious young comics strives to make it in the exciting world of stand-up comedy at the famous comedy club in L.A., The Funny Farm. These budding comedy stars are as crazy offstage as they are on: Miguel, America s funniest illegal alien ; Miles, who can t decide if he s a black comic or a comic who happens to be black; Bruce, whose manic act borders on insanity; and Peter, the intense political satirist. The Funny Farm is a hilarious and insightful look into those who live the lives of comedians.",
+        "popularity": 0.3315,
+        "poster_path": "/haEVyRU1pKKxAAnLPUnlVCXynxF.jpg",
+        "release_date": "1983-02-18",
+        "title": "The Funny Farm",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 4543,
+        "original_language": "en",
+        "original_title": "Monty Python's The Meaning of Life",
+        "overview": "Life's questions are 'answered' in a series of outrageous vignettes, beginning with a staid London insurance company which transforms before our eyes into a pirate ship. Then there's the National Health doctors who try to claim a healthy liver from a still-living donor. The world's most voracious glutton brings the art of vomiting to new heights before his spectacular demise.",
+        "popularity": 2.5484,
+        "poster_path": "/9yavZ9WgEZIpWi2EbVW8At9RPdo.jpg",
+        "release_date": "1983-03-31",
+        "title": "Monty Python's The Meaning of Life",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 2024
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pIt6FWBglWBGrJn7y23gDSCHHip.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 56218,
+        "original_language": "en",
+        "original_title": "Margaret Cho: Beautiful",
+        "overview": "Learning to love her luscious self over the past forty years, comedian Margaret Cho realized that the eye of the beholder doesn't hold all the power when it comes to beauty. Our tastes may be groomed by the media, but how we feel about how we look brings our self-image into focus. Armed with something more potent than lip gloss - a mouth so shocking and raunchy it should be stamped with a warning - Cho toured America with her manifesto: \"This show is really about how we should feel beautiful,\" says Cho. \"When you feel beautiful, you're going to have more of a willingness to use your voice to speak.\" Shot at the Long Beach Terrace Theater, Cho's latest stand-up concert film, Beautiful, explores the good, bad, and downright ugly in beauty, and the unattractive politicians and marketers who shape our world.",
+        "popularity": 0.2298,
+        "poster_path": "/kui62Ui3LKT8kVPCUjJgSO2ymg4.jpg",
+        "release_date": "2009-07-03",
+        "title": "Margaret Cho: Beautiful",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4LO2vnEpM1KfhhBp4pg7ePT8XEb.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 20543,
+        "original_language": "en",
+        "original_title": "Steven Wright: When the Leaves Blow Away",
+        "overview": "Dry, wry and hilariously deadpan, Steven Wright unleashes a torrent of ironic and hysterical thought-provoking one-liners in the quirky stand-up style that has become his trademark. From Toronto's historic Elgin Theater, this Oscar-winning comedian keeps an adoring audience in stitches with random observations on everything from baby monitors as a form of wiretapping to his addiction to placebos.",
+        "popularity": 0.1587,
+        "poster_path": "/AmSFccXwy8tQIfibSkzIkl8DiCB.jpg",
+        "release_date": "2006-10-21",
+        "title": "Steven Wright: When the Leaves Blow Away",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/stNs9ZEcTT9tkZwGNt1HBxAsfXl.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 20829,
+        "original_language": "en",
+        "original_title": "Funny People",
+        "overview": "Famous and wealthy funnyman George Simmons doesn't give much thought to how he treats people until a doctor delivers stunning health news, forcing George to reevaluate his priorities with a little help from aspiring stand-up comic Ira.",
+        "popularity": 1.9445,
+        "poster_path": "/gEYKD5cWCBGg8Za3hhwDBk3gEsP.jpg",
+        "release_date": "2009-07-30",
+        "title": "Funny People",
+        "video": false,
+        "vote_average": 5.886,
+        "vote_count": 1373
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mjkZdwctyi1uINESy3V5nFOIjpJ.jpg",
+        "genre_ids": [
+          35,
+          99,
+          10770
+        ],
+        "id": 26621,
+        "original_language": "en",
+        "original_title": "Robin Williams: Weapons of Self Destruction",
+        "overview": "HBO presents one of the most gifted and revered performers of our time, Academy-Award winning Robin Williams, starring in his fifth exclusive HBO special, taped before a live audience at Washington's Constitution Hall.",
+        "popularity": 0.1434,
+        "poster_path": "/kjEElgEFtAtyadUt8JayBLUw5Sf.jpg",
+        "release_date": "2009-12-06",
+        "title": "Robin Williams: Weapons of Self Destruction",
+        "video": false,
+        "vote_average": 7.417,
+        "vote_count": 78
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 287801,
+        "original_language": "en",
+        "original_title": "Dennis Miller: America 180",
+        "overview": "Dennis Miller examines the current stat of our Union.  From the blunders of President Obama's healthcare initiative, to our wild efforts to save the planet, his take on today's America is both hysterical and painfully right on target.",
+        "popularity": 0.1821,
+        "poster_path": "/8Imy6lLaBYBkidW3oC1CH4zzgQX.jpg",
+        "release_date": "2014-06-13",
+        "title": "Dennis Miller: America 180",
+        "video": false,
+        "vote_average": 2.8,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jQE3l8Xmt2sseSozt53gaHKIIqr.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 18199,
+        "original_language": "en",
+        "original_title": "Frankie Boyle: Live",
+        "overview": "Critically acclaimed comedian Frankie Boyle presents his hotly-anticipated first live stand-up DVD. Recorded live during his sell-out shows at London's Hackney Empire, Frankie's unique brand of observational comedy and brutal but perfectly constructed one-liners prove he is one of the best gag writers in the business.",
+        "popularity": 0.1861,
+        "poster_path": "/aYWXrdv10ODyGeVs1P1YIMnWoQn.jpg",
+        "release_date": "2008-11-10",
+        "title": "Frankie Boyle: Live",
+        "video": false,
+        "vote_average": 6.788,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8rntSpUgAjc73tceg9im3u7xHHh.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 286500,
+        "original_language": "en",
+        "original_title": "Saturday Night Live: The Best of Chris Farley",
+        "overview": "He's gone-but he'll never be forgotten. The best of Chris Farley's wildly funny SNL performances are here, including motivational speaker Matt Foley, an aspiring Chippendales dancer, the bashful host of The Chris Farley Show ( m 'member?\") and more.",
+        "popularity": 0.3032,
+        "poster_path": "/t2WsuYsiN7uRalBJtd7PvwHbPp9.jpg",
+        "release_date": "2003-10-26",
+        "title": "Saturday Night Live: The Best of Chris Farley",
+        "video": true,
+        "vote_average": 7.414,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qygF3AK01NjRykFbZUJhMnIfYjm.jpg",
+        "genre_ids": [
+          35,
+          10770
+        ],
+        "id": 1054702,
+        "original_language": "en",
+        "original_title": "The Roast of Paul Hogan",
+        "overview": "Aussie comedy legends roast an Aussie comedy Icon in this hilarious, no holds barred special.",
+        "popularity": 0.2164,
+        "poster_path": "/5jzBYOqi82u4tHItwymokWJLyZ7.jpg",
+        "release_date": "2022-11-22",
+        "title": "The Roast of Paul Hogan",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPLDPHwEuXMgo5spk1asUoIWhqM.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          28
+        ],
+        "id": 27364,
+        "original_language": "en",
+        "original_title": "Paris Holiday",
+        "overview": "Comedian Bob Hunter is aided by his French counterpart Fernydel and two beautiful blondes when he is targeted for death by a powerful European counterfeiting ring.",
+        "popularity": 2.1467,
+        "poster_path": "/eo6SRdDvE8raANLMSENLKGdaPLo.jpg",
+        "release_date": "1958-04-05",
+        "title": "Paris Holiday",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zesV0YrJk7l4zisIYSIpm46bRRe.jpg",
+        "genre_ids": [
+          99,
+          35
+        ],
+        "id": 1266611,
+        "original_language": "en",
+        "original_title": "The Life and Death of Lily Savage",
+        "overview": "Intimate documentary exploring how Paul O'Grady's creation, Lily Savage, took mainstream TV by storm. Unravel the real story of Lily with insights from Paul's daughter and famous pals.",
+        "popularity": 0.1855,
+        "poster_path": "/p0Diw8iPO6NwDKI4u1eAkm0jyjJ.jpg",
+        "release_date": "2024-03-29",
+        "title": "The Life and Death of Lily Savage",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lGXtr3CirFSPzbcqQxUP2CPeTj4.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1453677,
+        "original_language": "en",
+        "original_title": "Kill Tony: Kill or Be Killed",
+        "overview": "A bucket, a mic and one minute to win over Tony Hinchcliffe and a panel of famous guests. This is stand-up at its most unforgiving — and unpredictable.",
+        "popularity": 0.4344,
+        "poster_path": "/w2PnMs3nGj4bfLROUGGnxR1zl6v.jpg",
+        "release_date": "2025-04-07",
+        "title": "Kill Tony: Kill or Be Killed",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/miFsgaP3u8CKiwQ0aSMrefNnM7R.jpg",
+        "genre_ids": [
+          35,
+          10770
+        ],
+        "id": 30969,
+        "original_language": "en",
+        "original_title": "Louis C.K.: Chewed Up",
+        "overview": "Profane, vulgar and obscenely funny, Louis C.K. insists on telling the truth, whether you like it or not! Join the Emmy Award-winning stand-up comic and TV star (Lucky Louie) as he shares his thoughts on the stuff everyone thinks about -- male bodily fluids, the joys of being white, the difference between women and girls -- but never has the nerve to say. It's Louis C.K. at his risk-taking best: fearless, honest and totally outrageous! Nominated for the 2009 Emmy for Outstanding Writing for a Variety, Music or Comedy Special",
+        "popularity": 0.2528,
+        "poster_path": "/jJpTrCHb4ETP2zzjA5RQgJHBxed.jpg",
+        "release_date": "2008-10-01",
+        "title": "Louis C.K.: Chewed Up",
+        "video": false,
+        "vote_average": 7.862,
+        "vote_count": 203
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xgO8pLzTbQSPXdTRfh56NnXxx7N.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 28376,
+        "original_language": "en",
+        "original_title": "Bill Bailey's Remarkable Guide to the Orchestra",
+        "overview": "The show, recorded at London's magnificent Royal Albert Hall, is Bill's own hilarious and irreverent guide to the sounds, styles, and instruments of the orchestra, with a wide and eclectic range of subjects, including music for '70s cop shows, sci-fi films, horror movies, news themes, plus some of Bill's own songs re-imagined for an orchestra, and including Anne's own specially written new works.",
+        "popularity": 0.1431,
+        "poster_path": "/8xIILfDvMdCzqsOt1yNiTsTTXYg.jpg",
+        "release_date": "2009-11-23",
+        "title": "Bill Bailey's Remarkable Guide to the Orchestra",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/efzi1cdexf7VWHwzonet0O1qHtv.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1263236,
+        "original_language": "en",
+        "original_title": "Mike Recine: I’m Normal",
+        "overview": "In his debut standup special, Mike Recine dives into showering with his mom, the popularity of sting rays, and how to be there for your wife while she's giving birth.",
+        "popularity": 0.4272,
+        "poster_path": "/4Z5CsEAHmJocRWxaxhmkdYtEdmk.jpg",
+        "release_date": "2024-03-21",
+        "title": "Mike Recine: I’m Normal",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 8394,
+    "total_results": 167869
+  }
+}

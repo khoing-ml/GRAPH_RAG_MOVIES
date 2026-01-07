@@ -1,0 +1,707 @@
+{
+  "category": "specific_film_info",
+  "description": "Complex queries testing detailed film information retrieval with multiple constraints",
+  "total_queries": 100,
+  "queries": [
+    {
+      "id": 1,
+      "query": "What is the complete filming timeline and production budget for Avatar: The Way of Water including all delays?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "BUDGET", "TIMELINE"],
+      "entities": ["Movie:Avatar The Way of Water", "Info:Budget", "Info:Timeline", "Info:Delays"]
+    },
+    {
+      "id": 2,
+      "query": "Which actors from the original Blade Runner returned for Blade Runner 2049 and what roles did they reprise?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "SEQUEL_OF", "CHARACTER_ROLE"],
+      "entities": ["Movie:Blade Runner", "Movie:Blade Runner 2049", "Person:Actor", "Element:Returning Cast"]
+    },
+    {
+      "id": 3,
+      "query": "What are all the locations where The Lord of the Rings trilogy was filmed and which scenes correspond to each location?",
+      "complexity": "very_high",
+      "relations": ["FILMED_IN", "SCENE_LOCATION"],
+      "entities": ["Franchise:Lord of the Rings", "Info:Filming Location", "Info:Scenes"]
+    },
+    {
+      "id": 4,
+      "query": "How many different cuts or versions of Blade Runner exist and what are the major differences between them?",
+      "complexity": "high",
+      "relations": ["VERSION", "DIFFERENCES"],
+      "entities": ["Movie:Blade Runner", "Info:Versions", "Info:Cuts", "Info:Differences"]
+    },
+    {
+      "id": 5,
+      "query": "What awards did Parasite win at Cannes, Oscars, and other major film festivals?",
+      "complexity": "high",
+      "relations": ["WON_AWARD", "NOMINATED_FOR"],
+      "entities": ["Movie:Parasite", "Award:Cannes", "Award:Oscar", "Award:Film Festival"]
+    },
+    {
+      "id": 6,
+      "query": "Which scenes in Mad Max: Fury Road were shot with practical effects versus CGI enhancement?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "SCENE"],
+      "entities": ["Movie:Mad Max Fury Road", "Technique:Practical", "Technique:CGI", "Info:Scenes"]
+    },
+    {
+      "id": 7,
+      "query": "What is the chronological order of events in the Memento storyline versus the film's presentation order?",
+      "complexity": "very_high",
+      "relations": ["NARRATIVE_STRUCTURE", "TIMELINE"],
+      "entities": ["Movie:Memento", "Structure:Chronological", "Structure:Presentation", "Element:Timeline"]
+    },
+    {
+      "id": 8,
+      "query": "How many actors have portrayed Batman across all theatrical films and what were their film's box office performances?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "CHARACTER_ROLE", "BOX_OFFICE"],
+      "entities": ["Character:Batman", "Person:Actor", "Info:Box Office", "Format:Theatrical"]
+    },
+    {
+      "id": 9,
+      "query": "What was the original runtime of The Godfather Part II before editing and what scenes were cut?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "EDITING", "DELETED_SCENES"],
+      "entities": ["Movie:The Godfather Part II", "Info:Runtime", "Info:Cut Scenes", "Process:Editing"]
+    },
+    {
+      "id": 10,
+      "query": "Which composers created the musical scores for all films in the Star Wars sequel trilogy?",
+      "complexity": "high",
+      "relations": ["MUSIC_BY", "PART_OF"],
+      "entities": ["Franchise:Star Wars Sequel", "Person:Composer", "Element:Musical Score"]
+    },
+    {
+      "id": 11,
+      "query": "What books or source materials did Denis Villeneuve's Dune Part One and Part Two adapt from Frank Herbert's novel?",
+      "complexity": "high",
+      "relations": ["ADAPTED_FROM", "SOURCE_MATERIAL"],
+      "entities": ["Movie:Dune Part One", "Movie:Dune Part Two", "Source:Novel", "Author:Frank Herbert"]
+    },
+    {
+      "id": 12,
+      "query": "How long did it take to complete the motion capture performance and rendering for Avatar's Na'vi characters?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "PRODUCTION_TIMELINE"],
+      "entities": ["Movie:Avatar", "Technique:Motion Capture", "Character:Na'vi", "Info:Timeline"]
+    },
+    {
+      "id": 13,
+      "query": "What historical events and time period does Schindler's List accurately depict and document?",
+      "complexity": "high",
+      "relations": ["BASED_ON", "SET_IN", "DEPICTS"],
+      "entities": ["Movie:Schindler's List", "Info:Historical Event", "Info:Time Period", "Quality:Accuracy"]
+    },
+    {
+      "id": 14,
+      "query": "Which cinematographer worked on all three films in Christopher Nolan's Dark Knight trilogy?",
+      "complexity": "high",
+      "relations": ["CINEMATOGRAPHY_BY", "PART_OF", "DIRECTED"],
+      "entities": ["Franchise:Dark Knight", "Person:Christopher Nolan", "Person:Cinematographer"]
+    },
+    {
+      "id": 15,
+      "query": "What are the connections between Prometheus and the original Alien film in terms of timeline and mythology?",
+      "complexity": "very_high",
+      "relations": ["PREQUEL_OF", "TIMELINE", "MYTHOLOGY"],
+      "entities": ["Movie:Prometheus", "Movie:Alien", "Franchise:Alien", "Info:Timeline", "Info:Mythology"]
+    },
+    {
+      "id": 16,
+      "query": "How much did the budget of the Fast and Furious franchise increase from the first film to the latest?",
+      "complexity": "high",
+      "relations": ["BUDGET", "PART_OF", "COMPARISON"],
+      "entities": ["Franchise:Fast and Furious", "Info:Budget", "Pattern:Increase"]
+    },
+    {
+      "id": 17,
+      "query": "What camera format and aspect ratio were used to film Dunkirk's different timeline segments?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "NARRATIVE_STRUCTURE"],
+      "entities": ["Movie:Dunkirk", "Technique:Camera Format", "Technique:Aspect Ratio", "Structure:Timeline"]
+    },
+    {
+      "id": 18,
+      "query": "Which actors in Inglourious Basterds spoke their characters' lines in multiple different languages?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "LANGUAGE"],
+      "entities": ["Movie:Inglourious Basterds", "Person:Actor", "Info:Multilingual", "Element:Dialogue"]
+    },
+    {
+      "id": 19,
+      "query": "What percentage of scenes in Gravity were created entirely with CGI versus practical sets?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "PERCENTAGE"],
+      "entities": ["Movie:Gravity", "Technique:CGI", "Technique:Practical", "Info:Percentage"]
+    },
+    {
+      "id": 20,
+      "query": "How many different directors worked on the Marvel Cinematic Universe Phase 1 through Phase 4?",
+      "complexity": "high",
+      "relations": ["DIRECTED", "PART_OF"],
+      "entities": ["Franchise:MCU", "Person:Director", "Info:Count", "Scope:Phase 1-4"]
+    },
+    {
+      "id": 21,
+      "query": "What was the original intended ending for The Shining that Stanley Kubrick later changed?",
+      "complexity": "high",
+      "relations": ["DIRECTED", "PRODUCTION_INFO", "ALTERNATE_VERSION"],
+      "entities": ["Movie:The Shining", "Person:Stanley Kubrick", "Info:Original Ending", "Info:Changes"]
+    },
+    {
+      "id": 22,
+      "query": "Which stunt coordinators and second unit directors were responsible for John Wick's action sequences?",
+      "complexity": "high",
+      "relations": ["STUNT_COORDINATION", "SECOND_UNIT"],
+      "entities": ["Movie:John Wick", "Person:Stunt Coordinator", "Person:Second Unit Director", "Element:Action Sequence"]
+    },
+    {
+      "id": 23,
+      "query": "What is the complete mythology and lore established across all The Conjuring universe films?",
+      "complexity": "very_high",
+      "relations": ["PART_OF", "MYTHOLOGY", "WORLD_BUILDING"],
+      "entities": ["Franchise:The Conjuring", "Info:Mythology", "Info:Lore", "Scope:Universe"]
+    },
+    {
+      "id": 24,
+      "query": "How many years passed in real time between the filming of Before Sunrise, Before Sunset, and Before Midnight?",
+      "complexity": "high",
+      "relations": ["SEQUEL_OF", "PRODUCTION_TIMELINE"],
+      "entities": ["Movie:Before Sunrise", "Movie:Before Sunset", "Movie:Before Midnight", "Info:Time Gap"]
+    },
+    {
+      "id": 25,
+      "query": "What critical reception changes occurred between Blade Runner's original release and its later reevaluation?",
+      "complexity": "high",
+      "relations": ["CRITICAL_RECEPTION", "LEGACY", "TIMELINE"],
+      "entities": ["Movie:Blade Runner", "Info:Original Reception", "Info:Reevaluation", "Pattern:Change"]
+    },
+    {
+      "id": 26,
+      "query": "Which production companies and studios collaborated to produce The Grand Budapest Hotel?",
+      "complexity": "high",
+      "relations": ["PRODUCED_BY", "COLLABORATION"],
+      "entities": ["Movie:The Grand Budapest Hotel", "Company:Production", "Company:Studio", "Info:Collaboration"]
+    },
+    {
+      "id": 27,
+      "query": "What is the correct viewing order for Quentin Tarantino's films if watched chronologically within his shared universe?",
+      "complexity": "very_high",
+      "relations": ["DIRECTED", "SHARED_UNIVERSE", "TIMELINE"],
+      "entities": ["Person:Quentin Tarantino", "Universe:Tarantino Films", "Info:Chronological Order"]
+    },
+    {
+      "id": 28,
+      "query": "How many practical miniatures were built for the space station sequences in 2001: A Space Odyssey?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "PRODUCTION_INFO"],
+      "entities": ["Movie:2001 A Space Odyssey", "Technique:Miniatures", "Info:Count", "Element:Space Station"]
+    },
+    {
+      "id": 29,
+      "query": "What box office records did Avengers: Endgame break during its theatrical release and subsequent re-release?",
+      "complexity": "high",
+      "relations": ["BOX_OFFICE", "RECORDS"],
+      "entities": ["Movie:Avengers Endgame", "Info:Box Office Records", "Info:Theatrical", "Info:Re-release"]
+    },
+    {
+      "id": 30,
+      "query": "Which actors performed their own stunts in the Mission: Impossible franchise and which stunts did they do?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "STUNT_PERFORMANCE", "PART_OF"],
+      "entities": ["Franchise:Mission Impossible", "Person:Actor", "Info:Own Stunts", "Info:Specific Stunts"]
+    },
+    {
+      "id": 31,
+      "query": "What changes were made between the theatrical and director's cut of Kingdom of Heaven?",
+      "complexity": "high",
+      "relations": ["VERSION", "COMPARISON"],
+      "entities": ["Movie:Kingdom of Heaven", "Version:Theatrical", "Version:Director's Cut", "Info:Changes"]
+    },
+    {
+      "id": 32,
+      "query": "How many languages were spoken in the original audio track of The Passion of the Christ?",
+      "complexity": "high",
+      "relations": ["LANGUAGE", "PRODUCTION_INFO"],
+      "entities": ["Movie:The Passion of the Christ", "Info:Languages", "Info:Count", "Element:Audio Track"]
+    },
+    {
+      "id": 33,
+      "query": "What was the development history and script evolution of Apocalypse Now during its troubled production?",
+      "complexity": "very_high",
+      "relations": ["PRODUCTION_HISTORY", "SCRIPT_DEVELOPMENT"],
+      "entities": ["Movie:Apocalypse Now", "Info:Development", "Info:Script Changes", "Info:Production Troubles"]
+    },
+    {
+      "id": 34,
+      "query": "Which cast members from the Harry Potter films continued working together in other projects afterward?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "COLLABORATION", "PART_OF"],
+      "entities": ["Franchise:Harry Potter", "Person:Actor", "Pattern:Continued Collaboration"]
+    },
+    {
+      "id": 35,
+      "query": "What training did the actors undergo for the martial arts sequences in Crouching Tiger, Hidden Dragon?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "TRAINING", "ELEMENT"],
+      "entities": ["Movie:Crouching Tiger Hidden Dragon", "Person:Actor", "Training:Martial Arts", "Element:Sequences"]
+    },
+    {
+      "id": 36,
+      "query": "How many different endings were filmed for Fatal Attraction before the final theatrical version?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "ALTERNATE_VERSION"],
+      "entities": ["Movie:Fatal Attraction", "Info:Alternate Endings", "Info:Count", "Version:Theatrical"]
+    },
+    {
+      "id": 37,
+      "query": "What is the complete timeline of events across the Planet of the Apes reboot trilogy?",
+      "complexity": "high",
+      "relations": ["TIMELINE", "PART_OF"],
+      "entities": ["Franchise:Planet of the Apes Reboot", "Info:Timeline", "Info:Events", "Scope:Trilogy"]
+    },
+    {
+      "id": 38,
+      "query": "Which sound designers and composers collaborated to create the iconic soundscape of Inception?",
+      "complexity": "high",
+      "relations": ["SOUND_DESIGN", "MUSIC_BY", "COLLABORATION"],
+      "entities": ["Movie:Inception", "Person:Sound Designer", "Person:Composer", "Element:Soundscape"]
+    },
+    {
+      "id": 39,
+      "query": "What percentage of The Revenant was shot using only natural lighting as claimed by the cinematographer?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "CINEMATOGRAPHY"],
+      "entities": ["Movie:The Revenant", "Technique:Natural Lighting", "Info:Percentage", "Person:Cinematographer"]
+    },
+    {
+      "id": 40,
+      "query": "How many practical sets versus digital environments were used in The Matrix Reloaded's Zion sequences?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "LOCATION"],
+      "entities": ["Movie:The Matrix Reloaded", "Technique:Practical Sets", "Technique:Digital", "Location:Zion"]
+    },
+    {
+      "id": 41,
+      "query": "What source material from Stephen King's work was combined to create Doctor Sleep's adaptation?",
+      "complexity": "high",
+      "relations": ["ADAPTED_FROM", "SOURCE_MATERIAL"],
+      "entities": ["Movie:Doctor Sleep", "Author:Stephen King", "Source:Novel", "Info:Combined Materials"]
+    },
+    {
+      "id": 42,
+      "query": "Which cinematographic techniques from Citizen Kane were innovative for 1941 and influenced later filmmaking?",
+      "complexity": "very_high",
+      "relations": ["CINEMATOGRAPHY", "INNOVATION", "INFLUENCE"],
+      "entities": ["Movie:Citizen Kane", "Year:1941", "Technique:Innovative", "Impact:Influence"]
+    },
+    {
+      "id": 43,
+      "query": "What was the shooting ratio (footage shot versus used) for the making of Apocalypse Now?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "STATISTICS"],
+      "entities": ["Movie:Apocalypse Now", "Info:Shooting Ratio", "Info:Footage", "Info:Statistics"]
+    },
+    {
+      "id": 44,
+      "query": "How many different timelines or temporal layers exist in Christopher Nolan's Tenet narrative structure?",
+      "complexity": "very_high",
+      "relations": ["NARRATIVE_STRUCTURE", "TIMELINE"],
+      "entities": ["Movie:Tenet", "Person:Christopher Nolan", "Structure:Timelines", "Info:Count"]
+    },
+    {
+      "id": 45,
+      "query": "What was the complete production timeline from script to release for Boyhood filmed over 12 years?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TIMELINE", "PRODUCTION_INFO"],
+      "entities": ["Movie:Boyhood", "Info:Timeline", "Duration:12 Years", "Process:Script to Release"]
+    },
+    {
+      "id": 46,
+      "query": "Which actors in Cloud Atlas portrayed multiple characters and what were all their different roles?",
+      "complexity": "very_high",
+      "relations": ["ACTED_IN", "CHARACTER_ROLE"],
+      "entities": ["Movie:Cloud Atlas", "Person:Actor", "Pattern:Multiple Roles", "Info:Character List"]
+    },
+    {
+      "id": 47,
+      "query": "What historical inaccuracies were intentionally included in Braveheart for dramatic purposes?",
+      "complexity": "high",
+      "relations": ["BASED_ON", "ACCURACY", "CREATIVE_CHOICE"],
+      "entities": ["Movie:Braveheart", "Info:Historical Inaccuracies", "Reason:Dramatic", "Choice:Intentional"]
+    },
+    {
+      "id": 48,
+      "query": "How many crew members worked on the practical effects for The Thing's creature transformations?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "PRACTICAL_EFFECTS"],
+      "entities": ["Movie:The Thing", "Info:Crew Count", "Technique:Practical Effects", "Element:Creature"]
+    },
+    {
+      "id": 49,
+      "query": "What is the relationship between the different narrative threads in Pulp Fiction's non-linear structure?",
+      "complexity": "very_high",
+      "relations": ["NARRATIVE_STRUCTURE", "TIMELINE", "CONNECTIONS"],
+      "entities": ["Movie:Pulp Fiction", "Structure:Non-linear", "Element:Narrative Threads", "Info:Relationships"]
+    },
+    {
+      "id": 50,
+      "query": "Which scenes in Jurassic Park used animatronics versus CGI dinosaurs and why?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "CREATIVE_CHOICE"],
+      "entities": ["Movie:Jurassic Park", "Technique:Animatronics", "Technique:CGI", "Info:Scenes", "Info:Reasoning"]
+    },
+    {
+      "id": 51,
+      "query": "What was the complete casting process and screen tests for finding the lead role in The Wolf of Wall Street?",
+      "complexity": "high",
+      "relations": ["CASTING", "PRODUCTION_INFO"],
+      "entities": ["Movie:The Wolf of Wall Street", "Process:Casting", "Process:Screen Tests", "Role:Lead"]
+    },
+    {
+      "id": 52,
+      "query": "How many different versions of the song 'My Heart Will Go On' appear in Titanic's soundtrack?",
+      "complexity": "high",
+      "relations": ["MUSIC", "SOUNDTRACK"],
+      "entities": ["Movie:Titanic", "Song:My Heart Will Go On", "Info:Versions", "Info:Count"]
+    },
+    {
+      "id": 53,
+      "query": "What production challenges did the team face while filming The Revenant in extreme weather conditions?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "CHALLENGES", "FILMING_CONDITIONS"],
+      "entities": ["Movie:The Revenant", "Info:Challenges", "Condition:Extreme Weather", "Process:Filming"]
+    },
+    {
+      "id": 54,
+      "query": "Which performers in La La Land did their own singing and dancing versus using stand-ins or dubbing?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "PERFORMANCE", "TECHNIQUE"],
+      "entities": ["Movie:La La Land", "Person:Actor", "Skill:Singing", "Skill:Dancing", "Info:Own Performance"]
+    },
+    {
+      "id": 55,
+      "query": "What was the complete motion capture technology pipeline used to create Gollum in Lord of the Rings?",
+      "complexity": "very_high",
+      "relations": ["PRODUCTION_TECHNIQUE", "TECHNOLOGY", "CHARACTER"],
+      "entities": ["Franchise:Lord of the Rings", "Character:Gollum", "Technique:Motion Capture", "Info:Pipeline"]
+    },
+    {
+      "id": 56,
+      "query": "How many practical locations were used versus studio sets for the filming of Skyfall?",
+      "complexity": "high",
+      "relations": ["FILMING_LOCATION", "PRODUCTION_INFO"],
+      "entities": ["Movie:Skyfall", "Location:Practical", "Location:Studio", "Info:Count", "Info:Comparison"]
+    },
+    {
+      "id": 57,
+      "query": "What is the complete mythology of the xenomorphs explained across all Alien franchise films?",
+      "complexity": "very_high",
+      "relations": ["PART_OF", "MYTHOLOGY", "CHARACTER"],
+      "entities": ["Franchise:Alien", "Character:Xenomorph", "Info:Mythology", "Scope:Complete"]
+    },
+    {
+      "id": 58,
+      "query": "Which scenes in Birdman were actual single long takes versus cleverly hidden cuts?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "CINEMATOGRAPHY"],
+      "entities": ["Movie:Birdman", "Technique:Long Take", "Technique:Hidden Cuts", "Info:Scenes"]
+    },
+    {
+      "id": 59,
+      "query": "What training regimen did Christian Bale undergo for his physical transformation in The Machinist and Batman Begins?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "PHYSICAL_TRANSFORMATION", "TRAINING"],
+      "entities": ["Person:Christian Bale", "Movie:The Machinist", "Movie:Batman Begins", "Info:Training", "Info:Transformation"]
+    },
+    {
+      "id": 60,
+      "query": "How many different practical space suits were designed and built for Interstellar's production?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "COSTUME_DESIGN"],
+      "entities": ["Movie:Interstellar", "Info:Space Suits", "Info:Count", "Technique:Practical"]
+    },
+    {
+      "id": 61,
+      "query": "What changes were made between George Lucas's original Star Wars trilogy and the Special Edition releases?",
+      "complexity": "very_high",
+      "relations": ["VERSION", "COMPARISON", "PART_OF"],
+      "entities": ["Franchise:Star Wars Original Trilogy", "Version:Original", "Version:Special Edition", "Info:Changes"]
+    },
+    {
+      "id": 62,
+      "query": "Which composers created leitmotifs for specific characters in the Star Wars saga and what themes represent whom?",
+      "complexity": "very_high",
+      "relations": ["MUSIC_BY", "CHARACTER", "PART_OF"],
+      "entities": ["Franchise:Star Wars", "Person:Composer", "Element:Leitmotif", "Info:Character Themes"]
+    },
+    {
+      "id": 63,
+      "query": "What was the production budget allocation breakdown for Avatar's different technical departments?",
+      "complexity": "high",
+      "relations": ["BUDGET", "PRODUCTION_INFO", "DEPARTMENT"],
+      "entities": ["Movie:Avatar", "Info:Budget", "Info:Allocation", "Info:Departments"]
+    },
+    {
+      "id": 64,
+      "query": "How many different camera rigs and filming techniques were invented specifically for The Matrix's action scenes?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TECHNIQUE", "INNOVATION"],
+      "entities": ["Movie:The Matrix", "Technique:Camera Rigs", "Info:Invented", "Element:Action Scenes"]
+    },
+    {
+      "id": 65,
+      "query": "What is the complete timeline of Middle-earth events depicted across The Hobbit and Lord of the Rings films?",
+      "complexity": "very_high",
+      "relations": ["TIMELINE", "PART_OF", "WORLD_BUILDING"],
+      "entities": ["Franchise:Middle-earth Films", "Info:Timeline", "Info:Events", "Scope:Complete"]
+    },
+    {
+      "id": 66,
+      "query": "Which visual effects companies contributed to different sequences in Blade Runner 2049?",
+      "complexity": "high",
+      "relations": ["VISUAL_EFFECTS", "PRODUCTION_INFO"],
+      "entities": ["Movie:Blade Runner 2049", "Company:VFX", "Info:Sequences", "Info:Contributors"]
+    },
+    {
+      "id": 67,
+      "query": "What dialectcoaches and language consultants were employed for Arrival's alien language creation?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "LANGUAGE", "CONSULTANT"],
+      "entities": ["Movie:Arrival", "Person:Dialect Coach", "Person:Consultant", "Element:Alien Language"]
+    },
+    {
+      "id": 68,
+      "query": "How many different makeup prosthetics were created for the various species in the Star Wars cantina scene?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "MAKEUP", "SCENE"],
+      "entities": ["Movie:Star Wars", "Scene:Cantina", "Info:Prosthetics", "Info:Count", "Element:Species"]
+    },
+    {
+      "id": 69,
+      "query": "What connections exist between the films in M. Night Shyamalan's Unbreakable trilogy universe?",
+      "complexity": "very_high",
+      "relations": ["PART_OF", "CONNECTIONS", "SHARED_UNIVERSE"],
+      "entities": ["Franchise:Unbreakable Trilogy", "Person:M Night Shyamalan", "Info:Connections", "Universe:Shared"]
+    },
+    {
+      "id": 70,
+      "query": "Which stunts in Casino Royale's parkour chase were performed by Daniel Craig versus stunt doubles?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "STUNT_PERFORMANCE", "SCENE"],
+      "entities": ["Movie:Casino Royale", "Person:Daniel Craig", "Scene:Parkour Chase", "Info:Stunt Distribution"]
+    },
+    {
+      "id": 71,
+      "query": "What post-production timeline and release strategy was used for Avengers: Infinity War and Endgame filmed back-to-back?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TIMELINE", "RELEASE_STRATEGY"],
+      "entities": ["Movie:Avengers Infinity War", "Movie:Avengers Endgame", "Info:Post-production", "Info:Strategy"]
+    },
+    {
+      "id": 72,
+      "query": "How many different languages are spoken throughout the complete Star Trek film franchise?",
+      "complexity": "high",
+      "relations": ["LANGUAGE", "PART_OF"],
+      "entities": ["Franchise:Star Trek", "Info:Languages", "Info:Count", "Scope:All Films"]
+    },
+    {
+      "id": 73,
+      "query": "What was the complete development history of Dune adaptations before Denis Villeneuve's version?",
+      "complexity": "very_high",
+      "relations": ["ADAPTATION_HISTORY", "DEVELOPMENT"],
+      "entities": ["Source:Dune Novel", "Info:Adaptation History", "Info:Development", "Person:Denis Villeneuve"]
+    },
+    {
+      "id": 74,
+      "query": "Which actors from the original cast returned for Top Gun: Maverick and what roles did they reprise?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "SEQUEL_OF", "CHARACTER_ROLE"],
+      "entities": ["Movie:Top Gun", "Movie:Top Gun Maverick", "Person:Actor", "Element:Returning Cast"]
+    },
+    {
+      "id": 75,
+      "query": "What camera equipment and lens choices did Roger Deakins use for different sequences in 1917?",
+      "complexity": "high",
+      "relations": ["CINEMATOGRAPHY", "EQUIPMENT"],
+      "entities": ["Movie:1917", "Person:Roger Deakins", "Info:Camera", "Info:Lenses", "Info:Sequences"]
+    },
+    {
+      "id": 76,
+      "query": "How many different iterations of the Batmobile have appeared across all Batman theatrical films?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_DESIGN", "PART_OF"],
+      "entities": ["Franchise:Batman Films", "Vehicle:Batmobile", "Info:Iterations", "Info:Count"]
+    },
+    {
+      "id": 77,
+      "query": "What is the complete map of locations and their significance in The Grand Budapest Hotel's nested narratives?",
+      "complexity": "very_high",
+      "relations": ["LOCATION", "NARRATIVE_STRUCTURE"],
+      "entities": ["Movie:The Grand Budapest Hotel", "Info:Locations", "Structure:Nested Narratives", "Info:Significance"]
+    },
+    {
+      "id": 78,
+      "query": "Which sound effects from the original Star Wars became iconic and were reused throughout the franchise?",
+      "complexity": "high",
+      "relations": ["SOUND_DESIGN", "PART_OF", "LEGACY"],
+      "entities": ["Franchise:Star Wars", "Element:Sound Effects", "Status:Iconic", "Pattern:Reused"]
+    },
+    {
+      "id": 79,
+      "query": "What was the shooting schedule and production timeline for filming The Irishman's de-aging effects?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_TIMELINE", "VISUAL_EFFECTS"],
+      "entities": ["Movie:The Irishman", "Info:Schedule", "Technique:De-aging", "Info:Timeline"]
+    },
+    {
+      "id": 80,
+      "query": "How many different fight choreographers worked on the John Wick franchise and what styles did each bring?",
+      "complexity": "high",
+      "relations": ["FIGHT_CHOREOGRAPHY", "PART_OF"],
+      "entities": ["Franchise:John Wick", "Person:Fight Choreographer", "Info:Count", "Info:Fighting Styles"]
+    },
+    {
+      "id": 81,
+      "query": "What changes were made to the source material when adapting Gone Girl from novel to screenplay?",
+      "complexity": "high",
+      "relations": ["ADAPTED_FROM", "COMPARISON", "CHANGES"],
+      "entities": ["Movie:Gone Girl", "Source:Novel", "Format:Screenplay", "Info:Changes"]
+    },
+    {
+      "id": 82,
+      "query": "Which practical locations in New York City were used for Spider-Man: Homecoming versus digital recreations?",
+      "complexity": "high",
+      "relations": ["FILMING_LOCATION", "PRODUCTION_TECHNIQUE"],
+      "entities": ["Movie:Spider-Man Homecoming", "Location:New York City", "Technique:Practical", "Technique:Digital"]
+    },
+    {
+      "id": 83,
+      "query": "What training did the cast undergo to portray realistic astronaut behavior in Gravity?",
+      "complexity": "high",
+      "relations": ["TRAINING", "ACTED_IN", "AUTHENTICITY"],
+      "entities": ["Movie:Gravity", "Person:Cast", "Training:Astronaut", "Quality:Realistic"]
+    },
+    {
+      "id": 84,
+      "query": "How many different prosthetic makeups did Gary Oldman wear across various character transformations in his career?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "MAKEUP", "TRANSFORMATION"],
+      "entities": ["Person:Gary Oldman", "Info:Prosthetics", "Info:Count", "Element:Character Transformation"]
+    },
+    {
+      "id": 85,
+      "query": "What is the complete chronology of events across the X-Men film franchise including both timelines?",
+      "complexity": "very_high",
+      "relations": ["TIMELINE", "PART_OF", "ALTERNATE_TIMELINE"],
+      "entities": ["Franchise:X-Men", "Info:Chronology", "Info:Events", "Element:Multiple Timelines"]
+    },
+    {
+      "id": 86,
+      "query": "Which production designers created the distinct visual aesthetics for each Harry Potter film?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_DESIGN", "PART_OF"],
+      "entities": ["Franchise:Harry Potter", "Person:Production Designer", "Element:Visual Aesthetic", "Info:Each Film"]
+    },
+    {
+      "id": 87,
+      "query": "What percentage of Baby Driver's runtime is synchronized to music and how was this choreographed?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "MUSIC", "CHOREOGRAPHY"],
+      "entities": ["Movie:Baby Driver", "Info:Percentage", "Element:Music Sync", "Process:Choreography"]
+    },
+    {
+      "id": 88,
+      "query": "How many different time periods are depicted in The Godfather Part II's parallel narratives?",
+      "complexity": "high",
+      "relations": ["NARRATIVE_STRUCTURE", "TIMELINE"],
+      "entities": ["Movie:The Godfather Part II", "Structure:Parallel Narratives", "Info:Time Periods", "Info:Count"]
+    },
+    {
+      "id": 89,
+      "query": "What was the complete marketing campaign and viral strategy for The Blair Witch Project's release?",
+      "complexity": "high",
+      "relations": ["MARKETING", "RELEASE_STRATEGY"],
+      "entities": ["Movie:The Blair Witch Project", "Info:Marketing Campaign", "Strategy:Viral", "Info:Complete"]
+    },
+    {
+      "id": 90,
+      "query": "Which cinematographers have won Oscars for their work with director Roger Deakins throughout his career?",
+      "complexity": "high",
+      "relations": ["CINEMATOGRAPHY", "WON_AWARD", "COLLABORATION"],
+      "entities": ["Person:Roger Deakins", "Award:Oscar Cinematography", "Info:Career", "Pattern:Collaboration"]
+    },
+    {
+      "id": 91,
+      "query": "What is the detailed breakdown of production costs for the Lord of the Rings trilogy's New Zealand filming?",
+      "complexity": "high",
+      "relations": ["BUDGET", "PRODUCTION_INFO", "FILMING_LOCATION"],
+      "entities": ["Franchise:Lord of the Rings", "Info:Budget Breakdown", "Location:New Zealand", "Info:Costs"]
+    },
+    {
+      "id": 92,
+      "query": "How many different visual effects techniques were combined to create the T-1000 in Terminator 2?",
+      "complexity": "high",
+      "relations": ["VISUAL_EFFECTS", "PRODUCTION_TECHNIQUE", "CHARACTER"],
+      "entities": ["Movie:Terminator 2", "Character:T-1000", "Technique:VFX", "Info:Count", "Info:Techniques"]
+    },
+    {
+      "id": 93,
+      "query": "What connections and Easter eggs link all Pixar films in their shared universe theory?",
+      "complexity": "very_high",
+      "relations": ["PART_OF", "CONNECTIONS", "SHARED_UNIVERSE"],
+      "entities": ["Studio:Pixar", "Info:Easter Eggs", "Universe:Shared", "Theory:Connected"]
+    },
+    {
+      "id": 94,
+      "query": "Which editors worked on cutting together the complex heist sequences in Ocean's Eleven?",
+      "complexity": "high",
+      "relations": ["EDITING", "SCENE"],
+      "entities": ["Movie:Ocean's Eleven", "Person:Editor", "Scene:Heist Sequences", "Quality:Complex"]
+    },
+    {
+      "id": 95,
+      "query": "What was the complete prop fabrication process for creating the totems in Inception?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "PROP_DESIGN"],
+      "entities": ["Movie:Inception", "Element:Totems", "Process:Fabrication", "Info:Complete"]
+    },
+    {
+      "id": 96,
+      "query": "How many different endings were scripted and filmed for Clue before selecting the theatrical version?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_INFO", "ALTERNATE_VERSION"],
+      "entities": ["Movie:Clue", "Info:Endings", "Info:Count", "Version:Scripted and Filmed"]
+    },
+    {
+      "id": 97,
+      "query": "What is the complete backstory and mythology of the Continental assassin world in John Wick franchise?",
+      "complexity": "very_high",
+      "relations": ["WORLD_BUILDING", "MYTHOLOGY", "PART_OF"],
+      "entities": ["Franchise:John Wick", "Setting:Continental", "Info:Backstory", "Info:Mythology", "Scope:Complete"]
+    },
+    {
+      "id": 98,
+      "query": "Which actors performed mo-cap for the apes in Planet of the Apes reboot trilogy and what characters did they portray?",
+      "complexity": "high",
+      "relations": ["ACTED_IN", "MOTION_CAPTURE", "CHARACTER_ROLE", "PART_OF"],
+      "entities": ["Franchise:Planet of the Apes Reboot", "Person:Actor", "Technique:Motion Capture", "Info:Characters"]
+    },
+    {
+      "id": 99,
+      "query": "What was the complete test screening process and audience feedback that led to changes in World War Z?",
+      "complexity": "high",
+      "relations": ["PRODUCTION_HISTORY", "TESTING", "CHANGES"],
+      "entities": ["Movie:World War Z", "Process:Test Screening", "Info:Feedback", "Info:Changes Made"]
+    },
+    {
+      "id": 100,
+      "query": "How many different language dubs and subtitle translations were created for Avatar's worldwide release?",
+      "complexity": "high",
+      "relations": ["DISTRIBUTION", "LANGUAGE"],
+      "entities": ["Movie:Avatar", "Info:Dubs", "Info:Subtitles", "Info:Count", "Scope:Worldwide"]
+    }
+  ]
+}

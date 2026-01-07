@@ -1,0 +1,1155 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+    "belongs_to_collection": {
+      "id": 1477387,
+      "name": "Fault: London Collection",
+      "poster_path": "/adu1IOlleVSh3lEYnUfw7eWYJHD.jpg",
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.primevideo.com/detail/0T0W5IBN2BBDVHNONZV7O56801",
+    "id": 1294203,
+    "imdb_id": "tt32434379",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "My Fault: London",
+    "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+    "popularity": 19.6478,
+    "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+    "production_companies": [
+      {
+        "id": 84988,
+        "logo_path": "/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png",
+        "name": "42",
+        "origin_country": "GB"
+      },
+      {
+        "id": 32485,
+        "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+        "name": "Pokeepsie Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-02-12",
+    "revenue": 0,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My Fault: London",
+    "video": false,
+    "vote_average": 7.407,
+    "vote_count": 516
+  },
+  "credits": {
+    "id": 1294203,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3499290,
+        "known_for_department": "Acting",
+        "name": "Asha Banks",
+        "original_name": "Asha Banks",
+        "popularity": 1.0388,
+        "profile_path": "/9McWYJPSySGOcNr5KuFWyW2bLe7.jpg",
+        "cast_id": 1,
+        "character": "Noah",
+        "credit_id": "664e48d52b7c699c7a9ac84d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3912097,
+        "known_for_department": "Acting",
+        "name": "Matthew Broome",
+        "original_name": "Matthew Broome",
+        "popularity": 2.9691,
+        "profile_path": "/nSjPuDG5IVQfyMU8TkZl0ZQkLu6.jpg",
+        "cast_id": 2,
+        "character": "Nick",
+        "credit_id": "664e48da2b7c699c7a9ac851",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092908,
+        "known_for_department": "Acting",
+        "name": "Eve Macklin",
+        "original_name": "Eve Macklin",
+        "popularity": 0.9558,
+        "profile_path": "/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg",
+        "cast_id": 4,
+        "character": "Ella",
+        "credit_id": "664e49218adae46dbc639cd2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56650,
+        "known_for_department": "Acting",
+        "name": "Ray Fearon",
+        "original_name": "Ray Fearon",
+        "popularity": 1.2898,
+        "profile_path": "/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg",
+        "cast_id": 5,
+        "character": "William",
+        "credit_id": "664e4929ed0fe59082429625",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4356302,
+        "known_for_department": "Acting",
+        "name": "Enva Lewis",
+        "original_name": "Enva Lewis",
+        "popularity": 1.1399,
+        "profile_path": "/hFBuqi7NFiFgHho2J2IM43nZcrG.jpg",
+        "cast_id": 6,
+        "character": "Jenna",
+        "credit_id": "664e493161c3cfb5b0639b35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973,
+        "known_for_department": "Acting",
+        "name": "Jason Flemyng",
+        "original_name": "Jason Flemyng",
+        "popularity": 2.3471,
+        "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg",
+        "cast_id": 7,
+        "character": "Travis",
+        "credit_id": "664e493a8099a69b7418901d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4011323,
+        "known_for_department": "Acting",
+        "name": "Kerim Hassan",
+        "original_name": "Kerim Hassan",
+        "popularity": 0.873,
+        "profile_path": "/b1LNPysqfX5XmCkF8En67RR3aPI.jpg",
+        "cast_id": 8,
+        "character": "Lion",
+        "credit_id": "664e494437fd349a98fd1760",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2812431,
+        "known_for_department": "Acting",
+        "name": "Sam Buchanan",
+        "original_name": "Sam Buchanan",
+        "popularity": 0.4947,
+        "profile_path": "/au5WjiUcUjheDEJ8BEXRFXhsIS8.jpg",
+        "cast_id": 9,
+        "character": "Ronnie",
+        "credit_id": "664e495b4667440f8934a02c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4729943,
+        "known_for_department": "Acting",
+        "name": "Amelia Kenworthy",
+        "original_name": "Amelia Kenworthy",
+        "popularity": 1.3781,
+        "profile_path": "/3QgUXGc7iOEHDlK7MQhTBmkKpP.jpg",
+        "cast_id": 10,
+        "character": "Anna",
+        "credit_id": "664e4977de88d6df72bb087d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1756015,
+        "known_for_department": "Acting",
+        "name": "Harry Gilby",
+        "original_name": "Harry Gilby",
+        "popularity": 2.0133,
+        "profile_path": "/4rORd6r6Ts4eYWVhbP9iIsE4CEo.jpg",
+        "cast_id": 11,
+        "character": "Dan",
+        "credit_id": "664e49b861c3cfb5b0639b41",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47625,
+        "known_for_department": "Acting",
+        "name": "Christina Cole",
+        "original_name": "Christina Cole",
+        "popularity": 2.1607,
+        "profile_path": "/lOcjHQgXg5rgM6zOr4k7SsMoABV.jpg",
+        "cast_id": 34,
+        "character": "Bethan",
+        "credit_id": "67d6171e13d0e96b427bc627",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2992096,
+        "known_for_department": "Art",
+        "name": "Sekou Diaby",
+        "original_name": "Sekou Diaby",
+        "popularity": 0.144,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Zach",
+        "credit_id": "67d6176f9165f3711801315d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5080082,
+        "known_for_department": "Acting",
+        "name": "Tommy Belshaw",
+        "original_name": "Tommy Belshaw",
+        "popularity": 0.1823,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Giles",
+        "credit_id": "67d617899165f37118013165",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3563203,
+        "known_for_department": "Acting",
+        "name": "Harvey Almond",
+        "original_name": "Harvey Almond",
+        "popularity": 0.9274,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Tom",
+        "credit_id": "67d617d5411f90fecdf17ce8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2054854,
+        "known_for_department": "Acting",
+        "name": "George Robinson",
+        "original_name": "George Robinson",
+        "popularity": 1.7977,
+        "profile_path": "/yElCccmUOTagCRg5EQoasyrbWVA.jpg",
+        "cast_id": 38,
+        "character": "JP",
+        "credit_id": "67d6180f13d0e96b427bc64f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93492,
+        "known_for_department": "Acting",
+        "name": "Tallulah Evans",
+        "original_name": "Tallulah Evans",
+        "popularity": 1.8392,
+        "profile_path": "/51iKIxfVjvVEm1e5L7P9ZpQTPb8.jpg",
+        "cast_id": 39,
+        "character": "Haley",
+        "credit_id": "67d6181f411f90fecdf17d10",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5133262,
+        "known_for_department": "Acting",
+        "name": "Seosaimhin Hennelly",
+        "original_name": "Seosaimhin Hennelly",
+        "popularity": 0.173,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Maddie",
+        "credit_id": "67d61830411f90fecdf17d1c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3253744,
+        "known_for_department": "Acting",
+        "name": "Fiona Marr",
+        "original_name": "Fiona Marr",
+        "popularity": 0.2475,
+        "profile_path": "/f9VnjxlfmInK0CDWUvvBqsbx3cR.jpg",
+        "cast_id": 41,
+        "character": "Detective Sato",
+        "credit_id": "67d61848411f90fecdf17d23",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110872,
+        "known_for_department": "Acting",
+        "name": "Gerard Monaco",
+        "original_name": "Gerard Monaco",
+        "popularity": 1.4907,
+        "profile_path": "/qMSwdA3InoaA2p8kFObUb2RoL8w.jpg",
+        "cast_id": 42,
+        "character": "Martin",
+        "credit_id": "67d6185931678cc3f8014d5e",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1766193,
+        "known_for_department": "Acting",
+        "name": "Emma Kershaw",
+        "original_name": "Emma Kershaw",
+        "popularity": 0.354,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Emily",
+        "credit_id": "67d618bf24b7ebc3767bc8c9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4979358,
+        "known_for_department": "Acting",
+        "name": "Victoria Wyant",
+        "original_name": "Victoria Wyant",
+        "popularity": 1.2063,
+        "profile_path": "/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg",
+        "cast_id": 44,
+        "character": "Camilla",
+        "credit_id": "67d618d231678cc3f8014d86",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3650496,
+        "known_for_department": "Acting",
+        "name": "Payal Mistry",
+        "original_name": "Payal Mistry",
+        "popularity": 0.2227,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Portia",
+        "credit_id": "67d618f431678cc3f8014dab",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152810,
+        "known_for_department": "Acting",
+        "name": "Kamira Samuel",
+        "original_name": "Kamira Samuel",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Kitty",
+        "credit_id": "67d61911411f90fecdf17d71",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3924050,
+        "known_for_department": "Acting",
+        "name": "Isla Bowles",
+        "original_name": "Isla Bowles",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Kim",
+        "credit_id": "67d619269165f37118013170",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4505533,
+        "known_for_department": "Acting",
+        "name": "Neil Cole",
+        "original_name": "Neil Cole",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Racing Instructor",
+        "credit_id": "67d6193e13d0e96b427bc65a",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2611453,
+        "known_for_department": "Acting",
+        "name": "Charlotte Bloomsbury",
+        "original_name": "Charlotte Bloomsbury",
+        "popularity": 0.2528,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Sarah the Publicist",
+        "credit_id": "67d6195b191868c54ff17090",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5306964,
+        "known_for_department": "Acting",
+        "name": "George Harris",
+        "original_name": "George Harris",
+        "popularity": 0.1982,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Pool Boy",
+        "credit_id": "67d61977790d78633a015887",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 512958,
+        "known_for_department": "Acting",
+        "name": "Carolina Bang",
+        "original_name": "Carolina Bang",
+        "popularity": 2.0952,
+        "profile_path": "/zwY5dMMeRAxUGU2Q50u7mWk3DA0.jpg",
+        "credit_id": "664e4a1102b79c2983349f01",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2442185,
+        "known_for_department": "Directing",
+        "name": "Dani Girdwood",
+        "original_name": "Dani Girdwood",
+        "popularity": 0.2729,
+        "profile_path": null,
+        "credit_id": "664e49cd600de8cb549b9bb5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16849,
+        "known_for_department": "Production",
+        "name": "Erica Steinberg",
+        "original_name": "Erica Steinberg",
+        "popularity": 0.2782,
+        "profile_path": null,
+        "credit_id": "664e49f405b667e3ed061de9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 999764,
+        "known_for_department": "Production",
+        "name": "Ben Pugh",
+        "original_name": "Ben Pugh",
+        "popularity": 0.4494,
+        "profile_path": null,
+        "credit_id": "664e49ef05b667e3ed061de6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57865,
+        "known_for_department": "Directing",
+        "name": "Álex de la Iglesia",
+        "original_name": "Álex de la Iglesia",
+        "popularity": 3.8726,
+        "profile_path": "/n67diBAoT58ODgqXNHHyPWIE1Nc.jpg",
+        "credit_id": "664e4a08bc228beb9206179b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1636659,
+        "known_for_department": "Production",
+        "name": "Kari Hatfield",
+        "original_name": "Kari Hatfield",
+        "popularity": 0.0803,
+        "profile_path": null,
+        "credit_id": "664e49fded0fe59082429630",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739102,
+        "known_for_department": "Directing",
+        "name": "Domingo González",
+        "original_name": "Domingo González",
+        "popularity": 2.8315,
+        "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+        "credit_id": "664e4a31ed26e32ff734a2d6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2442184,
+        "known_for_department": "Directing",
+        "name": "Charlotte Fassler",
+        "original_name": "Charlotte Fassler",
+        "popularity": 0.3719,
+        "profile_path": null,
+        "credit_id": "664e49d105b667e3ed061de2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2307796,
+        "known_for_department": "Sound",
+        "name": "Oliver Ferris",
+        "original_name": "Oliver Ferris",
+        "popularity": 1.0838,
+        "profile_path": "/TWOZddlpBAMjKd0oNxdgbgPiKZ.jpg",
+        "credit_id": "66c3dc52515ed1c6a296eb6d",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2423282,
+        "known_for_department": "Crew",
+        "name": "Aidan Brindle",
+        "original_name": "Aidan Brindle",
+        "popularity": 0.4217,
+        "profile_path": "/qE82eaO1CbCWKESxtzBdj4Gh6v0.jpg",
+        "credit_id": "66f1d76f7ff2bf57cd26d45b",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739102,
+        "known_for_department": "Directing",
+        "name": "Domingo González",
+        "original_name": "Domingo González",
+        "popularity": 2.8315,
+        "profile_path": "/bTf1OPwNZSIbVHl7SII6Yv429G4.jpg",
+        "credit_id": "674ddbc39e7f6f73f301630f",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131912,
+        "known_for_department": "Writing",
+        "name": "Melissa Osborne",
+        "original_name": "Melissa Osborne",
+        "popularity": 0.3785,
+        "profile_path": "/uADiSR0EafUSkDrNsIaiKnMkNLZ.jpg",
+        "credit_id": "674ddbea5c9ffdbae7692bec",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1796987,
+        "known_for_department": "Crew",
+        "name": "Rachael Evelyn",
+        "original_name": "Rachael Evelyn",
+        "popularity": 0.6779,
+        "profile_path": "/89fAPQEyxYBlrmmHBTaV7TKewxb.jpg",
+        "credit_id": "678f981101a71aca54f088c7",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2188798,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gemma Hoff",
+        "original_name": "Gemma Hoff",
+        "popularity": 0.3064,
+        "profile_path": null,
+        "credit_id": "679284b9d1ff4f396f57fa6a",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2188798,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gemma Hoff",
+        "original_name": "Gemma Hoff",
+        "popularity": 0.3064,
+        "profile_path": null,
+        "credit_id": "679284c12e34b33ece89974b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4106905,
+        "known_for_department": "Writing",
+        "name": "Mercedes Ron",
+        "original_name": "Mercedes Ron",
+        "popularity": 0.8216,
+        "profile_path": null,
+        "credit_id": "67b3c3b56113c493dc6de60a",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3930469,
+        "known_for_department": "Editing",
+        "name": "Michal Zak",
+        "original_name": "Michal Zak",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "67b4c017e5e1a7ed7ce137ea",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5302140,
+        "known_for_department": "Editing",
+        "name": "Serwa Cort",
+        "original_name": "Serwa Cort",
+        "popularity": 0.2377,
+        "profile_path": null,
+        "credit_id": "67d3f4ee62e7d2336353b2c0",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4061059,
+        "known_for_department": "Sound",
+        "name": "James Jacob",
+        "original_name": "James Jacob",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "67d616b324b7ebc3767bc864",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503231,
+        "known_for_department": "Camera",
+        "name": "Ed Moore",
+        "original_name": "Ed Moore",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "67d616cb9165f3711801312d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2216759,
+        "known_for_department": "Directing",
+        "name": "Scott Bunce",
+        "original_name": "Scott Bunce",
+        "popularity": 0.2512,
+        "profile_path": null,
+        "credit_id": "693b5a4fa1fedb4441e0b91e",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1294203,
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 3398,
+        "name": "release from prison"
+      },
+      {
+        "id": 161194,
+        "name": "estranged father"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/Al9Zxoz5U8xPINKWBLH7S2mXVkL.jpg",
+        "genre_ids": [
+          10752,
+          36,
+          18
+        ],
+        "id": 455954,
+        "original_language": "ja",
+        "original_title": "関ヶ原",
+        "overview": "The background to and depiction of a watershed battle in Japanese history, at Sekigahara in 1600, when Tokugawa Ieyasu's Army of the East defeated the Army of the West of Ishida Mitsunari. The story includes the intrigues and shifting loyalties of the various retainers, family members, and samurai.",
+        "popularity": 1.4764,
+        "poster_path": "/juY76LvfACsS9AnKKktIKdzH1mR.jpg",
+        "release_date": "2017-08-26",
+        "title": "Sekigahara",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 42
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 455976,
+        "original_language": "en",
+        "original_title": "Jane's House",
+        "overview": "Paul Clark and his children are still heartbroken a year after the death of Jane, Paul's wife. When he unexpectedly falls in love with Mary, a former tennis-player, the couple decide to marry and live together. However, their lifestyles are completely different, and Mary is continuously reminded of the deceased Jane.",
+        "popularity": 0.3191,
+        "poster_path": "/nx4LYIA2kuUiXWLX6CaktE8fQ6D.jpg",
+        "release_date": "1994-01-02",
+        "title": "Jane's House",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/63q3Yk7yvMN1afU9j1YNJGyWx6d.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 456063,
+        "original_language": "ja",
+        "original_title": "8年越しの花嫁 奇跡の実話",
+        "overview": "Hisashi and Mai are a happy couple in their 20s who are engaged to be married. But three months before their wedding, Mai becomes seriously ill. Her heart stops momentarily, and she falls into a deep coma. Hisashi visits Mai at the hospital every day before work. With no idea if or when she will ever awake, Mai’s parents encourage Hisashi to find someone else, but he refuses to give up and continues to pray for her recovery. As if his prayers are answered, Mai begins to regain consciousness several years later, and even utters a few words. But tragically, she has suffered brain damage and has no memory of Hisashi.",
+        "popularity": 1.2787,
+        "poster_path": "/8U2bPJMeNYKvQ9RkttiZJ5Jl5D1.jpg",
+        "release_date": "2017-12-16",
+        "title": "The 8-Year Engagement",
+        "video": false,
+        "vote_average": 7.273,
+        "vote_count": 55
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uwKo8YFTjoZ3cDTCJVH3mZjRyWv.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 456065,
+        "original_language": "ja",
+        "original_title": "羊と鋼の森",
+        "overview": "High school student Naoki Tomura grew up in a remote area in Hokkaido. He meets piano tuner Soichiro Itadori in school and eventually decides to work at Itadori’s musical instrument store. Tomura gradually grows as a piano tuner through his interactions with the other tuners and musician clients",
+        "popularity": 0.8141,
+        "poster_path": "/6vqgtLKlReHqAlIMm8iDwM8crcZ.jpg",
+        "release_date": "2018-06-08",
+        "title": "The Forest of Wool and Steel",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aW327SuYW8GgOrfTZL3CcvqjjHF.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10749
+        ],
+        "id": 456112,
+        "original_language": "es",
+        "original_title": "Inés de Castro",
+        "overview": "In 1336, Pedro, heir to the Portuguese crown, marries Constanza Manuel de Villena, a Castilian noblewoman, for political reasons; but the impulsive prince ends up giving in to his love for Inés de Castro, his wife's lady-in-waiting.",
+        "popularity": 0.2457,
+        "poster_path": "/6ejtVN2mMNqMFXBRIHhjNrfjL3D.jpg",
+        "release_date": "1944-12-28",
+        "title": "Inés de Castro",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8e2jdxansk1hV1qMk3KwK1jYBSz.jpg",
+        "genre_ids": [
+          10770,
+          9648,
+          18
+        ],
+        "id": 840382,
+        "original_language": "en",
+        "original_title": "Sweet Revenge: A Hannah Swensen Mystery",
+        "overview": "As Hannah and Mike experience engaged life while balancing their busy careers, a murder at a 24-hour gym complicates their wedding planning.",
+        "popularity": 0.6646,
+        "poster_path": "/26QfVdLQ6hYEwvrnhdJChQUgJJ8.jpg",
+        "release_date": "2021-08-08",
+        "title": "Sweet Revenge: A Hannah Swensen Mystery",
+        "video": false,
+        "vote_average": 7.02,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xKp1wauRU6HNIe5qRNy9Ac7zgOK.jpg",
+        "genre_ids": [
+          16,
+          12,
+          18,
+          10751
+        ],
+        "id": 587563,
+        "original_language": "en",
+        "original_title": "Kensuke's Kingdom",
+        "overview": "A young boy and his family set off on a sailing trip of a lifetime until a violent storm erupts, sweeping Michael and his dog overboard. After washing up on a remote island, terrified, they struggle to survive and adjust to life alone, One day, Michael discovers he is not alone when he is confronted by a mysterious Japanese man who has lived there secretly since World War II, angry that Michael has arrived. However, as dangerous invaders threaten their fragile island paradise, Michael and the old man, Kensuke, join forces to save their secret world.",
+        "popularity": 1.1232,
+        "poster_path": "/9M8tTHbYFrGxCXxNMvAkvRbhtER.jpg",
+        "release_date": "2024-02-07",
+        "title": "Kensuke's Kingdom",
+        "video": false,
+        "vote_average": 7.245,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n1AvnrJZ6F6hRoDhpTB1K9s19dF.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 581518,
+        "original_language": "de",
+        "original_title": "Als Hitler das rosa Kaninchen stahl",
+        "overview": "In 1933 in Berlin. Anna is only nine years old when her life changes from the ground up. To escape the Nazis, her father Arthur Kemper, a well-known Jewish journalist, has to flee to Zurich. His family, Anna, her twelve-year-old brother Max and her mother Dorothea, follow him shortly thereafter. Anna has to leave everything behind, including her beloved pink rabbit, and to face a new life full of challenges and privations abroad.",
+        "popularity": 1.1016,
+        "poster_path": "/k9GJufkrzJkvWmgLNHeVc3wz3T6.jpg",
+        "release_date": "2019-12-25",
+        "title": "When Hitler Stole Pink Rabbit",
+        "video": false,
+        "vote_average": 7.044,
+        "vote_count": 172
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36,
+          10749
+        ],
+        "id": 581023,
+        "original_language": "fi",
+        "original_title": "Tanssi yli hautojen",
+        "overview": "In the early 1800s, Finnish governor's daughter first detests but soon falls in love with Russian Czar Alexander I who has just taken Finland over from Sweden's rule.",
+        "popularity": 0.1499,
+        "poster_path": "/gsRR1Tzjixn7eXmPygVWlMZDjhG.jpg",
+        "release_date": "1950-08-11",
+        "title": "Tanssi yli hautojen",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+        "genre_ids": [
+          18,
+          37,
+          12
+        ],
+        "id": 581032,
+        "original_language": "en",
+        "original_title": "News of the World",
+        "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+        "popularity": 2.9522,
+        "poster_path": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+        "release_date": "2020-12-25",
+        "title": "News of the World",
+        "video": false,
+        "vote_average": 6.944,
+        "vote_count": 1874
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1ASNdqwmwvBS8TnOouOENBZT53I.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 1175343,
+        "original_language": "es",
+        "original_title": "Temporada de huracanes",
+        "overview": "When a group of teens finds a corpse floating in a canal, the brutal reality behind the perverse crime unravels a town's hidden secrets.",
+        "popularity": 0.4782,
+        "poster_path": "/DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",
+        "release_date": "2023-11-01",
+        "title": "Hurricane Season",
+        "video": false,
+        "vote_average": 6.889,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iAvPwfBZFF4WuR4RPHAxfJEm97y.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1180634,
+        "original_language": "it",
+        "original_title": "Il treno dei bambini",
+        "overview": "In late 1940s Italy, a mother makes the difficult decision to send her son to the north, where he catches glimpses of a new life away from poverty.",
+        "popularity": 2.1118,
+        "poster_path": "/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg",
+        "release_date": "2024-10-21",
+        "title": "The Children's Train",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 306
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 586863,
+        "original_language": "fr",
+        "original_title": "Les Misérables",
+        "overview": "Stéphane has recently joined the Anti-Crime Squad in Montfermeil, in the suburbs of Paris, France, where Victor Hugo set his famed novel “Les Miserables”. Alongside his new colleagues Chris and Gwada – both experienced members of the team – he quickly discovers tensions running high between local gangs. When the trio finds themselves overrun during the course of an arrest, a drone captures the encounter, threatening to expose the reality of everyday life.",
+        "popularity": 5.4547,
+        "poster_path": "/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg",
+        "release_date": "2019-11-14",
+        "title": "Les Misérables",
+        "video": false,
+        "vote_average": 7.567,
+        "vote_count": 1578
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u1323EX9LNlGa7HbFalR22kEesh.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80,
+          18
+        ],
+        "id": 586893,
+        "original_language": "ta",
+        "original_title": "கொலைகாரன்",
+        "overview": "A man is found to be murdered and the investigating officer believes that he was killed by a young woman and her mother. But their neighbour claims that he is the murderer! Who is lying?",
+        "popularity": 0.6261,
+        "poster_path": "/pUiufr7oTVWsrXzBAUg5ChPyIGN.jpg",
+        "release_date": "2019-06-05",
+        "title": "Kolaigaran",
+        "video": false,
+        "vote_average": 6.344,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rHJX9CMYk7FXxUV5la1dEFSPVCv.jpg",
+        "genre_ids": [
+          16,
+          18,
+          14
+        ],
+        "id": 586940,
+        "original_language": "fr",
+        "original_title": "J'ai perdu mon corps",
+        "overview": "A story of Naoufel, a young man who is in love with Gabrielle. In another part of town, a severed hand escapes from a dissection lab, determined to find its body again.",
+        "popularity": 2.2069,
+        "poster_path": "/z5dXCywyo8zEPNDkeQY7nbvkrz8.jpg",
+        "release_date": "2019-11-06",
+        "title": "I Lost My Body",
+        "video": false,
+        "vote_average": 7.486,
+        "vote_count": 1308
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eLsUoKG6gi0QOUgAS38QkHqCPYJ.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10751
+        ],
+        "id": 586943,
+        "original_language": "de",
+        "original_title": "Fritzi - Eine Wendewundergeschichte",
+        "overview": "September 1989 in the GDR. With the change of the general mood in the country, the life of 12-year-old FRITZI changes as well. Her best friend Sophie has fled with her mother through Hungary to West Germany and the only thing Fritzi has left is Sophie's little dog Sputnik. But Fritzi misses Sophie just as much as her little four-legged friend does. Therefore, she decides to bring Sputnik to Sophie. But there is only one way to get there: over the strictly guarded border. A very dangerous adventure for a 12-year-old girl and a small dog...",
+        "popularity": 0.6051,
+        "poster_path": "/lYwCqGjDvlohlN1WZzsgyov5KhF.jpg",
+        "release_date": "2019-10-09",
+        "title": "Fritzi: A Revolutionary Tale",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 585557,
+        "original_language": "ja",
+        "original_title": "愛と死のかたみ",
+        "overview": "",
+        "popularity": 0.2709,
+        "poster_path": "/mNN7HLAvMgmacTYtCR04Tc3l6Ot.jpg",
+        "release_date": "1962-11-21",
+        "title": "Ai to shi no katami",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ed3M0OY7eyCRSbvisD9gVRZTbVl.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 585574,
+        "original_language": "ja",
+        "original_title": "悪徳",
+        "overview": "A movie adaptation of Funayama  Kaoru's novel of the same name, which depicts the story of a modern youth who is attracted to the evil path.  Saburi Shin, a well-known actor who also demonstrated his skill as a director in a bold social work, embodies a person with a complicated dilemma in a shadowy manner, and is a dramatic work that plays a part in the lead role.",
+        "popularity": 0.3939,
+        "poster_path": "/wb3BkWV6PcqyQAkiJy3toyYURpU.jpg",
+        "release_date": "1958-02-19",
+        "title": "Akutoku",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1554065,
+        "original_language": "ja",
+        "original_title": "今日もふたり、スキップで",
+        "overview": "",
+        "popularity": 0.2109,
+        "poster_path": "/qPfgI3nyFwCXULTd0eYAKwcDeJQ.jpg",
+        "release_date": "2025-10-04",
+        "title": "Today, the two of us skipped",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iAESLebJJ8Xe7MxXBNZKoY5vFt7.jpg",
+        "genre_ids": [
+          10749
+        ],
+        "id": 585839,
+        "original_language": "en",
+        "original_title": "The Protector",
+        "overview": "After fighting hard to be independent and happy, heiress Camille Logan finds her life threatened as a result of one of her father’s business deals. Camille isn’t prepared for the length her father will go to protect her, or for the man he hires to do the job.",
+        "popularity": 4.5126,
+        "poster_path": "/fKyCT9i9jw3JhuXtUdinbuykKHN.jpg",
+        "release_date": "2019-02-28",
+        "title": "The Protector",
+        "video": false,
+        "vote_average": 6.26,
+        "vote_count": 25
+      }
+    ],
+    "total_pages": 15459,
+    "total_results": 309179
+  }
+}

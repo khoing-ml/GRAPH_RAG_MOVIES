@@ -1,0 +1,806 @@
+{
+  "category": "multi_hop",
+  "description": "Complex multi-hop queries requiring traversal of multiple relationships and entities across the knowledge graph",
+  "test_cases": [
+    {
+      "id": 1,
+      "query": "Find actors who worked with directors that Christopher Nolan has collaborated with on science fiction films",
+      "entities": ["Christopher Nolan", "science fiction"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "WORKED_WITH", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 2,
+      "query": "Which actors have worked with directors who won Academy Awards for films starring Tom Hanks?",
+      "entities": ["Tom Hanks", "Academy Awards"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "WON_AWARD"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 3,
+      "query": "Find cinematographers who have worked on films directed by collaborators of Wes Anderson in the comedy genre",
+      "entities": ["Wes Anderson", "comedy", "cinematographer"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH", "CINEMATOGRAPHY_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 4,
+      "query": "What genres do actors who appeared in Tarantino films most frequently star in when working with other directors?",
+      "entities": ["Tarantino"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 5,
+      "query": "Find movies that share cast members with films directed by the Coen Brothers and are also in the thriller genre",
+      "entities": ["Coen Brothers", "thriller"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "BELONGS_TO"],
+      "complexity": "high",
+      "hops": 3
+    },
+    {
+      "id": 6,
+      "query": "Which composers have scored films for directors who have adapted Stephen King novels?",
+      "entities": ["Stephen King", "composer"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 7,
+      "query": "Find actors who appeared in sequels directed by different directors than the original film",
+      "entities": ["sequel"],
+      "relations": ["ACTED_IN", "SEQUEL_TO", "DIRECTED_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 8,
+      "query": "What production companies have produced films starring actors who won Oscars in Scorsese films?",
+      "entities": ["Scorsese", "Oscar"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "WON_AWARD", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 9,
+      "query": "Find directors who have worked with cinematographers that collaborated with Denis Villeneuve on science fiction films",
+      "entities": ["Denis Villeneuve", "science fiction", "cinematographer"],
+      "relations": ["DIRECTED_BY", "CINEMATOGRAPHY_BY", "WORKED_WITH", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 10,
+      "query": "Which actors have appeared in remakes of films that were originally directed by directors who worked with Hitchcock?",
+      "entities": ["Hitchcock", "remake"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH", "REMAKE_OF", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 11,
+      "query": "Find films that share production designers with movies directed by collaborators of Spielberg in the adventure genre",
+      "entities": ["Spielberg", "adventure", "production designer"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH", "PRODUCTION_DESIGN_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 12,
+      "query": "  ",
+      "entities": ["Marvel", "DC"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "PART_OF_UNIVERSE", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 13,
+      "query": "Find actors who have worked in films edited by editors that collaborated with the Coen Brothers on crime films",
+      "entities": ["Coen Brothers", "crime", "editor"],
+      "relations": ["DIRECTED_BY", "EDITED_BY", "WORKED_WITH", "ACTED_IN", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 14,
+      "query": "Which directors have made films in genres that actors from Nolan's ensemble casts typically avoid?",
+      "entities": ["Nolan", "ensemble cast"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 15,
+      "query": "Find screenwriters who have written for directors that actors from The Godfather later worked with",
+      "entities": ["The Godfather"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "WRITTEN_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 16,
+      "query": "What studios have produced films directed by people who were assistant directors on Kubrick films?",
+      "entities": ["Kubrick", "assistant director"],
+      "relations": ["DIRECTED_BY", "ASSISTANT_DIRECTOR", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 17,
+      "query": "Find actors who appeared in films that won awards in categories where Spielberg films were also nominated",
+      "entities": ["Spielberg"],
+      "relations": ["DIRECTED_BY", "NOMINATED_FOR", "WON_AWARD", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 18,
+      "query": "Which composers have scored films for actors who played characters in adaptations of Philip K. Dick works?",
+      "entities": ["Philip K. Dick", "adaptation", "composer"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "ACTED_IN", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 19,
+      "query": "Find directors who have worked with production companies that produced sequels to films by other directors they collaborated with",
+      "entities": ["sequel", "production company"],
+      "relations": ["DIRECTED_BY", "PRODUCED_BY", "SEQUEL_TO", "WORKED_WITH"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 20,
+      "query": "What genres connect actors from Pulp Fiction to directors they later worked with in Oscar-winning films?",
+      "entities": ["Pulp Fiction", "Oscar"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "WON_AWARD", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 21,
+      "query": "Find cinematographers who worked on films starring actors that appeared in movies directed by Scorsese's collaborators",
+      "entities": ["Scorsese", "cinematographer"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH", "ACTED_IN", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 22,
+      "query": "Which actors have worked in remakes of films by directors who influenced Tarantino's style?",
+      "entities": ["Tarantino", "remake"],
+      "relations": ["INFLUENCED_BY", "DIRECTED_BY", "REMAKE_OF", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 23,
+      "query": "Find production designers who worked on films in franchises where different directors helmed different installments",
+      "entities": ["franchise", "production designer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 24,
+      "query": "What genres do directors favor when working with actors who have appeared in A24 productions?",
+      "entities": ["A24"],
+      "relations": ["PRODUCED_BY", "ACTED_IN", "DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 25,
+      "query": "Find editors who have worked on films directed by people who were mentored by directors of Best Picture winners",
+      "entities": ["Best Picture", "editor"],
+      "relations": ["WON_AWARD", "DIRECTED_BY", "MENTORED_BY", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 26,
+      "query": "Which actors appeared in films that share composers with movies directed by collaborators of Hans Zimmer?",
+      "entities": ["Hans Zimmer", "composer"],
+      "relations": ["MUSIC_BY", "DIRECTED_BY", "WORKED_WITH", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 27,
+      "query": "Find directors who have adapted works by authors whose books were also adapted by directors they worked with",
+      "entities": ["adaptation", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "WORKED_WITH"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 28,
+      "query": "What production companies produced films starring actors from Fincher's thrillers working with other thriller directors?",
+      "entities": ["Fincher", "thriller"],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "ACTED_IN", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 29,
+      "query": "Find cinematographers who shot films for directors that actors from The Dark Knight trilogy later collaborated with",
+      "entities": ["The Dark Knight"],
+      "relations": ["PART_OF_SERIES", "ACTED_IN", "DIRECTED_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 30,
+      "query": "Which composers have scored films in genres where directors who worked with Spielberg have won awards?",
+      "entities": ["Spielberg", "composer"],
+      "relations": ["DIRECTED_BY", "WORKED_WITH", "WON_AWARD", "BELONGS_TO", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 31,
+      "query": "Find actors who appeared in sequels to films that were remakes of movies by directors who influenced modern cinema",
+      "entities": ["sequel", "remake"],
+      "relations": ["SEQUEL_TO", "REMAKE_OF", "DIRECTED_BY", "INFLUENCED", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 32,
+      "query": "What studios produced films directed by people who worked as assistant directors on movies starring method actors?",
+      "entities": ["assistant director", "method actor"],
+      "relations": ["ASSISTANT_DIRECTOR", "ACTED_IN", "ACTING_STYLE", "DIRECTED_BY", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 33,
+      "query": "Find production designers who worked on films in genres favored by directors who collaborated with Roger Deakins",
+      "entities": ["Roger Deakins", "production designer"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY", "BELONGS_TO", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 34,
+      "query": "Which actors have worked in adaptations of books by authors whose works were also adapted by directors they later collaborated with?",
+      "entities": ["adaptation", "book", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "ACTED_IN", "DIRECTED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 35,
+      "query": "Find editors who worked on films starring actors that appeared in movies directed by protégés of Scorsese",
+      "entities": ["Scorsese", "protégé", "editor"],
+      "relations": ["MENTORED", "DIRECTED_BY", "ACTED_IN", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 36,
+      "query": "What genres connect films scored by collaborators of John Williams to directors they worked with?",
+      "entities": ["John Williams", "composer"],
+      "relations": ["MUSIC_BY", "WORKED_WITH", "DIRECTED_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 37,
+      "query": "Find actors who appeared in franchises where different directors used the same production designers",
+      "entities": ["franchise", "production designer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "PRODUCTION_DESIGN_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 38,
+      "query": "Which cinematographers worked on films directed by people who assisted on movies that won cinematography Oscars?",
+      "entities": ["cinematographer", "Oscar", "assistant director"],
+      "relations": ["ASSISTANT_DIRECTOR", "WON_AWARD", "DIRECTED_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 39,
+      "query": "Find composers who scored films in genres where actors from Nolan's films later starred with other directors",
+      "entities": ["Nolan", "composer"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "BELONGS_TO", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 40,
+      "query": "What production companies produced remakes of films by directors who influenced the French New Wave movement?",
+      "entities": ["remake", "French New Wave"],
+      "relations": ["INFLUENCED", "DIRECTED_BY", "REMAKE_OF", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 41,
+      "query": "Find actors who worked with directors that collaborated with cinematographers known for neo-noir visual styles",
+      "entities": ["neo-noir", "cinematographer"],
+      "relations": ["BELONGS_TO", "CINEMATOGRAPHY_BY", "DIRECTED_BY", "WORKED_WITH", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 42,
+      "query": "Which editors worked on sequels to films where the original director mentored the sequel's director?",
+      "entities": ["sequel", "editor"],
+      "relations": ["SEQUEL_TO", "DIRECTED_BY", "MENTORED_BY", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 43,
+      "query": "Find production designers who worked on films in genres favored by directors who won awards in the 1970s",
+      "entities": ["production designer", "1970s"],
+      "relations": ["DIRECTED_BY", "WON_AWARD", "RELEASED_IN", "BELONGS_TO", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 44,
+      "query": "What studios produced films directed by actors who appeared in movies by directors they later collaborated with?",
+      "entities": [],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "WORKED_WITH", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 45,
+      "query": "Find composers who scored films for directors that worked with actors known for physical transformations",
+      "entities": ["composer", "physical transformation"],
+      "relations": ["ACTED_IN", "PHYSICAL_TRANSFORMATION", "DIRECTED_BY", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 46,
+      "query": "Which cinematographers worked on adaptations of books by authors whose other works were adapted by their regular director collaborators?",
+      "entities": ["adaptation", "book", "author", "cinematographer"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "WORKED_WITH", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 47,
+      "query": "Find actors who appeared in remakes directed by protégés of directors who made the original films",
+      "entities": ["remake", "protégé"],
+      "relations": ["REMAKE_OF", "DIRECTED_BY", "MENTORED_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 48,
+      "query": "What genres connect films edited by collaborators of the Coen Brothers to directors of those films?",
+      "entities": ["Coen Brothers", "editor"],
+      "relations": ["DIRECTED_BY", "EDITED_BY", "WORKED_WITH", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 49,
+      "query": "Find production companies that produced films starring actors from movies that won Best Picture in consecutive years",
+      "entities": ["Best Picture"],
+      "relations": ["WON_AWARD", "RELEASED_IN", "ACTED_IN", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 50,
+      "query": "Which composers scored films in franchises where actors worked with different directors across installments?",
+      "entities": ["franchise", "composer"],
+      "relations": ["PART_OF_SERIES", "ACTED_IN", "DIRECTED_BY", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 51,
+      "query": "Find directors who adapted works by authors whose books were previously adapted by directors who mentored them",
+      "entities": ["adaptation", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "MENTORED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 52,
+      "query": "What cinematographers worked on films in genres where directors who collaborated with Spielberg won awards?",
+      "entities": ["Spielberg", "cinematographer"],
+      "relations": ["WORKED_WITH", "DIRECTED_BY", "WON_AWARD", "BELONGS_TO", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 53,
+      "query": "Find actors who worked in sequels to films where the original cast included actors who later became directors",
+      "entities": ["sequel"],
+      "relations": ["SEQUEL_TO", "ACTED_IN", "DIRECTED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 54,
+      "query": "Which production designers worked on films directed by people who were cinematographers on movies by influential directors?",
+      "entities": ["production designer", "cinematographer"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY", "INFLUENCED", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 55,
+      "query": "Find editors who worked on adaptations by directors who collaborated with actors from the original source material's previous adaptations",
+      "entities": ["adaptation", "editor"],
+      "relations": ["ADAPTED_FROM", "DIRECTED_BY", "ACTED_IN", "WORKED_WITH", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 56,
+      "query": "What studios produced films in genres favored by directors who were assistant directors on Kubrick films?",
+      "entities": ["Kubrick", "assistant director"],
+      "relations": ["DIRECTED_BY", "ASSISTANT_DIRECTOR", "BELONGS_TO", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 57,
+      "query": "Find composers who scored films starring actors that appeared in movies directed by collaborators of Ennio Morricone",
+      "entities": ["Ennio Morricone", "composer"],
+      "relations": ["MUSIC_BY", "WORKED_WITH", "DIRECTED_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 58,
+      "query": "Which actors worked in remakes of films that were adapted from books by authors whose other works directors later adapted?",
+      "entities": ["remake", "adaptation", "book"],
+      "relations": ["REMAKE_OF", "ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 59,
+      "query": "Find cinematographers who worked on films in franchises where production designers collaborated across multiple directors",
+      "entities": ["franchise", "cinematographer", "production designer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "PRODUCTION_DESIGN_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 60,
+      "query": "What genres connect films edited by people who worked on movies by directors who won Palme d'Or?",
+      "entities": ["Palme d'Or", "editor"],
+      "relations": ["WON_AWARD", "DIRECTED_BY", "EDITED_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 61,
+      "query": "Find production companies that produced sequels to films by directors whose protégés made the original films",
+      "entities": ["sequel", "protégé"],
+      "relations": ["SEQUEL_TO", "DIRECTED_BY", "MENTORED", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 62,
+      "query": "Which actors appeared in films scored by composers who collaborated with directors known for specific visual styles?",
+      "entities": ["composer", "visual style"],
+      "relations": ["MUSIC_BY", "DIRECTED_BY", "VISUAL_STYLE", "WORKED_WITH", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 63,
+      "query": "Find editors who worked on adaptations of works by authors whose books were adapted by directors they later collaborated with",
+      "entities": ["adaptation", "author", "editor"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "WORKED_WITH", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 64,
+      "query": "What cinematographers shot films directed by actors who appeared in movies by directors who mentored them?",
+      "entities": ["cinematographer"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "MENTORED_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 65,
+      "query": "Find composers who scored films in genres where directors who worked with method actors typically direct",
+      "entities": ["composer", "method actor"],
+      "relations": ["ACTED_IN", "ACTING_STYLE", "DIRECTED_BY", "BELONGS_TO", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 66,
+      "query": "Which production designers worked on franchises where different directors maintained visual continuity?",
+      "entities": ["franchise", "production designer", "visual continuity"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 67,
+      "query": "Find actors who worked in remakes of films by directors who influenced the directors of the remakes",
+      "entities": ["remake"],
+      "relations": ["REMAKE_OF", "DIRECTED_BY", "INFLUENCED_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 68,
+      "query": "What studios produced films directed by cinematographers who shot movies for directors known for long takes?",
+      "entities": ["cinematographer", "long take"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY", "USED_TECHNIQUE", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 69,
+      "query": "Find editors who worked on sequels where actors from the original worked with different directors",
+      "entities": ["sequel", "editor"],
+      "relations": ["SEQUEL_TO", "ACTED_IN", "DIRECTED_BY", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 70,
+      "query": "Which composers scored films for directors who adapted works by the same authors they later collaborated with?",
+      "entities": ["composer", "adaptation", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "WORKED_WITH", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 71,
+      "query": "Find cinematographers who worked on films starring actors from movies directed by their future regular collaborators",
+      "entities": ["cinematographer"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "WORKED_WITH", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 72,
+      "query": "What genres connect films produced by studios that backed directors who won Best Director Oscars in the 2010s?",
+      "entities": ["Best Director", "Oscar", "2010s"],
+      "relations": ["WON_AWARD", "RELEASED_IN", "DIRECTED_BY", "PRODUCED_BY", "BELONGS_TO"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 73,
+      "query": "Find production designers who worked on adaptations by directors who collaborated with actors from previous adaptations of the same author",
+      "entities": ["adaptation", "production designer", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "ACTED_IN", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 74,
+      "query": "Which actors appeared in franchises where composers collaborated with multiple directors across installments?",
+      "entities": ["franchise", "composer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "MUSIC_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 75,
+      "query": "Find editors who worked on films in genres favored by directors who were protégés of French New Wave filmmakers",
+      "entities": ["editor", "French New Wave", "protégé"],
+      "relations": ["MENTORED_BY", "DIRECTED_BY", "BELONGS_TO", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 76,
+      "query": "What cinematographers shot remakes of films where the original directors influenced the remake directors?",
+      "entities": ["cinematographer", "remake"],
+      "relations": ["REMAKE_OF", "DIRECTED_BY", "INFLUENCED_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 77,
+      "query": "Find composers who scored films directed by actors who appeared in movies by directors who mentored them",
+      "entities": ["composer"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "MENTORED_BY", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 78,
+      "query": "Which production companies produced films in genres where cinematographers who worked with Deakins typically shoot?",
+      "entities": ["Roger Deakins", "cinematographer"],
+      "relations": ["CINEMATOGRAPHY_BY", "WORKED_WITH", "BELONGS_TO", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 79,
+      "query": "Find actors who worked in sequels directed by protégés of directors who made films they previously starred in",
+      "entities": ["sequel", "protégé"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "MENTORED", "SEQUEL_TO"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 80,
+      "query": "What editors worked on adaptations of books by authors whose works were adapted by directors who influenced modern thriller filmmaking?",
+      "entities": ["adaptation", "author", "thriller", "editor"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "INFLUENCED", "BELONGS_TO", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 81,
+      "query": "Find production designers who worked on franchises where actors worked with directors who later directed standalone films in the same genre",
+      "entities": ["franchise", "production designer"],
+      "relations": ["PART_OF_SERIES", "ACTED_IN", "DIRECTED_BY", "BELONGS_TO", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 82,
+      "query": "Which cinematographers shot films for directors who collaborated with composers known for specific musical styles?",
+      "entities": ["cinematographer", "composer", "musical style"],
+      "relations": ["DIRECTED_BY", "MUSIC_BY", "MUSICAL_STYLE", "WORKED_WITH", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 83,
+      "query": "Find actors who appeared in remakes of films adapted from books by authors whose other works directors later adapted",
+      "entities": ["remake", "adaptation", "author"],
+      "relations": ["REMAKE_OF", "ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 84,
+      "query": "What studios produced films directed by editors who worked on movies by directors who won technical Oscars?",
+      "entities": ["editor", "Oscar"],
+      "relations": ["EDITED_BY", "DIRECTED_BY", "WON_AWARD", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 85,
+      "query": "Find composers who scored films in franchises where different directors used the same production designers",
+      "entities": ["composer", "franchise", "production designer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "PRODUCTION_DESIGN_BY", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 3
+    },
+    {
+      "id": 86,
+      "query": "Which production designers worked on adaptations by directors who collaborated with actors known for method acting?",
+      "entities": ["adaptation", "production designer", "method acting"],
+      "relations": ["ADAPTED_FROM", "DIRECTED_BY", "ACTED_IN", "ACTING_STYLE", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 87,
+      "query": "Find editors who worked on sequels where cinematographers from the original films continued with different directors",
+      "entities": ["sequel", "editor", "cinematographer"],
+      "relations": ["SEQUEL_TO", "CINEMATOGRAPHY_BY", "DIRECTED_BY", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 88,
+      "query": "What cinematographers shot films for directors who were actors in movies by directors who influenced their style?",
+      "entities": ["cinematographer"],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "INFLUENCED_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 89,
+      "query": "Find actors who worked in franchises where directors collaborated with composers they previously worked with on non-franchise films",
+      "entities": ["franchise", "composer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "MUSIC_BY", "WORKED_WITH", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 90,
+      "query": "Which production companies produced remakes of films by directors whose protégés later worked with the remake directors?",
+      "entities": ["remake", "protégé"],
+      "relations": ["REMAKE_OF", "DIRECTED_BY", "MENTORED", "WORKED_WITH", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 91,
+      "query": "Find composers who scored adaptations of works by authors whose books were adapted by directors in specific genres",
+      "entities": ["composer", "adaptation", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "BELONGS_TO", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 92,
+      "query": "What editors worked on films directed by cinematographers who shot movies for directors known for visual innovation?",
+      "entities": ["editor", "cinematographer", "visual innovation"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY", "VISUAL_STYLE", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 93,
+      "query": "Find actors who appeared in sequels directed by people who were assistant directors on films by the original directors",
+      "entities": ["sequel", "assistant director"],
+      "relations": ["SEQUEL_TO", "DIRECTED_BY", "ASSISTANT_DIRECTOR", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 94,
+      "query": "Which cinematographers shot films in genres favored by directors who collaborated with actors from Scorsese's films?",
+      "entities": ["Scorsese", "cinematographer"],
+      "relations": ["DIRECTED_BY", "ACTED_IN", "WORKED_WITH", "BELONGS_TO", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 95,
+      "query": "Find production designers who worked on franchises where actors later worked with directors in the same genres",
+      "entities": ["franchise", "production designer"],
+      "relations": ["PART_OF_SERIES", "ACTED_IN", "DIRECTED_BY", "BELONGS_TO", "PRODUCTION_DESIGN_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 96,
+      "query": "What composers scored films for directors who adapted works by authors that other directors they mentored also adapted?",
+      "entities": ["composer", "adaptation", "author"],
+      "relations": ["ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "MENTORED", "MUSIC_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 97,
+      "query": "Find editors who worked on remakes where production designers from the originals collaborated with the remake directors",
+      "entities": ["editor", "remake", "production designer"],
+      "relations": ["REMAKE_OF", "PRODUCTION_DESIGN_BY", "DIRECTED_BY", "EDITED_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 98,
+      "query": "Which actors appeared in films directed by people who were cinematographers on movies by directors who won Palme d'Or?",
+      "entities": ["cinematographer", "Palme d'Or"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY", "WON_AWARD", "ACTED_IN"],
+      "complexity": "very_high",
+      "hops": 4
+    },
+    {
+      "id": 99,
+      "query": "Find production companies that produced sequels to adaptations by directors who collaborated with the authors of the source material",
+      "entities": ["sequel", "adaptation", "author"],
+      "relations": ["SEQUEL_TO", "ADAPTED_FROM", "WRITTEN_BY", "DIRECTED_BY", "WORKED_WITH", "PRODUCED_BY"],
+      "complexity": "very_high",
+      "hops": 5
+    },
+    {
+      "id": 100,
+      "query": "What cinematographers shot films in franchises where different directors maintained stylistic consistency through the same production designers?",
+      "entities": ["cinematographer", "franchise", "production designer"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "PRODUCTION_DESIGN_BY", "CINEMATOGRAPHY_BY"],
+      "complexity": "very_high",
+      "hops": 4
+    }
+  ]
+}

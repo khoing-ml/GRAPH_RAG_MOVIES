@@ -1,0 +1,934 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 797,
+    "imdb_id": "tt0060827",
+    "origin_country": [
+      "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "Persona",
+    "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+    "popularity": 4.9856,
+    "poster_path": "/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+    "production_companies": [
+      {
+        "id": 6181,
+        "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+        "name": "SF Studios",
+        "origin_country": "SE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "release_date": "1966-10-18",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ingmar Bergman's most personal and original film.",
+    "title": "Persona",
+    "video": false,
+    "vote_average": 8.142,
+    "vote_count": 2345
+  },
+  "credits": {
+    "id": 797,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6657,
+        "known_for_department": "Acting",
+        "name": "Bibi Andersson",
+        "original_name": "Bibi Andersson",
+        "popularity": 1.1081,
+        "profile_path": "/6EGqmWOR3R3jv3IgrEZmCjTAVGv.jpg",
+        "cast_id": 13,
+        "character": "Alma",
+        "credit_id": "52fe4278c3a36847f80210df",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11916,
+        "known_for_department": "Acting",
+        "name": "Liv Ullmann",
+        "original_name": "Liv Ullmann",
+        "popularity": 1.978,
+        "profile_path": "/7IJimLbXIOYpLAS4UaHcNYWRsJe.jpg",
+        "cast_id": 14,
+        "character": "Elisabet Vogler",
+        "credit_id": "52fe4278c3a36847f80210e3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11917,
+        "known_for_department": "Acting",
+        "name": "Margaretha Krook",
+        "original_name": "Margaretha Krook",
+        "popularity": 1.5552,
+        "profile_path": "/eIfMDQG8oaU2Vt5xbYt4vS6ftja.jpg",
+        "cast_id": 15,
+        "character": "The Doctor",
+        "credit_id": "52fe4278c3a36847f80210e7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6649,
+        "known_for_department": "Acting",
+        "name": "Gunnar Björnstrand",
+        "original_name": "Gunnar Björnstrand",
+        "popularity": 0.755,
+        "profile_path": "/vy5Y0c1ACGCI6d4rVjmTM6HOqNN.jpg",
+        "cast_id": 16,
+        "character": "Herr Vogler",
+        "credit_id": "52fe4278c3a36847f80210eb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11918,
+        "known_for_department": "Acting",
+        "name": "Jörgen Lindström",
+        "original_name": "Jörgen Lindström",
+        "popularity": 2.1636,
+        "profile_path": "/yXsYjc6FvmcHgSJ5Uv4GJBnRBqX.jpg",
+        "cast_id": 17,
+        "character": "Elisabet's Son (uncredited)",
+        "credit_id": "52fe4278c3a36847f80210ef",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mago",
+        "original_name": "Mago",
+        "popularity": 0.8612,
+        "profile_path": "/8kpbMrmHCXhb2qyTGez26AbIo0R.jpg",
+        "credit_id": "52fe4278c3a36847f80210c3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.8326,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4278c3a36847f8021099",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11905,
+        "known_for_department": "Camera",
+        "name": "Sven Nykvist",
+        "original_name": "Sven Nykvist",
+        "popularity": 0.6507,
+        "profile_path": "/qs8gCA7aTXPfKkGiPdQAqposl5o.jpg",
+        "credit_id": "52fe4278c3a36847f80210b1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.8326,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4278c3a36847f802109f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11904,
+        "known_for_department": "Sound",
+        "name": "Lars Johan Werle",
+        "original_name": "Lars Johan Werle",
+        "popularity": 0.2986,
+        "profile_path": null,
+        "credit_id": "52fe4278c3a36847f80210ab",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11909,
+        "known_for_department": "Production",
+        "name": "Lars-Owe Carlberg",
+        "original_name": "Lars-Owe Carlberg",
+        "popularity": 0.2254,
+        "profile_path": null,
+        "credit_id": "52fe4278c3a36847f80210c9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11906,
+        "known_for_department": "Editing",
+        "name": "Ulla Ryghe",
+        "original_name": "Ulla Ryghe",
+        "popularity": 0.2561,
+        "profile_path": "/qXrmCDuxrYelPG94PYnVwzp3oQy.jpg",
+        "credit_id": "52fe4278c3a36847f80210b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11907,
+        "known_for_department": "Art",
+        "name": "Bibi Lindström",
+        "original_name": "Bibi Lindström",
+        "popularity": 0.4777,
+        "profile_path": "/t2QwSsyWr0ogmmLip6S9bOllzvx.jpg",
+        "credit_id": "52fe4278c3a36847f80210bd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.8326,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4278c3a36847f80210a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11914,
+        "known_for_department": "Sound",
+        "name": "Olle Jakobsson",
+        "original_name": "Olle Jacobsson",
+        "popularity": 0.3071,
+        "profile_path": "/nRWbaqTqItqOqYjBDdmX3tjS6dt.jpg",
+        "credit_id": "52fe4278c3a36847f80210db",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1526483,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Börje Lundh",
+        "original_name": "Börje Lundh",
+        "popularity": 0.2382,
+        "profile_path": "/qCHN3jyaysVF6ITXuPkazPkUEB2.jpg",
+        "credit_id": "562b6bdf9251412845004482",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11910,
+        "known_for_department": "Sound",
+        "name": "Lennart Engholm",
+        "original_name": "Lennart Engholm",
+        "popularity": 0.2055,
+        "profile_path": null,
+        "credit_id": "562b6b62925141284c004abc",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526482,
+        "known_for_department": "Directing",
+        "name": "Kerstin Berg",
+        "original_name": "Kerstin Berg",
+        "popularity": 0.1674,
+        "profile_path": null,
+        "credit_id": "562b6bb6c3a3681b61004baf",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11912,
+        "known_for_department": "Sound",
+        "name": "Per-Olof Pettersson",
+        "original_name": "Per-Olof Pettersson",
+        "popularity": 0.7316,
+        "profile_path": "/jKKjyzVrGDVXescKtomlPiKUpz5.jpg",
+        "credit_id": "562b6b9a9251412857004804",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77709,
+        "known_for_department": "Writing",
+        "name": "Bo Arne Vibenius",
+        "original_name": "Bo Arne Vibenius",
+        "popularity": 2.6317,
+        "profile_path": "/cmqROYOXdM99miSJtKLo4erARIz.jpg",
+        "credit_id": "646faa0b5437f501055cd947",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2393637,
+        "known_for_department": "Crew",
+        "name": "Anders Bodin",
+        "original_name": "Anders Bodin",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "66d213c0c06438205a03bf6d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642275,
+        "known_for_department": "Camera",
+        "name": "Lars Johnsson",
+        "original_name": "Lars Johnsson",
+        "popularity": 0.1489,
+        "profile_path": null,
+        "credit_id": "66d213de5a8a9e5e2dc0bf70",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994406,
+        "known_for_department": "Directing",
+        "name": "Lenn Hjortzberg",
+        "original_name": "Lenn Hjortzberg",
+        "popularity": 0.724,
+        "profile_path": "/kCUOx07w0kc8I1IpX8FdWtDNFU7.jpg",
+        "credit_id": "66d2138b27667e3b849437c5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642275,
+        "known_for_department": "Camera",
+        "name": "Lars Johnsson",
+        "original_name": "Lars Johnsson",
+        "popularity": 0.1489,
+        "profile_path": null,
+        "credit_id": "66d2140abd4f25adff78b8da",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77709,
+        "known_for_department": "Writing",
+        "name": "Bo Arne Vibenius",
+        "original_name": "Bo Arne Vibenius",
+        "popularity": 2.6317,
+        "profile_path": "/cmqROYOXdM99miSJtKLo4erARIz.jpg",
+        "credit_id": "66d2140038adc2a72c003993",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1612810,
+        "known_for_department": "Sound",
+        "name": "Evald Andersson",
+        "original_name": "Evald Andersson",
+        "popularity": 0.21,
+        "profile_path": null,
+        "credit_id": "66d214823c381a51b9c0bf2c",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1641771,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tina Johansson",
+        "original_name": "Tina Johansson",
+        "popularity": 0.1993,
+        "profile_path": null,
+        "credit_id": "66d214573c381a51b9c0bf23",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11910,
+        "known_for_department": "Sound",
+        "name": "Lennart Engholm",
+        "original_name": "Lennart Engholm",
+        "popularity": 0.2055,
+        "profile_path": null,
+        "credit_id": "66d214673c381a51b9c0bf27",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192605,
+        "known_for_department": "Art",
+        "name": "Karl-Arne Bergman",
+        "original_name": "Karl-Arne Bergman",
+        "popularity": 0.3728,
+        "profile_path": null,
+        "credit_id": "66d214248f265bb6e9b5f67d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.8326,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "66fef02fe48014914684f544",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 797,
+    "keywords": [
+      {
+        "id": 1566,
+        "name": "dreams"
+      },
+      {
+        "id": 428,
+        "name": "nurse"
+      },
+      {
+        "id": 718,
+        "name": "confession"
+      },
+      {
+        "id": 3394,
+        "name": "identity crisis"
+      },
+      {
+        "id": 4280,
+        "name": "mental breakdown"
+      },
+      {
+        "id": 10085,
+        "name": "betrayal"
+      },
+      {
+        "id": 10392,
+        "name": "mute"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14781,
+        "name": "patient"
+      },
+      {
+        "id": 159313,
+        "name": "psychiatry"
+      },
+      {
+        "id": 166989,
+        "name": "submerged"
+      },
+      {
+        "id": 197582,
+        "name": "mysterious"
+      },
+      {
+        "id": 198914,
+        "name": "institution"
+      },
+      {
+        "id": 227947,
+        "name": "dual personality"
+      },
+      {
+        "id": 228296,
+        "name": "stage actress"
+      },
+      {
+        "id": 252612,
+        "name": "duality"
+      },
+      {
+        "id": 273000,
+        "name": "dissociative identities"
+      },
+      {
+        "id": 325806,
+        "name": "empathetic"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8yduNHw3fe4x64SJW3jf9ScM1Al.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 644824,
+        "original_language": "en",
+        "original_title": "Oasis",
+        "overview": "When an introverted teenager photographs an charming backpacker naked in a caravan shower block he must choose between keeping his precious secret or saving his friendship.",
+        "popularity": 2.2003,
+        "poster_path": "/3o0kcKzBFtDwEZsPhE6IZgRi7EE.jpg",
+        "release_date": "2016-02-29",
+        "title": "Oasis",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m9ELo5SDNZvp7CGbSVIMYBeY8wl.jpg",
+        "genre_ids": [
+          878,
+          18,
+          9648
+        ],
+        "id": 167,
+        "original_language": "en",
+        "original_title": "K-PAX",
+        "overview": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+        "popularity": 4.0546,
+        "poster_path": "/tafXZX0I6rso7EyoEzfygfTqxq6.jpg",
+        "release_date": "2001-10-26",
+        "title": "K-PAX",
+        "video": false,
+        "vote_average": 7.202,
+        "vote_count": 2633
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10749,
+          53,
+          10752
+        ],
+        "id": 182,
+        "original_language": "en",
+        "original_title": "The Good German",
+        "overview": "An American journalist arrives in Berlin just after the end of World War Two. He becomes involved in a murder mystery surrounding a dead GI who washes up at a lakeside mansion during the Potsdam negotiations between the Allied powers. Soon his investigation connects with his search for his married pre-war German lover.",
+        "popularity": 0.998,
+        "poster_path": "/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+        "release_date": "2006-12-15",
+        "title": "The Good German",
+        "video": false,
+        "vote_average": 5.809,
+        "vote_count": 335
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+        "genre_ids": [
+          18,
+          53,
+          12
+        ],
+        "id": 204,
+        "original_language": "fr",
+        "original_title": "Le Salaire de la peur",
+        "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+        "popularity": 3.1867,
+        "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+        "release_date": "1953-04-22",
+        "title": "The Wages of Fear",
+        "video": false,
+        "vote_average": 8.004,
+        "vote_count": 1040
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 205,
+        "original_language": "en",
+        "original_title": "Hotel Rwanda",
+        "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+        "popularity": 6.1595,
+        "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+        "release_date": "2004-12-22",
+        "title": "Hotel Rwanda",
+        "video": false,
+        "vote_average": 7.712,
+        "vote_count": 3050
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 216,
+        "original_language": "de",
+        "original_title": "Angst essen Seele auf",
+        "overview": "Emmi Kurowski, a cleaning lady, is lonely in her old age. Her husband died years ago, and her grown children offer little companionship. One night she goes to a bar frequented by Arab immigrants and strikes up a friendship with middle-aged mechanic Ali. Their relationship soon develops into something more, and Emmi's family and neighbors criticize their spontaneous marriage. Soon Emmi and Ali are forced to confront their own insecurities about their future.",
+        "popularity": 1.6993,
+        "poster_path": "/5Oru4v8tRUN90JUuM6BNDJoetLt.jpg",
+        "release_date": "1974-03-05",
+        "title": "Ali: Fear Eats the Soul",
+        "video": false,
+        "vote_average": 7.738,
+        "vote_count": 439
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vzkueeO7XwkziTDla4ncF6H4laQ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 228,
+        "original_language": "de",
+        "original_title": "Der blaue Engel",
+        "overview": "Prim professor Immanuel Rath finds some of his students ogling racy photos of cabaret performer Lola Lola and visits a local club, The Blue Angel, in an attempt to catch them there. Seeing Lola perform, the teacher is filled with lust, eventually resigning his position at the school to marry the young woman. However, his marriage to a coquette -- whose job is to entice men -- proves to be more difficult than Rath imagined.",
+        "popularity": 1.2689,
+        "poster_path": "/khz2rKLAPDVu9auJt1sR1HO9SCG.jpg",
+        "release_date": "1930-04-01",
+        "title": "The Blue Angel",
+        "video": false,
+        "vote_average": 7.289,
+        "vote_count": 349
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
+        "genre_ids": [
+          18,
+          27,
+          53,
+          80
+        ],
+        "id": 234,
+        "original_language": "de",
+        "original_title": "Das Cabinet des Dr. Caligari",
+        "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+        "popularity": 2.5563,
+        "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+        "release_date": "1920-02-26",
+        "title": "The Cabinet of Dr. Caligari",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 1718
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fbbXEud8KqOhPEJIVnVM68HicCv.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 236,
+        "original_language": "en",
+        "original_title": "Muriel's Wedding",
+        "overview": "Socially awkward Muriel Heslop wants nothing more than to get married. Unfortunately, due to her oppressive politician father, Muriel has never even been on a date. Ostracized by her more socially adept friends, Muriel runs into fellow outcast Rhonda Epinstalk, and the two move from their small Australian town to the big city of Sydney, where Muriel changes her name and begins the arduous task of redesigning her life to match her fantasies.",
+        "popularity": 1.7574,
+        "poster_path": "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+        "release_date": "1994-09-29",
+        "title": "Muriel's Wedding",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 477
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 18.3623,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 13444
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "id": 241,
+        "original_language": "en",
+        "original_title": "Natural Born Killers",
+        "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+        "popularity": 5.1816,
+        "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+        "release_date": "1994-08-26",
+        "title": "Natural Born Killers",
+        "video": false,
+        "vote_average": 7.055,
+        "vote_count": 3652
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 242,
+        "original_language": "en",
+        "original_title": "The Godfather Part III",
+        "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+        "popularity": 14.4319,
+        "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+        "release_date": "1990-12-25",
+        "title": "The Godfather Part III",
+        "video": false,
+        "vote_average": 7.418,
+        "vote_count": 6644
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP6WiYHQUUXo6ZaXI06enkMsxkF.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28
+        ],
+        "id": 246,
+        "original_language": "ja",
+        "original_title": "座頭市",
+        "overview": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
+        "popularity": 2.7254,
+        "poster_path": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg",
+        "release_date": "2003-09-06",
+        "title": "Zatoichi",
+        "video": false,
+        "vote_average": 7.233,
+        "vote_count": 921
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28
+        ],
+        "id": 254,
+        "original_language": "en",
+        "original_title": "King Kong",
+        "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+        "popularity": 11.2924,
+        "poster_path": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+        "release_date": "2005-12-12",
+        "title": "King Kong",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 8297
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s4H3XiCwHrjtMP4cBCO5L5tDVg3.jpg",
+        "genre_ids": [
+          80,
+          18,
+          10751
+        ],
+        "id": 257,
+        "original_language": "en",
+        "original_title": "Oliver Twist",
+        "overview": "When 9-year-old orphan Oliver Twist dares to ask his cruel taskmaster, Mr. Bumble, for a second serving of gruel, he's hired out as an apprentice. Escaping that dismal fate, young Oliver falls in with the street urchin known as the Artful Dodger and his criminal mentor, Fagin. When kindly Mr. Brownlow takes Oliver in, Fagin's evil henchman Bill Sikes plots to kidnap the boy.",
+        "popularity": 5.1774,
+        "poster_path": "/zhPdYZ3x2uanhM1SyBj4CuL6hSa.jpg",
+        "release_date": "2005-09-23",
+        "title": "Oliver Twist",
+        "video": false,
+        "vote_average": 6.746,
+        "vote_count": 1218
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dPStzWmECzqe7cHZfbKDxWW04Tt.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1042216,
+        "original_language": "en",
+        "original_title": "Mutt",
+        "overview": "Over the course of a single hectic day in New York City, three people from Feña's past are thrust back into his life: his foreign father, his straight ex-boyfriend, and his 13-year old half-sister. Having lost touch since transitioning from female to male, Feña must navigate the new dynamics of these old relationships while tackling the day-to-day challenges that come with living a life in-between.",
+        "popularity": 0.4015,
+        "poster_path": "/oCJIH0PgzRUnxLrTW7QhsYk2gxN.jpg",
+        "release_date": "2023-08-09",
+        "title": "Mutt",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+        "genre_ids": [
+          18,
+          878
+        ],
+        "id": 19,
+        "original_language": "de",
+        "original_title": "Metropolis",
+        "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+        "popularity": 5.249,
+        "poster_path": "/vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
+        "release_date": "1927-01-10",
+        "title": "Metropolis",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 2993
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+        "genre_ids": [
+          878,
+          18,
+          10749
+        ],
+        "id": 38,
+        "original_language": "en",
+        "original_title": "Eternal Sunshine of the Spotless Mind",
+        "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+        "popularity": 13.4181,
+        "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+        "release_date": "2004-03-19",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "video": false,
+        "vote_average": 8.092,
+        "vote_count": 15911
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/if0AhFmuovmrwfbVvCv7q8ASLz1.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 55,
+        "original_language": "es",
+        "original_title": "Amores perros",
+        "overview": "A fatalistic car crash in Mexico city sets off a chain of events in the lives of three people: a supermodel, a young man wanting to run off with his sister-in-law, and a homeless man. Their lives are catapulted into unforeseen situations instigated by the seemingly inconsequential destiny of a dog.",
+        "popularity": 8.4387,
+        "poster_path": "/60AQ3SfsejgSJrEUQUk89yP6LTr.jpg",
+        "release_date": "2000-06-16",
+        "title": "Amores Perros",
+        "video": false,
+        "vote_average": 7.632,
+        "vote_count": 2810
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n3xQzPy9UPP7Ywm2Y2PWC0qjCCh.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 59,
+        "original_language": "en",
+        "original_title": "A History of Violence",
+        "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+        "popularity": 3.2179,
+        "poster_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+        "release_date": "2005-09-23",
+        "title": "A History of Violence",
+        "video": false,
+        "vote_average": 7.161,
+        "vote_count": 3569
+      }
+    ],
+    "total_pages": 14158,
+    "total_results": 283147
+  }
+}

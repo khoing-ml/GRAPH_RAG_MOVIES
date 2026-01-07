@@ -1,0 +1,464 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/mFVGzW8a2Z37NphnuB6liChiuRv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 38288,
+    "imdb_id": "tt3444066",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "“I Corti” di Aldo, Giovanni e Giacomo",
+    "overview": "I Corti (\"Shorts\") by Aldo, Giovanni & Giacomo was the first stage show of the comedy trio, with the participation of Marina Massironi. It was recorded live at the Teatro Nuovo in Ferrara on 28 and 29 March 1996. Produced by Agidi, with the theatre direction of Arturo Brachetti.",
+    "popularity": 0.1082,
+    "poster_path": "/y3hEulMYSTQuvmI5jBTyWrcvJQX.jpg",
+    "production_companies": [
+      {
+        "id": 9094,
+        "logo_path": null,
+        "name": "A.Gi.Di.",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1996-03-29",
+    "revenue": 0,
+    "runtime": 130,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "“The Shorts” by Aldo, Giovanni and Giacomo",
+    "video": false,
+    "vote_average": 8.099,
+    "vote_count": 357
+  },
+  "credits": {
+    "id": 38288,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120019,
+        "known_for_department": "Acting",
+        "name": "Aldo Baglio",
+        "original_name": "Aldo Baglio",
+        "popularity": 1.1832,
+        "profile_path": "/uMbVlHKaEHdZI94ISGPjB138gvA.jpg",
+        "cast_id": 1,
+        "character": "Aldo",
+        "credit_id": "52fe46a69251416c9105b349",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120025,
+        "known_for_department": "Acting",
+        "name": "Giacomo Poretti",
+        "original_name": "Giacomo Poretti",
+        "popularity": 0.6508,
+        "profile_path": "/d5No2ooCX78hqVvSvLenXN15La0.jpg",
+        "cast_id": 2,
+        "character": "Giacomo",
+        "credit_id": "52fe46a69251416c9105b34d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120020,
+        "known_for_department": "Acting",
+        "name": "Giovanni Storti",
+        "original_name": "Giovanni Storti",
+        "popularity": 0.8936,
+        "profile_path": "/qbE8gq3aN7Ouf0NfU7fAUFiorIC.jpg",
+        "cast_id": 3,
+        "character": "Giovanni",
+        "credit_id": "52fe46a69251416c9105b351",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7543,
+        "known_for_department": "Acting",
+        "name": "Marina Massironi",
+        "original_name": "Marina Massironi",
+        "popularity": 0.5946,
+        "profile_path": "/ekKgiwlhYTJwVPtmgtZxQY4BgjG.jpg",
+        "cast_id": 4,
+        "character": "Marina",
+        "credit_id": "52fe46a69251416c9105b355",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32245,
+        "known_for_department": "Directing",
+        "name": "Arturo Brachetti",
+        "original_name": "Arturo Brachetti",
+        "popularity": 0.6548,
+        "profile_path": "/fRZGnEH4xcg9qJRUy92jSaPlVeF.jpg",
+        "credit_id": "52fe46a69251416c9105b35b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120024,
+        "known_for_department": "Production",
+        "name": "Paolo Guerra",
+        "original_name": "Paolo Guerra",
+        "popularity": 0.0743,
+        "profile_path": "/eYVBA4faH8XBY9mZZIXCvITIMXP.jpg",
+        "credit_id": "52fe46a69251416c9105b361",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 38288,
+    "keywords": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xEbTrEoVOMpzpvNJkY1EomP7bEl.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 24169,
+        "original_language": "it",
+        "original_title": "Il cosmo sul comò",
+        "overview": "Four comedic episodes framed within the story of a tyrannical Zen master and his two hapless disciples.",
+        "popularity": 0.3227,
+        "poster_path": "/tKHHDq1M9xde3UBaefSdV7RZkVQ.jpg",
+        "release_date": "2008-12-19",
+        "title": "The Cosmos on the Commode",
+        "video": false,
+        "vote_average": 5.186,
+        "vote_count": 874
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kpD2d678E0gW2lw8iuziREtRCJ7.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 270479,
+        "original_language": "it",
+        "original_title": "Ammutta Muddica al Cinema",
+        "overview": "Film adaptation of the theatrical show Ammutta muddica performed by the trio composed of Aldo, Giovanni and Giacomo. The protagonist of the various sketches is the common everyday life, full of bizarre characters and comic situations.",
+        "popularity": 0.2658,
+        "poster_path": "/3T93MN5GKj0mcgYNFC57RuZIT8F.jpg",
+        "release_date": "2013-10-16",
+        "title": "Ammutta Muddica al Cinema",
+        "video": false,
+        "vote_average": 6.548,
+        "vote_count": 207
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pnxtkmyIkuUAdRK1NgnZnUWnUOH.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 310126,
+        "original_language": "it",
+        "original_title": "Il ricco, il povero e il maggiordomo",
+        "overview": "A wealthy broker, his loyal butler, and a poor street seller all see their social positions change in a twist of fate.",
+        "popularity": 0.2851,
+        "poster_path": "/fjnOjxruO6rmUwF2nnnoynYhUHf.jpg",
+        "release_date": "2014-12-11",
+        "title": "The Rich, the Pauper and the Butler",
+        "video": false,
+        "vote_average": 5.712,
+        "vote_count": 875
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/26drTTwx0CGdcYpjhJfhxTgRWRr.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 38286,
+        "original_language": "it",
+        "original_title": "Tre uomini e una gamba",
+        "overview": "Friends Aldo, Giovanni, and Giacomo cross Italy from north to south for Giacomo's wedding: the father of the bride, a despotic magnate who is both their boss and father-in-law—since Aldo and Giovanni have also married into the family not for love but for money, a fate now awaiting Giacomo—has entrusted them with a priceless piece of modern art, one that looks just like a rather unremarkable wooden leg.",
+        "popularity": 1.1419,
+        "poster_path": "/yhgfM1WTHu4Uiwa47FAGmBk4V7x.jpg",
+        "release_date": "1997-12-27",
+        "title": "Three Men and a Leg",
+        "video": false,
+        "vote_average": 7.964,
+        "vote_count": 2133
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nZ0BF8X2dSb8XbI24aNQH6wNcTj.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 38397,
+        "original_language": "it",
+        "original_title": "La leggenda di Al, John e Jack",
+        "overview": "Hapless Depression-era gangsters Al, John and Jack find out their boss wants to get rid of them and come up with a plan to sell him to the FBI, but Al's short-term memory loss could make it difficult.",
+        "popularity": 0.4986,
+        "poster_path": "/t7Xb04P1uCUJ1LADWD5RfqWGyDu.jpg",
+        "release_date": "2002-12-13",
+        "title": "The Legend of Al, John and Jack",
+        "video": false,
+        "vote_average": 7.071,
+        "vote_count": 1192
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/atlEDufyaGEQcOjwOwzvsfX8AWW.jpg",
+        "genre_ids": [
+          35,
+          14
+        ],
+        "id": 50472,
+        "original_language": "it",
+        "original_title": "Anplagghed al Cinema",
+        "overview": "A queue at the ATM machine, a displaced family after a seismic shock that has half-washed their home, a tour within an art gallery, moments of everyday life that become the cues for the emergence of comic, farce, paradoxical situations – trademarks of one of the most successful Italian comic groups.",
+        "popularity": 0.717,
+        "poster_path": "/fJEAiAfCgItEMedF1I4HQpStaxn.jpg",
+        "release_date": "2006-11-26",
+        "title": "Anplagghed al Cinema",
+        "video": false,
+        "vote_average": 6.985,
+        "vote_count": 343
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lkS4BWVGr2TIyqwWcLtE6xz553j.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 50531,
+        "original_language": "it",
+        "original_title": "Chiedimi se sono felice",
+        "overview": "Aspiring thespians Aldo, Giovanni and Giacomo work dead-end jobs while nurturing their dream production of Cyrano de Bergerac, until love for the same woman tears their friendship apart. Three years later, Giovanni and Giacomo reunite after learning that Aldo is dying.",
+        "popularity": 0.7185,
+        "poster_path": "/gzDYw3sUQ18gJSlLvJ5YqWlXfZr.jpg",
+        "release_date": "2000-12-15",
+        "title": "Ask Me If I'm Happy",
+        "video": false,
+        "vote_average": 7.651,
+        "vote_count": 1701
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mEbTaD4s455YAXqzG032239azrV.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 58013,
+        "original_language": "it",
+        "original_title": "La banda dei Babbi Natale",
+        "overview": "On Christmas Eve, three friends dressed as Santa Claus are arrested in what looks like an attempted burglary and charged with being the infamous \"Santa Claus Gang\". While trying to prove their innocence to the police, the trio explains why they found themselves in such a strange situation...",
+        "popularity": 0.6707,
+        "poster_path": "/uPiRMJ2JrIy7ouEmoUcy7Q8rlub.jpg",
+        "release_date": "2010-12-17",
+        "title": "The Santa Claus Gang",
+        "video": false,
+        "vote_average": 6.031,
+        "vote_count": 1078
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hp7yyC8l1yBvJrMeMFVCME2ccpR.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 57112,
+        "original_language": "it",
+        "original_title": "Tu la conosci Claudia?",
+        "overview": "Claudia is married with Giovanni, a rather dull type. Meek Giacomo is happily divorced, until he meets her. Aldo is a colorful cabbie with whom she had an affair. Who'll win her heart?",
+        "popularity": 0.2676,
+        "poster_path": "/15bzqOHZfLl3XjAFeT87SDvvkP5.jpg",
+        "release_date": "2004-12-15",
+        "title": "Have You Met Claudia?",
+        "video": false,
+        "vote_average": 6.742,
+        "vote_count": 1041
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 367425,
+        "original_language": "it",
+        "original_title": "Pur Purr Rid!",
+        "overview": "",
+        "popularity": 0.3867,
+        "poster_path": "/ahLmeepkxazy2MI3D0VXhTywrcB.jpg",
+        "release_date": "2008-05-20",
+        "title": "Pur Purr Rid!",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bpSNlvgrNiCCunelnx5BOUAuPVS.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 202059,
+        "original_language": "it",
+        "original_title": "Potevo rimanere offeso!",
+        "overview": "Live stage recording of the stand-up comedy show, with sketches and videos of old skits from 'Mai dire Gol'.",
+        "popularity": 1.74,
+        "poster_path": "/2D8YJpmK6L9fSLX43hkDhHvvers.jpg",
+        "release_date": "2001-10-18",
+        "title": "I could have been offended!",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nWWfohnSpIGw8worhKiFRmk2SZX.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 419507,
+        "original_language": "it",
+        "original_title": "Fuga da Reuma Park",
+        "overview": "Old and forgotten, comedian Aldo is brought by his sons into a nursing home called Reuma Park where he finds his old friends and partners Giovanni and Giacomo.",
+        "popularity": 0.3886,
+        "poster_path": "/gS6lW5OVa29noaS9IS9YWxeITXY.jpg",
+        "release_date": "2016-12-15",
+        "title": "Escape From Reuma Park",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 461
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sjM53bnHHdVP3FmJCkP1K1BKRpA.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 160885,
+        "original_language": "it",
+        "original_title": "Tel chi el telùn",
+        "overview": "A comedy show.",
+        "popularity": 0.3624,
+        "poster_path": "/428vjrQpsNWSutMkB9Zndp6nIBq.jpg",
+        "release_date": "1999-05-12",
+        "title": "Tel chi el telùn",
+        "video": false,
+        "vote_average": 7.925,
+        "vote_count": 333
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hDksOg14y7UdPiR8tMTRfQbl8Fg.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 583248,
+        "original_language": "it",
+        "original_title": "Scappo a casa",
+        "overview": "Michele is a superficial man with nothing but contempt for other people and who lives only to show off his wealth on social media, until he finds himself mistaken for a North African immigrant in Eastern Europe and deported.",
+        "popularity": 2.2314,
+        "poster_path": "/slsw86Px8Vw2dPhW6O2swivjRdt.jpg",
+        "release_date": "2019-03-21",
+        "title": "Scappo a casa",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 169
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gh4J8vtYSXb3XumRtJxDNJC1W8q.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 606954,
+        "original_language": "it",
+        "original_title": "Odio l'estate",
+        "overview": "Three families end up in the same rented house. Throughout the summer, they become friends and rediscover how to enjoy life.",
+        "popularity": 2.4058,
+        "poster_path": "/f0l06BUo5PlW7h3XOaPZMFn3mEt.jpg",
+        "release_date": "2020-01-30",
+        "title": "I Hate Summer",
+        "video": false,
+        "vote_average": 7.06,
+        "vote_count": 970
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/llxigGGcBVrLTfLwUk4uhQKMfhp.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 710314,
+        "original_language": "it",
+        "original_title": "Un filo intorno al mondo",
+        "overview": "During world war two, two illetterate farmers from the north Italy, father and son, ask a shrewd postman to help them read the letter sent by the son (granson) from the russian war front. At night, they invent a way to send the soldier a pair of new shoes. Surprise ending...",
+        "popularity": 0.0454,
+        "poster_path": "/s7TAvwmzBS4bsJW0bmA3sXMgBYQ.jpg",
+        "release_date": "2006-08-25",
+        "title": "Un filo intorno al mondo",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 871770,
+        "original_language": "sk",
+        "original_title": "Muž, ktorý klope",
+        "overview": "",
+        "popularity": 0.3979,
+        "poster_path": null,
+        "release_date": "1956-01-01",
+        "title": "Muž, ktorý klope",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 8390,
+    "total_results": 167794
+  }
+}

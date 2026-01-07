@@ -1,0 +1,1374 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+    "belongs_to_collection": null,
+    "budget": 5300000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "",
+    "id": 19,
+    "imdb_id": "tt0017136",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Metropolis",
+    "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+    "popularity": 5.249,
+    "poster_path": "/vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
+    "production_companies": [
+      {
+        "id": 12372,
+        "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+        "name": "UFA",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1927-01-10",
+    "revenue": 1350322,
+    "runtime": 148,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "There can be no understanding between the hands and the brain unless the heart acts as mediator.",
+    "title": "Metropolis",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 2993
+  },
+  "credits": {
+    "id": 19,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74,
+        "known_for_department": "Acting",
+        "name": "Gustav Fröhlich",
+        "original_name": "Gustav Fröhlich",
+        "popularity": 0.5577,
+        "profile_path": "/bkjDaorTT3LcOeTcQF1TDpBlHwt.jpg",
+        "cast_id": 9,
+        "character": "Freder Fredersen",
+        "credit_id": "52fe420fc3a36847f8000c83",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75,
+        "known_for_department": "Acting",
+        "name": "Brigitte Helm",
+        "original_name": "Brigitte Helm",
+        "popularity": 2.5689,
+        "profile_path": "/a7mwxoeF34BCxmteoHQSB1ENth0.jpg",
+        "cast_id": 10,
+        "character": "Maria / The Machine Man",
+        "credit_id": "52fe420fc3a36847f8000c87",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73,
+        "known_for_department": "Acting",
+        "name": "Alfred Abel",
+        "original_name": "Alfred Abel",
+        "popularity": 0.6527,
+        "profile_path": "/dGk5r64zQZVHplTwRDZGpNkoCjc.jpg",
+        "cast_id": 28,
+        "character": "Johann 'Joh' Fredersen",
+        "credit_id": "52fe420fc3a36847f8000cdb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77,
+        "known_for_department": "Acting",
+        "name": "Rudolf Klein-Rogge",
+        "original_name": "Rudolf Klein-Rogge",
+        "popularity": 0.8468,
+        "profile_path": "/fbP75fGfXFQlkf3Q5oHbJ4wjG1g.jpg",
+        "cast_id": 11,
+        "character": "C.A. Rotwang",
+        "credit_id": "52fe420fc3a36847f8000c8b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79,
+        "known_for_department": "Acting",
+        "name": "Theodor Loos",
+        "original_name": "Theodor Loos",
+        "popularity": 0.6346,
+        "profile_path": "/9PbtusE5TJYfyQrWb6brBXuXTLX.jpg",
+        "cast_id": 13,
+        "character": "Josaphat",
+        "credit_id": "52fe420fc3a36847f8000c93",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78,
+        "known_for_department": "Acting",
+        "name": "Fritz Rasp",
+        "original_name": "Fritz Rasp",
+        "popularity": 0.5223,
+        "profile_path": "/pEpcnqgtKtLG6gFt2TCQKnMk0VA.jpg",
+        "cast_id": 12,
+        "character": "The Thin Man",
+        "credit_id": "52fe420fc3a36847f8000c8f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80,
+        "known_for_department": "Acting",
+        "name": "Erwin Biswanger",
+        "original_name": "Erwin Biswanger",
+        "popularity": 0.3629,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "No. 11811 - Georgy",
+        "credit_id": "52fe420fc3a36847f8000c97",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81,
+        "known_for_department": "Acting",
+        "name": "Heinrich George",
+        "original_name": "Heinrich George",
+        "popularity": 0.3806,
+        "profile_path": "/pG7HbJEVnG44wOL1kgaeTVZbzL7.jpg",
+        "cast_id": 15,
+        "character": "Grot",
+        "credit_id": "52fe420fc3a36847f8000c9b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20535,
+        "known_for_department": "Acting",
+        "name": "Fritz Alberti",
+        "original_name": "Fritz Alberti",
+        "popularity": 0.2869,
+        "profile_path": "/qCQhv7RCYwEZJ8l0Hs0ToXZIAP7.jpg",
+        "cast_id": 22,
+        "character": "Creative Human - Man Who Convinces Babel (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cb9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47173,
+        "known_for_department": "Acting",
+        "name": "Grete Berger",
+        "original_name": "Grete Berger",
+        "popularity": 2.6312,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "56b2a655c3a36806ee000328",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2535176,
+        "known_for_department": "Writing",
+        "name": "Olly Boeheim",
+        "original_name": "Olly Boeheim",
+        "popularity": 0.0628,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "5ea3da6a66f2d2001e3df014",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20533,
+        "known_for_department": "Acting",
+        "name": "Heinrich Gotho",
+        "original_name": "Heinrich Gotho",
+        "popularity": 1.2459,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Master of Ceremonies (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cb1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69,
+        "known_for_department": "Sound",
+        "name": "Gottfried Huppertz",
+        "original_name": "Gottfried Huppertz",
+        "popularity": 0.1938,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Man Playing Violin (uncredited)",
+        "credit_id": "5ea3db17a2d2e90021dca274",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29129,
+        "known_for_department": "Acting",
+        "name": "Georg John",
+        "original_name": "Georg John",
+        "popularity": 1.5746,
+        "profile_path": "/bBqQO3Z63tJ1DYo2XEipcSsdi1t.jpg",
+        "cast_id": 31,
+        "character": "Working Man Who Causes Explosion of M-Machine (uncredited)",
+        "credit_id": "56b2a75f92514114e8000311",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20534,
+        "known_for_department": "Acting",
+        "name": "Margarete Lanner",
+        "original_name": "Margarete Lanner",
+        "popularity": 0.2476,
+        "profile_path": "/giYIXmUL3PvxRR91vkreSx6qlO8.jpg",
+        "cast_id": 21,
+        "character": "Woman of Eternal Gardens / Lady in Car (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cb5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2190565,
+        "known_for_department": "Acting",
+        "name": "Rose Lichtenstein",
+        "original_name": "Rose Lichtenstein",
+        "popularity": 0.5162,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "5ea3db56bdc34c001e25bf0c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83,
+        "known_for_department": "Acting",
+        "name": "Hanns Leo Reich",
+        "original_name": "Hanns Leo Reich",
+        "popularity": 0.5393,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Marinus (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000ca3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531781,
+        "known_for_department": "Acting",
+        "name": "Arthur Reinhardt",
+        "original_name": "Arthur Reinhardt",
+        "popularity": 0.1473,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Working Man (uncredited)",
+        "credit_id": "56b2a89c92514114e5000363",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5028,
+        "known_for_department": "Writing",
+        "name": "Curt Siodmak",
+        "original_name": "Curt Siodmak",
+        "popularity": 0.3416,
+        "profile_path": "/1g2v8J8vJKziUnmee4JVoBAeRsW.jpg",
+        "cast_id": 33,
+        "character": "Working Man (uncredited)",
+        "credit_id": "56b2a7d9c3a36806f80002f8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1689706,
+        "known_for_department": "Acting",
+        "name": "Henrietta Siodmak",
+        "original_name": "Henrietta Siodmak",
+        "popularity": 0.0878,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "57f54434c3a36831cb00017e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82,
+        "known_for_department": "Acting",
+        "name": "Olaf Storm",
+        "original_name": "Olaf Storm",
+        "popularity": 1.0614,
+        "profile_path": "/xS5kAz8hax8kOSFO8QrbGpp0S4i.jpg",
+        "cast_id": 16,
+        "character": "Jan (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000c9f",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50893,
+        "known_for_department": "Acting",
+        "name": "Rolf von Goth",
+        "original_name": "Rolf von Goth",
+        "popularity": 1.8319,
+        "profile_path": "/bSP4xmj1ghotvnuBRV4DarKFYyO.jpg",
+        "cast_id": 34,
+        "character": "Son in Eternal Gardens (uncredited)",
+        "credit_id": "56b2a80f92514114eb00033e",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1288145,
+        "known_for_department": "Acting",
+        "name": "Helen von Münchofen",
+        "original_name": "Helen von Münchofen",
+        "popularity": 0.1343,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Woman of Eternal Gardens (uncredited)",
+        "credit_id": "56b2a83d92514114e800033a",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2350,
+        "known_for_department": "Acting",
+        "name": "Helene Weigel",
+        "original_name": "Helene Weigel",
+        "popularity": 1.7435,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cad",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71,
+        "known_for_department": "Camera",
+        "name": "Günther Rittau",
+        "original_name": "Günther Rittau",
+        "popularity": 0.7612,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000c79",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69,
+        "known_for_department": "Sound",
+        "name": "Gottfried Huppertz",
+        "original_name": "Gottfried Huppertz",
+        "popularity": 0.1938,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000c67",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2798,
+        "known_for_department": "Directing",
+        "name": "Walter Ruttmann",
+        "original_name": "Walter Ruttmann",
+        "popularity": 1.8398,
+        "profile_path": "/tadF9CxIFsJMTMhyPRWtgDqBzsi.jpg",
+        "credit_id": "52fe420fc3a36847f8000c7f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20536,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aenne Willkomm",
+        "original_name": "Aenne Willkomm",
+        "popularity": 0.301,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000cbf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5030,
+        "known_for_department": "Directing",
+        "name": "Edgar G. Ulmer",
+        "original_name": "Edgar G. Ulmer",
+        "popularity": 0.3299,
+        "profile_path": "/uH5SR17ZJwe4y9K1CtkfQerIcCu.jpg",
+        "credit_id": "52fe420fc3a36847f8000cc5",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 1.7041,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "52fe420fc3a36847f8000c61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 1.7041,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "52fe420fc3a36847f8000c6d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 1.6859,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000c73",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67,
+        "known_for_department": "Production",
+        "name": "Erich Pommer",
+        "original_name": "Erich Pommer",
+        "popularity": 0.4521,
+        "profile_path": "/tDYZA5sghHNO1g4hpkRbDei2SoK.jpg",
+        "credit_id": "52fe420fc3a36847f8000c55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 1.7041,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "56b24807925141033600061d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758,
+        "known_for_department": "Camera",
+        "name": "Eugen Schüfftan",
+        "original_name": "Eugen Schüfftan",
+        "popularity": 0.1391,
+        "profile_path": null,
+        "credit_id": "56b2ab12c3a36807000003a5",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794,
+        "known_for_department": "Camera",
+        "name": "Robert Baberske",
+        "original_name": "Robert Baberske",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "56b2ab9fc3a36806ee000427",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572241,
+        "known_for_department": "Sound",
+        "name": "Frank Strobel",
+        "original_name": "Frank Strobel",
+        "popularity": 0.4476,
+        "profile_path": null,
+        "credit_id": "56b2ac4f92514114db000417",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1572237,
+        "known_for_department": "Crew",
+        "name": "Ernst Kunstmann",
+        "original_name": "Ernst Kunstmann",
+        "popularity": 0.1836,
+        "profile_path": null,
+        "credit_id": "56b2a9ff92514114e800038d",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29553,
+        "known_for_department": "Camera",
+        "name": "Horst von Harbou",
+        "original_name": "Horst von Harbou",
+        "popularity": 0.6681,
+        "profile_path": null,
+        "credit_id": "56b2abe792514114e80003dd",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12365,
+        "known_for_department": "Camera",
+        "name": "Konstantin Irmen-Tschet",
+        "original_name": "Konstantin Irmen-Tschet",
+        "popularity": 1.1125,
+        "profile_path": null,
+        "credit_id": "56b2aa6e92514114e80003a3",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1572235,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Walter Schulze-Mittendorff",
+        "original_name": "Walter Schulze-Mittendorff",
+        "popularity": 0.2314,
+        "profile_path": null,
+        "credit_id": "56b2a9bc92514114de000386",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794,
+        "known_for_department": "Camera",
+        "name": "Robert Baberske",
+        "original_name": "Robert Baberske",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "65a9546b7d2bc10136ea8357",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 157,
+        "known_for_department": "Writing",
+        "name": "Thea von Harbou",
+        "original_name": "Thea von Harbou",
+        "popularity": 1.2491,
+        "profile_path": "/jQ6EF2gcodiez6PFEOaqMMF3nfF.jpg",
+        "credit_id": "5857f223c3a36827a5055e55",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 157,
+        "known_for_department": "Writing",
+        "name": "Thea von Harbou",
+        "original_name": "Thea von Harbou",
+        "popularity": 1.2491,
+        "profile_path": "/jQ6EF2gcodiez6PFEOaqMMF3nfF.jpg",
+        "credit_id": "5857f22d9251415941009e69",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111195,
+        "known_for_department": "Directing",
+        "name": "Slatan Dudow",
+        "original_name": "Slatan Dudow",
+        "popularity": 0.413,
+        "profile_path": "/diLo5E7OYGV0ZFWYfmfu6qecymk.jpg",
+        "credit_id": "59d42672c3a368456100998c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13887,
+        "known_for_department": "Art",
+        "name": "Otto Hunte",
+        "original_name": "Otto Hunte",
+        "popularity": 1.5258,
+        "profile_path": null,
+        "credit_id": "59d426a39251414b7f009721",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899458,
+        "known_for_department": "Sound",
+        "name": "Otto Harzner",
+        "original_name": "Otto Harzner",
+        "popularity": 0.1196,
+        "profile_path": null,
+        "credit_id": "59d4279dc3a368459400969a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.2938,
+        "profile_path": null,
+        "credit_id": "59d426b59251414b7f009746",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 1.6859,
+        "profile_path": null,
+        "credit_id": "59d427549251414b5c009841",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36251,
+        "known_for_department": "Production",
+        "name": "Erich Holder",
+        "original_name": "Erich Holder",
+        "popularity": 0.2118,
+        "profile_path": null,
+        "credit_id": "59d427db9251414b8b009221",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.2938,
+        "profile_path": null,
+        "credit_id": "59d42800c3a3684561009c42",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71,
+        "known_for_department": "Camera",
+        "name": "Günther Rittau",
+        "original_name": "Günther Rittau",
+        "popularity": 0.7612,
+        "profile_path": null,
+        "credit_id": "59d42766c3a368453f0091a6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572241,
+        "known_for_department": "Sound",
+        "name": "Frank Strobel",
+        "original_name": "Frank Strobel",
+        "popularity": 0.4476,
+        "profile_path": null,
+        "credit_id": "59d427ab9251414b8b0091ac",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13887,
+        "known_for_department": "Art",
+        "name": "Otto Hunte",
+        "original_name": "Otto Hunte",
+        "popularity": 1.5258,
+        "profile_path": null,
+        "credit_id": "59d42891c3a3684561009d32",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.2938,
+        "profile_path": null,
+        "credit_id": "59d428829251414b8b009363",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12320,
+        "known_for_department": "Art",
+        "name": "Karl Vollbrecht",
+        "original_name": "Karl Vollbrecht",
+        "popularity": 1.487,
+        "profile_path": null,
+        "credit_id": "59d42873c3a368451b00879a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12320,
+        "known_for_department": "Art",
+        "name": "Karl Vollbrecht",
+        "original_name": "Karl Vollbrecht",
+        "popularity": 1.487,
+        "profile_path": null,
+        "credit_id": "59d426c59251414b5c00973c",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1550861,
+        "known_for_department": "Crew",
+        "name": "Rudi George",
+        "original_name": "Rudi George",
+        "popularity": 0.1551,
+        "profile_path": null,
+        "credit_id": "59d428199251414b5c0099b9",
+        "department": "Crew",
+        "job": "Production Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 19,
+    "keywords": [
+      {
+        "id": 2964,
+        "name": "future"
+      },
+      {
+        "id": 1761,
+        "name": "metropolis"
+      },
+      {
+        "id": 4034,
+        "name": "class society"
+      },
+      {
+        "id": 312,
+        "name": "man vs machine"
+      },
+      {
+        "id": 1001,
+        "name": "underground world"
+      },
+      {
+        "id": 5966,
+        "name": "tower of babel"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1436,
+        "name": "inventor"
+      },
+      {
+        "id": 4565,
+        "name": "dystopia"
+      },
+      {
+        "id": 6662,
+        "name": "delirium"
+      },
+      {
+        "id": 10125,
+        "name": "mad scientist"
+      },
+      {
+        "id": 11222,
+        "name": "prophet"
+      },
+      {
+        "id": 10028,
+        "name": "steampunk"
+      },
+      {
+        "id": 11187,
+        "name": "grim reaper"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14544,
+        "name": "robot"
+      },
+      {
+        "id": 14796,
+        "name": "destruction"
+      },
+      {
+        "id": 154802,
+        "name": "silent film"
+      },
+      {
+        "id": 164246,
+        "name": "nostalgic"
+      },
+      {
+        "id": 179874,
+        "name": "expressionism"
+      },
+      {
+        "id": 185459,
+        "name": "seven deadly sins"
+      },
+      {
+        "id": 201028,
+        "name": "depravity"
+      },
+      {
+        "id": 215678,
+        "name": "partially lost film"
+      },
+      {
+        "id": 232988,
+        "name": "mob justice"
+      },
+      {
+        "id": 234109,
+        "name": "downtrodden"
+      },
+      {
+        "id": 234110,
+        "name": "saviour"
+      },
+      {
+        "id": 239175,
+        "name": "social unrest"
+      },
+      {
+        "id": 244516,
+        "name": "german expressionism"
+      },
+      {
+        "id": 255786,
+        "name": "mediator"
+      },
+      {
+        "id": 266753,
+        "name": "cautionary"
+      },
+      {
+        "id": 311315,
+        "name": "dramatic"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/f8Vy839NPniWZfkBjuG2tcG9rD4.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 479198,
+        "original_language": "en",
+        "original_title": "Tango One",
+        "overview": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+        "popularity": 3.4743,
+        "poster_path": "/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg",
+        "release_date": "2018-03-02",
+        "title": "Tango One",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9lOtDZY6oy6qUlYH78fJ27RMkLP.jpg",
+        "genre_ids": [
+          80,
+          53,
+          9648,
+          18
+        ],
+        "id": 479226,
+        "original_language": "da",
+        "original_title": "Journal 64",
+        "overview": "Copenhagen, 2018. A frightening discovery is made in an old apartment. The subsequent investigation of Department Q leads them to an infamous institution for girls that was suddenly closed in the early sixties.",
+        "popularity": 2.2563,
+        "poster_path": "/uTdaeGpznkLfyhAzLlrdssD621R.jpg",
+        "release_date": "2018-10-04",
+        "title": "The Purity of Vengeance",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 534
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mIu95QezXe20KYKI1u7DjzisAUj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 479259,
+        "original_language": "en",
+        "original_title": "Lost Girls & Love Hotels",
+        "overview": "Searching for escape in Tokyo's back alleys, a haunted English teacher explores love and lust with a dashing Yakuza, as their tumultuous affair takes her on a journey through the city's dive bars and three-hour love hotels.",
+        "popularity": 2.4572,
+        "poster_path": "/vQgXwuJrlpzGDI8169tRQRy71Nv.jpg",
+        "release_date": "2020-09-18",
+        "title": "Lost Girls & Love Hotels",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/caHOjLqztuDdmJhVjamfqNpQPjR.jpg",
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 28196,
+        "original_language": "en",
+        "original_title": "The Avenging Conscience",
+        "overview": "Thwarted by his despotic uncle from continuing his love affair, a young man's thoughts turn dark as he dwells on ways to deal with his uncle. Becoming convinced that murder is merely a natural part of life, he kills his uncle and hides the body. However, the man's conscience awakens; paranoia sets in and nightmarish visions begin to haunt him.",
+        "popularity": 0.2358,
+        "poster_path": "/bAxPd1rPdlfi4osKo5LCXKJpKtt.jpg",
+        "release_date": "1914-08-02",
+        "title": "The Avenging Conscience",
+        "video": false,
+        "vote_average": 5.938,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vmzJix9GgPSFyvxD25WIkXGEpHU.jpg",
+        "genre_ids": [
+          16,
+          10749,
+          878,
+          53
+        ],
+        "id": 28214,
+        "original_language": "ja",
+        "original_title": "11人いる!",
+        "overview": "A group of students from the Cosmo Academy are about to take their final exam: surviving for over fifty days in a derelict ship. But when they arrive, they discover that instead of ten students, there are eleven. One of them doesn't belong there...",
+        "popularity": 1.0034,
+        "poster_path": "/pvjfW8ugP3Z3jjr4F8ANieuNBZg.jpg",
+        "release_date": "1986-11-01",
+        "title": "They Were Eleven",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5pkFp4k9wDOme95vBIlp4DgKlGT.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          53
+        ],
+        "id": 28249,
+        "original_language": "en",
+        "original_title": "The Ace of Hearts",
+        "overview": "A romantic rivalry among members of a secret society becomes even more tense when one of the men is assigned to carry out an assassination.",
+        "popularity": 0.4129,
+        "poster_path": "/vfiwnig4WB95Veu7zaQsYgB3SAD.jpg",
+        "release_date": "1921-09-17",
+        "title": "The Ace of Hearts",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2Z20IzIW3Do6HWXbEMuFRkMkWaZ.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 28268,
+        "original_language": "ja",
+        "original_title": "大人の見る繪本 生れてはみたけれど",
+        "overview": "Two young brothers become the leaders of a gang of kids in their neighborhood. Ozu's charming film is a social satire that draws from the antics of childhood as well as the tragedy of maturity.",
+        "popularity": 1.2646,
+        "poster_path": "/dD3Do5OQj23RJd4thYyUW2AqsCc.jpg",
+        "release_date": "1932-06-03",
+        "title": "I Was Born, But...",
+        "video": false,
+        "vote_average": 7.535,
+        "vote_count": 142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hqawWE1sljuVaR6rEbko3zLo5nh.jpg",
+        "genre_ids": [
+          35,
+          53,
+          878
+        ],
+        "id": 28281,
+        "original_language": "fr",
+        "original_title": "Cartes sur table",
+        "overview": "Al Pereira, a wise-cracking superspy, investigates a series of assassinations being performed by ruthless killers with bronze skin and horn-rimmed glasses. The trail of these mindless automata leads him to the lair of a seductive villainess  who has formulated a computer-powered plot to overthrow the governments of Europe. 'Cartes sur table' is at once an homage to classical Hollywood thrillers and a playful riff on the newly-popular James Bond films.",
+        "popularity": 2.1643,
+        "poster_path": "/1OEZsQGjyIzCn0eEuCXJRsC88A4.jpg",
+        "release_date": "1966-04-27",
+        "title": "Attack of the Robots",
+        "video": false,
+        "vote_average": 5.179,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eZphPUaJWVSc6qUhP5Z9QizoHTN.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 28283,
+        "original_language": "es",
+        "original_title": "El secreto del Dr. Orloff",
+        "overview": "A mad scientist creates a hideous monster to carry out his murderous plans...",
+        "popularity": 0.461,
+        "poster_path": "/yENcfRCKgug5nAUYvn1DMZLNT5S.jpg",
+        "release_date": "1965-08-20",
+        "title": "Dr. Orloff's Monster",
+        "video": false,
+        "vote_average": 4.452,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 28297,
+        "original_language": "en",
+        "original_title": "Brute Force",
+        "overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
+        "popularity": 3.7054,
+        "poster_path": "/lpKW8JG2IEJlz7WIyqLSsPHGnrd.jpg",
+        "release_date": "1947-07-16",
+        "title": "Brute Force",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9cWUpScrsnDxCBjnBoSePGI2XY5.jpg",
+        "genre_ids": [
+          18,
+          53,
+          27
+        ],
+        "id": 28298,
+        "original_language": "fr",
+        "original_title": "Eugénie",
+        "overview": "Eugenie, a beautiful but shy young girl, lives with her stepfather, a famous writer specializing in stories of erotica. One day she happens to read one of his \"erotic\" books and its power so affects her that begins to find herself sexually attracted to her stepfather. He notices this, and eventually brings her into his dark world of sexual perversion and murder.",
+        "popularity": 2.8955,
+        "poster_path": "/dvSaP5XUDb6hthxFwfrO2XGePih.jpg",
+        "release_date": "1973-04-05",
+        "title": "Eugenie de Sade",
+        "video": false,
+        "vote_average": 5.512,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5Jrvcu5D29SBQbnhiaHWC0rqJxJ.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 1261333,
+        "original_language": "xx",
+        "original_title": "Samsara",
+        "overview": "Darta, a man from an impoverished family, is rejected by the wealthy parents of the woman he loves. Desperate, he strikes a bargain with the Monkey King, performing a dark ritual to gain wealth. However, in doing so, he accidentally curses his wife and child to a life of suffering. Rooted in Indonesian mysticism, this universal narrative explores the insatiable hunger to become something one is not and the boundaries one is willing to cross to achieve it.",
+        "popularity": 2.6894,
+        "poster_path": "/d14SB0YZjjPPbmhwPNwkAW1vHQQ.jpg",
+        "release_date": "2024-12-05",
+        "title": "Samsara",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10749,
+          27
+        ],
+        "id": 1261419,
+        "original_language": "es",
+        "original_title": "Medicina Para Fantasmas",
+        "overview": "After the disappearance of all the people at a Halloween party, Olivia will try to find out the whereabouts of her ex-boyfriend, Oliver, to mend her relationship with him. Along the way she will meet Alex, a man dressed as Frankenstein, and a ghost who will stalk her in her most vulnerable moments.",
+        "popularity": 0.1679,
+        "poster_path": "/rMkNhWhmeMpq1jbB8vHeLe9ANX2.jpg",
+        "release_date": "2025-01-15",
+        "title": "Medicina Para Fantasmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eu4lnt6IbNUPTEFshuWqf2PUtK0.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 26592,
+        "original_language": "en",
+        "original_title": "Nora Prentiss",
+        "overview": "Quiet, organised Dr Talbot meets nightclub singer Nora Prentiss when she is slightly hurt in a street accident. Despite her misgivings they become heavily involved and Talbot finds he is faced with the choice of leaving Nora or divorcing his wife. When a patient expires in his office, a third option seems to present itself.",
+        "popularity": 3.1352,
+        "poster_path": "/ivIS8hNCg5B9SNAjHh0CDx7JHUt.jpg",
+        "release_date": "1947-02-22",
+        "title": "Nora Prentiss",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10770,
+          18,
+          9648,
+          10749
+        ],
+        "id": 26599,
+        "original_language": "en",
+        "original_title": "Duel of Hearts",
+        "overview": "Lady Caroline Faye meets Lord Vane Brecon and is attracted to him. When she finds out that he is being accused of a murder he did not commit, she sets out to prove him innocent",
+        "popularity": 0.2284,
+        "poster_path": "/2IukYhPMEEvy5jEw5FQM0TysHS4.jpg",
+        "release_date": "1992-01-01",
+        "title": "Duel of Hearts",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 26614,
+        "original_language": "fr",
+        "original_title": "La Chienne",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "popularity": 4.3344,
+        "poster_path": "/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
+        "release_date": "1931-11-01",
+        "title": "La Chienne",
+        "video": false,
+        "vote_average": 7.267,
+        "vote_count": 129
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
+        "genre_ids": [
+          9648,
+          14,
+          18
+        ],
+        "id": 26644,
+        "original_language": "en",
+        "original_title": "Photographing Fairies",
+        "overview": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
+        "popularity": 3.0709,
+        "poster_path": "/95rYK0G003rj8WDavXslmTO4pRE.jpg",
+        "release_date": "1997-09-19",
+        "title": "Photographing Fairies",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/34WzsXWrGjVKVD1C9zyB0bs5e6q.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 26712,
+        "original_language": "en",
+        "original_title": "The Enforcer",
+        "overview": "After years of investigation, Assistant District Attorney Martin Ferguson has managed to build a solid case against an elusive gangster whose top lieutenant is about to testify.",
+        "popularity": 0.7185,
+        "poster_path": "/k7FAq6mmLfsC6htX6f5zKwbw8LF.jpg",
+        "release_date": "1951-02-24",
+        "title": "The Enforcer",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 106
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/paNRHfPJMhWU7Q0WChThXM1CvaL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 293282,
+        "original_language": "en",
+        "original_title": "Remembrance",
+        "overview": "Although he graduated from that time-worn university, the college of hard knocks, the tireless efforts of John P. Grout have paid off. He owns a number of department stores and his wife and children are well provided for. However, his family is completely ungrateful and takes him -- and his money -- for granted. Grout's attempts to keep them all happy are driving him to bankruptcy and he eventually becomes seriously ill. Eventually his wife and kids come to realize how badly they've treated Pops.....",
+        "popularity": 0.1489,
+        "poster_path": "/ldd1oymTFhaVQtaBuH7E7GBquCU.jpg",
+        "release_date": "1922-10-01",
+        "title": "Remembrance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ku5mTUjz7cr8bR5CUEnGF99s1ti.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 293295,
+        "original_language": "en",
+        "original_title": "The Christian",
+        "overview": "Glory Quayle and John Storm, sweethearts since childhood on the Isle of Man, go to London, Glory to become a nurse and John to enter a monastery. Instead, Glory becomes a theater star, and John renounces his vows because he cannot forget his love for her. Lord Robert Ure, who has already betrayed Glory's friend, Polly Love, incites the London populace against John....",
+        "popularity": 2.7553,
+        "poster_path": "/zZNzn2PSzf66JkJGHdnkZCf22zE.jpg",
+        "release_date": "1923-01-14",
+        "title": "The Christian",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 15360,
+    "total_results": 307190
+  }
+}

@@ -1,0 +1,996 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+    "belongs_to_collection": null,
+    "budget": 397751,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 389,
+    "imdb_id": "tt0050083",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "12 Angry Men",
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "popularity": 12.4906,
+    "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+    "production_companies": [
+      {
+        "id": 10212,
+        "logo_path": null,
+        "name": "Orion-Nova Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1957-04-10",
+    "revenue": 4360000,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It explodes like 12 sticks of dynamite!",
+    "title": "12 Angry Men",
+    "video": false,
+    "vote_average": 8.55,
+    "vote_count": 9625
+  },
+  "credits": {
+    "id": 389,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1936,
+        "known_for_department": "Acting",
+        "name": "Martin Balsam",
+        "original_name": "Martin Balsam",
+        "popularity": 2.4515,
+        "profile_path": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
+        "cast_id": 57,
+        "character": "Juror 1",
+        "credit_id": "5e93b065cedac40016ebbd44",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5247,
+        "known_for_department": "Acting",
+        "name": "John Fiedler",
+        "original_name": "John Fiedler",
+        "popularity": 1.3473,
+        "profile_path": "/6vfLLGeGuO6Ko0VRnyhgE2v6RUu.jpg",
+        "cast_id": 58,
+        "character": "Juror 2",
+        "credit_id": "5e93b09a8e87020013cd34eb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5248,
+        "known_for_department": "Acting",
+        "name": "Lee J. Cobb",
+        "original_name": "Lee J. Cobb",
+        "popularity": 1.1804,
+        "profile_path": "/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg",
+        "cast_id": 59,
+        "character": "Juror 3",
+        "credit_id": "5e93b0a584448e0014910883",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5249,
+        "known_for_department": "Acting",
+        "name": "E.G. Marshall",
+        "original_name": "E.G. Marshall",
+        "popularity": 1.4007,
+        "profile_path": "/psimeVoRk64DV7UNm4cLQylRFy2.jpg",
+        "cast_id": 60,
+        "character": "Juror 4",
+        "credit_id": "5e93b0ae7a97ab00120dd261",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5250,
+        "known_for_department": "Acting",
+        "name": "Jack Klugman",
+        "original_name": "Jack Klugman",
+        "popularity": 1.3239,
+        "profile_path": "/oJxveOxlunD8C9OczqKeryU0k6D.jpg",
+        "cast_id": 61,
+        "character": "Juror 5",
+        "credit_id": "5e93b0bd84448e001291147f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2651,
+        "known_for_department": "Acting",
+        "name": "Edward Binns",
+        "original_name": "Edward Binns",
+        "popularity": 0.9381,
+        "profile_path": "/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg",
+        "cast_id": 62,
+        "character": "Juror 6",
+        "credit_id": "5e93b0c8ccb15f00136fd2a4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5251,
+        "known_for_department": "Acting",
+        "name": "Jack Warden",
+        "original_name": "Jack Warden",
+        "popularity": 1.8497,
+        "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg",
+        "cast_id": 63,
+        "character": "Juror 7",
+        "credit_id": "5e93b0d3875d1a001444ade1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 2.6619,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "cast_id": 64,
+        "character": "Juror 8",
+        "credit_id": "5e93b0e254508d001a177bde",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5252,
+        "known_for_department": "Acting",
+        "name": "Joseph Sweeney",
+        "original_name": "Joseph Sweeney",
+        "popularity": 0.9182,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Juror 9",
+        "credit_id": "5e93b0ec54508d0015176f37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39816,
+        "known_for_department": "Acting",
+        "name": "Ed Begley",
+        "original_name": "Ed Begley",
+        "popularity": 0.8033,
+        "profile_path": "/AuPwjGgPphtfQOShb8pTtp5W7Ft.jpg",
+        "cast_id": 66,
+        "character": "Juror 10",
+        "credit_id": "5e93b0f7ca4f6700148145ab",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5254,
+        "known_for_department": "Acting",
+        "name": "George Voskovec",
+        "original_name": "Jiří Voskovec",
+        "popularity": 0.801,
+        "profile_path": "/nxW7pLtG8xLo4J3QHXzLxt8fd8P.jpg",
+        "cast_id": 67,
+        "character": "Juror 11",
+        "credit_id": "5e93b10684448e0012911546",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5255,
+        "known_for_department": "Acting",
+        "name": "Robert Webber",
+        "original_name": "Robert Webber",
+        "popularity": 0.8951,
+        "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg",
+        "cast_id": 68,
+        "character": "Juror 12",
+        "credit_id": "5e93b11184448e001a90eb37",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3143,
+        "known_for_department": "Acting",
+        "name": "Rudy Bond",
+        "original_name": "Rudy Bond",
+        "popularity": 1.0528,
+        "profile_path": "/bd3YONpGsvQrpz6MkhsqsiPSaOD.jpg",
+        "cast_id": 70,
+        "character": "Judge (uncredited)",
+        "credit_id": "5e93b13bccb15f00136fd3b1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2498394,
+        "known_for_department": "Acting",
+        "name": "Tom Gorman",
+        "original_name": "Tom Gorman",
+        "popularity": 0.37,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Stenographer (uncredited)",
+        "credit_id": "5e93b147cedac40014ebb229",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437464,
+        "known_for_department": "Acting",
+        "name": "James Kelly",
+        "original_name": "James Kelly",
+        "popularity": 0.294,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "Guard (uncredited)",
+        "credit_id": "5e93b16584448e001291160b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5257,
+        "known_for_department": "Acting",
+        "name": "Billy Nelson",
+        "original_name": "Billy Nelson",
+        "popularity": 0.4184,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "Court Clerk (uncredited)",
+        "credit_id": "5e93b181875d1a001944ed80",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153394,
+        "known_for_department": "Acting",
+        "name": "Walter Stocker",
+        "original_name": "Walter Stocker",
+        "popularity": 0.7082,
+        "profile_path": null,
+        "cast_id": 69,
+        "character": "Man Waiting for Elevator (uncredited)",
+        "credit_id": "5e93b122d55e4d001a19f805",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5892050,
+        "known_for_department": "Acting",
+        "name": "John Savoca",
+        "original_name": "John Savoca",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Defendant (uncredited)",
+        "credit_id": "6948dd2924937a5336155682",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5262,
+        "known_for_department": "Editing",
+        "name": "Carl Lerner",
+        "original_name": "Carl Lerner",
+        "popularity": 1.0694,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec73",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5260,
+        "known_for_department": "Sound",
+        "name": "Kenyon Hopkins",
+        "original_name": "Kenyon Hopkins",
+        "popularity": 1.1089,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec67",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 2.6619,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "credit_id": "52fe423dc3a36847f800ec55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5261,
+        "known_for_department": "Camera",
+        "name": "Boris Kaufman",
+        "original_name": "Boris Kaufman",
+        "popularity": 1.6598,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec6d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 0.9622,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "52fe423dc3a36847f800ec61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263,
+        "known_for_department": "Art",
+        "name": "Robert Markel",
+        "original_name": "Robert Markel",
+        "popularity": 0.069,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec79",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5264,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Herman Buchman",
+        "original_name": "Herman Buchman",
+        "popularity": 0.3092,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec7f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 0.9622,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "52fe423dc3a36847f800ec4f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 0.9622,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "5439c1c90e0a2649a8000ff1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5259,
+        "known_for_department": "Production",
+        "name": "George Justin",
+        "original_name": "George Justin",
+        "popularity": 1.327,
+        "profile_path": null,
+        "credit_id": "54fe6df8c3a368150c000859",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30994,
+        "known_for_department": "Camera",
+        "name": "Saul Midwall",
+        "original_name": "Saul Midwall",
+        "popularity": 0.3161,
+        "profile_path": null,
+        "credit_id": "57463b5bc3a36808af000267",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043428,
+        "known_for_department": "Sound",
+        "name": "Al Gramaglia",
+        "original_name": "Al Gramaglia",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "credit_id": "6655b88ad092532206e4bc5a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5265,
+        "known_for_department": "Sound",
+        "name": "James A. Gleason",
+        "original_name": "James A. Gleason",
+        "popularity": 0.4539,
+        "profile_path": null,
+        "credit_id": "5e93b014cedac40016ebbcb3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076666,
+        "known_for_department": "Directing",
+        "name": "Faith Hubley",
+        "original_name": "Faith Hubley",
+        "popularity": 2.214,
+        "profile_path": "/kexhBysoVPdJFI7cWBs7XD8xbZH.jpg",
+        "credit_id": "5e8e3c78a14e1000124e5482",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39996,
+        "known_for_department": "Directing",
+        "name": "Sidney Lumet",
+        "original_name": "Sidney Lumet",
+        "popularity": 1.3099,
+        "profile_path": "/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg",
+        "credit_id": "5e8e3c2f62e86f00159ba2f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437471,
+        "known_for_department": "Directing",
+        "name": "Don Kranze",
+        "original_name": "Don Kranze",
+        "popularity": 0.3775,
+        "profile_path": null,
+        "credit_id": "5e8e3c9ccadb6b001b7f3a09",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 389,
+    "keywords": [
+      {
+        "id": 2122,
+        "name": "death penalty"
+      },
+      {
+        "id": 2142,
+        "name": "anonymity"
+      },
+      {
+        "id": 3012,
+        "name": "court case"
+      },
+      {
+        "id": 934,
+        "name": "judge"
+      },
+      {
+        "id": 1417,
+        "name": "jurors"
+      },
+      {
+        "id": 6139,
+        "name": "innocence"
+      },
+      {
+        "id": 3581,
+        "name": "witness"
+      },
+      {
+        "id": 4728,
+        "name": "knife"
+      },
+      {
+        "id": 5144,
+        "name": "matter of life and death"
+      },
+      {
+        "id": 10181,
+        "name": "based on play or musical"
+      },
+      {
+        "id": 11038,
+        "name": "trial"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 11141,
+        "name": "debate"
+      },
+      {
+        "id": 11523,
+        "name": "capital punishment"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 33519,
+        "name": "courtroom"
+      },
+      {
+        "id": 200918,
+        "name": "angry"
+      },
+      {
+        "id": 214780,
+        "name": "courtroom drama"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bAXToJkAahJfR8isDSL04jfz5sW.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 38077,
+        "original_language": "en",
+        "original_title": "Red Dust",
+        "overview": "Dennis, owner of a rubber plantation in Cochinchina, is involved with Vantine, who left Saigon to evade the police. When his new surveyor arrives along with his refined wife Dennis is quickly infatuated by her.",
+        "popularity": 0.496,
+        "poster_path": "/laHlMLtR1SyKoOhWmQG5aLHflJa.jpg",
+        "release_date": "1932-10-22",
+        "title": "Red Dust",
+        "video": false,
+        "vote_average": 6.913,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oIoRJIWrYFuJUL5CYlAmkJAIRql.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 38096,
+        "original_language": "en",
+        "original_title": "Last Summer",
+        "overview": "During summer vacation on Fire Island, three young people become very close. When an uncool girl tries to infiltrate the trio's newly found relationship, they construct an elaborate plot that has violent results.",
+        "popularity": 0.4551,
+        "poster_path": "/ajbvQYVVnYHixttt1Qgw0dd2mGA.jpg",
+        "release_date": "1969-06-10",
+        "title": "Last Summer",
+        "video": false,
+        "vote_average": 6.205,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yMwG5gA4ae73RfO79zYKvWFXArF.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 36611,
+        "original_language": "en",
+        "original_title": "Quiet Please, Murder",
+        "overview": "A forger steals and kills for a rare book from a library in order to make forgeries to  sell to rich suckers.",
+        "popularity": 1.4787,
+        "poster_path": "/3lgyZPoppBe5L15YKOI2MFLUes3.jpg",
+        "release_date": "1943-03-19",
+        "title": "Quiet Please, Murder",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nlcD0fZBXPy6wYINygD4PHZeH.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 36614,
+        "original_language": "en",
+        "original_title": "The Sum of Us",
+        "overview": "A widowed father has to deal with two complex issues: while he is searching for \"Miss Right,\" his son, who is in his 20s and gay, is searching for \"Mr. Right.\"",
+        "popularity": 0.6606,
+        "poster_path": "/4rBI4KISTuMCsWGb0kurWxKjqPQ.jpg",
+        "release_date": "1994-07-28",
+        "title": "The Sum of Us",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5TjuibTuQ7T5QbAtsRhyvxhS7id.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 36634,
+        "original_language": "en",
+        "original_title": "The People Against O'Hara",
+        "overview": "A defense attorney jeopardizes his career to save his client.",
+        "popularity": 0.2186,
+        "poster_path": "/ljjHON28dyyV3BTQP7FMdwfumW7.jpg",
+        "release_date": "1951-09-01",
+        "title": "The People Against O'Hara",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xFDGkUflfkAl8GZKwgpLs0lNXi8.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10749
+        ],
+        "id": 36652,
+        "original_language": "en",
+        "original_title": "The Good Earth",
+        "overview": "China, during the rule of the Qing Dynasty. The arranged marriage between Wang Lung, a humble farmer, and O-Lan, a domestic slave, will endure the many hardships of life over the years; but the temptations of a fragile prosperity will endanger their love and the survival of their entire family.",
+        "popularity": 0.8689,
+        "poster_path": "/bPJe6d8etqVPyPYrNtE5rRNts9T.jpg",
+        "release_date": "1937-06-02",
+        "title": "The Good Earth",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 74
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jmbP95C5P8hua5bpkipkPw4P3X1.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 36682,
+        "original_language": "zh",
+        "original_title": "合氣道",
+        "overview": "Yu Ying, Kao and Fan return to China to start a martial arts school but are bullied by the Japanese competitor who runs the Black Bear school. The harassment leads to intense conflicts between them.",
+        "popularity": 2.5265,
+        "poster_path": "/uT1OV1HZShs1j01D7RY342F0ivX.jpg",
+        "release_date": "1972-10-01",
+        "title": "Hapkido",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aTe81qYK2dQW9hUwPIICSNxZtCj.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "id": 32678,
+        "original_language": "en",
+        "original_title": "Dead Man Running",
+        "overview": "A loan shark gives ex-con Nick a period of 24 hours in order to pay back the money he owes. Up against it, Nick involves his best mate on a multi-part mission in order to raise the cash before it's too late for them both",
+        "popularity": 0.7651,
+        "poster_path": "/kgP6YevcqMzWKFR7FokqtFoO7ZD.jpg",
+        "release_date": "2009-01-29",
+        "title": "Dead Man Running",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jH66Uq0MsTQNp5FvB7RtA6yaGqX.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 32767,
+        "original_language": "en",
+        "original_title": "Romero",
+        "overview": "Romero is a compelling and deeply moving look at the life of Archbishop Oscar Romero of El Salvador, who made the ultimate sacrifice in a passionate stand against social injustice and oppression in his county. This film chronicles the transformation of Romero from an apolitical, complacent priest to a committed leader of the Salvadoran people.",
+        "popularity": 3.4117,
+        "poster_path": "/rM4YcDw3U3w396RNslstu1OXRDz.jpg",
+        "release_date": "1989-08-25",
+        "title": "Romero",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lAqTraujV7MQUnMZ78XD07Tv5lQ.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 32847,
+        "original_language": "en",
+        "original_title": "Now, Voyager",
+        "overview": "A woman suffers a nervous breakdown and an oppressive mother before being freed by the love of a man she meets on a cruise.",
+        "popularity": 1.1502,
+        "poster_path": "/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg",
+        "release_date": "1942-10-22",
+        "title": "Now, Voyager",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 220
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/afmdDeou88W4OOJXr1Tepu2tLjX.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 35691,
+        "original_language": "en",
+        "original_title": "Letters to God",
+        "overview": "A young boy fighting cancer writes letters to God, touching lives in his neighborhood and inspiring hope among everyone he comes in contact. An unsuspecting substitute postman, with a troubled life of his own, becomes entangled in the boy's journey and his family by reading the letters. They inspire him to seek a better life for himself and his own son he's lost through his alcohol addiction.",
+        "popularity": 0.7736,
+        "poster_path": "/vkOXEUy9J0GNtrqXY9Z9rl9pDHf.jpg",
+        "release_date": "2010-04-09",
+        "title": "Letters to God",
+        "video": false,
+        "vote_average": 6.828,
+        "vote_count": 137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hXYf2k0igWcfReM98949EVTfSgP.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 35790,
+        "original_language": "bn",
+        "original_title": "চারুলতা",
+        "overview": "In 1870s India, Charulata is an isolated, artistically inclined woman who sees little of her busy journalist husband, Bhupati. Realizing that his wife is alienated and unhappy, he convinces his cousin, Amal, to spend time with Charulata and nourish her creative impulses. Amal is a fledgling poet himself, and he and Charulata bond over their shared love of art.",
+        "popularity": 0.7687,
+        "poster_path": "/4kznHLoJGN3OBZunQvZwy26it8z.jpg",
+        "release_date": "1964-04-17",
+        "title": "Charulata",
+        "video": false,
+        "vote_average": 7.483,
+        "vote_count": 146
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pE7XVUxxQ9qdCQKhBWalYNA57I8.jpg",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "id": 35797,
+        "original_language": "fr",
+        "original_title": "Coup de torchon",
+        "overview": "A pathetic police chief, humiliated by everyone around him, suddenly wants a clean slate in life, and resorts to drastic means to achieve it.",
+        "popularity": 1.8185,
+        "poster_path": "/sYlANrZi5vxaHhmPaktuPlsO2Wz.jpg",
+        "release_date": "1981-11-04",
+        "title": "Coup de Torchon",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 209
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eh5sbREj3kn38S5MzgdFPc6qQUt.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 684107,
+        "original_language": "en",
+        "original_title": "Hammer",
+        "overview": "A father faces a personal crisis when he discovers his estranged son fleeing a botched drug deal. The two men embark on a violent odyssey that grapples with themes of fatherhood, family and fate.",
+        "popularity": 3.2182,
+        "poster_path": "/dE0a1tC4pTRZOBdBwXBCS3tHsMP.jpg",
+        "release_date": "2019-12-05",
+        "title": "Hammer",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dMUb3dDYX60SvGRZXHXAyKK3COC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 37754,
+        "original_language": "en",
+        "original_title": "Cornbread, Earl and Me",
+        "overview": "The unintentional shooting by police of a star basketball player has profound personal, political and community repercussions in this acclaimed adaptation of the novel Hog Butcher by Ronald Fair. This was one of the more thoughtful urban dramas produced at the height of the \"blaxploitation\" craze. Also released under the title Hit the Open Man, it features the screen debut of Laurence Fishburne, who was barely a teenager at the time.",
+        "popularity": 0.3876,
+        "poster_path": "/manvBUSZ6PWBOv76dcMI2QKP6M1.jpg",
+        "release_date": "1975-05-21",
+        "title": "Cornbread, Earl and Me",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5UTOmyAIe7icGgjc5ETOZNMITmj.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28,
+          14
+        ],
+        "id": 37861,
+        "original_language": "en",
+        "original_title": "Valhalla Rising",
+        "overview": "Scandinavia, 1,000 AD. For years, One Eye, a mute warrior of supernatural strength, has been held prisoner by the Norse chieftain Barde. Aided by Are, a boy slave, One Eye slays his captor and together he and Are escape, beginning a journey into the heart of darkness. On their flight, One Eye and Are board a Viking vessel, but the ship is soon engulfed by an endless fog that clears only as the crew sights an unknown land. As the new world reveals its secrets and the Vikings confront their terrible and bloody fate, One Eye discovers his true self.",
+        "popularity": 3.2992,
+        "poster_path": "/7LBMcAx6XHwEduIsBYipvUke9n.jpg",
+        "release_date": "2009-09-04",
+        "title": "Valhalla Rising",
+        "video": false,
+        "vote_average": 6.107,
+        "vote_count": 1287
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 303698,
+        "original_language": "en",
+        "original_title": "Semiramide",
+        "overview": "In ancient Babylon, SEMIRAMIDE (Anderson) encourages her lover Assur (Ramey) to murder her husband, King Ninus. Her son, Ninius, disappears, believed dead, and Semiramide rules in her own right. 15 years later, as the opera opens, she is about to announce the name of her successor. Idreno (Olsen) and Assur are the leading candidates for the throne and the hand of Princess Azema (Shin), but Semiramide has taken a fancy to young Arsace (Horne), her victorious military leader who has been summoned back to Babylon. Only the high priest Oroe (Cheek) knows that Arsace is actually Ninius, spirited away to safety after the coup. As the queen announces Arsace as her successor, the ghost of her  husband appears from his tomb, demanding that Arsace punish the late king’s murderers... Filmed at New York's Metropolitan Opera, John Copley's production of Rossini's last, longest and most elaborate dramatic opera brings together what many consider the definitive contemporary cast.",
+        "popularity": 0.1556,
+        "poster_path": "/bPw8CLXBh7r7DtxEXuD4Ooyyqju.jpg",
+        "release_date": "1990-12-22",
+        "title": "Semiramide",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rVL6ZMDOOajNxElpRw4qF40jvUq.jpg",
+        "genre_ids": [
+          10752,
+          18
+        ],
+        "id": 37921,
+        "original_language": "en",
+        "original_title": "In Harm's Way",
+        "overview": "A Naval officer, reprimanded after Pearl Harbor, is later promoted to Rear Admiral and gets a second chance to prove himself against the Japanese.",
+        "popularity": 2.0223,
+        "poster_path": "/4NrxQVGjIfGdPJdG4RJggAgs4vW.jpg",
+        "release_date": "1965-04-06",
+        "title": "In Harm's Way",
+        "video": false,
+        "vote_average": 6.56,
+        "vote_count": 149
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Zry1RSsBtPe4clVRyIx07QfZ3w.jpg",
+        "genre_ids": [
+          27,
+          18,
+          14
+        ],
+        "id": 37977,
+        "original_language": "en",
+        "original_title": "Il gatto nero",
+        "overview": "When a horror film based on the same source material as Suspiria and Inferno goes into production, the evil witch the story is based upon manifests herself and not only begins to terrorise the actress set to portray her on screen, but reveals plans to wreck havoc and bloodshed throughout the world.",
+        "popularity": 0.5859,
+        "poster_path": "/puXEtuvFr9FFrZ2sTB7VRKN1eR8.jpg",
+        "release_date": "1989-04-09",
+        "title": "The Black Cat",
+        "video": false,
+        "vote_average": 4.731,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ZNlAJCTkNdf4yAatnkUuehSRX0.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18,
+          10770
+        ],
+        "id": 486438,
+        "original_language": "en",
+        "original_title": "Murder Unresolved",
+        "overview": "A woman is the prime suspect in the mysterious drowning death of her anchorwoman sister.",
+        "popularity": 4.8501,
+        "poster_path": "/t3ZewRlwSKUhLR4fQHSHMWqxE9b.jpg",
+        "release_date": "2016-05-14",
+        "title": "Murder Unresolved",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+      }
+    ],
+    "total_pages": 14318,
+    "total_results": 286349
+  }
+}

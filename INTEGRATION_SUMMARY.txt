@@ -1,0 +1,228 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                 GROUND TRUTH INTEGRATION - COMPLETE                        ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+📋 INTEGRATION OVERVIEW
+═══════════════════════════════════════════════════════════════════════════
+
+✅ Ground Truth from test_datasets/ successfully integrated into MRR/MAP evaluation
+
+📦 DATA SOURCES INTEGRATED
+═══════════════════════════════════════════════════════════════════════════
+
+Test Datasets (7 files):
+  ✅ test_datasets/actor_based.json              → 5 queries (100/100 loaded)
+  ✅ test_datasets/director_based.json           → 5 queries (100/100 loaded)
+  ✅ test_datasets/multi_hop.json                → 5 queries (100/100 loaded)
+  ✅ test_datasets/comparison.json               → 5 queries (100/100 loaded)
+  ✅ test_datasets/temporal_based.json           → 5 queries (100/100 loaded)
+  ⚠️  test_datasets/genre_recommendation.json    → 0 queries (structure incompatible)
+  ⚠️  test_datasets/specific_film_info.json      → 0 queries (structure incompatible)
+
+Main Dataset:
+  ✅ test_dataset.json                           → 5 queries (sample loaded)
+
+Movie Database:
+  ✅ crawled_data/movies_index.json             → 654 movies indexed
+
+TOTAL QUERIES WITH GROUND TRUTH: 25
+TOTAL RELEVANT DOCUMENTS: 96
+AVERAGE RELEVANT PER QUERY: 3.84
+
+📊 GROUND TRUTH QUALITY
+═══════════════════════════════════════════════════════════════════════════
+
+Query Coverage:
+  • Total queries: 25
+  • Queries with relevant docs: 15 (60%)
+  • Queries without matches: 10 (40%)
+  
+Category Distribution:
+  • actor_filmography: 5 queries
+  • director_filmography: 5 queries
+  • multi_hop: 5 queries
+  • comparison: 5 queries
+  • temporal_based: 5 queries
+
+Relevance Distribution:
+  • Min: 0 relevant docs
+  • Max: 5+ relevant docs per query
+  • Average: 3.84 relevant docs
+
+🔍 RELEVANCE MATCHING STRATEGY
+═══════════════════════════════════════════════════════════════════════════
+
+For each query entity, the system matches against:
+  1. Movie title (direct substring match)
+  2. Director name (case-insensitive)
+  3. Cast members (all actors in the movie)
+  4. Movie genres (sci-fi, action, drama, etc.)
+  5. Movie overview/synopsis (full-text search)
+
+Example:
+  Query: "Which actors have worked with Christopher Nolan?"
+  Entity: "Christopher Nolan"
+  Matches: All movies where director = "Christopher Nolan"
+  Result: [inception, the_dark_knight, interstellar, oppenheimer, ...]
+
+📁 FILES CREATED/MODIFIED
+═══════════════════════════════════════════════════════════════════════════
+
+Core Evaluation Scripts:
+  ✅ evaluate_mrr_map.py (642 lines)
+     └─ Integrated ground truth loading
+     └─ Automatic relevance extraction
+     └─ MRR/MAP/Recall/NDCG calculation
+     └─ System comparison
+
+  ✅ test_ground_truth_integration.py (standalone tester)
+     └─ Ground truth validation
+     └─ Quality metrics analysis
+     └─ No RAG dependencies
+
+Documentation:
+  ✅ MRR_MAP_EVALUATION.md
+     └─ Metric definitions and formulas
+     └─ Usage examples
+     └─ Interpretation guidelines
+
+  ✅ GROUND_TRUTH_INTEGRATION.md
+     └─ Integration details
+     └─ Data sources
+     └─ Quality metrics
+     └─ Output format
+
+  ✅ EVALUATION_ARCHITECTURE.md
+     └─ System overview
+     └─ Data flow diagrams
+     └─ Code organization
+     └─ Integration points
+
+  ✅ QUICKSTART_EVALUATION.sh
+     └─ Quick start commands
+
+🚀 QUICK START
+═══════════════════════════════════════════════════════════════════════════
+
+1. Validate Ground Truth:
+   $ python test_ground_truth_integration.py
+
+2. Run Full Evaluation:
+   $ python evaluate_mrr_map.py
+
+3. Review Results:
+   - mrr_map_evaluation_graphrag_YYYYMMDD_HHMMSS.json
+   - mrr_map_evaluation_simplerage_YYYYMMDD_HHMMSS.json
+   - mrr_map_comparison_YYYYMMDD_HHMMSS.json
+
+�� EVALUATION METRICS
+═══════════════════════════════════════════════════════════════════════════
+
+✅ MRR (Mean Reciprocal Rank)
+   • Measures position of first relevant document
+   • Range: 0-1 (higher is better)
+   • Formula: 1/rank_of_first_relevant_doc
+
+✅ MAP@10 (Mean Average Precision at 10)
+   • Measures overall ranking quality
+   • Range: 0-1 (higher is better)
+   • Accounts for: position, precision at each rank
+
+✅ Recall@10
+   • Measures coverage of relevant documents
+   • Range: 0-1 (higher is better)
+   • Formula: retrieved_relevant / total_relevant
+
+✅ NDCG@10 (Normalized Discounted Cumulative Gain)
+   • Position-weighted ranking quality
+   • Range: 0-1 (higher is better)
+   • Most comprehensive metric
+
+📈 EXPECTED OUTPUT FORMAT
+═══════════════════════════════════════════════════════════════════════════
+
+Per-Query Metrics:
+{
+  "query_id": 1,
+  "query": "Which actors have worked with Christopher Nolan?",
+  "category": "actor_filmography",
+  "relevant_count": 4,
+  "mrr": 0.75,
+  "map@10": 0.42,
+  "recall@10": 0.5,
+  "ndcg@10": 0.58,
+  "latency_ms": 145.5,
+  "success": true
+}
+
+Aggregate Metrics:
+{
+  "total_queries": 25,
+  "successful_queries": 24,
+  "metrics": {
+    "mrr": 0.65,
+    "map@10": 0.71,
+    "recall@10": 0.82,
+    "ndcg@10": 0.68,
+    "avg_latency_ms": 142.3
+  },
+  "category_breakdown": {
+    "actor_filmography": {
+      "mrr": 0.73,
+      "map@10": 0.76,
+      "recall@10": 0.85,
+      "ndcg@10": 0.72
+    }
+  }
+}
+
+🔗 INTEGRATION POINTS
+═══════════════════════════════════════════════════════════════════════════
+
+✅ test_datasets/*.json
+   └─ 5 test datasets with entity-based queries
+
+✅ test_dataset.json
+   └─ 1000+ movie queries with expected topics
+
+✅ crawled_data/movies_index.json
+   └─ 654 movies with metadata (title, cast, director, genres, etc.)
+
+✅ src/rag_pipeline.py (GraphRAG)
+   └─ Retrieval system 1
+
+✅ src/simple_rag.py (SimpleRAG)
+   └─ Retrieval system 2 (baseline)
+
+🎯 NEXT STEPS
+═══════════════════════════════════════════════════════════════════════════
+
+Immediate:
+  [ ] Run full evaluation: python evaluate_mrr_map.py
+  [ ] Review comparison reports
+  [ ] Identify weak categories
+
+Short-term:
+  [ ] Add more test queries (expand to 100+)
+  [ ] Manually curate difficult cases
+  [ ] Improve genre dataset compatibility
+
+Long-term:
+  [ ] Implement semantic similarity matching (embeddings)
+  [ ] Add relevance grading (0/1/2 instead of binary)
+  [ ] Set up automated evaluation pipeline
+  [ ] Track performance metrics over time
+
+✅ STATUS
+═══════════════════════════════════════════════════════════════════════════
+
+Integration Complete ✓
+  • Ground truth extraction: READY
+  • Test data loading: READY
+  • Evaluation framework: READY
+  • Metrics calculation: READY
+  • Report generation: READY
+
+Ready to Run: python evaluate_mrr_map.py
+
+═══════════════════════════════════════════════════════════════════════════

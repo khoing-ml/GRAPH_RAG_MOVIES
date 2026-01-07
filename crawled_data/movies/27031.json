@@ -1,0 +1,888 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/rOmuV9occ2BKOJtca4JflEP7g8I.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "",
+    "id": 27031,
+    "imdb_id": "tt0061847",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "上意討ち 拝領妻始末",
+    "overview": "The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. The husband and his samurai father must decide whether to accept the unjust decision, or risk death to get her back.",
+    "popularity": 1.5445,
+    "poster_path": "/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
+    "production_companies": [
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 68511,
+        "logo_path": null,
+        "name": "Mifune Productions",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1967-05-27",
+    "revenue": 0,
+    "runtime": 121,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "In the end, we had no choice but to have it this way. We just took a roundabout path.",
+    "title": "Samurai Rebellion",
+    "video": false,
+    "vote_average": 8.217,
+    "vote_count": 256
+  },
+  "credits": {
+    "id": 27031,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirō Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 2.7505,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "cast_id": 2,
+        "character": "Isaburo Sasahara",
+        "credit_id": "52fe4528c3a368484e04bb15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70811,
+        "known_for_department": "Acting",
+        "name": "Yōko Tsukasa",
+        "original_name": "司葉子",
+        "popularity": 2.3415,
+        "profile_path": "/hq7RFoQmnq82KoJpFPzioNXqlrK.jpg",
+        "cast_id": 3,
+        "character": "Ichi Sasahara",
+        "credit_id": "52fe4528c3a368484e04bb19",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24548,
+        "known_for_department": "Acting",
+        "name": "Gō Katō",
+        "original_name": "加藤剛",
+        "popularity": 0.9275,
+        "profile_path": "/wzeKImmOZHbW6VwHBG22N3x9LxL.jpg",
+        "cast_id": 22,
+        "character": "Yogoro Sasahara",
+        "credit_id": "5a03e1e2c3a3680fd4006da7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96800,
+        "known_for_department": "Acting",
+        "name": "Tatsuyoshi Ehara",
+        "original_name": "江原達怡",
+        "popularity": 1.7677,
+        "profile_path": "/wk6s2lf4V1FtOPCs35ixbKNTK2P.jpg",
+        "cast_id": 5,
+        "character": "Bunzo Sasahara",
+        "credit_id": "52fe4528c3a368484e04bb21",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91288,
+        "known_for_department": "Acting",
+        "name": "Etsuko Ichihara",
+        "original_name": "市原悦子",
+        "popularity": 1.3521,
+        "profile_path": "/qDMwdYtLjj58ronpF7W0TNcwnSZ.jpg",
+        "cast_id": 6,
+        "character": "Kiku",
+        "credit_id": "52fe4528c3a368484e04bb25",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134020,
+        "known_for_department": "Acting",
+        "name": "Isao Yamagata",
+        "original_name": "山形勲",
+        "popularity": 1.6023,
+        "profile_path": "/x1MgVQC8gT7LwuuJ3NGUOi5QdtB.jpg",
+        "cast_id": 14,
+        "character": "Shobei Tsuchiya",
+        "credit_id": "52fe4529c3a368484e04bb53",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70131,
+        "known_for_department": "Acting",
+        "name": "Tatsuya Nakadai",
+        "original_name": "仲代達矢",
+        "popularity": 2.1703,
+        "profile_path": "/4LygOe0vFQplLIft5IUWI5OewPX.jpg",
+        "cast_id": 15,
+        "character": "Tatewaki Asano",
+        "credit_id": "52fe4529c3a368484e04bb57",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34690,
+        "known_for_department": "Acting",
+        "name": "Shigeru Kōyama",
+        "original_name": "神山繁",
+        "popularity": 1.465,
+        "profile_path": "/hNV4RVXgpO93l2NP8oUFjVQbOql.jpg",
+        "cast_id": 16,
+        "character": "Geki Takahashi",
+        "credit_id": "52fe4529c3a368484e04bb5b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076218,
+        "known_for_department": "Acting",
+        "name": "Michiko Otsuka",
+        "original_name": "大塚道子",
+        "popularity": 1.6005,
+        "profile_path": "/j2gmv6udR5hdxt3FYKIt1fxayEW.jpg",
+        "cast_id": 17,
+        "character": "Suga Sasahara",
+        "credit_id": "52fe4529c3a368484e04bb5f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110310,
+        "known_for_department": "Acting",
+        "name": "Tatsuo Matsumura",
+        "original_name": "松村達雄",
+        "popularity": 1.428,
+        "profile_path": "/rtD03C7xSrP83It8Af2HciDb93M.jpg",
+        "cast_id": 23,
+        "character": "Lord Masakata Matsudaira",
+        "credit_id": "5c4c0a069251410e0a594dd9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125721,
+        "known_for_department": "Acting",
+        "name": "Masao Mishima",
+        "original_name": "三島雅夫",
+        "popularity": 1.8872,
+        "profile_path": "/bfPdwV4TCWJ7jjf16MFNsOndHWB.jpg",
+        "cast_id": 24,
+        "character": "Sanzaemon Yanase",
+        "credit_id": "5c4c0a11c3a36847778f07f9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97629,
+        "known_for_department": "Acting",
+        "name": "Jun Hamamura",
+        "original_name": "浜村純",
+        "popularity": 1.7166,
+        "profile_path": "/sNffnZJIGCzuCmJlKjUKtGLwLRw.jpg",
+        "cast_id": 25,
+        "character": "Hyoemon Shiomi",
+        "credit_id": "5c4c0a1b0e0a264965d2d3d9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1008470,
+        "known_for_department": "Acting",
+        "name": "Takamaru Sasaki",
+        "original_name": "佐々木孝丸",
+        "popularity": 1.5769,
+        "profile_path": "/A2Z5wU2CYGSPrRgESpwnzISGhx0.jpg",
+        "cast_id": 26,
+        "character": "Kenmotsu Sasahara",
+        "credit_id": "5c4c0a5e0e0a264965d2d422",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551744,
+        "known_for_department": "Acting",
+        "name": "Hideo Fukuhara",
+        "original_name": "福原秀雄",
+        "popularity": 1.7065,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Sahei",
+        "credit_id": "5c4c0a680e0a260419cfe1a9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229224,
+        "known_for_department": "Acting",
+        "name": "Tetsuko Kobayashi",
+        "original_name": "小林哲子",
+        "popularity": 1.5673,
+        "profile_path": "/3Rh0KexJ8kDDyq3Dn3sMERxijmC.jpg",
+        "cast_id": 28,
+        "character": "Otama",
+        "credit_id": "5c4c0a9fc3a368477a8f938a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135136,
+        "known_for_department": "Acting",
+        "name": "Hisano Yamaoka",
+        "original_name": "山岡久乃",
+        "popularity": 1.4274,
+        "profile_path": "/wd0VSytwik52x0J7gCJoq9UpKUL.jpg",
+        "cast_id": 29,
+        "character": "Sannojo Kasai's mother (uncredited)",
+        "credit_id": "5c4c0ab8c3a368477a8f9419",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226742,
+        "known_for_department": "Acting",
+        "name": "Yoshirō Aoki",
+        "original_name": "青木義朗",
+        "popularity": 1.7813,
+        "profile_path": "/50xy62RmFeLC7NCfmNCJuA5mpfT.jpg",
+        "cast_id": 30,
+        "character": "Takazo Komiya (uncredited)",
+        "credit_id": "5c4c0ad5c3a368576a8e5fb4",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76978,
+        "known_for_department": "Directing",
+        "name": "Masaki Kobayashi",
+        "original_name": "小林正樹",
+        "popularity": 2.0611,
+        "profile_path": "/2OoAoiHy4Ux6ODGgr6KkxeyXWdI.jpg",
+        "credit_id": "52fe4528c3a368484e04bb11",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirō Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 2.7505,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "credit_id": "52fe4528c3a368484e04bb37",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18604,
+        "known_for_department": "Production",
+        "name": "Tomoyuki Tanaka",
+        "original_name": "田中友幸",
+        "popularity": 1.4714,
+        "profile_path": "/fceS19GAexPnmtVQJHG9VxaVHGZ.jpg",
+        "credit_id": "52fe4528c3a368484e04bb3d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51808,
+        "known_for_department": "Sound",
+        "name": "Toru Takemitsu",
+        "original_name": "武満徹",
+        "popularity": 0.881,
+        "profile_path": "/l48fEVb1HGMilTCkxSzYuZsSPdk.jpg",
+        "credit_id": "52fe4528c3a368484e04bb43",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 552638,
+        "known_for_department": "Editing",
+        "name": "Hisashi Sagara",
+        "original_name": "Hisashi Sagara",
+        "popularity": 0.782,
+        "profile_path": null,
+        "credit_id": "52fe4529c3a368484e04bb4f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30562,
+        "known_for_department": "Camera",
+        "name": "Kazuo Yamada",
+        "original_name": "山田一夫",
+        "popularity": 0.959,
+        "profile_path": null,
+        "credit_id": "57073fa79251412b0e001aa9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560321,
+        "known_for_department": "Writing",
+        "name": "Yasuhiko Takiguchi",
+        "original_name": "滝口康彦",
+        "popularity": 1.2728,
+        "profile_path": null,
+        "credit_id": "57073fb79251412b0e001ab0",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33132,
+        "known_for_department": "Art",
+        "name": "Yoshirō Muraki",
+        "original_name": "村木与四郎",
+        "popularity": 1.5301,
+        "profile_path": "/yBbn62PUvRXUitSrD3NgLGajtyX.jpg",
+        "credit_id": "57073fc2c3a368651100197c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602592,
+        "known_for_department": "Sound",
+        "name": "Shigenosuke Okuyama",
+        "original_name": "Shigenosuke Okuyama",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "57073fccc3a36865090019a3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7449,
+        "known_for_department": "Writing",
+        "name": "Shinobu Hashimoto",
+        "original_name": "橋本忍",
+        "popularity": 1.6524,
+        "profile_path": "/Aakm6YsthiBZHdkfE7OnqPVyrPl.jpg",
+        "credit_id": "5c4c0b529251410e1b598647",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 27031,
+    "keywords": [
+      {
+        "id": 1462,
+        "name": "samurai"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1930,
+        "name": "kidnapping"
+      },
+      {
+        "id": 15060,
+        "name": "period drama"
+      },
+      {
+        "id": 186753,
+        "name": "jidaigeki"
+      },
+      {
+        "id": 190446,
+        "name": "edo period"
+      },
+      {
+        "id": 198754,
+        "name": "feudal japan"
+      },
+      {
+        "id": 202409,
+        "name": "chanbara"
+      },
+      {
+        "id": 312122,
+        "name": "bushi"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/f8Vy839NPniWZfkBjuG2tcG9rD4.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 479198,
+        "original_language": "en",
+        "original_title": "Tango One",
+        "overview": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+        "popularity": 3.4743,
+        "poster_path": "/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg",
+        "release_date": "2018-03-02",
+        "title": "Tango One",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9lOtDZY6oy6qUlYH78fJ27RMkLP.jpg",
+        "genre_ids": [
+          80,
+          53,
+          9648,
+          18
+        ],
+        "id": 479226,
+        "original_language": "da",
+        "original_title": "Journal 64",
+        "overview": "Copenhagen, 2018. A frightening discovery is made in an old apartment. The subsequent investigation of Department Q leads them to an infamous institution for girls that was suddenly closed in the early sixties.",
+        "popularity": 2.2563,
+        "poster_path": "/uTdaeGpznkLfyhAzLlrdssD621R.jpg",
+        "release_date": "2018-10-04",
+        "title": "The Purity of Vengeance",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 534
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mIu95QezXe20KYKI1u7DjzisAUj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 479259,
+        "original_language": "en",
+        "original_title": "Lost Girls & Love Hotels",
+        "overview": "Searching for escape in Tokyo's back alleys, a haunted English teacher explores love and lust with a dashing Yakuza, as their tumultuous affair takes her on a journey through the city's dive bars and three-hour love hotels.",
+        "popularity": 2.4572,
+        "poster_path": "/vQgXwuJrlpzGDI8169tRQRy71Nv.jpg",
+        "release_date": "2020-09-18",
+        "title": "Lost Girls & Love Hotels",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bDFayg4joYfc21ynNKmRIJZKx6M.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          14
+        ],
+        "id": 28218,
+        "original_language": "en",
+        "original_title": "Deathstalker II: Duel of the Titans",
+        "overview": "Deathstalker helps Reena the Seer out of a few jams, and she solicits his help for a bigger task. She reveals that she is actually Princess Evie, but the evil sorcerer had her abducted and cloned in order to seize control of the kingdom. Together they travel to the evil sorcerer's stronghold to restore the princess to her rightful position, encountering challenges along the way both from the sorcerer's goons and the fierce Amazon women.",
+        "popularity": 1.6526,
+        "poster_path": "/uWWGVspUqMezWpXcaaB3yglWp8F.jpg",
+        "release_date": "1987-06-03",
+        "title": "Deathstalker II: Duel of the Titans",
+        "video": false,
+        "vote_average": 5.701,
+        "vote_count": 134
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9cWUpScrsnDxCBjnBoSePGI2XY5.jpg",
+        "genre_ids": [
+          18,
+          53,
+          27
+        ],
+        "id": 28298,
+        "original_language": "fr",
+        "original_title": "Eugénie",
+        "overview": "Eugenie, a beautiful but shy young girl, lives with her stepfather, a famous writer specializing in stories of erotica. One day she happens to read one of his \"erotic\" books and its power so affects her that begins to find herself sexually attracted to her stepfather. He notices this, and eventually brings her into his dark world of sexual perversion and murder.",
+        "popularity": 2.8955,
+        "poster_path": "/dvSaP5XUDb6hthxFwfrO2XGePih.jpg",
+        "release_date": "1973-04-05",
+        "title": "Eugenie de Sade",
+        "video": false,
+        "vote_average": 5.512,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10770,
+          18,
+          9648,
+          10749
+        ],
+        "id": 26599,
+        "original_language": "en",
+        "original_title": "Duel of Hearts",
+        "overview": "Lady Caroline Faye meets Lord Vane Brecon and is attracted to him. When she finds out that he is being accused of a murder he did not commit, she sets out to prove him innocent",
+        "popularity": 0.2284,
+        "poster_path": "/2IukYhPMEEvy5jEw5FQM0TysHS4.jpg",
+        "release_date": "1992-01-01",
+        "title": "Duel of Hearts",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 26614,
+        "original_language": "fr",
+        "original_title": "La Chienne",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "popularity": 4.3344,
+        "poster_path": "/h3b8k9sY4z8mIy0J6zu9O3ZIcLr.jpg",
+        "release_date": "1931-11-01",
+        "title": "La Chienne",
+        "video": false,
+        "vote_average": 7.267,
+        "vote_count": 129
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
+        "genre_ids": [
+          9648,
+          14,
+          18
+        ],
+        "id": 26644,
+        "original_language": "en",
+        "original_title": "Photographing Fairies",
+        "overview": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
+        "popularity": 3.0709,
+        "poster_path": "/95rYK0G003rj8WDavXslmTO4pRE.jpg",
+        "release_date": "1997-09-19",
+        "title": "Photographing Fairies",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qNm6CEiHSwVD7IaOgiLvckvtHkH.jpg",
+        "genre_ids": [
+          18,
+          53,
+          28,
+          80,
+          36
+        ],
+        "id": 1063691,
+        "original_language": "en",
+        "original_title": "Your Move",
+        "overview": "A 1960s period thriller centring around a gang of ex-airforce servicemen who now run a nefarious smuggling operation.",
+        "popularity": 0.2627,
+        "poster_path": "/fh2U0MiCkK4Naky2eaRc3lnRYp9.jpg",
+        "release_date": "2023-03-15",
+        "title": "Your Move",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 478973,
+        "original_language": "ja",
+        "original_title": "鉄砲伝来記",
+        "overview": "Well before “Shogun” as warring clans were fighting for power throughout Japan, a Portuguese vessel ran aground off Tanegashima. Lord Tokitaka helped Captain Pinto repair his ship. The grateful captain offered the lord a gift--a matchlock musket—the first firearm ever seen in Japan. But like a great stone hurled into placid waters, this simple gift will start a revolution. Tokitaka tasks Kinbei, his greatest swordsmith, to copy this musket and build guns for Japan. While Kinbei struggles to forge Japan’s first musket, a great love blooms between Captain Pinto and Kinbei’s daughter Wakasa. But for Kinbei, to let Wakasa marry Pinto and go to Portugal is unthinkable. And as Kinbei creates Japan’s first matchlock factory, Lord Oda Nobunaga will seize upon firearms as the key to sweep all other clans before him, tearing a blood-soaked path of destruction through Japan.",
+        "popularity": 0.408,
+        "poster_path": "/lFVoVCpWEPWPbmk3sm9yBcLn9s3.jpg",
+        "release_date": "1968-05-18",
+        "title": "The Saga of Tanegashima",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pNsRxhhO7TZ7MMYk44anDVJ3eAG.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 479040,
+        "original_language": "en",
+        "original_title": "Acts of Violence",
+        "overview": "When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.",
+        "popularity": 1.4176,
+        "poster_path": "/x6sBKpLa86CodgTkIK2r8Hnp07m.jpg",
+        "release_date": "2018-01-12",
+        "title": "Acts of Violence",
+        "video": false,
+        "vote_average": 5.577,
+        "vote_count": 430
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 479352,
+        "original_language": "de",
+        "original_title": "Winterjagd",
+        "overview": "On a cold, wintry night, Lena shows up on the doorstep of the Rossberg family mansion. She claims her car has broken down, but her arrival is intentional. Lena is in pursuit of Anselm Rossberg, an aged Auschwitz guard who lives with his daughter, Maria. Anselm and Maria both deny Anselm's past, but Lena is determined to get him to confess, even as her own weapon is turned on her and she is forced into a moral dilemma.",
+        "popularity": 1.8293,
+        "poster_path": "/2JNBrMxGnA1bUiaZQIRTLFQMYA7.jpg",
+        "release_date": "2019-06-26",
+        "title": "Winter Hunt",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fGntQlOFZxPptDmmZsc9bENf5ZT.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 28307,
+        "original_language": "en",
+        "original_title": "Hammett",
+        "overview": "Chinatown, San Francisco, 1928. Former private detective Dashiell Hammett, a compulsive drinker with tuberculosis who writes pulp fiction for a living, receives an unexpected visit from an old friend asking for help.",
+        "popularity": 3.9804,
+        "poster_path": "/ssaXsTAhAYklEmhhjsMZfeyPCuD.jpg",
+        "release_date": "1982-06-09",
+        "title": "Hammett",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xt4tkFRKwT1uiOpMpszIqFwOoji.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 28313,
+        "original_language": "en",
+        "original_title": "Losing Isaiah",
+        "overview": "Khaila Richards, a crack-addicted single mother, accidentally leaves her baby in a dumpster while high and returns the next day in a panic to find he is missing. In reality, the baby has been adopted by a warm-hearted social worker, Margaret Lewin, and her husband, Charles. Years later, Khaila has gone through rehab and holds a steady job. After learning that her child is still alive, she challenges Margaret for the custody.",
+        "popularity": 0.8983,
+        "poster_path": "/oHALKuPewtqIn2BcluZsGvcEG1P.jpg",
+        "release_date": "1995-03-17",
+        "title": "Losing Isaiah",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 103
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/knubjU2jcD4qAPK2gTgppSgA1sQ.jpg",
+        "genre_ids": [
+          12,
+          18,
+          27
+        ],
+        "id": 28325,
+        "original_language": "it",
+        "original_title": "Emanuelle - Perché violenza alle donne?",
+        "overview": "The increasingly politicised Emanuelle gets deeper into fighting an international trade composed of sex, violence and high profile players.",
+        "popularity": 1.7963,
+        "poster_path": "/v5aRSDn97l8Y2CVIuZLg0zs2hfo.jpg",
+        "release_date": "1977-09-16",
+        "title": "Emanuelle Around the World",
+        "video": false,
+        "vote_average": 5.55,
+        "vote_count": 61
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jbEbL1gl8VQBAX43kcPCMfBZum7.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          10402
+        ],
+        "id": 28345,
+        "original_language": "en",
+        "original_title": "Heidi",
+        "overview": "Heidi is orphaned and her uncaring maternal Aunt Dete takes her to the mountains to live with her reclusive, grumpy paternal grandfather, Adolph Kramer. Heidi brings her grandfather back into mountain society through her sweet ways and sheer love. When Dete later returns and steals Heidi away to become the companion of a rich man's wheelchair-bound daughter, the grandfather is heartsick to discover his little girl missing and immediately sets out to get her back.",
+        "popularity": 4.2036,
+        "poster_path": "/rIfA5X4pYJOHyFPZFqWLOu7yfiZ.jpg",
+        "release_date": "1937-10-15",
+        "title": "Heidi",
+        "video": false,
+        "vote_average": 6.826,
+        "vote_count": 115
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v7NhsujJN1dCexGUYNTiyk8jNMD.jpg",
+        "genre_ids": [
+          27,
+          28,
+          53,
+          35
+        ],
+        "id": 28346,
+        "original_language": "en",
+        "original_title": "Krocodylus",
+        "overview": "A sleazy producer develops a concept he dubs \"blood surfing\" -- tossing bloody fish remains into the water to lure sharks and then surfing through the animals as they chomp about. Along with his camerawoman, the producer brings two thrill-seeking surfers to the coast of Florida to capture some gnarly footage. But, as they blood surf, they encounter something even more deadly: a colossal prehistoric crocodile intent on devouring them.",
+        "popularity": 3.5517,
+        "poster_path": "/uKpGM6g3tAxTwbqhR2VbVH3JQNX.jpg",
+        "release_date": "2000-12-04",
+        "title": "Krocodylus",
+        "video": false,
+        "vote_average": 4.433,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vW6MatSQJ0vi24ZdicPTPjGS4yC.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 28391,
+        "original_language": "en",
+        "original_title": "Street Angel",
+        "overview": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+        "popularity": 0.3263,
+        "poster_path": "/rGDFZRIwZPYocBvspSB7RGQMzXq.jpg",
+        "release_date": "1928-04-09",
+        "title": "Street Angel",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Af5UUKi8Pe7VJ66bbZTOujLruBh.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53,
+          28
+        ],
+        "id": 28415,
+        "original_language": "en",
+        "original_title": "The Yakuza",
+        "overview": "When George Tanner does business with high-ranking Yakuza Tono, Tono kidnaps his daughter, and George summons his old friend, private eye Harry Kilmer, to Japan to investigate.",
+        "popularity": 1.1632,
+        "poster_path": "/Aj6JpRPswDR4eMO1OSnoTc2yrPu.jpg",
+        "release_date": "1974-12-21",
+        "title": "The Yakuza",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 202
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7E5T2lAJPn6qAp2NieCeUlMWiM.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 26762,
+        "original_language": "en",
+        "original_title": "The Outfit",
+        "overview": "A two-bit criminal takes on the Mafia to avenge his brother's death. Earl Macklin is a small time criminal who is released from prison after an unsuccessful bank robbery only to discover that a pair of gunmen killed his brother.",
+        "popularity": 4.0897,
+        "poster_path": "/u2TZAW2IDCbMZdVR7uxXS3WS0Pv.jpg",
+        "release_date": "1973-10-19",
+        "title": "The Outfit",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 83
+      }
+    ],
+    "total_pages": 16459,
+    "total_results": 329177
+  }
+}

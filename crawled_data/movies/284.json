@@ -1,0 +1,1496 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 284,
+    "imdb_id": "tt0053604",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Apartment",
+    "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+    "popularity": 6.5438,
+    "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+    "production_companies": [
+      {
+        "id": 219,
+        "logo_path": null,
+        "name": "The Mirisch Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 60,
+        "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+        "name": "United Artists",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1960-06-21",
+    "revenue": 25000000,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!",
+    "title": "The Apartment",
+    "video": false,
+    "vote_average": 8.195,
+    "vote_count": 2535
+  },
+  "credits": {
+    "id": 284,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151,
+        "known_for_department": "Acting",
+        "name": "Jack Lemmon",
+        "original_name": "Jack Lemmon",
+        "popularity": 2.2128,
+        "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg",
+        "cast_id": 1,
+        "character": "C.C. Baxter",
+        "credit_id": "52fe4232c3a36847f800b417",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4090,
+        "known_for_department": "Acting",
+        "name": "Shirley MacLaine",
+        "original_name": "Shirley MacLaine",
+        "popularity": 4.7104,
+        "profile_path": "/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg",
+        "cast_id": 2,
+        "character": "Fran Kubelik",
+        "credit_id": "52fe4232c3a36847f800b41b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4091,
+        "known_for_department": "Acting",
+        "name": "Fred MacMurray",
+        "original_name": "Fred MacMurray",
+        "popularity": 1.1625,
+        "profile_path": "/lxxixlFMNH0JuA9K0K3mJmigYcc.jpg",
+        "cast_id": 3,
+        "character": "Jeff D. Sheldrake",
+        "credit_id": "52fe4232c3a36847f800b41f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4093,
+        "known_for_department": "Acting",
+        "name": "Ray Walston",
+        "original_name": "Ray Walston",
+        "popularity": 2.0664,
+        "profile_path": "/pRVUmhdc9nxflBI5GJvokz0nPPb.jpg",
+        "cast_id": 4,
+        "character": "Joe Dobisch",
+        "credit_id": "52fe4232c3a36847f800b423",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4094,
+        "known_for_department": "Acting",
+        "name": "Jack Kruschen",
+        "original_name": "Jack Kruschen",
+        "popularity": 0.6051,
+        "profile_path": "/3QOPlFyLfFR8cLe0pseRjrm3lra.jpg",
+        "cast_id": 5,
+        "character": "Dr. Dreyfuss",
+        "credit_id": "52fe4232c3a36847f800b427",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571911,
+        "known_for_department": "Acting",
+        "name": "David Lewis",
+        "original_name": "David Lewis",
+        "popularity": 0.5887,
+        "profile_path": "/nwEuF8nyeN7tlHL7GsJuVCOsmI7.jpg",
+        "cast_id": 28,
+        "character": "Al Kirkeby",
+        "credit_id": "52fe4232c3a36847f800b4a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4097,
+        "known_for_department": "Acting",
+        "name": "Hope Holiday",
+        "original_name": "Hope Holiday",
+        "popularity": 1.5952,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Mrs. Margie MacDougall",
+        "credit_id": "52fe4232c3a36847f800b42f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3161,
+        "known_for_department": "Acting",
+        "name": "Joan Shawlee",
+        "original_name": "Joan Shawlee",
+        "popularity": 1.2116,
+        "profile_path": "/oUmK5YF1jcGs5eEGStI1I3iF5vd.jpg",
+        "cast_id": 9,
+        "character": "Sylvia",
+        "credit_id": "52fe4232c3a36847f800b437",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4096,
+        "known_for_department": "Acting",
+        "name": "Naomi Stevens",
+        "original_name": "Naomi Stevens",
+        "popularity": 0.6738,
+        "profile_path": "/3s8sSpWsA2iZr20Db47nEbTcAYo.jpg",
+        "cast_id": 6,
+        "character": "Mrs. Mildred Dreyfuss",
+        "credit_id": "52fe4232c3a36847f800b42b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4099,
+        "known_for_department": "Acting",
+        "name": "Johnny Seven",
+        "original_name": "Johnny Seven",
+        "popularity": 0.738,
+        "profile_path": "/kn6k8OPk4OnAGl2aKp9zOBXfMyw.jpg",
+        "cast_id": 10,
+        "character": "Karl Matuschka",
+        "credit_id": "52fe4232c3a36847f800b43b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40381,
+        "known_for_department": "Acting",
+        "name": "Joyce Jameson",
+        "original_name": "Joyce Jameson",
+        "popularity": 1.1415,
+        "profile_path": "/wSkhDflX3GiIMx8AQx0gKKwxE9m.jpg",
+        "cast_id": 29,
+        "character": "The Blonde",
+        "credit_id": "5676fb96c3a368168900611e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87517,
+        "known_for_department": "Acting",
+        "name": "Willard Waterman",
+        "original_name": "Willard Waterman",
+        "popularity": 0.5526,
+        "profile_path": "/t0QsePvJiJgTvusWlS8exxXFwsj.jpg",
+        "cast_id": 30,
+        "character": "Mr. Vanderhoff",
+        "credit_id": "5676fbbbc3a368168e006b6f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141694,
+        "known_for_department": "Acting",
+        "name": "David White",
+        "original_name": "David White",
+        "popularity": 1.2408,
+        "profile_path": "/h6jZkxOg7Z6I8SxkicURKqIHEn9.jpg",
+        "cast_id": 31,
+        "character": "Mr. Eichelberger",
+        "credit_id": "5676fbf9c3a368168500663f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4098,
+        "known_for_department": "Acting",
+        "name": "Edie Adams",
+        "original_name": "Edie Adams",
+        "popularity": 0.9332,
+        "profile_path": "/wA8UQVoIG2OFZe6goZWmNGPuaBR.jpg",
+        "cast_id": 8,
+        "character": "Miss Olsen",
+        "credit_id": "52fe4232c3a36847f800b433",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234545,
+        "known_for_department": "Acting",
+        "name": "Dorothy Abbott",
+        "original_name": "Dorothy Abbott",
+        "popularity": 0.573,
+        "profile_path": "/bheDciblNfOsKTvRNRyWJ5BNUJS.jpg",
+        "cast_id": 32,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "5676fcca92514179e30062b8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551605,
+        "known_for_department": "Acting",
+        "name": "Ralph Moratz",
+        "original_name": "Ralph Moratz",
+        "popularity": 0.4439,
+        "profile_path": "/ax2d7RI6kcHIzV6PBnoE7hafNbs.jpg",
+        "cast_id": 33,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "5676fd0292514179e1006467",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1250242,
+        "known_for_department": "Acting",
+        "name": "Joe Palma",
+        "original_name": "Joe Palma",
+        "popularity": 0.6783,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Office Maintenance Man (uncredited)",
+        "credit_id": "5676feae92514179e30062f1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16527,
+        "known_for_department": "Acting",
+        "name": "Bill Baldwin",
+        "original_name": "Bill Baldwin",
+        "popularity": 0.6355,
+        "profile_path": "/lxPg2ucKAdQJ2L3jT0Ob3E6kvS0.jpg",
+        "cast_id": 35,
+        "character": "TV Movie Host (uncredited)",
+        "credit_id": "5676fedc925141691a002c3b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120555,
+        "known_for_department": "Acting",
+        "name": "Benny Burt",
+        "original_name": "Benny Burt",
+        "popularity": 0.3451,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Charlie - Bartender (uncredited)",
+        "credit_id": "5676ff06925141691a002c40",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98166,
+        "known_for_department": "Acting",
+        "name": "Lynn Cartwright",
+        "original_name": "Lynn Cartwright",
+        "popularity": 2.0111,
+        "profile_path": "/p6gqVvZUKKR9IS4anwJFwMJmwxn.jpg",
+        "cast_id": 37,
+        "character": "Elevator Supervisor with Clicker (uncredited)",
+        "credit_id": "5676ff3d925141691a002c49",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225439,
+        "known_for_department": "Acting",
+        "name": "Mason Curry",
+        "original_name": "Mason Curry",
+        "popularity": 0.1828,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Bit Part (uncredited)",
+        "credit_id": "5676ffa4c3a368167a006c04",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153413,
+        "known_for_department": "Acting",
+        "name": "David Macklin",
+        "original_name": "David Macklin",
+        "popularity": 0.5795,
+        "profile_path": "/pjVvJcWLFXKX2GZfEsHajJal34P.jpg",
+        "cast_id": 39,
+        "character": "Messenger (uncredited)",
+        "credit_id": "5676fff092514179d20066a8",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25627,
+        "known_for_department": "Acting",
+        "name": "Hal Smith",
+        "original_name": "Hal Smith",
+        "popularity": 1.4499,
+        "profile_path": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg",
+        "cast_id": 40,
+        "character": "Man in Santa Claus Suit (uncredited)",
+        "credit_id": "5677002c92514179d40065ff",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1594339,
+        "known_for_department": "Acting",
+        "name": "Paul Bradley",
+        "original_name": "Paul Bradley",
+        "popularity": 0.5632,
+        "profile_path": null,
+        "cast_id": 66,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "6264ff9b6ca9a000aa6d1f0c",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 191823,
+        "known_for_department": "Acting",
+        "name": "Steve Carruthers",
+        "original_name": "Steve Carruthers",
+        "popularity": 0.9138,
+        "profile_path": "/lafDxGcaP7zzYGi5s1BlVjnMNjy.jpg",
+        "cast_id": 67,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "6264ffeda35c8e10e04ed071",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1600501,
+        "known_for_department": "Acting",
+        "name": "Dick Cherney",
+        "original_name": "Dick Cherney",
+        "popularity": 0.493,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Bar Patron (uncredited)",
+        "credit_id": "626500062fdec600a7f47166",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 975597,
+        "known_for_department": "Acting",
+        "name": "Franklyn Farnum",
+        "original_name": "Franklyn Farnum",
+        "popularity": 0.8818,
+        "profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg",
+        "cast_id": 69,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "62650038d1a8937095487b66",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598135,
+        "known_for_department": "Acting",
+        "name": "Herschel Graham",
+        "original_name": "Herschel Graham",
+        "popularity": 1.4899,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "62650049d1a89370937c63b5",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1507184,
+        "known_for_department": "Acting",
+        "name": "Lars Hensen",
+        "original_name": "Lars Hensen",
+        "popularity": 0.5688,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "62650058713ed4005047f4bd",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89313,
+        "known_for_department": "Acting",
+        "name": "Eugene Jackson",
+        "original_name": "Eugene Jackson",
+        "popularity": 0.4009,
+        "profile_path": "/7RMdrhnV73hsCiJiWyHCVlAFTDf.jpg",
+        "cast_id": 72,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "626500738fdda90050667273",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3520811,
+        "known_for_department": "Acting",
+        "name": "Frances Weintraub Lax",
+        "original_name": "Frances Weintraub Lax",
+        "popularity": 0.2376,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "Mrs. Lieberman (uncredited)",
+        "credit_id": "626500a71495651655fba7b1",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 983505,
+        "known_for_department": "Acting",
+        "name": "William Meader",
+        "original_name": "William Meader",
+        "popularity": 1.7664,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "Executive (uncredited)",
+        "credit_id": "6265011b7fcab371e7024c43",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368758,
+        "known_for_department": "Acting",
+        "name": "Monty O'Grady",
+        "original_name": "Monty O'Grady",
+        "popularity": 1.5694,
+        "profile_path": "/1yz4sQu0J0EAYvUWvjGgT0udItr.jpg",
+        "cast_id": 75,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "6265013b1f33190065bfc05d",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151891,
+        "known_for_department": "Acting",
+        "name": "Paul Power",
+        "original_name": "Paul Power",
+        "popularity": 0.475,
+        "profile_path": null,
+        "cast_id": 76,
+        "character": "Bar Patron (uncredited)",
+        "credit_id": "62650165202e1108ac7aec53",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581532,
+        "known_for_department": "Acting",
+        "name": "Tony Regan",
+        "original_name": "Tony Regan",
+        "popularity": 0.3158,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Executive (uncredited)",
+        "credit_id": "626501ec1495651655fba9c8",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2100076,
+        "known_for_department": "Acting",
+        "name": "Clark Ross",
+        "original_name": "Clark Ross",
+        "popularity": 0.2634,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "62650246e32943009d3b5807",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122067,
+        "known_for_department": "Acting",
+        "name": "Norman Stevans",
+        "original_name": "Norman Stevans",
+        "popularity": 0.7154,
+        "profile_path": null,
+        "cast_id": 79,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "62650281aaec710067bc992e",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289627,
+        "known_for_department": "Acting",
+        "name": "Sid Troy",
+        "original_name": "Sid Troy",
+        "popularity": 0.3815,
+        "profile_path": null,
+        "cast_id": 80,
+        "character": "Williams (uncredited)",
+        "credit_id": "62650299a35c8e129d796a5a",
+        "order": 37
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146,
+        "known_for_department": "Directing",
+        "name": "Billy Wilder",
+        "original_name": "Billy Wilder",
+        "popularity": 1.2914,
+        "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+        "credit_id": "52fe4232c3a36847f800b441",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4100,
+        "known_for_department": "Sound",
+        "name": "Adolph Deutsch",
+        "original_name": "Adolph Deutsch",
+        "popularity": 1.0968,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b453",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4101,
+        "known_for_department": "Camera",
+        "name": "Joseph LaShelle",
+        "original_name": "Joseph LaShelle",
+        "popularity": 0.4372,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b459",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4102,
+        "known_for_department": "Editing",
+        "name": "Daniel Mandell",
+        "original_name": "Daniel Mandell",
+        "popularity": 0.765,
+        "profile_path": "/i0E71PSow73Gix42CIJTRv0UP0f.jpg",
+        "credit_id": "52fe4232c3a36847f800b45f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4103,
+        "known_for_department": "Art",
+        "name": "Alexandre Trauner",
+        "original_name": "Alexandre Trauner",
+        "popularity": 0.3302,
+        "profile_path": "/A7dZ4YPZIfxOGiZFjpC3fGY8B0H.jpg",
+        "credit_id": "52fe4232c3a36847f800b465",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4104,
+        "known_for_department": "Art",
+        "name": "Edward G. Boyle",
+        "original_name": "Edward G. Boyle",
+        "popularity": 0.3925,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b46b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4105,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harry Ray",
+        "original_name": "Harry Ray",
+        "popularity": 0.6348,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b471",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4106,
+        "known_for_department": "Production",
+        "name": "Allen K. Wood",
+        "original_name": "Allen K. Wood",
+        "popularity": 1.5046,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b477",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4107,
+        "known_for_department": "Crew",
+        "name": "Milt Rice",
+        "original_name": "Milt Rice",
+        "popularity": 0.7107,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b47d",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4108,
+        "known_for_department": "Lighting",
+        "name": "Don Stott",
+        "original_name": "Don Stott",
+        "popularity": 0.5615,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b483",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146,
+        "known_for_department": "Directing",
+        "name": "Billy Wilder",
+        "original_name": "Billy Wilder",
+        "popularity": 1.2914,
+        "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+        "credit_id": "52fe4232c3a36847f800b489",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146,
+        "known_for_department": "Directing",
+        "name": "Billy Wilder",
+        "original_name": "Billy Wilder",
+        "popularity": 1.2914,
+        "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+        "credit_id": "626502bb8fdda9009ca4fedc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3147,
+        "known_for_department": "Writing",
+        "name": "I. A. L. Diamond",
+        "original_name": "I. A. L. Diamond",
+        "popularity": 0.4022,
+        "profile_path": "/tm4mgbRqYYQMqbIps8F6iKmOBM9.jpg",
+        "credit_id": "626502c88fdda90050667648",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4103,
+        "known_for_department": "Art",
+        "name": "Alexandre Trauner",
+        "original_name": "Alexandre Trauner",
+        "popularity": 0.3302,
+        "profile_path": "/A7dZ4YPZIfxOGiZFjpC3fGY8B0H.jpg",
+        "credit_id": "62a1e950c8f85800a53b8446",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1454978,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alice Monte",
+        "original_name": "Alice Monte",
+        "popularity": 0.176,
+        "profile_path": null,
+        "credit_id": "567839ff9251411187000040",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18379,
+        "known_for_department": "Production",
+        "name": "Hal W. Polaire",
+        "original_name": "Hal W. Polaire",
+        "popularity": 0.8055,
+        "profile_path": null,
+        "credit_id": "56783a35925141117b000034",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551963,
+        "known_for_department": "Production",
+        "name": "David Salven",
+        "original_name": "David Salven",
+        "popularity": 0.3347,
+        "profile_path": null,
+        "credit_id": "56783aa6c3a3684742000057",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551974,
+        "known_for_department": "Sound",
+        "name": "Del Harris",
+        "original_name": "Del Harris",
+        "popularity": 0.2531,
+        "profile_path": null,
+        "credit_id": "56783d55925141117d0000ad",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14828,
+        "known_for_department": "Sound",
+        "name": "Robert Martin",
+        "original_name": "Robert Martin",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "credit_id": "56783df5c3a36847470000be",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551980,
+        "known_for_department": "Camera",
+        "name": "William Schurr",
+        "original_name": "William Schurr",
+        "popularity": 0.4062,
+        "profile_path": null,
+        "credit_id": "56783f6ac3a3684753000114",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121343,
+        "known_for_department": "Sound",
+        "name": "Sid Sidney",
+        "original_name": "Sid Sidney",
+        "popularity": 0.1921,
+        "profile_path": null,
+        "credit_id": "5678407c92514111830000e8",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 491,
+        "known_for_department": "Sound",
+        "name": "John Williams",
+        "original_name": "John Williams",
+        "popularity": 1.4599,
+        "profile_path": "/KFyMqUWeiBdP9tJcZyGWOqnrgK.jpg",
+        "credit_id": "567840dc925141118c00012c",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1250242,
+        "known_for_department": "Acting",
+        "name": "Joe Palma",
+        "original_name": "Joe Palma",
+        "popularity": 0.6783,
+        "profile_path": null,
+        "credit_id": "567841aa925141118a000157",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3159,
+        "known_for_department": "Editing",
+        "name": "Doane Harrison",
+        "original_name": "Doane Harrison",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "credit_id": "56a7797492514129fb0031df",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1825945,
+        "known_for_department": "Directing",
+        "name": "May Wale Brown",
+        "original_name": "May Wale Brown",
+        "popularity": 1.0958,
+        "profile_path": null,
+        "credit_id": "59cfd43c92514113fc001362",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1897584,
+        "known_for_department": "Art",
+        "name": "Tom Plews",
+        "original_name": "Tom Plews",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "credit_id": "59cfd482c3a36879290012b5",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3147,
+        "known_for_department": "Writing",
+        "name": "I. A. L. Diamond",
+        "original_name": "I. A. L. Diamond",
+        "popularity": 0.4022,
+        "profile_path": "/tm4mgbRqYYQMqbIps8F6iKmOBM9.jpg",
+        "credit_id": "59fce0d1925141168f001f42",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10919,
+        "known_for_department": "Sound",
+        "name": "Fred Lau",
+        "original_name": "Fred Lau",
+        "popularity": 0.4267,
+        "profile_path": null,
+        "credit_id": "5afc116bc3a368071b006f30",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2043642,
+        "known_for_department": "Sound",
+        "name": "Gordon Sawyer",
+        "original_name": "Gordon Sawyer",
+        "popularity": 0.1429,
+        "profile_path": null,
+        "credit_id": "5afc117192514107a6005135",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2043643,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Forrest T. Butler",
+        "original_name": "Forrest T. Butler",
+        "popularity": 0.3933,
+        "profile_path": null,
+        "credit_id": "5afc11b60e0a26345a0055db",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1551984,
+        "known_for_department": "Crew",
+        "name": "Miriam Nelson",
+        "original_name": "Miriam Nelson",
+        "popularity": 0.334,
+        "profile_path": "/nps1ihmQZsmAKBlbhBWq87zI8S1.jpg",
+        "credit_id": "5c31faf30e0a2655ee429aaf",
+        "department": "Crew",
+        "job": "Choreographer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 284,
+    "keywords": [
+      {
+        "id": 613,
+        "name": "new year's eve"
+      },
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 725,
+        "name": "lovesickness"
+      },
+      {
+        "id": 1443,
+        "name": "clerk"
+      },
+      {
+        "id": 1442,
+        "name": "winter"
+      },
+      {
+        "id": 965,
+        "name": "age difference"
+      },
+      {
+        "id": 1252,
+        "name": "suicide attempt"
+      },
+      {
+        "id": 1438,
+        "name": "office"
+      },
+      {
+        "id": 1439,
+        "name": "flat"
+      },
+      {
+        "id": 1440,
+        "name": "spaghetti"
+      },
+      {
+        "id": 1487,
+        "name": "tennis racket"
+      },
+      {
+        "id": 9799,
+        "name": "romcom"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14720,
+        "name": "love affair"
+      },
+      {
+        "id": 34094,
+        "name": "extramarital affair"
+      },
+      {
+        "id": 179173,
+        "name": "quitting a job"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      },
+      {
+        "id": 286239,
+        "name": "apartment"
+      },
+      {
+        "id": 325782,
+        "name": "cheerful"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          35
+        ],
+        "id": 153,
+        "original_language": "en",
+        "original_title": "Lost in Translation",
+        "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+        "popularity": 7.3773,
+        "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+        "release_date": "2003-09-18",
+        "title": "Lost in Translation",
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 7805
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2bCcbNyB1g5F8CXqABo0JsNig73.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 156,
+        "original_language": "da",
+        "original_title": "Wilbur begår selvmord",
+        "overview": "The strange comedy film of two close brothers; one, Wilbur, who wants to kill himself, and the other, Harbour, who tries to prevent this. When their father dies leaving them his bookstore they meet a woman who makes their lives a bit better yet with a bit more trouble as well.",
+        "popularity": 0.8418,
+        "poster_path": "/bRrHJbr8kMb849IKBZ0RBk2Vmte.jpg",
+        "release_date": "2002-11-08",
+        "title": "Wilbur Wants to Kill Himself",
+        "video": false,
+        "vote_average": 6.535,
+        "vote_count": 100
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+        "genre_ids": [
+          14,
+          18,
+          10749
+        ],
+        "id": 162,
+        "original_language": "en",
+        "original_title": "Edward Scissorhands",
+        "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+        "popularity": 12.9964,
+        "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+        "release_date": "1990-12-07",
+        "title": "Edward Scissorhands",
+        "video": false,
+        "vote_average": 7.719,
+        "vote_count": 13489
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          18
+        ],
+        "id": 164,
+        "original_language": "en",
+        "original_title": "Breakfast at Tiffany's",
+        "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+        "popularity": 6.2143,
+        "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "release_date": "1961-10-06",
+        "title": "Breakfast at Tiffany's",
+        "video": false,
+        "vote_average": 7.628,
+        "vote_count": 4389
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr9xAWJeIkYJWAYmIov5WNHEAf6.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10749,
+          53,
+          10752
+        ],
+        "id": 182,
+        "original_language": "en",
+        "original_title": "The Good German",
+        "overview": "An American journalist arrives in Berlin just after the end of World War Two. He becomes involved in a murder mystery surrounding a dead GI who washes up at a lakeside mansion during the Potsdam negotiations between the Allied powers. Soon his investigation connects with his search for his married pre-war German lover.",
+        "popularity": 0.998,
+        "poster_path": "/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+        "release_date": "2006-12-15",
+        "title": "The Good German",
+        "video": false,
+        "vote_average": 5.809,
+        "vote_count": 335
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 194,
+        "original_language": "fr",
+        "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+        "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+        "popularity": 9.7332,
+        "poster_path": "/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg",
+        "release_date": "2001-04-25",
+        "title": "Amélie",
+        "video": false,
+        "vote_average": 7.914,
+        "vote_count": 12096
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10749
+        ],
+        "id": 195,
+        "original_language": "en",
+        "original_title": "Trouble in Paradise",
+        "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
+        "popularity": 0.8175,
+        "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+        "release_date": "1932-10-30",
+        "title": "Trouble in Paradise",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 299
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+        "genre_ids": [
+          28,
+          18,
+          36,
+          10752
+        ],
+        "id": 197,
+        "original_language": "en",
+        "original_title": "Braveheart",
+        "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+        "popularity": 13.2823,
+        "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+        "release_date": "1995-05-24",
+        "title": "Braveheart",
+        "video": false,
+        "vote_average": 7.941,
+        "vote_count": 10780
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+        "genre_ids": [
+          35,
+          10752,
+          10749
+        ],
+        "id": 198,
+        "original_language": "en",
+        "original_title": "To Be or Not to Be",
+        "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "popularity": 1.4998,
+        "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+        "release_date": "1942-03-06",
+        "title": "To Be or Not to Be",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 795
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i8fiqKaQklF02VmQYhSxmwa8KOH.jpg",
+        "genre_ids": [
+          9648,
+          10749,
+          53
+        ],
+        "id": 223,
+        "original_language": "en",
+        "original_title": "Rebecca",
+        "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+        "popularity": 3.3825,
+        "poster_path": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+        "release_date": "1940-03-23",
+        "title": "Rebecca",
+        "video": false,
+        "vote_average": 7.895,
+        "vote_count": 1910
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vzkueeO7XwkziTDla4ncF6H4laQ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 228,
+        "original_language": "de",
+        "original_title": "Der blaue Engel",
+        "overview": "Prim professor Immanuel Rath finds some of his students ogling racy photos of cabaret performer Lola Lola and visits a local club, The Blue Angel, in an attempt to catch them there. Seeing Lola perform, the teacher is filled with lust, eventually resigning his position at the school to marry the young woman. However, his marriage to a coquette -- whose job is to entice men -- proves to be more difficult than Rath imagined.",
+        "popularity": 1.2689,
+        "poster_path": "/khz2rKLAPDVu9auJt1sR1HO9SCG.jpg",
+        "release_date": "1930-04-01",
+        "title": "The Blue Angel",
+        "video": false,
+        "vote_average": 7.289,
+        "vote_count": 349
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c4hWk3pBYlpukYNFeEq29wpxAO1.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 233,
+        "original_language": "en",
+        "original_title": "The Wanderers",
+        "overview": "The streets of the Bronx are owned by '60s youth gangs where the joy and pain of adolescence is lived. Philip Kaufman tells his take on the novel by Richard Price about the history of the Italian-American gang ‘The Wanderers.’",
+        "popularity": 1.5322,
+        "poster_path": "/p8vxJHlCbmmnUX3p8bEAzXZfcIT.jpg",
+        "release_date": "1979-07-13",
+        "title": "The Wanderers",
+        "video": false,
+        "vote_average": 6.967,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
+        "genre_ids": [
+          18,
+          27,
+          53,
+          80
+        ],
+        "id": 234,
+        "original_language": "de",
+        "original_title": "Das Cabinet des Dr. Caligari",
+        "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+        "popularity": 2.5563,
+        "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+        "release_date": "1920-02-26",
+        "title": "The Cabinet of Dr. Caligari",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 1718
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bHqIHC1sK5CzAS2XkF1jbyuS4ww.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80,
+          10749
+        ],
+        "id": 237,
+        "original_language": "en",
+        "original_title": "Young Adam",
+        "overview": "A young drifter working on a river barge disrupts his employers' lives while hiding the fact that he knows more about a dead woman found in the river than he admits.",
+        "popularity": 4.7962,
+        "poster_path": "/rU5GJ5r4tQbSx9C2ENKbPkD6nr9.jpg",
+        "release_date": "2003-09-26",
+        "title": "Young Adam",
+        "video": false,
+        "vote_average": 5.813,
+        "vote_count": 187
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 33.0354,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.685,
+        "vote_count": 22232
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          80
+        ],
+        "id": 239,
+        "original_language": "en",
+        "original_title": "Some Like It Hot",
+        "overview": "Two musicians witness a mob hit and need to quickly find a way out of Chicago. Their only opportunity comes in the form of joining an all-girl band as they prepare to leave on a tour. The two disguise themselves as women and struggle to keep their identities secret as the gangsters close in.",
+        "popularity": 9.0686,
+        "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+        "release_date": "1959-03-19",
+        "title": "Some Like It Hot",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 3746
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 18.3623,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 13444
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 242,
+        "original_language": "en",
+        "original_title": "The Godfather Part III",
+        "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+        "popularity": 14.4319,
+        "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+        "release_date": "1990-12-25",
+        "title": "The Godfather Part III",
+        "video": false,
+        "vote_average": 7.418,
+        "vote_count": 6644
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xxiPjhXigJ4zPiqqrA77FK10ULo.jpg",
+        "genre_ids": [
+          18,
+          35,
+          10749
+        ],
+        "id": 245,
+        "original_language": "en",
+        "original_title": "About a Boy",
+        "overview": "Will Freeman is a good-looking, smooth-talking bachelor whose primary goal in life is avoiding any kind of responsibility. But when he invents an imaginary son in order to meet attractive single moms, Will gets a hilarious lesson about life from a bright, but hopelessly geeky 12-year-old named Marcus. Now, as Will struggles to teach Marcus the art of being cool, Marcus teaches Will that you're never too old to grow up.",
+        "popularity": 2.7581,
+        "poster_path": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+        "release_date": "2002-04-26",
+        "title": "About a Boy",
+        "video": false,
+        "vote_average": 6.684,
+        "vote_count": 2327
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kYaqmkeCSqNSat8nKgdLSz0A20l.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 248,
+        "original_language": "en",
+        "original_title": "Pocketful of Miracles",
+        "overview": "A New York gangster and his girlfriend attempt to turn street beggar Apple Annie into a society lady when the peddler learns her daughter is marrying royalty.",
+        "popularity": 1.611,
+        "poster_path": "/xjXwcGJjT5tE22wazQUYH32HwU8.jpg",
+        "release_date": "1961-12-18",
+        "title": "Pocketful of Miracles",
+        "video": false,
+        "vote_average": 7.273,
+        "vote_count": 176
+      }
+    ],
+    "total_pages": 21359,
+    "total_results": 427162
+  }
+}

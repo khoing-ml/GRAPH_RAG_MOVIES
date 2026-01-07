@@ -1,0 +1,856 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/jR12T1oZbLCsZJwp0SKVHqSgc8X.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1175306,
+    "imdb_id": "tt15529544",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Me vuelves loca",
+    "overview": "Carolina has a perfect life: she lives in a luxurious house, works in a fashion magazine and is married to a successful publicist. One day everything goes to waste: she discovers that she is sterile, the same day that her husband leaves her for her best friend, who, in addition, is pregnant with him. After the impact of this news, Carolina has a crisis, drinks too much, trips and falls from the second floor of her house, a fact that is interpreted as a suicide attempt.Carolina is interned against her will, in the exclusive psychiatric center Eden. In that place she will meet a group of \"madmen\" who will help her heal and glimpse that her previous life was not so perfect. He also discovers that perhaps the craziest are those outside the psychiatric hospital.",
+    "popularity": 0.5544,
+    "poster_path": "/pQeyfqLEDdY6x4P4Fl5r6jcstN4.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2023-09-07",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Me vuelves loca",
+    "video": false,
+    "vote_average": 8.391,
+    "vote_count": 124
+  },
+  "credits": {
+    "id": 1175306,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1134883,
+        "known_for_department": "Acting",
+        "name": "Aislinn Derbez",
+        "original_name": "Aislinn Derbez",
+        "popularity": 2.7375,
+        "profile_path": "/y3aA1x3JpBOZHhZzTPBpDyhcra1.jpg",
+        "cast_id": 1,
+        "character": "Carolina",
+        "credit_id": "64fb0f36db4ed6103853af70",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1889621,
+        "known_for_department": "Acting",
+        "name": "Minnie West",
+        "original_name": "Minnie West",
+        "popularity": 0.4068,
+        "profile_path": "/lw1BtJ3kkEKzTwp7hwi82xobxGL.jpg",
+        "cast_id": 2,
+        "character": "Lorenza",
+        "credit_id": "64fb0f45ffc9de011bea8195",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133764,
+        "known_for_department": "Acting",
+        "name": "Alejandro de la Madrid",
+        "original_name": "Alejandro de la Madrid",
+        "popularity": 0.319,
+        "profile_path": "/7YLTj58ffsatvVFNzCZQrsPtSin.jpg",
+        "cast_id": 3,
+        "character": "Mario",
+        "credit_id": "64fb0f50a35c8e013b3e32f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310891,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Guindi",
+        "original_name": "Elizabeth Guindi",
+        "popularity": 0.5972,
+        "profile_path": "/rxIuoyd8ZdgnXrUs4X7DjtTrHBh.jpg",
+        "cast_id": 4,
+        "character": "Marta",
+        "credit_id": "64fb0f5ddc1cb4011fc3ddfc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 941639,
+        "known_for_department": "Acting",
+        "name": "Tamara Acosta",
+        "original_name": "Tamara Acosta",
+        "popularity": 0.798,
+        "profile_path": "/o7vPwaqwDNojUvaHVcrOjfJ6GAB.jpg",
+        "cast_id": 5,
+        "character": "Enfermera Estefanía",
+        "credit_id": "64fb0f69a35c8e00e25624f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1049537,
+        "known_for_department": "Acting",
+        "name": "Paz Bascuñan",
+        "original_name": "Paz Bascuñan",
+        "popularity": 1.0331,
+        "profile_path": "/6dZ2fNkHJpM95GhvsLzgouiPYF4.jpg",
+        "cast_id": 15,
+        "character": "Silvia",
+        "credit_id": "6509beb342d8a57e9c15579b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2327551,
+        "known_for_department": "Acting",
+        "name": "Giovanna Romo",
+        "original_name": "Giovanna Romo",
+        "popularity": 5.5437,
+        "profile_path": "/6GzWJpSeXBl4A9ulqP13BsBtK3u.jpg",
+        "cast_id": 16,
+        "character": "Maite",
+        "credit_id": "6509bece394a8700ff6db5e5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1357758,
+        "known_for_department": "Acting",
+        "name": "Loreto Aravena",
+        "original_name": "Loreto Aravena",
+        "popularity": 2.1146,
+        "profile_path": "/kVQNLTZIsVSrYKnxxhdAfRnXlFW.jpg",
+        "cast_id": 17,
+        "character": "Ignacia",
+        "credit_id": "6509bed9394a8700e227c4e7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1257808,
+        "known_for_department": "Acting",
+        "name": "Ricardo Fastlicht",
+        "original_name": "Ricardo Fastlicht",
+        "popularity": 0.4749,
+        "profile_path": "/LkJDert3mPrzZUo51ADu5cFz1.jpg",
+        "cast_id": 18,
+        "character": "Psiquiatra Alvaro",
+        "credit_id": "6509bee5fdc4fa00ff19a256",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2868636,
+        "known_for_department": "Acting",
+        "name": "Ricardo Alfonsín",
+        "original_name": "Ricardo Alfonsín",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Ramon",
+        "credit_id": "6509bef3fdc4fa00ff19a25e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1453818,
+        "known_for_department": "Acting",
+        "name": "María José Bello",
+        "original_name": "María José Bello",
+        "popularity": 0.2971,
+        "profile_path": "/eLyiYMBYjSA1iz2Bg51QZuhKT4t.jpg",
+        "cast_id": 20,
+        "character": "Terapeuta ocupacional",
+        "credit_id": "6509bf053cd12c012de9600e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127250,
+        "known_for_department": "Acting",
+        "name": "Gregory Cohen",
+        "original_name": "Gregory Cohen",
+        "popularity": 0.3347,
+        "profile_path": "/a52kOkEnSai0aboF1Gtia0zr370.jpg",
+        "cast_id": 21,
+        "character": "Paciente mesianico",
+        "credit_id": "6509bf1a8261ee00e20a2a11",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1976472,
+        "known_for_department": "Acting",
+        "name": "Lorena Capetillo",
+        "original_name": "Lorena Capetillo",
+        "popularity": 0.2946,
+        "profile_path": "/A2LWoSbmk3k62WzOmjyUZhaPzLw.jpg",
+        "cast_id": 22,
+        "character": "Jefa de Psiquiatría",
+        "credit_id": "6509bf2c3cd12c00ca57312a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2400071,
+        "known_for_department": "Acting",
+        "name": "Ricardo Vergara",
+        "original_name": "Ricardo Vergara",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Ramón",
+        "credit_id": "6509bf3afdc4fa01398b5a48",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147335,
+        "known_for_department": "Acting",
+        "name": "Ricardo Fernández",
+        "original_name": "Ricardo Fernández",
+        "popularity": 0.1555,
+        "profile_path": "/xTeHAjc6hpFRiuQetfzf7WDx7m2.jpg",
+        "cast_id": 24,
+        "character": "Médico de fertilidad",
+        "credit_id": "6509bf46394a8700ada8fa97",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2465562,
+        "known_for_department": "Acting",
+        "name": "Ángela Prieto",
+        "original_name": "Ángela Prieto",
+        "popularity": 0.232,
+        "profile_path": "/Ap5ATmADaWkEFS2WzhQE5vPENHd.jpg",
+        "cast_id": 25,
+        "character": "Emilia",
+        "credit_id": "6509bf528261ee01396774cf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418032,
+        "known_for_department": "Acting",
+        "name": "Gustavo Becerra",
+        "original_name": "Gustavo Becerra",
+        "popularity": 0.9663,
+        "profile_path": "/n8TytynjzVEPULgTzNeqnmzz1It.jpg",
+        "cast_id": 26,
+        "character": "Miki",
+        "credit_id": "6509bf5f394a870139171ed8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4279926,
+        "known_for_department": "Acting",
+        "name": "Carla Echeverría",
+        "original_name": "Carla Echeverría",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Catatonica",
+        "credit_id": "6509bf75394a8700c5bf44e6",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4279927,
+        "known_for_department": "Acting",
+        "name": "Jaques Arama",
+        "original_name": "Jaques Arama",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Psiquiatra calvo",
+        "credit_id": "6509bf88fa27f400caa5b059",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590990,
+        "known_for_department": "Acting",
+        "name": "Boris Quercia",
+        "original_name": "Boris Quercia",
+        "popularity": 0.6171,
+        "profile_path": "/nVdMWfQzAPfTWYs6d8KwuxvaFHJ.jpg",
+        "credit_id": "6509be07373ac200ff068bb4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2066382,
+        "known_for_department": "Production",
+        "name": "Steffi Lutz",
+        "original_name": "Steffi Lutz",
+        "popularity": 0.5218,
+        "profile_path": null,
+        "credit_id": "6509be7b394a870139171e9b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2118353,
+        "known_for_department": "Production",
+        "name": "Rodrigo Bello",
+        "original_name": "Rodrigo Bello",
+        "popularity": 0.2543,
+        "profile_path": null,
+        "credit_id": "6509be6b373ac200ff068bdc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049547,
+        "known_for_department": "Sound",
+        "name": "Manuel Riveiro",
+        "original_name": "Manuel Riveiro",
+        "popularity": 0.1486,
+        "profile_path": null,
+        "credit_id": "6509be4cfa27f400eb190c6c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049548,
+        "known_for_department": "Camera",
+        "name": "Antonio Quercia",
+        "original_name": "Antonio Quercia",
+        "popularity": 0.1769,
+        "profile_path": null,
+        "credit_id": "6509be578261ee011c5466f0",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236211,
+        "known_for_department": "Writing",
+        "name": "Guillermo Amoedo",
+        "original_name": "Guillermo Amoedo",
+        "popularity": 0.3422,
+        "profile_path": "/zKiMXm5GsQVT4mYX0vQtd2HaLHX.jpg",
+        "credit_id": "6509be188a88b200ad5e1a8a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038911,
+        "known_for_department": "Writing",
+        "name": "Alejandra Vidal",
+        "original_name": "Alejandra Vidal",
+        "popularity": 0.1193,
+        "profile_path": null,
+        "credit_id": "6509be903cd12c00ad8c7abd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049546,
+        "known_for_department": "Production",
+        "name": "Miguel Asensio Llamas",
+        "original_name": "Miguel Asensio Llamas",
+        "popularity": 0.3428,
+        "profile_path": null,
+        "credit_id": "6509be30fa27f400caa5affd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653218,
+        "known_for_department": "Production",
+        "name": "Rodrigo Trujillo",
+        "original_name": "Rodrigo Trujillo",
+        "popularity": 0.4174,
+        "profile_path": null,
+        "credit_id": "6509be3efa27f400aea00ceb",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1175306,
+    "keywords": [
+      {
+        "id": 311315,
+        "name": "dramatic"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          18
+        ],
+        "id": 164,
+        "original_language": "en",
+        "original_title": "Breakfast at Tiffany's",
+        "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+        "popularity": 6.2143,
+        "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+        "release_date": "1961-10-06",
+        "title": "Breakfast at Tiffany's",
+        "video": false,
+        "vote_average": 7.628,
+        "vote_count": 4389
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 114,
+        "original_language": "en",
+        "original_title": "Pretty Woman",
+        "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+        "popularity": 14.4463,
+        "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+        "release_date": "1990-03-23",
+        "title": "Pretty Woman",
+        "video": false,
+        "vote_average": 7.459,
+        "vote_count": 8747
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+        "genre_ids": [
+          12,
+          35,
+          80
+        ],
+        "id": 134,
+        "original_language": "en",
+        "original_title": "O Brother, Where Art Thou?",
+        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+        "popularity": 4.7357,
+        "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+        "release_date": "2000-08-30",
+        "title": "O Brother, Where Art Thou?",
+        "video": false,
+        "vote_average": 7.318,
+        "vote_count": 4432
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2qGHNcU8YBIbvNc8HR1YczBeejA.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 10938,
+        "original_language": "en",
+        "original_title": "Beautiful Thing",
+        "overview": "Set during a long, hot summer on the Thamesmead Estate in Southeast London, where three teenagers edge towards adulthood.",
+        "popularity": 1.0425,
+        "poster_path": "/34fPI0phWQ189lc5O7aNf12jWPm.jpg",
+        "release_date": "1996-06-21",
+        "title": "Beautiful Thing",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 331
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2p1nyBVSEBiCTrrZeVSV9nIsqHr.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10751,
+          10402,
+          10749,
+          10770
+        ],
+        "id": 10947,
+        "original_language": "en",
+        "original_title": "High School Musical",
+        "overview": "A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.",
+        "popularity": 3.5419,
+        "poster_path": "/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg",
+        "release_date": "2006-01-20",
+        "title": "High School Musical",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4714
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rS3QJdsCPyhhQ0mJEr8VirNmOMm.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "id": 9471,
+        "original_language": "en",
+        "original_title": "Charlie's Angels: Full Throttle",
+        "overview": "The Angels are charged with finding a pair of missing rings that are encoded with the personal information of members of the Witness Protection Program. As informants are killed, the ladies target a rogue agent who might be responsible.",
+        "popularity": 5.7532,
+        "poster_path": "/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg",
+        "release_date": "2003-06-25",
+        "title": "Charlie's Angels: Full Throttle",
+        "video": false,
+        "vote_average": 5.486,
+        "vote_count": 3202
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1TpUjiwMYtASIJYbtuyPkCe4kKw.jpg",
+        "genre_ids": [
+          35,
+          27,
+          53,
+          9648,
+          14
+        ],
+        "id": 9707,
+        "original_language": "en",
+        "original_title": "Bubba Ho-tep",
+        "overview": "Bubba Ho-tep tells the \"true\" story of what really became of Elvis Presley. We find Elvis as an elderly resident in an East Texas rest home, who switched identities with an Elvis impersonator years before his \"death,\" then missed his chance to switch back. He must team up with JFK and fight an ancient Egyptian mummy for the souls of their fellow residents.",
+        "popularity": 2.3151,
+        "poster_path": "/pKQBit5ZV7GEOTiMBSYC6xBn86K.jpg",
+        "release_date": "2002-06-09",
+        "title": "Bubba Ho-tep",
+        "video": false,
+        "vote_average": 6.496,
+        "vote_count": 672
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 8488,
+        "original_language": "en",
+        "original_title": "Hitch",
+        "overview": "Dating coach Alex 'Hitch' Hitchens mentors a bumbling client, Albert, who hopes to win the heart of the glamorous Allegra Cole. While Albert makes progress, Hitch faces his own romantic setbacks when proven techniques fail to work on Sara Melas, a tabloid reporter digging for dirt on Allegra Cole's love life. When Sara discovers Hitch's connection to Albert – now Allegra's boyfriend – it threatens to destroy both relationships.",
+        "popularity": 5.6983,
+        "poster_path": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+        "release_date": "2005-02-11",
+        "title": "Hitch",
+        "video": false,
+        "vote_average": 6.573,
+        "vote_count": 6070
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6vsZR4066s6ZbaAAqDdzDbC4kgH.jpg",
+        "genre_ids": [
+          12,
+          10749,
+          35
+        ],
+        "id": 8676,
+        "original_language": "en",
+        "original_title": "Fool's Gold",
+        "overview": "Treasure hunter Ben \"Finn\" Finnegan has sunk his marriage to Tess and his trusty boat in his obsessive quest to find the legendary Queen's Dowry. When he finds a vital clue that may finally pinpoint the treasure's whereabouts, he drags Tess and her boss, billionaire Nigel Honeycutt, along on the hunt. But Finn is not the only one interested in the gold; his former mentor-turned-enemy Moe Fitch, hired by rapper-turned-gangster Bigg Bunny, will stop at nothing to beat him to it.",
+        "popularity": 3.7262,
+        "poster_path": "/f4djEBW3nyGRPLTcDlWYyaO43mx.jpg",
+        "release_date": "2008-02-07",
+        "title": "Fool's Gold",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 1544
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+        "genre_ids": [
+          28,
+          80,
+          35
+        ],
+        "id": 8961,
+        "original_language": "en",
+        "original_title": "Bad Boys II",
+        "overview": "Detectives Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force are tasked with stopping the flow of the drug Ecstasy into Miami. They track the drugs to the whacked-out Cuban drug lord Johnny Tapia, who is also involved in a bloody war with Russian and Haitian mobsters. If that isn't bad enough, there's tension between the two detectives when Marcus discovers that playboy Mike is secretly romancing Marcus’ sister, Syd.",
+        "popularity": 7.7837,
+        "poster_path": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+        "release_date": "2003-07-18",
+        "title": "Bad Boys II",
+        "video": false,
+        "vote_average": 6.655,
+        "vote_count": 5772
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oC4LniL98rnmvW52FizMqzD5QzX.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 9038,
+        "original_language": "en",
+        "original_title": "The Heartbreak Kid",
+        "overview": "Eddie, the 40-year-old confirmed bachelor finally says \"I do\" to the beautiful and sexy Lila. But during their honeymoon in Mexico, the woman of his dreams turns out to be a total nightmare, and the guy who could never pull the trigger realizes he’s jumped the gun.",
+        "popularity": 2.6558,
+        "poster_path": "/bVWM0L3DqFpNE3Yt49WjAgTQUc0.jpg",
+        "release_date": "2007-10-05",
+        "title": "The Heartbreak Kid",
+        "video": false,
+        "vote_average": 5.739,
+        "vote_count": 1704
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x8Y2cwZbi7jl3TFClRBTnsokw69.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 277307,
+        "original_language": "en",
+        "original_title": "A Piece of Eden",
+        "overview": "A bittersweet comedy that follows three generations of the unlucky Tredici family from Corsica in the 1940's to an Indiana fruit farm in the present.",
+        "popularity": 0.298,
+        "poster_path": "/aMbzmr8w0XisdJM2bmoxQY7KCsL.jpg",
+        "release_date": "2000-09-15",
+        "title": "A Piece of Eden",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4fiubNmLXzzB3UzvSGu5Xq5YK8h.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10402
+        ],
+        "id": 1070507,
+        "original_language": "ja",
+        "original_title": "カラオケ行こ！",
+        "overview": "Satomi Oka is worried about his final choir competition but is accosted by a shadowy gangster, Kyouji Narita, who demands karaoke sessions with him.",
+        "popularity": 1.0342,
+        "poster_path": "/6NxSjatSOjfn245xWZ4qWoKrepR.jpg",
+        "release_date": "2024-01-12",
+        "title": "Let's Go Karaoke!",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 1070656,
+        "original_language": "en",
+        "original_title": "Step Aside",
+        "overview": "A larger than life comedy about a dance world diva who inadvertently gets her team disqualified from the big competition and the ridiculous lengths she'll go to get them back on top.",
+        "popularity": 3.2698,
+        "poster_path": "/egaJ8e13a6t45ViYEhUcXzz5SFP.jpg",
+        "release_date": "2023-12-22",
+        "title": "Step Aside",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 18785,
+        "original_language": "en",
+        "original_title": "The Hangover",
+        "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+        "popularity": 17.3996,
+        "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+        "release_date": "2009-06-02",
+        "title": "The Hangover",
+        "video": false,
+        "vote_average": 7.328,
+        "vote_count": 17701
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/VKRZIiRgpV0VobAPrpag0dWGnD.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 25767,
+        "original_language": "en",
+        "original_title": "The Grass Is Greener",
+        "overview": "Victor and Hillary are down on their luck to the point that they allow tourists to take guided tours of their castle. But Charles Delacro, a millionaire oil tycoon, visits, and takes a liking to more than the house. Soon, Hattie Durant gets involved and they have a good old fashioned love triangle.",
+        "popularity": 1.0352,
+        "poster_path": "/3peOV81MRImLDX8bnGUHOJSB0lN.jpg",
+        "release_date": "1960-12-23",
+        "title": "The Grass Is Greener",
+        "video": false,
+        "vote_average": 6.355,
+        "vote_count": 137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iracY0nh7yTQfOYIMFhq2ZgcT3f.jpg",
+        "genre_ids": [
+          10749,
+          35,
+          28
+        ],
+        "id": 24827,
+        "original_language": "hi",
+        "original_title": "अजब प्रेम कि ग़ज़ब कहानी",
+        "overview": "When his love interest doesn't show up for a meeting, a man and his friends go to Goa in order to find her, where they discover she loves someone else.",
+        "popularity": 1.1249,
+        "poster_path": "/6IC8PQZAynsUAh0MDvopR3zDTRk.jpg",
+        "release_date": "2009-11-06",
+        "title": "Ajab Prem Ki Ghazab Kahani",
+        "video": false,
+        "vote_average": 6.161,
+        "vote_count": 146
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yGXVBYMEEzcEZebWDSDi2cg0SFt.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 26044,
+        "original_language": "en",
+        "original_title": "Arthur 2: On the Rocks",
+        "overview": "Arthur loses his fortune for staying with Linda, right as the two were preparing to adopt a child. As their marriage suffers, Arthur plans for a way to get his money back, but first he must sober up and get a real job.",
+        "popularity": 0.8636,
+        "poster_path": "/xxoRLoKxPz5UdBNnQvQojEAZFVv.jpg",
+        "release_date": "1988-07-08",
+        "title": "Arthur 2: On the Rocks",
+        "video": false,
+        "vote_average": 5.449,
+        "vote_count": 156
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/atcZkidLIJycEPxx9K3vclAHLbR.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 1258312,
+        "original_language": "sv",
+        "original_title": "En affär att minnas!",
+        "overview": "A wife reveals to her younger husband that she is having an affair.",
+        "popularity": 0.2319,
+        "poster_path": "/wNN0CsuWoxKQJfDmLuOuprDtjhT.jpg",
+        "release_date": "2023-11-25",
+        "title": "An Affair to Remember!",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6r9F1wUBywbEWBKQOV0xfcI0a2y.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 1454746,
+        "original_language": "en",
+        "original_title": "The Beethoven Method",
+        "overview": "When Arnie Silverman, a manic-depressive novelist, begins a bout of self-harm and lies to his girlfriend about it, his best friend and sister’s ex-boyfriend unintentionally lead him on a path to a new romance that could potentially solve his problems or send him to rock bottom.",
+        "popularity": 0.2028,
+        "poster_path": "/qUESkUv6kFUyOjRrC1vTOzhb8Ou.jpg",
+        "release_date": "2022-08-01",
+        "title": "The Beethoven Method",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 8421,
+    "total_results": 168412
+  }
+}

@@ -1,0 +1,1195 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/A7KwHKB5faRRRRveVQC5TPI35kV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.polar-bear.tv/young-hearts",
+    "id": 1232449,
+    "imdb_id": "tt15245268",
+    "origin_country": [
+      "BE",
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "Young Hearts",
+    "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+    "popularity": 14.3165,
+    "poster_path": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+    "production_companies": [
+      {
+        "id": 87096,
+        "logo_path": "/sqt7ajp5cVUueF0UveIKvDjOiUd.png",
+        "name": "Polar Bear Films",
+        "origin_country": "BE"
+      },
+      {
+        "id": 26389,
+        "logo_path": "/eZG7nmYHpVpp6jsOytILEmITHNf.png",
+        "name": "Family Affair Films",
+        "origin_country": "NL"
+      },
+      {
+        "id": 104097,
+        "logo_path": "/tzhYtZqLNn0TFEQ27dmT8qFTEA1.png",
+        "name": "Kwassa Films",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2024-10-26",
+    "revenue": 129692,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Young Hearts",
+    "video": false,
+    "vote_average": 8.474,
+    "vote_count": 194
+  },
+  "credits": {
+    "id": 1232449,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3724154,
+        "known_for_department": "Acting",
+        "name": "Lou Goossens",
+        "original_name": "Lou Goossens",
+        "popularity": 3.1632,
+        "profile_path": "/kY8eifhCPvjTE6JJclrrWO7Zr9L.jpg",
+        "cast_id": 2,
+        "character": "Elias",
+        "credit_id": "65b5e453afe2240163395e90",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4504024,
+        "known_for_department": "Acting",
+        "name": "Marius De Saeger",
+        "original_name": "Marius De Saeger",
+        "popularity": 4.2464,
+        "profile_path": "/6BR6QggAi62rw5ZdDc7ct7Ww8It.jpg",
+        "cast_id": 3,
+        "character": "Alexander",
+        "credit_id": "65b5e46a0d2944017f5a846d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 220295,
+        "known_for_department": "Acting",
+        "name": "Geert Van Rampelberg",
+        "original_name": "Geert Van Rampelberg",
+        "popularity": 1.3004,
+        "profile_path": "/jECzjJvrJdBrh6xf3aRpTOu3Qxi.jpg",
+        "cast_id": 5,
+        "character": "Luk",
+        "credit_id": "65b5ec31b6cff1017cf77bcf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2900070,
+        "known_for_department": "Acting",
+        "name": "Emilie De Roo",
+        "original_name": "Emilie De Roo",
+        "popularity": 0.6561,
+        "profile_path": "/jXiZjMF86JKoVlfdub8GR4NGgiV.jpg",
+        "cast_id": 9,
+        "character": "Nathalie",
+        "credit_id": "6730a7526be32e3055d3b8ca",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1127485,
+        "known_for_department": "Acting",
+        "name": "Dirk van Dijck",
+        "original_name": "Dirk van Dijck",
+        "popularity": 0.7682,
+        "profile_path": "/AhvtRHc6faulpEznoK8PsF8Kap6.jpg",
+        "cast_id": 6,
+        "character": "Fred",
+        "credit_id": "65b5ec60afe22400e638e082",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4103230,
+        "known_for_department": "Acting",
+        "name": "Jul Goossens",
+        "original_name": "Jul Goossens",
+        "popularity": 1.2137,
+        "profile_path": "/ouM6MdO3gc9vTgnI5Hrwf3uE5En.jpg",
+        "cast_id": 19,
+        "character": "Maxime",
+        "credit_id": "674f568df42e7106fc72ca18",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097348,
+        "known_for_department": "Acting",
+        "name": "Ezra van Dongen",
+        "original_name": "Ezra van Dongen",
+        "popularity": 0.2958,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Line",
+        "credit_id": "674f59b5941c2b7ab3657ff9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4969839,
+        "known_for_department": "Acting",
+        "name": "Olivier Englebert",
+        "original_name": "Olivier Englebert",
+        "popularity": 0.1963,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Marc",
+        "credit_id": "674f56ca26f07c3558619f5c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097326,
+        "known_for_department": "Acting",
+        "name": "Olga De Saeger",
+        "original_name": "Olga De Saeger",
+        "popularity": 0.3868,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Ella",
+        "credit_id": "674f56e585b5d0366d2a1cfc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222922,
+        "known_for_department": "Acting",
+        "name": "Wim Opbrouck",
+        "original_name": "Wim Opbrouck",
+        "popularity": 0.6137,
+        "profile_path": "/vXbbkDJOgmQKpRnJ7CKwMXl4EWv.jpg",
+        "cast_id": 23,
+        "character": "Tony",
+        "credit_id": "674f56fca5320948fa1187f9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1180480,
+        "known_for_department": "Acting",
+        "name": "Florence Hebbelynck",
+        "original_name": "Florence Hebbelynck",
+        "popularity": 0.1806,
+        "profile_path": "/v0hUGlTwIckMbdsTRmGbB1FY1K5.jpg",
+        "cast_id": 24,
+        "character": "Pia",
+        "credit_id": "674f570f85b5d0366d2a1d11",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097329,
+        "known_for_department": "Acting",
+        "name": "La Diva",
+        "original_name": "La Diva",
+        "popularity": 0.2051,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Lady Lana",
+        "credit_id": "674f573c5a4d5b9682a4976c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3840420,
+        "known_for_department": "Acting",
+        "name": "Saar Rogiers",
+        "original_name": "Saar Rogiers",
+        "popularity": 0.5288,
+        "profile_path": "/sXx8bo8R0OVJhMalS5FwQcJbsYi.jpg",
+        "cast_id": 8,
+        "character": "Valerie",
+        "credit_id": "65d1d18277c01f01870f7434",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097330,
+        "known_for_department": "Acting",
+        "name": "Jill Malfroot",
+        "original_name": "Jill Malfroot",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Lukas",
+        "credit_id": "674f576685b5d0366d2a1d48",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5094759,
+        "known_for_department": "Acting",
+        "name": "Cassie Alcendor",
+        "original_name": "Cassie Alcendor",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Lize",
+        "credit_id": "674f577185b5d0366d2a1d4c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3692071,
+        "known_for_department": "Acting",
+        "name": "Samba Thiam",
+        "original_name": "Samba Thiam",
+        "popularity": 0.1359,
+        "profile_path": "/8gfpM6MGyAQ2RkjXxn7Rq7xws5v.jpg",
+        "cast_id": 28,
+        "character": "Matteo",
+        "credit_id": "674f577f9b199e10f5122ecb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097334,
+        "known_for_department": "Acting",
+        "name": "Sam Michiels",
+        "original_name": "Sam Michiels",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Mieke",
+        "credit_id": "674f579585b5d0366d2a1d6a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097335,
+        "known_for_department": "Acting",
+        "name": "Marie Gevaert",
+        "original_name": "Marie Gevaert",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Lore",
+        "credit_id": "674f57a35a4d5b9682a49797",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337575,
+        "known_for_department": "Acting",
+        "name": "Bert Dobbelaere",
+        "original_name": "Bert Dobbelaere",
+        "popularity": 0.1843,
+        "profile_path": "/2uF6MZT3yQx3eLx9PbJzoUBIKPT.jpg",
+        "cast_id": 31,
+        "character": "Mr. Van Daele",
+        "credit_id": "674f582085b5d0366d2a1d9d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097339,
+        "known_for_department": "Acting",
+        "name": "Stephen Harrisson",
+        "original_name": "Stephen Harrisson",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "PE Teacher",
+        "credit_id": "674f58365a4d5b9682a497da",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76297,
+        "known_for_department": "Acting",
+        "name": "Tristan Versteven",
+        "original_name": "Tristan Versteven",
+        "popularity": 0.7188,
+        "profile_path": "/rxpOhO4N31ZbvLfbfTFmWmkVxMw.jpg",
+        "cast_id": 33,
+        "character": "Andre",
+        "credit_id": "674f584bf42e7106fc72cab2",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1793564,
+        "known_for_department": "Acting",
+        "name": "Johann Hallet",
+        "original_name": "Johann Hallet",
+        "popularity": 0.1333,
+        "profile_path": "/kdvlnoLsWrArRiWROPI0BpYJyiB.jpg",
+        "cast_id": 34,
+        "character": "Photographer",
+        "credit_id": "674f588e5a4d5b9682a497f6",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58418,
+        "known_for_department": "Acting",
+        "name": "Michèle Caucheteux",
+        "original_name": "Michèle Caucheteux",
+        "popularity": 0.1239,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Hotel Manager",
+        "credit_id": "674f58a285b5d0366d2a1df7",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097341,
+        "known_for_department": "Acting",
+        "name": "Tom Beyaert",
+        "original_name": "Tom Beyaert",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Groomsman",
+        "credit_id": "674f58c19b199e10f5122f40",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5140085,
+        "known_for_department": "Acting",
+        "name": "Ester DeKoning",
+        "original_name": "Ester DeKoning",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Band Luk Montero",
+        "credit_id": "676b9b54603e6d0ef964b3c9",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5140087,
+        "known_for_department": "Acting",
+        "name": "Hadassa DeKoning",
+        "original_name": "Hadassa DeKoning",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Band Luk Montero",
+        "credit_id": "676b9b673260bc061b7ec44f",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5140088,
+        "known_for_department": "Acting",
+        "name": "Frank Bracquené",
+        "original_name": "Frank Bracquené",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Band Luk Montero",
+        "credit_id": "676b9b78603e6d0ef964b3dd",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097342,
+        "known_for_department": "Acting",
+        "name": "Staf de Neve",
+        "original_name": "Staf de Neve",
+        "popularity": 0.1442,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Bully",
+        "credit_id": "674f590a9b199e10f5122f75",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097343,
+        "known_for_department": "Acting",
+        "name": "Briek Goorman",
+        "original_name": "Briek Goorman",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Bully",
+        "credit_id": "674f591ca5320948fa11888f",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3561836,
+        "known_for_department": "Acting",
+        "name": "Olivier Debaere",
+        "original_name": "Olivier Debaere",
+        "popularity": 0.176,
+        "profile_path": "/1UVK7IxaTzQ97bPZK89YVhXnUdh.jpg",
+        "cast_id": 39,
+        "character": "Bully",
+        "credit_id": "674f5927a5320948fa118895",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5097344,
+        "known_for_department": "Acting",
+        "name": "Denise Bogers",
+        "original_name": "Denise Bogers",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Bully",
+        "credit_id": "674f593685b5d0366d2a1e80",
+        "order": 30
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274776,
+        "known_for_department": "Directing",
+        "name": "Anthony Schatteman",
+        "original_name": "Anthony Schatteman",
+        "popularity": 1.602,
+        "profile_path": "/93dfeAYBgPInhCZszkCBsd4UDPi.jpg",
+        "credit_id": "65a806482da84600c0aa9348",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274776,
+        "known_for_department": "Directing",
+        "name": "Anthony Schatteman",
+        "original_name": "Anthony Schatteman",
+        "popularity": 1.602,
+        "profile_path": "/93dfeAYBgPInhCZszkCBsd4UDPi.jpg",
+        "credit_id": "65b5eaa1b6cff1017cf779dc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1567375,
+        "known_for_department": "Production",
+        "name": "Xavier Rombaut",
+        "original_name": "Xavier Rombaut",
+        "popularity": 0.2582,
+        "profile_path": null,
+        "credit_id": "65b5ecab1c635b0147132d1c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2563905,
+        "known_for_department": "Camera",
+        "name": "Pieter Van Campe",
+        "original_name": "Pieter Van Campe",
+        "popularity": 0.2739,
+        "profile_path": null,
+        "credit_id": "6730a7ca3d1b19bf3dbc5609",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994744,
+        "known_for_department": "Art",
+        "name": "Kato Bulteel",
+        "original_name": "Kato Bulteel",
+        "popularity": 0.1377,
+        "profile_path": null,
+        "credit_id": "6730a7de6be32e3055d3b912",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2544204,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gudrun Wylleman",
+        "original_name": "Gudrun Wylleman",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "6730a7ef6be32e3055d3b92f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1905685,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jacqueline Hoogendijk",
+        "original_name": "Jacqueline Hoogendijk",
+        "popularity": 0.1224,
+        "profile_path": null,
+        "credit_id": "6730a80d49ad5afefc302ee0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3841598,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chinouk Meurer",
+        "original_name": "Chinouk Meurer",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "6730a81b6be32e3055d3b955",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2815983,
+        "known_for_department": "Editing",
+        "name": "Emiel Nuninga",
+        "original_name": "Emiel Nuninga",
+        "popularity": 0.0745,
+        "profile_path": null,
+        "credit_id": "6730a84045b870231962c976",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2322273,
+        "known_for_department": "Sound",
+        "name": "Ruben De Gheselle",
+        "original_name": "Ruben De Gheselle",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6730a85545b870231962c996",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 984388,
+        "known_for_department": "Production",
+        "name": "Floor Onrust",
+        "original_name": "Floor Onrust",
+        "popularity": 0.1393,
+        "profile_path": null,
+        "credit_id": "6731978bebc5a26e5e49637a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2477272,
+        "known_for_department": "Production",
+        "name": "Annabella Nezri",
+        "original_name": "Annabella Nezri",
+        "popularity": 0.7968,
+        "profile_path": null,
+        "credit_id": "673197970447470da614931c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5529486,
+        "known_for_department": "Camera",
+        "name": "Brecht Jansegers",
+        "original_name": "Brecht Jansegers",
+        "popularity": 0.0575,
+        "profile_path": "/rpGPmkDUgMZerrbqr3EZjNoIkXo.jpg",
+        "credit_id": "6867bcc9043445884c6773e5",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764022,
+        "known_for_department": "Production",
+        "name": "Jan Ryvers",
+        "original_name": "Jan Ryvers",
+        "popularity": 0.0731,
+        "profile_path": null,
+        "credit_id": "6867bd0d68ce2ce6741b2528",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3037390,
+        "known_for_department": "Directing",
+        "name": "Jeff Theys",
+        "original_name": "Jeff Theys",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6867bd3807d616dd2b6773d1",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5543579,
+        "known_for_department": "Crew",
+        "name": "Olivier Roels",
+        "original_name": "Olivier Roels",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "6867bd6313ae63393a7ab917",
+        "department": "Crew",
+        "job": "Dramaturgy"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1232449,
+    "keywords": [
+      {
+        "id": 1862,
+        "name": "coming out"
+      },
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 738,
+        "name": "sexuality"
+      },
+      {
+        "id": 3394,
+        "name": "identity crisis"
+      },
+      {
+        "id": 3230,
+        "name": "male friendship"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 18068,
+        "name": "teenage boy"
+      },
+      {
+        "id": 157303,
+        "name": "first love"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 163037,
+        "name": "lgbt teen"
+      },
+      {
+        "id": 245358,
+        "name": "grandfather grandson relationship"
+      },
+      {
+        "id": 258533,
+        "name": "gay theme"
+      },
+      {
+        "id": 273823,
+        "name": "male"
+      },
+      {
+        "id": 289844,
+        "name": "boys' love (bl)"
+      },
+      {
+        "id": 296741,
+        "name": "boy"
+      },
+      {
+        "id": 325223,
+        "name": "gay teenager"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hr1cfTNh9h50VyKG38DDiBjFJzi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1047162,
+        "original_language": "fr",
+        "original_title": "One of the Boys",
+        "overview": "On a hot summer day in the countryside, Ines, a young teenager, gets involved in a friendly ball game between boys her age, and among them Malik, the one she has a crush on.",
+        "popularity": 0.1602,
+        "poster_path": "/vcROPtd8WIu17jBtp4i1NKXnptC.jpg",
+        "release_date": "2022-11-01",
+        "title": "One of the Boys",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rBKmRkYE0czZ8NofZAaMKu7qbgH.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 461760,
+        "original_language": "cn",
+        "original_title": "四個32A和一個香蕉少年",
+        "overview": "Those Were the Days is a Hong Kong Drama starring Eric Tsang",
+        "popularity": 0.5519,
+        "poster_path": "/3PSeluQ29BLwucPvx1WNCyFUHXY.jpg",
+        "release_date": "1996-06-07",
+        "title": "Those Were the Days",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bCOdRdbvZ5LrAfKH2VVgduoUCQL.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 461763,
+        "original_language": "ja",
+        "original_title": "ハイキュー!! コンセプトの戦い",
+        "overview": "A recap film depicting the match against Shiratorizawa Academy in the third season of the anime series.",
+        "popularity": 2.2204,
+        "poster_path": "/ewew32cuPfWjD8QKoHztkV8TS84.jpg",
+        "release_date": "2017-09-29",
+        "title": "Haikyu!! The Movie: Battle of Concepts",
+        "video": false,
+        "vote_average": 8.02,
+        "vote_count": 75
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yH0zuzEDzvsRYI7AEBpLmxBSJ61.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 273153,
+        "original_language": "fr",
+        "original_title": "La Belle Saison",
+        "overview": "In 1971, a young woman moves from the French countryside to Paris and begins a passionate love affair with a feminist leader.",
+        "popularity": 1.5324,
+        "poster_path": "/ugqdTcTEiIl37jv0QiSUlpplEke.jpg",
+        "release_date": "2015-08-19",
+        "title": "Summertime",
+        "video": false,
+        "vote_average": 6.682,
+        "vote_count": 354
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sLCHYSH4EBPjtSn8SIitdHYIZuU.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1237810,
+        "original_language": "th",
+        "original_title": "รักโคตร ๆ โหดอย่างมึง 1",
+        "overview": "Day seeks revenge on Itt for a plan that led to his brother Night's assault, but their twisted dynamic sparks unexpected feelings.",
+        "popularity": 0.6421,
+        "poster_path": "/a58yB1pcRtCbNmZEldC74HZEQk4.jpg",
+        "release_date": "2024-05-09",
+        "title": "Love Syndrome: The Beginning",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qnn44qgZDhlanqLuwL8r9qtUNkF.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1237827,
+        "original_language": "en",
+        "original_title": "A Lady In Waiting",
+        "overview": "A young woman in 1810s England must hide her secret relationship with her maid from her fiancé.",
+        "popularity": 0.1307,
+        "poster_path": "/eKJPK5mZJe8R0D8VerIvzCkiQ7u.jpg",
+        "release_date": "2024-01-28",
+        "title": "A Lady In Waiting",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tAmxdssLKnbB5i9S44k35ch2RBj.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 4579,
+        "original_language": "en",
+        "original_title": "Heat",
+        "overview": "Former child star Joe Davis, reduced to living in a cheap Hollywood motel while struggling for acting jobs, is lusted after by nearly every woman he meets, including Jessica Todd, a tightly wound feminist who has recently come out as a lesbian. When Jessica's mother, Sally, an emotionally needy has-been actress, meets Joe, she moves him into her enormous, tacky mansion as her new boy toy and attempts to get him acting work.",
+        "popularity": 1.0578,
+        "poster_path": "/tryvx6s8abwdJVj45DHjFSxiKZD.jpg",
+        "release_date": "1972-10-06",
+        "title": "Heat",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y2nXnRDO5Ni26TdTB9BXuxrOy51.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 4580,
+        "original_language": "fr",
+        "original_title": "Je t'aime moi non plus",
+        "overview": "The petite waitress Johnny works and lives in a truck-stop, where she's lonely and longs for love. She develops a crush on the garbage truck driver Krassky, although her sleazy boss Boris warns her that he's gay.",
+        "popularity": 0.9401,
+        "poster_path": "/45WJFrBw9fa5mN4YOWlnbylIu5.jpg",
+        "release_date": "1976-03-10",
+        "title": "I Love You, I Don't",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d4p6VPoN70CnTV74jbW5ltlDgsh.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 4587,
+        "original_language": "en",
+        "original_title": "Mermaids",
+        "overview": "Fifteen-year-old Charlotte Flax is tired of her wacky mom moving their family to a different town any time she feels it is necessary. When they move to a small Massachusetts town and Mrs. Flax begins dating a shopkeeper, Charlotte and her 9-year-old sister, Kate, hope that they can finally settle down. But when Charlotte's attraction to an older man gets in the way, the family must learn to accept each other for who they truly are.",
+        "popularity": 4.0833,
+        "poster_path": "/1VufMcp0euY2LpmKiVv8xnbB9Om.jpg",
+        "release_date": "1990-12-14",
+        "title": "Mermaids",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 550
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
+        "genre_ids": [
+          28,
+          18,
+          10749,
+          53
+        ],
+        "id": 4588,
+        "original_language": "zh",
+        "original_title": "色‧戒",
+        "overview": "During World War II, a secret agent must seduce and assassinate an official who works for the Japanese puppet government in Shanghai.",
+        "popularity": 7.8179,
+        "poster_path": "/6c1tqfJEBuIyhQC19SLlLQAUAvJ.jpg",
+        "release_date": "2007-09-24",
+        "title": "Lust, Caution",
+        "video": false,
+        "vote_average": 7.238,
+        "vote_count": 762
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yzERq08WCqlrETYcq4XwwiPowik.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 4629,
+        "original_language": "en",
+        "original_title": "December Boys",
+        "overview": "For many years, four teenage orphans at an Australian outback convent have watched their younger comrades find new parents, and realize that they may never be adopted. The Reverend Mother sends the four boys away on a seaside vacation, where they meet Teresa and Fearless, a couple who would make perfect parents. The youths compete with one another to be the one Teresa and Fearless decide to adopt.",
+        "popularity": 3.4636,
+        "poster_path": "/mLMlaEFS7KSF9YD5nNuLAQ3qFgy.jpg",
+        "release_date": "2007-09-14",
+        "title": "December Boys",
+        "video": false,
+        "vote_average": 6.012,
+        "vote_count": 209
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qH6e13I6ScnJ8JGkbbChYsZ7puK.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          53
+        ],
+        "id": 4657,
+        "original_language": "en",
+        "original_title": "Jindabyne",
+        "overview": "Outside the Australian town of Jindabyne, local man Stuart Kane is on a fishing trip with friends when they discover the body of a murdered girl.",
+        "popularity": 4.0406,
+        "poster_path": "/zozfpvbl8OezjqBsgFByTGkbnw8.jpg",
+        "release_date": "2006-07-20",
+        "title": "Jindabyne",
+        "video": false,
+        "vote_average": 5.46,
+        "vote_count": 75
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qbl2m9PcHmmhzQIVpvF2mApxFpM.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 4676,
+        "original_language": "fr",
+        "original_title": "Grande école",
+        "overview": "Paul and Agnes have been going out for quite a while and Agnes is shocked to learn that he'd rather live with two roommates on campus than move in with her. As soon as he meets one of his roommates, Louis-Anault, Paul's behavior changes - he is attracted to Louis without realizing so himself. Agnes, on the other hand, gets quite jealous and offers a bet: Whoever gets to have Louis-Anault first, wins... If she does, Paul will no longer explore his homosexual desires, if he does - she'll walk away. Meanwhile, Paul meets Mecir, a young Arab worker, who shows him there's more to life than elite colleges...",
+        "popularity": 2.8906,
+        "poster_path": "/etGBmCDIfXWSFrb4wplSsOxAfSN.jpg",
+        "release_date": "2004-02-04",
+        "title": "Grande école",
+        "video": false,
+        "vote_average": 5.859,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oEXife7rrKqROdIORt75FdvVFOu.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 272224,
+        "original_language": "cs",
+        "original_title": "Něžné vlny",
+        "overview": "The congenial Vojta is bashful and his family is batty. His short-tempered father, who once failed to swim the English Channel, wants him to be a competing swimmer and his loving mother, a former child ice revue star, sees a talented pianist in her son. But Vojta has completely different priorities - most of all his red-haired classmate Ela, an enchanting synchronized swimmer who is leaving for Paris in November. If Vojta doesn't do something radical, and fast, Ela will disappear behind the Iron Curtain forever. The year is 1989.",
+        "popularity": 0.2876,
+        "poster_path": "/ps36BYFXyVmgfawvJ6OGYmSt4aS.jpg",
+        "release_date": "2013-12-18",
+        "title": "Tender Waves",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 272229,
+        "original_language": "en",
+        "original_title": "Love Trap",
+        "overview": "Richard, a law student, is hanging out at a sports bar. When Angel, a seductive vixen, appears from nowhere and smothers him with attention, he finds himself in a situation most guys wish for. Faced with temptation, Richard makes a seemingly innocent suggestion that sets in motion a series of events that ultimately unbalances his world.",
+        "popularity": 0.4983,
+        "poster_path": "/4BtLi08a4DQxMV8BrvIyzTFL0Qp.jpg",
+        "release_date": "2005-01-01",
+        "title": "Love Trap",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/by2JkjVMFwiQsEWZwtJY5Ibw0oZ.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 2988,
+        "original_language": "en",
+        "original_title": "The Harrad Experiment",
+        "overview": "At fictional Harrad College students learn about sexuality and experiment with each other. Based on the 1962 book of the same name by Robert Rimmer, this movie deals with the concept of free love during the height of the sexual revolution which took place in the United States.",
+        "popularity": 0.4005,
+        "poster_path": "/tsZFgxeldZrG6Xi2C4pFiW7Wcmi.jpg",
+        "release_date": "1973-05-11",
+        "title": "The Harrad Experiment",
+        "video": false,
+        "vote_average": 3.4,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 3033,
+        "original_language": "en",
+        "original_title": "Gods and Monsters",
+        "overview": "It's 1957, and James Whale's heyday as the director of \"Frankenstein,\" \"Bride of Frankenstein\" and \"The Invisible Man\" is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.",
+        "popularity": 1.1428,
+        "poster_path": "/awvJH3NtXoStsjAtXKr99hfuVaG.jpg",
+        "release_date": "1998-09-12",
+        "title": "Gods and Monsters",
+        "video": false,
+        "vote_average": 6.938,
+        "vote_count": 381
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1236515,
+        "original_language": "en",
+        "original_title": "Matinee Baby",
+        "overview": "In this raunchy and outlandish queer comedy, best friends Robby and Noah-Lee – employees at Portland's historic Clinton Street Theater – find themselves confronted by a parade of increasingly wacky, genre-tinged suitors.",
+        "popularity": 1.8241,
+        "poster_path": "/n5Haq06kp7hLVoKoEr4GTnu3SoE.jpg",
+        "release_date": "2024-02-29",
+        "title": "Matinee Baby",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1236629,
+        "original_language": "ja",
+        "original_title": "惑う After the Rain",
+        "overview": "“I never got to feel the warmth of a loving family.” That is what Seishiro notes down in 1948, who was adopted as a child by the idealistic Eichiro. In 1980, Izumi works at a bank and she lives with her mother Ito. Twenty-two years later, in the evening on a winter night and the day before Izumi is to marry, her mother tells Izumi about her late father's dream, Seishiro. Her father's dream was of Izumi's marriage. Izumi reminisces about her loving father. What happened in the meantime? In reversed chronological order this movie tells a story about a man who had much to give and what he got in return.",
+        "popularity": 0.2373,
+        "poster_path": "/b2FATt8Gwbia4RNnwcVwxTlj6VY.jpg",
+        "release_date": "2017-01-21",
+        "title": "Blossoming Into a Family",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oHk0Uj0BVLkByY08tTs87hmpZRz.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1046011,
+        "original_language": "pt",
+        "original_title": "Pronto, Falei",
+        "overview": "Renato is a shy and insecure young man, who expresses what he truly thinks only through emails. He writes to his co-workers, girlfriend, parents… he doesn't hide anything, says everything he thinks. Absolutely everything! And when it's time to send… he doesn't. Goes to the drafts folder. One day, with no explanation, all of his drafts are sent, and suddenly he has to face the dire consequences of being who he really is.",
+        "popularity": 0.9628,
+        "poster_path": "/a1bu48BHurEJxy865CdgWPhO5IL.jpg",
+        "release_date": "2022-12-08",
+        "title": "Pronto, Falei",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 8
+      }
+    ],
+    "total_pages": 15607,
+    "total_results": 312135
+  }
+}

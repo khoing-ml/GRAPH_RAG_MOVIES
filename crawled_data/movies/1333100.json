@@ -1,0 +1,973 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+    "belongs_to_collection": {
+      "id": 383987,
+      "name": "Attack on Titan Collection",
+      "poster_path": "/50rRT2Kf8NQ1zeD2y5KTQDEp8FX.jpg",
+      "backdrop_path": "/f8ruHHptnKb45zMQN5bAKgbSLyw.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1333100,
+    "imdb_id": "tt33175825",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+    "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+    "popularity": 5.8959,
+    "poster_path": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+    "production_companies": [
+      {
+        "id": 21444,
+        "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+        "name": "MAPPA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 9148,
+        "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+        "name": "Pony Canyon",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2024-11-08",
+    "revenue": 19791639,
+    "runtime": 145,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "See for yourself the end of their story.",
+    "title": "Attack on Titan: THE LAST ATTACK",
+    "video": false,
+    "vote_average": 8.764,
+    "vote_count": 144
+  },
+  "credits": {
+    "id": 1333100,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149894,
+        "known_for_department": "Acting",
+        "name": "Yuki Kaji",
+        "original_name": "梶裕貴",
+        "popularity": 4.0512,
+        "profile_path": "/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg",
+        "cast_id": 1,
+        "character": "Eren Yeager (voice)",
+        "credit_id": "66c10059e840ca2ebd67277e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224288,
+        "known_for_department": "Acting",
+        "name": "Yui Ishikawa",
+        "original_name": "石川由依",
+        "popularity": 2.3637,
+        "profile_path": "/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg",
+        "cast_id": 2,
+        "character": "Mikasa Ackerman (voice)",
+        "credit_id": "66c10091999ff0a1c516aceb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90135,
+        "known_for_department": "Acting",
+        "name": "Marina Inoue",
+        "original_name": "井上麻里奈",
+        "popularity": 2.7849,
+        "profile_path": "/nQ7a3krkbea6ukw9KGvvTpMma96.jpg",
+        "cast_id": 3,
+        "character": "Armin Arlert (voice)",
+        "credit_id": "66c100c4ae8df56d188989d8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93801,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Kamiya",
+        "original_name": "神谷浩史",
+        "popularity": 3.3361,
+        "profile_path": "/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg",
+        "cast_id": 9,
+        "character": "Levi Ackerman (voice)",
+        "credit_id": "66c2641bbec44a9503d348a9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253896,
+        "known_for_department": "Acting",
+        "name": "Yu Shimamura",
+        "original_name": "嶋村侑",
+        "popularity": 1.9598,
+        "profile_path": "/uwfGYR10w70RLH8z00eqWIx5YOY.jpg",
+        "cast_id": 8,
+        "character": "Annie Leonheart (voice)",
+        "credit_id": "66c2639cea92063d0ad0c611",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81243,
+        "known_for_department": "Acting",
+        "name": "Romi Park",
+        "original_name": "朴璐美",
+        "popularity": 3.0401,
+        "profile_path": "/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg",
+        "cast_id": 10,
+        "character": "Hange Zoë (voice)",
+        "credit_id": "66c2646ccc8c54efb51a8fa4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253008,
+        "known_for_department": "Acting",
+        "name": "Yoshimasa Hosoya",
+        "original_name": "細谷佳正",
+        "popularity": 2.0282,
+        "profile_path": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg",
+        "cast_id": 11,
+        "character": "Reiner Braun (voice)",
+        "credit_id": "66c264b3fb108d9efdad8049",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553959,
+        "known_for_department": "Acting",
+        "name": "Kisho Taniyama",
+        "original_name": "谷山紀章",
+        "popularity": 1.3624,
+        "profile_path": "/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg",
+        "cast_id": 12,
+        "character": "Jean Kirstein (voice)",
+        "credit_id": "66c26529000b897a65d9f9b0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119145,
+        "known_for_department": "Acting",
+        "name": "Hiro Shimono",
+        "original_name": "下野紘",
+        "popularity": 2.7984,
+        "profile_path": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+        "cast_id": 16,
+        "character": "Connie Springer (voice)",
+        "credit_id": "66c266b03d33df09d65d700f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2951334,
+        "known_for_department": "Acting",
+        "name": "Koji Hiwatari",
+        "original_name": "樋渡宏嗣",
+        "popularity": 0.5054,
+        "profile_path": "/1VN0lg7c2IxMC9WCFUej4w7DXRf.jpg",
+        "cast_id": 18,
+        "character": "Onyankopon (voice)",
+        "credit_id": "66c267d22edd55b4ee92532a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84508,
+        "known_for_department": "Acting",
+        "name": "Takehito Koyasu",
+        "original_name": "子安武人",
+        "popularity": 4.1739,
+        "profile_path": "/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg",
+        "cast_id": 13,
+        "character": "Zeke Yeager (voice)",
+        "credit_id": "66c26575a991b1da75d9fa8b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992869,
+        "known_for_department": "Acting",
+        "name": "Ayane Sakura",
+        "original_name": "佐倉綾音",
+        "popularity": 3.3426,
+        "profile_path": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
+        "cast_id": 14,
+        "character": "Gabi Braun (voice)",
+        "credit_id": "66c265cc5e9943b828c84677",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256603,
+        "known_for_department": "Acting",
+        "name": "Natsuki Hanae",
+        "original_name": "花江夏樹",
+        "popularity": 3.4386,
+        "profile_path": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+        "cast_id": 15,
+        "character": "Falco Grice (voice)",
+        "credit_id": "66c266618b260bb46bbf7ede",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255653,
+        "known_for_department": "Acting",
+        "name": "Manami Numakura",
+        "original_name": "沼倉愛美",
+        "popularity": 2.1502,
+        "profile_path": "/eDbMXgeTCA2D6i7894Ag43RADrk.jpg",
+        "cast_id": 17,
+        "character": "Pieck Finger (voice)",
+        "credit_id": "66c266f26fcd6f5d03bf7e77",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1363967,
+        "known_for_department": "Writing",
+        "name": "Hajime Isayama",
+        "original_name": "諫山創",
+        "popularity": 1.4681,
+        "profile_path": "/5Qvp5dHzNk0NK6wKUXbuEONFBM0.jpg",
+        "credit_id": "66c1111471ec89bd83d0a786",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1553591,
+        "known_for_department": "Directing",
+        "name": "Yuichiro Hayashi",
+        "original_name": "林祐一郎",
+        "popularity": 1.5274,
+        "profile_path": "/fnxPe3512mkUYw3OnYuZJSBtwXZ.jpg",
+        "credit_id": "66c1114c83f66888f8898a4a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842744,
+        "known_for_department": "Visual Effects",
+        "name": "Tomohiro Kishi",
+        "original_name": "岸友洋",
+        "popularity": 0.6628,
+        "profile_path": "/k2j640WK36R6unk4TBoXE95x9Hv.jpg",
+        "credit_id": "67530ef837f185620208985d",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491863,
+        "known_for_department": "Writing",
+        "name": "Hiroshi Seko",
+        "original_name": "瀬古浩司",
+        "popularity": 1.9631,
+        "profile_path": "/zdTUsjMPFEZhygVdKs5rABtHJyk.jpg",
+        "credit_id": "6785c882c5d2e96e267bc9e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1806063,
+        "known_for_department": "Sound",
+        "name": "Naoto Yamaya",
+        "original_name": "山谷尚人",
+        "popularity": 0.7157,
+        "profile_path": null,
+        "credit_id": "6785cac394fc87ef487b573d",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2659301,
+        "known_for_department": "Visual Effects",
+        "name": "Daisuke Niinuma",
+        "original_name": "新沼大祐",
+        "popularity": 0.889,
+        "profile_path": null,
+        "credit_id": "6785cae3136e157cf27b8327",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1832510,
+        "known_for_department": "Visual Effects",
+        "name": "Manabu Akita",
+        "original_name": "秋田学",
+        "popularity": 0.7033,
+        "profile_path": null,
+        "credit_id": "6785caf08c2309ceafbb6572",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2108576,
+        "known_for_department": "Visual Effects",
+        "name": "Satoshi Sakai",
+        "original_name": "酒井智史",
+        "popularity": 0.869,
+        "profile_path": null,
+        "credit_id": "6785cbad78cfcd77ed4ef47f",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456607,
+        "known_for_department": "Visual Effects",
+        "name": "Taichi Furumata",
+        "original_name": "古俣太一",
+        "popularity": 0.9727,
+        "profile_path": null,
+        "credit_id": "6785cbe4b9094c7dfebb5e63",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3269282,
+        "known_for_department": "Visual Effects",
+        "name": "Itsuku Onishi",
+        "original_name": "大西慈",
+        "popularity": 0.2146,
+        "profile_path": null,
+        "credit_id": "6785cbff94fc87ef487b57a6",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1859995,
+        "known_for_department": "Art",
+        "name": "Kuniaki Nemoto",
+        "original_name": "根本邦明",
+        "popularity": 0.9401,
+        "profile_path": null,
+        "credit_id": "6785cc1994fc87ef487b57ad",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3269281,
+        "known_for_department": "Visual Effects",
+        "name": "Motoi Okuno",
+        "original_name": "奥納基",
+        "popularity": 0.7885,
+        "profile_path": null,
+        "credit_id": "6785cc502256023dfd4e8513",
+        "department": "Visual Effects",
+        "job": "CGI Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3269283,
+        "known_for_department": "Visual Effects",
+        "name": "Subaru Ikeda",
+        "original_name": "池田昴",
+        "popularity": 0.1765,
+        "profile_path": null,
+        "credit_id": "6785cc5d136e157cf27b8356",
+        "department": "Visual Effects",
+        "job": "CGI Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2018339,
+        "known_for_department": "Camera",
+        "name": "Shigeki Asakawa",
+        "original_name": "浅川茂輝",
+        "popularity": 1.0463,
+        "profile_path": "/lKAIPnLquPnKJ1X1JjCAGmAnSnr.jpg",
+        "credit_id": "6785cc7178cfcd77ed4ef4b9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1182783,
+        "known_for_department": "Editing",
+        "name": "Masato Yoshitake",
+        "original_name": "吉武将人",
+        "popularity": 1.4178,
+        "profile_path": null,
+        "credit_id": "6785cc838c2309ceafbb65f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40340,
+        "known_for_department": "Sound",
+        "name": "Masafumi Mima",
+        "original_name": "三間雅文",
+        "popularity": 1.1823,
+        "profile_path": null,
+        "credit_id": "6785cc94136e157cf27b836a",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2659300,
+        "known_for_department": "Sound",
+        "name": "Kohta Yamamoto",
+        "original_name": "KOHTA YAMAMOTO",
+        "popularity": 1.2886,
+        "profile_path": "/83Iu3Ey3ym9ZwewSmUjOvimpTMd.jpg",
+        "credit_id": "6794453f3be0b7b6f323a82f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208426,
+        "known_for_department": "Sound",
+        "name": "Hiroyuki Sawano",
+        "original_name": "澤野弘之",
+        "popularity": 1.2465,
+        "profile_path": "/gV1lO7MjMso31nQ9NiLGtsdSYgZ.jpg",
+        "credit_id": "6794454690390f48811878cd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1333100,
+    "keywords": [
+      {
+        "id": 4565,
+        "name": "dystopia"
+      },
+      {
+        "id": 11100,
+        "name": "giant monster"
+      },
+      {
+        "id": 12197,
+        "name": "compilation"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 179430,
+        "name": "aftercreditsstinger"
+      },
+      {
+        "id": 194008,
+        "name": "edited from tv series"
+      },
+      {
+        "id": 207826,
+        "name": "shounen"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      },
+      {
+        "id": 325787,
+        "name": "complicated"
+      },
+      {
+        "id": 325842,
+        "name": "powerful"
+      },
+      {
+        "id": 325851,
+        "name": "straightforward"
+      },
+      {
+        "id": 325854,
+        "name": "tragic"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          35
+        ],
+        "id": 153,
+        "original_language": "en",
+        "original_title": "Lost in Translation",
+        "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+        "popularity": 7.3773,
+        "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+        "release_date": "2003-09-18",
+        "title": "Lost in Translation",
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 7805
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yXnlw2SB0QhYUC4QDyuRZh3CQlU.jpg",
+        "genre_ids": [
+          35,
+          80,
+          28,
+          18
+        ],
+        "id": 158,
+        "original_language": "de",
+        "original_title": "Knockin' on Heaven's Door",
+        "overview": "Two young men, Martin and Rudi, both suffering from terminal cancer, get to know each other in a hospital room. They drown their desperation in tequila and decide to take one last trip to the sea. Drunk and still in pajamas they steal the first fancy car they find, a 60's Mercedes convertible. The car happens to belong to a bunch of gangsters, which immediately start to chase it, since it contains more than the pistol Martin finds in the glove box.",
+        "popularity": 1.6843,
+        "poster_path": "/dsY09zCxKDFjfV1oqXFJJpVrHdP.jpg",
+        "release_date": "1997-02-20",
+        "title": "Knockin' on Heaven's Door",
+        "video": false,
+        "vote_average": 7.699,
+        "vote_count": 561
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+        "genre_ids": [
+          878,
+          28,
+          53
+        ],
+        "id": 180,
+        "original_language": "en",
+        "original_title": "Minority Report",
+        "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+        "popularity": 8.5639,
+        "poster_path": "/qtgFcnwh9dAFLocsDk2ySDVS8UF.jpg",
+        "release_date": "2002-06-20",
+        "title": "Minority Report",
+        "video": false,
+        "vote_average": 7.35,
+        "vote_count": 9316
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rxMnmklIpunsNsRkQ7hw61ZJa84.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 189,
+        "original_language": "en",
+        "original_title": "Sin City: A Dame to Kill For",
+        "overview": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.",
+        "popularity": 6.1425,
+        "poster_path": "/50kALxDX4mmzIRljbNbPY0u4cie.jpg",
+        "release_date": "2014-08-20",
+        "title": "Sin City: A Dame to Kill For",
+        "video": false,
+        "vote_average": 6.399,
+        "vote_count": 4046
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+        "genre_ids": [
+          12,
+          35,
+          878
+        ],
+        "id": 196,
+        "original_language": "en",
+        "original_title": "Back to the Future Part III",
+        "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+        "popularity": 11.6582,
+        "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "release_date": "1990-05-25",
+        "title": "Back to the Future Part III",
+        "video": false,
+        "vote_average": 7.489,
+        "vote_count": 11219
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rSzDfniDjqh2TIP9uH7rwi2iRy3.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 207,
+        "original_language": "en",
+        "original_title": "Dead Poets Society",
+        "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+        "popularity": 12.8532,
+        "poster_path": "/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg",
+        "release_date": "1989-06-02",
+        "title": "Dead Poets Society",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 12142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "id": 218,
+        "original_language": "en",
+        "original_title": "The Terminator",
+        "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+        "popularity": 20.3311,
+        "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+        "release_date": "1984-10-26",
+        "title": "The Terminator",
+        "video": false,
+        "vote_average": 7.673,
+        "vote_count": 14148
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 33.0354,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.685,
+        "vote_count": 22232
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xOzl9aD2cKGuOTaaVlRR1novbsB.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1042140,
+        "original_language": "ja",
+        "original_title": "零落",
+        "overview": "Kaoru Fukazawa is a manga artist. His manga series was published for eight years, but has now finished. He doesn't have any ideas for his next work. His situation seems bleak, with his editor seeming to not care about him anymore and his relationship with his wife Nozomi Machida being troubled. He spends his days in despair and darkness. Kaoru visits a business that provides sexual services and meets a prostitute named Chifuyu, who attracts him. They decide to head to Chifuyu's hometown together.",
+        "popularity": 0.8777,
+        "poster_path": "/3aYDSq18EoOi9mFVmVPxxcEYHn1.jpg",
+        "release_date": "2023-03-17",
+        "title": "Downfall",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 22,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
+        "popularity": 21.3741,
+        "poster_path": "/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
+        "release_date": "2003-07-09",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "video": false,
+        "vote_average": 7.818,
+        "vote_count": 21722
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 58,
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+        "popularity": 16.6783,
+        "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "release_date": "2006-07-06",
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "video": false,
+        "vote_average": 7.375,
+        "vote_count": 16786
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 73,
+        "original_language": "en",
+        "original_title": "American History X",
+        "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+        "popularity": 7.7726,
+        "poster_path": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+        "release_date": "1998-07-01",
+        "title": "American History X",
+        "video": false,
+        "vote_average": 8.33,
+        "vote_count": 12230
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+        "genre_ids": [
+          12,
+          53,
+          878
+        ],
+        "id": 74,
+        "original_language": "en",
+        "original_title": "War of the Worlds",
+        "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+        "popularity": 10.3838,
+        "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+        "release_date": "2005-06-28",
+        "title": "War of the Worlds",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 8889
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cFZRtb1Q4whERknfYtj7Fjsvxpg.jpg",
+        "genre_ids": [
+          878,
+          18,
+          53
+        ],
+        "id": 78,
+        "original_language": "en",
+        "original_title": "Blade Runner",
+        "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+        "popularity": 13.2987,
+        "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "release_date": "1982-06-25",
+        "title": "Blade Runner",
+        "video": false,
+        "vote_average": 7.941,
+        "vote_count": 14580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+        "genre_ids": [
+          12,
+          16,
+          14
+        ],
+        "id": 81,
+        "original_language": "ja",
+        "original_title": "風の谷のナウシカ",
+        "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+        "popularity": 9.1534,
+        "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+        "release_date": "1984-03-11",
+        "title": "Nausicaä of the Valley of the Wind",
+        "video": false,
+        "vote_average": 7.95,
+        "vote_count": 3912
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 97,
+        "original_language": "en",
+        "original_title": "Tron",
+        "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...And becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+        "popularity": 8.0416,
+        "poster_path": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+        "release_date": "1982-07-09",
+        "title": "Tron",
+        "video": false,
+        "vote_average": 6.648,
+        "vote_count": 2607
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "id": 111,
+        "original_language": "en",
+        "original_title": "Scarface",
+        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+        "popularity": 18.1884,
+        "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "release_date": "1983-12-09",
+        "title": "Scarface",
+        "video": false,
+        "vote_average": 8.157,
+        "vote_count": 12641
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "genre_ids": [
+          12,
+          14,
+          16
+        ],
+        "id": 128,
+        "original_language": "ja",
+        "original_title": "もののけ姫",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "popularity": 12.6661,
+        "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "release_date": "1997-07-12",
+        "title": "Princess Mononoke",
+        "video": false,
+        "vote_average": 8.324,
+        "vote_count": 8679
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "id": 129,
+        "original_language": "ja",
+        "original_title": "千と千尋の神隠し",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "popularity": 23.1345,
+        "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "release_date": "2001-07-20",
+        "title": "Spirited Away",
+        "video": false,
+        "vote_average": 8.534,
+        "vote_count": 17780
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+        "genre_ids": [
+          12,
+          35,
+          80
+        ],
+        "id": 134,
+        "original_language": "en",
+        "original_title": "O Brother, Where Art Thou?",
+        "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+        "popularity": 4.7357,
+        "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+        "release_date": "2000-08-30",
+        "title": "O Brother, Where Art Thou?",
+        "video": false,
+        "vote_average": 7.318,
+        "vote_count": 4432
+      }
+    ],
+    "total_pages": 19513,
+    "total_results": 390252
+  }
+}

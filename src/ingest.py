@@ -10,36 +10,36 @@ DATA_FILE = "notebooks/movies.json"
 
 def run_ingestion():
     if not os.path.exists(DATA_FILE):
-        print(f"Lỗi: Không tìm thấy file '{DATA_FILE}'. Hãy chạy notebook crawl dữ liệu trước!")
+        print(f"Error: File '{DATA_FILE}' not found. Please run the data crawl notebook first!")
         return
 
-    print(f"📂 Đang đọc dữ liệu từ {DATA_FILE}...")
+    print(f"📂 Reading data from {DATA_FILE}...")
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         raw_movies = json.load(f)
 
     if not raw_movies:
-        print("File dữ liệu rỗng!")
+        print("Data file is empty!")
         return
 
-    print(f"🚀 Bắt đầu xử lý {len(raw_movies)} items (movies)...")
+    print(f"🚀 Starting to process {len(raw_movies)} items (movies)...")
     
     llm = GeminiService()
     vectordb = QdrantService()
     graphdb = Neo4jService()
 
     batch_points = []
-    batch_size = 20 # Gom nhóm để insert vào Qdrant cho nhanh
+    batch_size = 20 # Batch together for faster Qdrant insertion
 
     for movie in tqdm(raw_movies, desc="Ingesting"):
         try:
             title = movie.get("title", "No Title")
             overview = movie.get("overview", "")
             
-            # Nếu không có nội dung mô tả, bỏ qua vì không tạo vector được
+            # Skip if no description available (can't create vector)
             if not overview:
                 continue
 
-            # 1. Tạo Vector Embedding (Title + Overview + Genres)
+            # 1. Create Vector Embedding (Title + Overview + Genres)
             text_to_embed = f"Title: {title}. Genres: {movie.get('genres')}. Overview: {overview}"
             embedding = llm.get_embedding(text_to_embed)
             
@@ -58,7 +58,7 @@ def run_ingestion():
                     }
                 ))
 
-            # 2. Lưu vào Graph Database
+            # 2. Save to Graph Database
             # Use add_movie_data if available
             try:
                 graphdb.add_movie_data(movie)
@@ -67,20 +67,20 @@ def run_ingestion():
                 if hasattr(graphdb, 'add_book_data'):
                     graphdb.add_book_data(movie)
 
-            # Insert Batch nếu đầy
+            # Insert Batch if full
             if len(batch_points) >= batch_size:
                 vectordb.upsert_vectors(batch_points)
                 batch_points = []
 
         except Exception as e:
-            print(f"Lỗi khi xử lý movie '{title}': {e}")
+            print(f"Error processing movie '{title}': {e}")
 
     # Insert remaining
     if batch_points:
         vectordb.upsert_vectors(batch_points)
         
     graphdb.close()
-    print("HOÀN TẤT NẠP DỮ LIỆU!")
+    print("DATA INGESTION COMPLETED!")
 
 if __name__ == "__main__":
     run_ingestion()

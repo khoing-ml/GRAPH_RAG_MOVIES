@@ -1,0 +1,1075 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+    "belongs_to_collection": {
+      "id": 1454788,
+      "name": "In the Mood for Love Collection",
+      "poster_path": "/fEjJEh9G6AuyrJtfNlQuWKVSMrG.jpg",
+      "backdrop_path": null
+    },
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.janusfilms.com/films/2274",
+    "id": 843,
+    "imdb_id": "tt0118694",
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "花樣年華",
+    "overview": "Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+    "popularity": 11.194,
+    "poster_path": "/m8jNwTP13ubYZyh5siVuyT9pZDp.jpg",
+    "production_companies": [
+      {
+        "id": 539,
+        "logo_path": "/iPLtePguIzOPNtAWfTxWLXb2O11.png",
+        "name": "Block 2 Pictures",
+        "origin_country": "HK"
+      },
+      {
+        "id": 255,
+        "logo_path": "/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png",
+        "name": "Paradis Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 540,
+        "logo_path": "/gqx0uCS4P0hEgaDl61TfKODIwMe.png",
+        "name": "Jet Tone Production",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2000-09-29",
+    "revenue": 15867968,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Feel the heat, keep the feeling burning, let the sensation explode.",
+    "title": "In the Mood for Love",
+    "video": false,
+    "vote_average": 8.092,
+    "vote_count": 3109
+  },
+  "credits": {
+    "id": 843,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1338,
+        "known_for_department": "Acting",
+        "name": "Maggie Cheung",
+        "original_name": "張曼玉",
+        "popularity": 2.9681,
+        "profile_path": "/thHNJCHSmNwhRI5EQXWwg7RzPd7.jpg",
+        "cast_id": 21,
+        "character": "Su Li-zhen",
+        "credit_id": "52fe4280c3a36847f8023f45",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337,
+        "known_for_department": "Acting",
+        "name": "Tony Leung Chiu-wai",
+        "original_name": "梁朝偉",
+        "popularity": 10.0543,
+        "profile_path": "/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg",
+        "cast_id": 20,
+        "character": "Chow Mo-wan",
+        "credit_id": "52fe4280c3a36847f8023f41",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12674,
+        "known_for_department": "Acting",
+        "name": "Siu Ping-Lam",
+        "original_name": "萧炳林",
+        "popularity": 1.602,
+        "profile_path": "/tJrW8Tg6XoZjKKaXBP1qbFV0PFF.jpg",
+        "cast_id": 6,
+        "character": "Ah Ping",
+        "credit_id": "52fe4280c3a36847f8023f19",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12462,
+        "known_for_department": "Acting",
+        "name": "Rebecca Pan",
+        "original_name": "Rebecca Pan",
+        "popularity": 2.1288,
+        "profile_path": "/fbFl1uGb5Uo2FPA5S5jvgGevHYE.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Suen",
+        "credit_id": "52fe4280c3a36847f8023f1d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12463,
+        "known_for_department": "Acting",
+        "name": "Kelly Lai Chen",
+        "original_name": "雷震",
+        "popularity": 1.6194,
+        "profile_path": "/6RrS6v8ayfdLFSTSOK7BhKZRKXr.jpg",
+        "cast_id": 9,
+        "character": "Mr. Ho",
+        "credit_id": "52fe4280c3a36847f8023f21",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1002925,
+        "known_for_department": "Acting",
+        "name": "Joe Cheung Tung-Cho",
+        "original_name": "張同祖",
+        "popularity": 1.721,
+        "profile_path": "/4RJ9r6FP6kQUmEUWZylPByh7TtG.jpg",
+        "cast_id": 65,
+        "character": "Man Living in Mr. Koo's Apartment",
+        "credit_id": "6947a480d6fb1811b07abcac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12464,
+        "known_for_department": "Acting",
+        "name": "Chan Man-Lei",
+        "original_name": "陳萬雷",
+        "popularity": 1.9923,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Mr. Koo",
+        "credit_id": "6947a3c16fae3c26ea8eb494",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12465,
+        "known_for_department": "Acting",
+        "name": "Koo Kam-Wah",
+        "original_name": "顧錦華",
+        "popularity": 1.4027,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Mrs. Koo",
+        "credit_id": "6947a3e0debf5529e78eb6c3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12467,
+        "known_for_department": "Acting",
+        "name": "Mama Hung",
+        "original_name": "錢似鶯",
+        "popularity": 1.7182,
+        "profile_path": "/yitix9B40TAMAN0tua67QNTRwmR.jpg",
+        "cast_id": 48,
+        "character": "Amah",
+        "credit_id": "6506c2be373ac200acd6c471",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12470,
+        "known_for_department": "Acting",
+        "name": "Paulyn Sun",
+        "original_name": "孫佳君",
+        "popularity": 2.0815,
+        "profile_path": "/4jQXsptwbZAhunpuV4MLWosFxHG.jpg",
+        "cast_id": 63,
+        "character": "Mrs. Chow (voice)",
+        "credit_id": "6947a3fe60f3dcc4528cdf8d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12466,
+        "known_for_department": "Acting",
+        "name": "Roy Cheung Yiu-Yeung",
+        "original_name": "張耀揚",
+        "popularity": 2.3609,
+        "profile_path": "/uxmSSLjeDW193jg7mkBjJKmzPPG.jpg",
+        "cast_id": 64,
+        "character": "Mr. Chan (voice)",
+        "credit_id": "6947a42b39d3f33b30812074",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12453,
+        "known_for_department": "Directing",
+        "name": "Wong Kar-Wai",
+        "original_name": "王家衛",
+        "popularity": 3.3182,
+        "profile_path": "/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg",
+        "credit_id": "52fe4280c3a36847f8023efd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12454,
+        "known_for_department": "Sound",
+        "name": "Michael Galasso",
+        "original_name": "Michael Galasso",
+        "popularity": 0.3613,
+        "profile_path": "/ugEpT0TiAvw0rXLB277bVpBDNhQ.jpg",
+        "credit_id": "52fe4280c3a36847f8023f03",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12455,
+        "known_for_department": "Sound",
+        "name": "Shigeru Umebayashi",
+        "original_name": "梅林茂",
+        "popularity": 1.9225,
+        "profile_path": "/7wzKcmgowMp0GcucFg6yJ6q6oMb.jpg",
+        "credit_id": "52fe4280c3a36847f8023f09",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357,
+        "known_for_department": "Camera",
+        "name": "Christopher Doyle",
+        "original_name": "Christopher Doyle",
+        "popularity": 2.4123,
+        "profile_path": "/dm2g37ak1EzIu1YViAwvZAvytlx.jpg",
+        "credit_id": "52fe4280c3a36847f8023f0f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12453,
+        "known_for_department": "Directing",
+        "name": "Wong Kar-Wai",
+        "original_name": "王家衛",
+        "popularity": 3.3182,
+        "profile_path": "/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg",
+        "credit_id": "52fe4280c3a36847f8023f4b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12453,
+        "known_for_department": "Directing",
+        "name": "Wong Kar-Wai",
+        "original_name": "王家衛",
+        "popularity": 3.3182,
+        "profile_path": "/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg",
+        "credit_id": "52fe4280c3a36847f8023f51",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45818,
+        "known_for_department": "Art",
+        "name": "William Chang",
+        "original_name": "張叔平",
+        "popularity": 1.526,
+        "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+        "credit_id": "52fe4280c3a36847f8023f5d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232804,
+        "known_for_department": "Camera",
+        "name": "Mark Lee Ping-Bing",
+        "original_name": "Mark Lee Ping-Bing",
+        "popularity": 0.2571,
+        "profile_path": "/tQe1n1u5Lcx4oLpOt55yVylOdju.jpg",
+        "credit_id": "532ec2fe9251413a7e003141",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236191,
+        "known_for_department": "Writing",
+        "name": "Liu Yichang",
+        "original_name": "Liu Yichang",
+        "popularity": 0.3398,
+        "profile_path": null,
+        "credit_id": "652ce9021f3e60011c4ba0f0",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059532,
+        "known_for_department": "Production",
+        "name": "Chan Ye-cheng",
+        "original_name": "Chan Ye-cheng",
+        "popularity": 0.6882,
+        "profile_path": null,
+        "credit_id": "652ceabb358da75b5f79c9d8",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381680,
+        "known_for_department": "Lighting",
+        "name": "Wong Chi-Ming",
+        "original_name": "黃志明",
+        "popularity": 0.8996,
+        "profile_path": null,
+        "credit_id": "652ced251f3e6000ff8708dc",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381637,
+        "known_for_department": "Directing",
+        "name": "Kenneth Siao Wai-Keung",
+        "original_name": "Kenneth Siao Wai-Keung",
+        "popularity": 0.9822,
+        "profile_path": "/lopEtuDyTOTuwySyFSSbrD29aII.jpg",
+        "credit_id": "652cee511f3e60011c4ba5c1",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87950,
+        "known_for_department": "Directing",
+        "name": "Johnnie Kong",
+        "original_name": "江約誠",
+        "popularity": 1.4702,
+        "profile_path": "/iHoNu61vNwQmL2j8TSUjAYU73IU.jpg",
+        "credit_id": "652ceed0358da75b5c0c335f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653841,
+        "known_for_department": "Directing",
+        "name": "Law Kam-Chuen",
+        "original_name": "Law Kam-Chuen",
+        "popularity": 1.4722,
+        "profile_path": null,
+        "credit_id": "652cf0ab0cb33516f63f967d",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45818,
+        "known_for_department": "Art",
+        "name": "William Chang",
+        "original_name": "張叔平",
+        "popularity": 1.526,
+        "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+        "credit_id": "6179a0870d5d85004381c082",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142642,
+        "known_for_department": "Art",
+        "name": "Man Lim-Chung",
+        "original_name": "Man Lim-Chung",
+        "popularity": 0.5362,
+        "profile_path": "/2AktsUqVl3mQjTfVoyRZRwsyUQb.jpg",
+        "credit_id": "6179a0a79ee0ef00612c1867",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38284,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shandy Lui Fung-Shan",
+        "original_name": "呂鳳珊",
+        "popularity": 1.3065,
+        "profile_path": null,
+        "credit_id": "6313baae88c659007dcba9af",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059532,
+        "known_for_department": "Production",
+        "name": "Chan Ye-cheng",
+        "original_name": "Chan Ye-cheng",
+        "popularity": 0.6882,
+        "profile_path": null,
+        "credit_id": "65c2f648cb75d101496bd64f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45818,
+        "known_for_department": "Art",
+        "name": "William Chang",
+        "original_name": "張叔平",
+        "popularity": 1.526,
+        "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+        "credit_id": "65c2f66ea5890201861ca56f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2795943,
+        "known_for_department": "Production",
+        "name": "Gilles Ciment",
+        "original_name": "Gilles Ciment",
+        "popularity": 0.4532,
+        "profile_path": null,
+        "credit_id": "65c2f67ee267de0163bb6a70",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20475,
+        "known_for_department": "Production",
+        "name": "Jacky Pang",
+        "original_name": "Jacky Pang",
+        "popularity": 3.0867,
+        "profile_path": "/bfhNUrGr53tjBZm2EiCbqslaOr9.jpg",
+        "credit_id": "65c2f6969603310162b82493",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316884,
+        "known_for_department": "Sound",
+        "name": "Tu Duu-Chih",
+        "original_name": "杜篤之",
+        "popularity": 1.6325,
+        "profile_path": "/jaoW15Nl1y3ViiRQjafYAVQspRE.jpg",
+        "credit_id": "65c2f742a5890201861ca738",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45818,
+        "known_for_department": "Art",
+        "name": "William Chang",
+        "original_name": "張叔平",
+        "popularity": 1.526,
+        "profile_path": "/u1rSUvhCQSo0z7bPaDoi1pyntFb.jpg",
+        "credit_id": "5a9f0102c3a3680a3a005b37",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119877,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kwan Lee-Na",
+        "original_name": "Kwan Lee-na",
+        "popularity": 1.7645,
+        "profile_path": "/urn0b8TvUFKfZc1DSH10nPnvyeQ.jpg",
+        "credit_id": "5cd2123c9251417cce2e27fb",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379190,
+        "known_for_department": "Sound",
+        "name": "Tang Shiang-Chu",
+        "original_name": "湯湘竹",
+        "popularity": 0.9458,
+        "profile_path": null,
+        "credit_id": "5cd21282c3a36836c1e542e3",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2307400,
+        "known_for_department": "Sound",
+        "name": "Kuo Li-Chi",
+        "original_name": "Kuo Li-Chi",
+        "popularity": 0.6095,
+        "profile_path": "/eMzteSHNKh0pCsFsmOk8ft2HcPP.jpg",
+        "credit_id": "5cd212e392514104813064b4",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 843,
+    "keywords": [
+      {
+        "id": 596,
+        "name": "adultery"
+      },
+      {
+        "id": 918,
+        "name": "newspaper"
+      },
+      {
+        "id": 7879,
+        "name": "secret love"
+      },
+      {
+        "id": 779,
+        "name": "martial arts"
+      },
+      {
+        "id": 725,
+        "name": "lovesickness"
+      },
+      {
+        "id": 1157,
+        "name": "husband wife relationship"
+      },
+      {
+        "id": 2682,
+        "name": "shanghai, china"
+      },
+      {
+        "id": 5809,
+        "name": "marriage crisis"
+      },
+      {
+        "id": 2587,
+        "name": "married couple"
+      },
+      {
+        "id": 4224,
+        "name": "singapore"
+      },
+      {
+        "id": 3595,
+        "name": "deceived husband"
+      },
+      {
+        "id": 3691,
+        "name": "forbidden love"
+      },
+      {
+        "id": 4232,
+        "name": "melancholy"
+      },
+      {
+        "id": 10226,
+        "name": "neighbor"
+      },
+      {
+        "id": 10818,
+        "name": "author"
+      },
+      {
+        "id": 12354,
+        "name": "hong kong"
+      },
+      {
+        "id": 34094,
+        "name": "extramarital affair"
+      },
+      {
+        "id": 208992,
+        "name": "1960s"
+      },
+      {
+        "id": 321464,
+        "name": "intense"
+      },
+      {
+        "id": 357928,
+        "name": "adultério"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          35
+        ],
+        "id": 153,
+        "original_language": "en",
+        "original_title": "Lost in Translation",
+        "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+        "popularity": 7.3773,
+        "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+        "release_date": "2003-09-18",
+        "title": "Lost in Translation",
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 7806
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/An4QeEvTDmWBnDmorMo0H8xxn6w.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          35
+        ],
+        "id": 166,
+        "original_language": "fr",
+        "original_title": "La Boum",
+        "overview": "A thirteen-year-old French girl deals with moving to a new city and school in Paris, while at the same time her parents are getting a divorce.",
+        "popularity": 2.7598,
+        "poster_path": "/usGV1Q7KWR0Uq4dOIppGZ0ba8kz.jpg",
+        "release_date": "1980-12-17",
+        "title": "The Party",
+        "video": false,
+        "vote_average": 6.602,
+        "vote_count": 1186
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8xFIubJoxyidKaGjO1dc0btC9e7.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10749
+        ],
+        "id": 195,
+        "original_language": "en",
+        "original_title": "Trouble in Paradise",
+        "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily.",
+        "popularity": 0.8175,
+        "poster_path": "/FBxuoLRD3Biyul14unT5m3PYNS.jpg",
+        "release_date": "1932-10-30",
+        "title": "Trouble in Paradise",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 299
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+        "genre_ids": [
+          35,
+          10752,
+          10749
+        ],
+        "id": 198,
+        "original_language": "en",
+        "original_title": "To Be or Not to Be",
+        "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "popularity": 1.4998,
+        "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+        "release_date": "1942-03-06",
+        "title": "To Be or Not to Be",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 795
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iezr93fyrP7ZuJKWmHDXOzyvJIe.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 203,
+        "original_language": "en",
+        "original_title": "Mean Streets",
+        "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+        "popularity": 2.3176,
+        "poster_path": "/rzVTH9ylCw0owKkMZQVz2Eve97E.jpg",
+        "release_date": "1973-10-14",
+        "title": "Mean Streets",
+        "video": false,
+        "vote_average": 7.067,
+        "vote_count": 2228
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+        "genre_ids": [
+          18,
+          53,
+          12
+        ],
+        "id": 204,
+        "original_language": "fr",
+        "original_title": "Le Salaire de la peur",
+        "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+        "popularity": 3.1867,
+        "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+        "release_date": "1953-04-22",
+        "title": "The Wages of Fear",
+        "video": false,
+        "vote_average": 8.004,
+        "vote_count": 1040
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ih2q5hoclUTICLxMzV31vxgpCzR.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 216,
+        "original_language": "de",
+        "original_title": "Angst essen Seele auf",
+        "overview": "Emmi Kurowski, a cleaning lady, is lonely in her old age. Her husband died years ago, and her grown children offer little companionship. One night she goes to a bar frequented by Arab immigrants and strikes up a friendship with middle-aged mechanic Ali. Their relationship soon develops into something more, and Emmi's family and neighbors criticize their spontaneous marriage. Soon Emmi and Ali are forced to confront their own insecurities about their future.",
+        "popularity": 1.6993,
+        "poster_path": "/5Oru4v8tRUN90JUuM6BNDJoetLt.jpg",
+        "release_date": "1974-03-05",
+        "title": "Ali: Fear Eats the Soul",
+        "video": false,
+        "vote_average": 7.738,
+        "vote_count": 439
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i8fiqKaQklF02VmQYhSxmwa8KOH.jpg",
+        "genre_ids": [
+          9648,
+          10749,
+          53
+        ],
+        "id": 223,
+        "original_language": "en",
+        "original_title": "Rebecca",
+        "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+        "popularity": 3.3825,
+        "poster_path": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+        "release_date": "1940-03-23",
+        "title": "Rebecca",
+        "video": false,
+        "vote_average": 7.895,
+        "vote_count": 1910
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c4hWk3pBYlpukYNFeEq29wpxAO1.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 233,
+        "original_language": "en",
+        "original_title": "The Wanderers",
+        "overview": "The streets of the Bronx are owned by '60s youth gangs where the joy and pain of adolescence is lived. Philip Kaufman tells his take on the novel by Richard Price about the history of the Italian-American gang ‘The Wanderers.’",
+        "popularity": 1.5322,
+        "poster_path": "/p8vxJHlCbmmnUX3p8bEAzXZfcIT.jpg",
+        "release_date": "1979-07-13",
+        "title": "The Wanderers",
+        "video": false,
+        "vote_average": 6.967,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bHqIHC1sK5CzAS2XkF1jbyuS4ww.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80,
+          10749
+        ],
+        "id": 237,
+        "original_language": "en",
+        "original_title": "Young Adam",
+        "overview": "A young drifter working on a river barge disrupts his employers' lives while hiding the fact that he knows more about a dead woman found in the river than he admits.",
+        "popularity": 4.7962,
+        "poster_path": "/rU5GJ5r4tQbSx9C2ENKbPkD6nr9.jpg",
+        "release_date": "2003-09-26",
+        "title": "Young Adam",
+        "video": false,
+        "vote_average": 5.813,
+        "vote_count": 187
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          80
+        ],
+        "id": 239,
+        "original_language": "en",
+        "original_title": "Some Like It Hot",
+        "overview": "Two musicians witness a mob hit and need to quickly find a way out of Chicago. Their only opportunity comes in the form of joining an all-girl band as they prepare to leave on a tour. The two disguise themselves as women and struggle to keep their identities secret as the gangsters close in.",
+        "popularity": 9.0686,
+        "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+        "release_date": "1959-03-19",
+        "title": "Some Like It Hot",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 3746
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP6WiYHQUUXo6ZaXI06enkMsxkF.jpg",
+        "genre_ids": [
+          12,
+          18,
+          28
+        ],
+        "id": 246,
+        "original_language": "ja",
+        "original_title": "座頭市",
+        "overview": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
+        "popularity": 2.7254,
+        "poster_path": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg",
+        "release_date": "2003-09-06",
+        "title": "Zatoichi",
+        "video": false,
+        "vote_average": 7.233,
+        "vote_count": 921
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p70ukCnNeI6Hk6tp3mI7lesWrON.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 255,
+        "original_language": "fr",
+        "original_title": "Baisers volés",
+        "overview": "The third in a series of films featuring François Truffaut's alter-ego, Antoine Doinel, the story resumes with Antoine being discharged from military service. His sweetheart Christine's father lands Antoine a job as a security guard, which he promptly loses. Stumbling into a position assisting a private detective, Antoine falls for his employers' seductive wife, Fabienne, and finds that he must choose between the older woman and Christine.",
+        "popularity": 3.8233,
+        "poster_path": "/5qHh1Vp2TOOX5IaTVt4wyT8OTnR.jpg",
+        "release_date": "1968-09-04",
+        "title": "Stolen Kisses",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 448
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ymtwNtiuZwbYa1Vetp68VOGgrw3.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35
+        ],
+        "id": 256,
+        "original_language": "fr",
+        "original_title": "Antoine et Colette",
+        "overview": "Now aged 17, Antoine Doinel works in a factory which makes records. At a music concert, he meets a girl his own age, Colette, and falls in love with her. Later, Antoine goes to extraordinary lengths to please his new girlfriend and her parents, but Colette still only regards him as a casual friend. First segment of “Love at Twenty” (1962).",
+        "popularity": 0.8345,
+        "poster_path": "/nfP8J7pv75KOAliIM3RG7h6Zos5.jpg",
+        "release_date": "1962-06-22",
+        "title": "Antoine and Colette",
+        "video": false,
+        "vote_average": 7.211,
+        "vote_count": 266
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3CKOVDStTQKxMuSRzxEEe3pgGGv.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 258,
+        "original_language": "fr",
+        "original_title": "Domicile conjugal",
+        "overview": "Parisian everyman Antoine Doinel has married his sweetheart Christine Darbon, and the newlyweds have set up a cozy domestic life of selling flowers and giving violin lessons while Antoine fitfully works on his long-gestating novel. As Christine becomes pregnant with the couple's first child, Antoine finds himself enraptured with a young Japanese beauty. The complications change the course of their relationship forever.",
+        "popularity": 3.785,
+        "poster_path": "/s9R5wKbrB9SfOG1FzbICbOsssX8.jpg",
+        "release_date": "1970-09-09",
+        "title": "Bed and Board",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 300
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7LmhNfSkSkE296AvQbLZK4jgbnp.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35
+        ],
+        "id": 259,
+        "original_language": "fr",
+        "original_title": "L'Amour en fuite",
+        "overview": "Now in his thirties, Antoine Doinel is a divorced proofreader in love with a record seller. Colette Tazzi, now a lawyer, buys his first published autobiography, leading them to a chance meeting.",
+        "popularity": 1.2585,
+        "poster_path": "/s6Yf7DVdUy6Due5wWm5OmvyRBtH.jpg",
+        "release_date": "1979-01-24",
+        "title": "Love on the Run",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 207
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dPStzWmECzqe7cHZfbKDxWW04Tt.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1042216,
+        "original_language": "en",
+        "original_title": "Mutt",
+        "overview": "Over the course of a single hectic day in New York City, three people from Feña's past are thrust back into his life: his foreign father, his straight ex-boyfriend, and his 13-year old half-sister. Having lost touch since transitioning from female to male, Feña must navigate the new dynamics of these old relationships while tackling the day-to-day challenges that come with living a life in-between.",
+        "popularity": 0.4015,
+        "poster_path": "/oCJIH0PgzRUnxLrTW7QhsYk2gxN.jpg",
+        "release_date": "2023-08-09",
+        "title": "Mutt",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQotaner8FU5SBnYvyFJADPGlzS.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1232943,
+        "original_language": "pl",
+        "original_title": "Zabij mnie, kochanie",
+        "overview": "A winning lottery ticket has grave consequences for a married couple when they start hatching plans to kill each other for the prize money.",
+        "popularity": 1.0585,
+        "poster_path": "/wbfDIr5dKx4fri5by7NSIht0Y7M.jpg",
+        "release_date": "2024-02-13",
+        "title": "Kill Me If You Dare",
+        "video": false,
+        "vote_average": 5.339,
+        "vote_count": 96
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jdLsmpqmP1wTdFUPtmxMnYgoifT.jpg",
+        "genre_ids": [
+          18,
+          80,
+          36
+        ],
+        "id": 644495,
+        "original_language": "en",
+        "original_title": "House of Gucci",
+        "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder.",
+        "popularity": 5.6126,
+        "poster_path": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+        "release_date": "2021-11-24",
+        "title": "House of Gucci",
+        "video": false,
+        "vote_average": 6.572,
+        "vote_count": 3330
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t6J85BKPOCo8p38d8eLQTR5WjiT.jpg",
+        "genre_ids": [
+          35,
+          10770,
+          18
+        ],
+        "id": 268035,
+        "original_language": "de",
+        "original_title": "Am Anfang war der Seitensprung",
+        "overview": "Annabelle is annoyed by family life. Most of all, she bothers her health-conscious, chain-smoking, know-it-all mother, Edda who visits regularly. When mother moves in her house for three months, because their house is being renovated, She enthusiastically takes the chance to go on a \"relaxing weekend\". On this occasion her girlfriend Doro, who was supposed to take care of the children, starts an affair with her husband, Friedrich. When she returns, she is appalled. She packs her things and leaves Friedrich and the family. Promptly she meets a young student at a party, who awakens the passion in her. Written by lament",
+        "popularity": 0.3592,
+        "poster_path": "/5fVFW0ng6ph2Viv3Ie4hs3npGDL.jpg",
+        "release_date": "1999-12-23",
+        "title": "It Was Infidelity in the Beginning",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 5
+      }
+    ],
+    "total_pages": 15510,
+    "total_results": 310195
+  }
+}

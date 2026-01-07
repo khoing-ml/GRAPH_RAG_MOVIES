@@ -1,0 +1,980 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/gutU32BiBxJvJdzLv5RWC9hQhNh.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.radical.movie",
+    "id": 1058694,
+    "imdb_id": "tt14570440",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Radical",
+    "overview": "In a Mexican border town plagued by neglect, corruption, and violence, a frustrated teacher tries an unorthodox new method to break through his students’ apathy and unlock their curiosity, their potential... and perhaps even their genius.",
+    "popularity": 2.4904,
+    "poster_path": "/lOAJYpX608aT0ApIv63ZTnol27Y.jpg",
+    "production_companies": [
+      {
+        "id": 105116,
+        "logo_path": "/rVDFo9kaSYnMlFjoSz6y4nV5RPH.png",
+        "name": "3Pas Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 173035,
+        "logo_path": "/tNky2GBy0sWaG4StgWn8oGegZaY.png",
+        "name": "Epic",
+        "origin_country": "US"
+      },
+      {
+        "id": 79714,
+        "logo_path": "/dQfYJjl4wb9RYcD017WPNDbUSnd.png",
+        "name": "The Lift",
+        "origin_country": "MX"
+      },
+      {
+        "id": 210842,
+        "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+        "name": "ViX",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-10-19",
+    "revenue": 21761164,
+    "runtime": 126,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Think for yourself.",
+    "title": "Radical",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 484
+  },
+  "credits": {
+    "id": 1058694,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239574,
+        "known_for_department": "Acting",
+        "name": "Eugenio Derbez",
+        "original_name": "Eugenio Derbez",
+        "popularity": 1.9584,
+        "profile_path": "/6o1w3mYF947N6TTakQXcs3NNy4w.jpg",
+        "cast_id": 2,
+        "character": "Sergio",
+        "credit_id": "63d5b87d3dc313007d7eb811",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1875322,
+        "known_for_department": "Acting",
+        "name": "Daniel Haddad",
+        "original_name": "Daniel Haddad",
+        "popularity": 1.6384,
+        "profile_path": "/tCZAs7jDAjOl5545eL93C1mcIsa.jpg",
+        "cast_id": 3,
+        "character": "Chucho",
+        "credit_id": "63d5b8a8955c6500a840c0cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3895926,
+        "known_for_department": "Acting",
+        "name": "Jennifer Trejo",
+        "original_name": "Jennifer Trejo",
+        "popularity": 0.675,
+        "profile_path": "/kjKptBXj7z3VJlzUJA9dJZmpFrO.jpg",
+        "cast_id": 4,
+        "character": "Paloma",
+        "credit_id": "63d5b8b43dc3130082316365",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3895927,
+        "known_for_department": "Acting",
+        "name": "Mia Fernanda Solis",
+        "original_name": "Mia Fernanda Solis",
+        "popularity": 0.5847,
+        "profile_path": "/rGzl5vQM2CG4SfFl2MJK7BAlJ7u.jpg",
+        "cast_id": 5,
+        "character": "Lupe",
+        "credit_id": "63d5b8c5955c6500a840c102",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3895928,
+        "known_for_department": "Acting",
+        "name": "Danilo Guardiola Escobar",
+        "original_name": "Danilo Guardiola Escobar",
+        "popularity": 0.6328,
+        "profile_path": "/rlceus4FE90OWZ71rOFo2P0zQOF.jpg",
+        "cast_id": 6,
+        "character": "Nico",
+        "credit_id": "63d5b8d022df2e008cc82263",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1204103,
+        "known_for_department": "Acting",
+        "name": "Gilberto Barraza",
+        "original_name": "Gilberto Barraza",
+        "popularity": 2.4856,
+        "profile_path": "/sHSpqLD1HZbzLjyGvdMlgML9j09.jpg",
+        "cast_id": 7,
+        "character": "Papa Paloma",
+        "credit_id": "63d5b8e722df2e008439f4c2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2903654,
+        "known_for_department": "Directing",
+        "name": "Víctor Estrada",
+        "original_name": "Víctor Estrada",
+        "popularity": 0.6709,
+        "profile_path": "/gJx8eqchsJDgLjtr3lSRltIXOls.jpg",
+        "cast_id": 8,
+        "character": "Chepe",
+        "credit_id": "63d5b8f43dc313009def8c26",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3088959,
+        "known_for_department": "Acting",
+        "name": "Manuel Márquez",
+        "original_name": "Manuel Márquez",
+        "popularity": 0.3765,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Enrique",
+        "credit_id": "63d5b91212b10e0093e7b729",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1771526,
+        "known_for_department": "Acting",
+        "name": "Christian Gonzalez",
+        "original_name": "Christian Gonzalez",
+        "popularity": 0.1078,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jaime",
+        "credit_id": "63d5b92b12b10e007fdadba1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2964744,
+        "known_for_department": "Acting",
+        "name": "Xochiquetzal Martínez",
+        "original_name": "Xochiquetzal Martínez",
+        "popularity": 0.2024,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Maria",
+        "credit_id": "63d5b940c15b55008e435d85",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3895929,
+        "known_for_department": "Acting",
+        "name": "Edmundo Munoz",
+        "original_name": "Edmundo Munoz",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Beto",
+        "credit_id": "63d5b95012b10e00851bb6ed",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589123,
+        "known_for_department": "Acting",
+        "name": "Enoc Leaño",
+        "original_name": "Enoc Leaño",
+        "popularity": 0.4716,
+        "profile_path": "/ngoBlpmy5UGIo9vs14wbDaPZF3N.jpg",
+        "cast_id": 13,
+        "character": "Administrator",
+        "credit_id": "63d5b96920e6a500890c78e8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3895930,
+        "known_for_department": "Acting",
+        "name": "Manuel Cruz Vivas",
+        "original_name": "Manuel Cruz Vivas",
+        "popularity": 0.4412,
+        "profile_path": "/72zCknQUuIxCq4EiHNLkx3HODTz.jpg",
+        "cast_id": 14,
+        "character": "Nacho",
+        "credit_id": "63d5b97d12b10e00b570b23f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3895931,
+        "known_for_department": "Acting",
+        "name": "Erwin Veytia",
+        "original_name": "Erwin Veytia",
+        "popularity": 0.065,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Sr. Garcia",
+        "credit_id": "63d5b98d12b10e007fdadc25",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363628,
+        "known_for_department": "Acting",
+        "name": "Rocío Canseco",
+        "original_name": "Rocío Canseco",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Doña Florita",
+        "credit_id": "654b05671ac2927b2ebddcc1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871644,
+        "known_for_department": "Acting",
+        "name": "Kaarlo Isaacs Barria",
+        "original_name": "Kaarlo Isaacs Barria",
+        "popularity": 0.5144,
+        "profile_path": "/ztnNUBicRjXQ42rdFKKq9SS9W0w.jpg",
+        "cast_id": 29,
+        "character": "Niño Playera México",
+        "credit_id": "654b0589532acb00c483c790",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363635,
+        "known_for_department": "Acting",
+        "name": "Librada Elois",
+        "original_name": "Librada Elois",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Woman in Wheelchair",
+        "credit_id": "654b05e1532acb011b112807",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309522,
+        "known_for_department": "Acting",
+        "name": "Margarita Chavarría",
+        "original_name": "Margarita Chavarría",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Teacher",
+        "credit_id": "654b0604fd4f800101b7dbd7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363636,
+        "known_for_department": "Acting",
+        "name": "Claudia Fuentes Medina",
+        "original_name": "Claudia Fuentes Medina",
+        "popularity": 0.1686,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Teacher",
+        "credit_id": "654b06146332f7011d468f91",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363637,
+        "known_for_department": "Acting",
+        "name": "Libia Regalado",
+        "original_name": "Libia Regalado",
+        "popularity": 0.4105,
+        "profile_path": "/l2dH4ijUoZ7kpalN7Cjua6SW0lo.jpg",
+        "cast_id": 33,
+        "character": "Teacher",
+        "credit_id": "654b06236332f70100030737",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363638,
+        "known_for_department": "Acting",
+        "name": "Sergio Iván Juárez Correa",
+        "original_name": "Sergio Iván Juárez Correa",
+        "popularity": 0.2659,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Gym Teacher",
+        "credit_id": "654b06454d0e8d011c847ea2",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 931327,
+        "known_for_department": "Directing",
+        "name": "Christopher Zalla",
+        "original_name": "Christopher Zalla",
+        "popularity": 0.5372,
+        "profile_path": "/90jkloUBJroXXUPGhykAOdgXzBg.jpg",
+        "credit_id": "6390f434d18fb900ce6208bf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3021842,
+        "known_for_department": "Production",
+        "name": "Ivan Gutierrez Araico",
+        "original_name": "Ivan Gutierrez Araico",
+        "popularity": 0.1993,
+        "profile_path": null,
+        "credit_id": "63d9e7019512e1008f37d93b",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 931327,
+        "known_for_department": "Directing",
+        "name": "Christopher Zalla",
+        "original_name": "Christopher Zalla",
+        "popularity": 0.5372,
+        "profile_path": "/90jkloUBJroXXUPGhykAOdgXzBg.jpg",
+        "credit_id": "63d9e6d99512e100bc59678d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145225,
+        "known_for_department": "Production",
+        "name": "Ben Odell",
+        "original_name": "Ben Odell",
+        "popularity": 1.6802,
+        "profile_path": "/nnoHyLSG2Syz67sUaax9SGjG0M3.jpg",
+        "credit_id": "63d9e75a85702e058eec37c5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3222398,
+        "known_for_department": "Directing",
+        "name": "Joshua Davis",
+        "original_name": "Joshua Davis",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "63d9e73e955c65007babcbc2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2834591,
+        "known_for_department": "Sound",
+        "name": "Juan Pablo Villa",
+        "original_name": "Juan Pablo Villa",
+        "popularity": 0.3149,
+        "profile_path": null,
+        "credit_id": "63d9e79422df2e008cca9b94",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1478977,
+        "known_for_department": "Production",
+        "name": "Joshuah Bearman",
+        "original_name": "Joshuah Bearman",
+        "popularity": 0.4948,
+        "profile_path": "/5tBuGEeRZDBECPZ3EnALSza6UUs.jpg",
+        "credit_id": "63d9e70b955c6500847b2a50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1121340,
+        "known_for_department": "Production",
+        "name": "Avelino Rodríguez",
+        "original_name": "Avelino Rodríguez",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "63d9e7659512e100ca84c16c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239574,
+        "known_for_department": "Acting",
+        "name": "Eugenio Derbez",
+        "original_name": "Eugenio Derbez",
+        "popularity": 1.9584,
+        "profile_path": "/6o1w3mYF947N6TTakQXcs3NNy4w.jpg",
+        "credit_id": "63d9e74fa9117f0083ff37ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1756363,
+        "known_for_department": "Camera",
+        "name": "Mateo Londoño",
+        "original_name": "Mateo Londoño",
+        "popularity": 1.0472,
+        "profile_path": null,
+        "credit_id": "63d9e79c22df2e00b20b23f8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683864,
+        "known_for_department": "Production",
+        "name": "Javier Williams",
+        "original_name": "Javier Williams",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "credit_id": "63d9e77b85702e05753c33ad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543297,
+        "known_for_department": "Editing",
+        "name": "Eugenio Richer",
+        "original_name": "Eugenio Richer",
+        "popularity": 0.1799,
+        "profile_path": null,
+        "credit_id": "63d9e7a7955c6500847b2a8b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1186828,
+        "known_for_department": "Sound",
+        "name": "Pascual Reyes",
+        "original_name": "Pascual Reyes",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "credit_id": "63d9e789955c6500ce0dfe1d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1816799,
+        "known_for_department": "Production",
+        "name": "Joshua Davis",
+        "original_name": "Joshua Davis",
+        "popularity": 1.3874,
+        "profile_path": "/hIv9bIgSunHZkIhwGJaqYacnXCW.jpg",
+        "credit_id": "66205cd50231f2016310ce09",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1058694,
+    "keywords": [
+      {
+        "id": 5616,
+        "name": "usa–mexico border"
+      },
+      {
+        "id": 155500,
+        "name": "border town"
+      },
+      {
+        "id": 193547,
+        "name": "teachers and students"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+        "genre_ids": [
+          18,
+          80,
+          28
+        ],
+        "id": 272,
+        "original_language": "en",
+        "original_title": "Batman Begins",
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "popularity": 17.3432,
+        "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "release_date": "2005-06-10",
+        "title": "Batman Begins",
+        "video": false,
+        "vote_average": 7.72,
+        "vote_count": 22096
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/utumW9rZtRymRQuFJXG3uZlowPG.jpg",
+        "genre_ids": [
+          10402,
+          35,
+          18,
+          10749
+        ],
+        "id": 11239,
+        "original_language": "ja",
+        "original_title": "Shall we ダンス?",
+        "overview": "A bored accountant spots a beautiful woman in the window of a ballroom dance studio. He secretly starts taking dancing lessons to be near her, and then over time discovers how much he loves dancing. His wife, meanwhile, has hired a private detective to find out why he has started coming home late smelling of perfume.",
+        "popularity": 3.8214,
+        "poster_path": "/rCpqoo4phrDQSaLs9ToJnAqPG83.jpg",
+        "release_date": "1996-01-27",
+        "title": "Shall We Dance?",
+        "video": false,
+        "vote_average": 7.431,
+        "vote_count": 173
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xiJlNh0Zexm9LN1P0kxo1C2RVjw.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 11752,
+        "original_language": "de",
+        "original_title": "Freche Mädchen",
+        "overview": "Teenage best friends Mila, Hanna and Kati play matchmaker to their teachers while helping each other through their own budding romances.",
+        "popularity": 2.9617,
+        "poster_path": "/jqLAlwFOUE5VD2cXDmCmOHeGjFo.jpg",
+        "release_date": "2008-07-17",
+        "title": "Freche Mädchen",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 35
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k6TwVdyLvBL6G4Go4WZBjXEjnAN.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "id": 8490,
+        "original_language": "en",
+        "original_title": "Borderline",
+        "overview": "Jeb Maynard is a patrolman guarding the U.S.-Mexican border, whose partner and buddy Scooter has just been murdered. Maynard knows that a smuggler of illegal aliens is responsible for Scooter's death, but the feds insist that drug dealers committed the crime.",
+        "popularity": 3.9482,
+        "poster_path": "/2waGlqv59q6CyzcYozsBh8BNqfx.jpg",
+        "release_date": "1980-12-19",
+        "title": "Borderline",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          18,
+          12
+        ],
+        "id": 8587,
+        "original_language": "en",
+        "original_title": "The Lion King",
+        "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+        "popularity": 18.6833,
+        "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+        "release_date": "1994-06-15",
+        "title": "The Lion King",
+        "video": false,
+        "vote_average": 8.256,
+        "vote_count": 19249
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A159OAi9EAU9v4l3sfMhpMqSK5v.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 8618,
+        "original_language": "en",
+        "original_title": "The History Boys",
+        "overview": "The story of an unruly class of bright, funny history students at a Yorkshire grammar school in pursuit of an undergraduate place at Oxford or Cambridge. Bounced between their maverick English master, a young and shrewd teacher hired to up their test scores, a grossly out-numbered history teacher, and a headmaster obsessed with results, the boys attempt to pass.",
+        "popularity": 1.1648,
+        "poster_path": "/klybhTU75GUcQbzdVXUhsZgq1EV.jpg",
+        "release_date": "2006-10-02",
+        "title": "The History Boys",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 210
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 8741,
+        "original_language": "en",
+        "original_title": "The Thin Red Line",
+        "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+        "popularity": 5.4649,
+        "poster_path": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+        "release_date": "1998-12-23",
+        "title": "The Thin Red Line",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 3192
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bPwdy3zaNnMdZ22u0WCcYu0xxgt.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 7508,
+        "original_language": "hi",
+        "original_title": "तारे ज़मीन पर",
+        "overview": "Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate. Colours, fish, dogs, and kites don't seem important to the adults, who are much more interested in things like homework, marks, and neatness. Ishaan cannot seem to get anything right in class; he is then sent to boarding school, where his life changes forever.",
+        "popularity": 6.3912,
+        "poster_path": "/puHRt6Raovm5ujGCdwLWvRv4NHU.jpg",
+        "release_date": "2007-12-21",
+        "title": "Like Stars on Earth",
+        "video": false,
+        "vote_average": 7.96,
+        "vote_count": 1272
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x8Y2cwZbi7jl3TFClRBTnsokw69.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 277307,
+        "original_language": "en",
+        "original_title": "A Piece of Eden",
+        "overview": "A bittersweet comedy that follows three generations of the unlucky Tredici family from Corsica in the 1940's to an Indiana fruit farm in the present.",
+        "popularity": 0.298,
+        "poster_path": "/aMbzmr8w0XisdJM2bmoxQY7KCsL.jpg",
+        "release_date": "2000-09-15",
+        "title": "A Piece of Eden",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ayhDrswuMnmSzYKx9CeWJhdoood.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 26323,
+        "original_language": "en",
+        "original_title": "Bordertown",
+        "overview": "An ambitious Mexican-American gets mixed up with the neurotic wife of his casino boss.",
+        "popularity": 3.197,
+        "poster_path": "/uqQiWQwIdD7JydpNglrBlIO4YAT.jpg",
+        "release_date": "1935-01-23",
+        "title": "Bordertown",
+        "video": false,
+        "vote_average": 5.926,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53,
+          18
+        ],
+        "id": 22164,
+        "original_language": "en",
+        "original_title": "Blood and Bone",
+        "overview": "In Los Angeles, an ex-con takes the underground fighting world by storm in his quest to fulfill a promise to a dead friend.",
+        "popularity": 16.8856,
+        "poster_path": "/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+        "release_date": "2009-02-07",
+        "title": "Blood and Bone",
+        "video": false,
+        "vote_average": 7.356,
+        "vote_count": 849
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l9xKkyoYhWbqo62mXx989RgxUcY.jpg",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 1257400,
+        "original_language": "km",
+        "original_title": "ការណាត់ជួបជាមួយ ប៉ុល ពត",
+        "overview": "Democratic Kampuchea (Cambodia) - 1978. Three French journalists are invited by the Khmer Rouge to conduct an exclusive interview of the regime's leader, Pol Pot. The country seems ideal. But behind the Potemkin village, the Khmer Rouge regime is declining and the war with Vietnam threatens to invade the country. The regime is looking for culprits, secretly carrying out a large scale genocide. Under the eyes of the journalists, the beautiful picture cracks, revealing the horror. Their journey progressively turns into a nightmare. Freely inspired by journalist Elizabeth Becker's account in When the war was over.",
+        "popularity": 0.5282,
+        "poster_path": "/dWvhHqonE8IwILeYENPl5GdJfyy.jpg",
+        "release_date": "2024-06-05",
+        "title": "Meeting with Pol Pot",
+        "video": false,
+        "vote_average": 5.879,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3v42rwaBBzevnoL27DwUcFAYXxi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1258564,
+        "original_language": "sv",
+        "original_title": "Jag vet hur mycket din pappa älskar cigaretter",
+        "overview": "Two actors perform a play without an audience.",
+        "popularity": 0.0899,
+        "poster_path": "/cudaE09yS4HNfEVxTKXWrNWhZIU.jpg",
+        "release_date": "2024-03-11",
+        "title": "I know how much your dad loves cigarettes",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v1U2xrI1ir9ItrSla1zuypV61aM.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 27143,
+        "original_language": "fr",
+        "original_title": "Ma vraie vie à Rouen",
+        "overview": "Etienne is crazy about ice skating and videoing his daily life with a digital camera. He records his mother, friends, and geography teacher. Initially his intention is to setup a date between his mother and his teacher, however, he starts to realize that he is infatuated with the teacher himself.",
+        "popularity": 0.196,
+        "poster_path": "/kmmViolNp6xg3udvirmKbaAdxOo.jpg",
+        "release_date": "2003-02-26",
+        "title": "My Life on Ice",
+        "video": false,
+        "vote_average": 5.38,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wTipCPwvGfm3IJXBRojmuj97GIN.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          10752
+        ],
+        "id": 27098,
+        "original_language": "sv",
+        "original_title": "Lust och fägring stor",
+        "overview": "Stig is a 15-year-old pupil of 37-year-old teacher Viola. He is attracted by her beauty and maturity while she is drawn to him by his youth and innocence, a relief from her drunk and miserable husband.",
+        "popularity": 5.1524,
+        "poster_path": "/y1oFNynXrIzlPUe4CXKMR2dpNep.jpg",
+        "release_date": "1995-03-08",
+        "title": "All Things Fair",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 160
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v46Cqa8w2dS3beMLP2H2iEKf8M.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          10749
+        ],
+        "id": 25196,
+        "original_language": "en",
+        "original_title": "Crazy Heart",
+        "overview": "When reporter Jean Craddock interviews Bad Blake—an alcoholic, seen-better-days country music legend—they connect, and the hard-living crooner sees a possible saving grace in a life with Jean and her young son.",
+        "popularity": 1.6572,
+        "poster_path": "/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg",
+        "release_date": "2009-12-16",
+        "title": "Crazy Heart",
+        "video": false,
+        "vote_average": 6.917,
+        "vote_count": 1135
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oeDJ9YJsgWeEPXmVrgGqznSZDhj.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 669375,
+        "original_language": "en",
+        "original_title": "Don't Read This on a Plane",
+        "overview": "As novelist Jovana Fey attempts to check into the first hotel of her 3-week European book tour, she learns that her publisher has gone bankrupt. Penniless and stranded, she decides to continue the tour regardless.",
+        "popularity": 0.3117,
+        "poster_path": "/ocGkD1JICiclj87ota0CrDCOKQV.jpg",
+        "release_date": "2021-06-17",
+        "title": "Don't Read This on a Plane",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg",
+        "genre_ids": [
+          18,
+          878,
+          35
+        ],
+        "id": 301337,
+        "original_language": "en",
+        "original_title": "Downsizing",
+        "overview": "A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.",
+        "popularity": 3.9423,
+        "poster_path": "/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+        "release_date": "2017-12-22",
+        "title": "Downsizing",
+        "video": false,
+        "vote_average": 5.393,
+        "vote_count": 4007
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gq7DxEWheTmULhMekam9ihsiQyo.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10751
+        ],
+        "id": 37797,
+        "original_language": "ja",
+        "original_title": "耳をすませば",
+        "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'.",
+        "popularity": 6.3261,
+        "poster_path": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+        "release_date": "1995-07-15",
+        "title": "Whisper of the Heart",
+        "video": false,
+        "vote_average": 7.949,
+        "vote_count": 2191
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eRLizm7mQoqrb1IOOTP2tdlm2qJ.jpg",
+        "genre_ids": [
+          10749,
+          10402,
+          18
+        ],
+        "id": 1270003,
+        "original_language": "en",
+        "original_title": "The Brink Of",
+        "overview": "Indie pop duo Lena and James are rising artists whose songs leave fans wondering if they are more than just bandmates. Their first album leads them to reflect on how deep their relationship really runs.",
+        "popularity": 0.1567,
+        "poster_path": "/zSMSKtrssrJXb8AiRibRGnlPNIy.jpg",
+        "release_date": "2024-04-16",
+        "title": "The Brink Of",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 13984,
+    "total_results": 279675
+  }
+}

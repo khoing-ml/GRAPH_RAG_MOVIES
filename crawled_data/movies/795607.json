@@ -1,0 +1,791 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
+    "belongs_to_collection": {
+      "id": 836546,
+      "name": "White Snake Collection",
+      "poster_path": "/hntMscVoyrxMNJJLzqL7ShlOzKA.jpg",
+      "backdrop_path": "/vYkfPSV3tzps2zZIHqX5QOH2lPE.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81504698",
+    "id": 795607,
+    "imdb_id": "tt15000314",
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "白蛇2：青蛇劫起",
+    "overview": "While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.",
+    "popularity": 3.5426,
+    "poster_path": "/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg",
+    "production_companies": [
+      {
+        "id": 67089,
+        "logo_path": "/1wnxolUB5NHZARmeeZjVXKpGKaI.png",
+        "name": "Light Chaser Animation Studios",
+        "origin_country": "CN"
+      },
+      {
+        "id": 69484,
+        "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+        "name": "Alibaba Pictures Group",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2021-07-23",
+    "revenue": 87212911,
+    "runtime": 132,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dependence arises from the previous life.",
+    "title": "Green Snake",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 347
+  },
+  "credits": {
+    "id": 795607,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2508433,
+        "known_for_department": "Acting",
+        "name": "Tang Xiaoxi",
+        "original_name": "唐小喜",
+        "popularity": 1.7498,
+        "profile_path": "/gsqR3dgkDYSmKUpHAF1XUPSLyS4.jpg",
+        "cast_id": 4,
+        "character": "Xiao Qing (voice)",
+        "credit_id": "61000bcf4e52ed00758113c5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3174708,
+        "known_for_department": "Acting",
+        "name": "Zhang Fuzheng",
+        "original_name": "张福正",
+        "popularity": 1.6974,
+        "profile_path": "/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg",
+        "cast_id": 7,
+        "character": "Masked Man (voice)",
+        "credit_id": "61000d08568463002da89f5f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2199340,
+        "known_for_department": "Acting",
+        "name": "Wei Chao",
+        "original_name": "魏超",
+        "popularity": 1.6958,
+        "profile_path": "/aPYAEWrS1lb1UYwCFejIcJOOGSU.jpg",
+        "cast_id": 6,
+        "character": "Sima (voice)",
+        "credit_id": "61000c504e52ed00758114bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2339332,
+        "known_for_department": "Acting",
+        "name": "Zhao Mingzhou",
+        "original_name": "趙銘洲",
+        "popularity": 1.2621,
+        "profile_path": "/pXUlknCuP3u5FIfC7DluQzsKWAz.jpg",
+        "cast_id": 9,
+        "character": "牛头帮主 (voice)",
+        "credit_id": "61031a188ee49c0046552181",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2508434,
+        "known_for_department": "Acting",
+        "name": "Zheng Xiaopu",
+        "original_name": "Zheng Xiaopu",
+        "popularity": 1.0914,
+        "profile_path": "/gREy73I5Ds5jTS5yc0r8H9PVY9n.jpg",
+        "cast_id": 10,
+        "character": "宝青坊主(voice)",
+        "credit_id": "61031a3b8ee49c005e0e6d71",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2508435,
+        "known_for_department": "Acting",
+        "name": "Ma Cheng",
+        "original_name": "Cheng Ma",
+        "popularity": 0.6728,
+        "profile_path": "/a6vob4kODHlktSWET3TtBCp8Z4t.jpg",
+        "cast_id": 11,
+        "character": "老狐狸宝青坊主 (voice)",
+        "credit_id": "61031d3a4f33ad007ecdb4fe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3178033,
+        "known_for_department": "Acting",
+        "name": "Song Xuchen",
+        "original_name": "Song Xuchen",
+        "popularity": 0.1025,
+        "profile_path": "/b7NldVZg8OVhXWHTwnqBqph6ihv.jpg",
+        "cast_id": 12,
+        "character": "Fa Hai (voice)",
+        "credit_id": "61031d7e8ee49c005e0e7384",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3091125,
+        "known_for_department": "Acting",
+        "name": "Qiu Qiu",
+        "original_name": "Qiu Qiu",
+        "popularity": 0.7371,
+        "profile_path": "/g9eAyjW1gxEU4YQUOETP1zQVzDJ.jpg",
+        "cast_id": 13,
+        "character": "孙姐(voice)",
+        "credit_id": "61031e1d4f33ad002d8ceca8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3340968,
+        "known_for_department": "Acting",
+        "name": "Zhang Kai",
+        "original_name": "Kai Zhang",
+        "popularity": 1.1017,
+        "profile_path": "/nrNXUQz0ATf3vTpVWjCYdYvwvNY.jpg",
+        "cast_id": 14,
+        "character": "(voice)",
+        "credit_id": "61b1386635c30a00607715e6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2104118,
+        "known_for_department": "Acting",
+        "name": "Xu Jiaqi",
+        "original_name": "徐佳琦",
+        "popularity": 1.29,
+        "profile_path": "/1CzUSgTj3NPZ2WkT2j9c1fFzJGL.jpg",
+        "cast_id": 15,
+        "character": "(voice)",
+        "credit_id": "61b1388f1684f70061c1e71f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2720416,
+        "known_for_department": "Acting",
+        "name": "Shuai Guan",
+        "original_name": "关帅",
+        "popularity": 1.2574,
+        "profile_path": "/1rTmvuKnSKQs2DqDTKfWBWaIOmi.jpg",
+        "cast_id": 16,
+        "character": "(voice)",
+        "credit_id": "61b138adda9ef2001d35c28c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2511705,
+        "known_for_department": "Acting",
+        "name": "Zhang Biyu",
+        "original_name": "Zhang Biyu",
+        "popularity": 1.2883,
+        "profile_path": "/63ypypjXSLZfwSxO2y2nTzyM54m.jpg",
+        "cast_id": 17,
+        "character": "(voice)",
+        "credit_id": "61b1396c1e259a001a6d11c4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2844582,
+        "known_for_department": "Acting",
+        "name": "Zhang Zhe",
+        "original_name": "张喆",
+        "popularity": 1.627,
+        "profile_path": "/lmOs5BVt0iHqHNBbhuFwNfjfDrL.jpg",
+        "cast_id": 8,
+        "character": "Blanca (voice)",
+        "credit_id": "610317f88d1b8e002a6995b8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185754,
+        "known_for_department": "Acting",
+        "name": "Yang Tianxiang",
+        "original_name": "杨天翔",
+        "popularity": 2.0948,
+        "profile_path": "/jEwKu9VEtl0ecc6oA264U3iJV08.jpg",
+        "cast_id": 18,
+        "character": "(voice)",
+        "credit_id": "61b139809a64c1001c2fb89b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1837238,
+        "known_for_department": "Acting",
+        "name": "Baomu Zhongyang",
+        "original_name": "宝木中阳",
+        "popularity": 1.4579,
+        "profile_path": "/ivP7HNs61U6LFWmqXE2zEUIbwph.jpg",
+        "cast_id": 19,
+        "character": "(voice)",
+        "credit_id": "61b139da7ac829001d1282c2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2207403,
+        "known_for_department": "Acting",
+        "name": "Lin Qiang",
+        "original_name": "林強",
+        "popularity": 1.8333,
+        "profile_path": "/SX5ckTBqf0GpZlpR9nnFOPTgzX.jpg",
+        "cast_id": 20,
+        "character": "(voice)",
+        "credit_id": "61b139e82866fa0061ba3b4e",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1665495,
+        "known_for_department": "Editing",
+        "name": "Cui Di",
+        "original_name": "Di Cui",
+        "popularity": 0.405,
+        "profile_path": "/h1bvdl6YfGuU3DSREoa6bx3g30i.jpg",
+        "credit_id": "6087c10184448e0059f4aad8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2257667,
+        "known_for_department": "Writing",
+        "name": "Damao",
+        "original_name": "Damao",
+        "popularity": 0.5648,
+        "profile_path": null,
+        "credit_id": "6087c011bc2cb30057f33a89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2217620,
+        "known_for_department": "Directing",
+        "name": "Amp Wong",
+        "original_name": "Amp Wong",
+        "popularity": 0.6292,
+        "profile_path": "/igbwZbS8ENmpbkMSP6fpXIZYtwE.jpg",
+        "credit_id": "6087bfa3bc2cb30040dec474",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5028865,
+        "known_for_department": "Production",
+        "name": "Vincent Hsieh",
+        "original_name": "谢坤泽",
+        "popularity": 0.1738,
+        "profile_path": null,
+        "credit_id": "67206f819ff681d9e0a4c6f9",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 795607,
+    "keywords": [
+      {
+        "id": 278823,
+        "name": "3d animation"
+      },
+      {
+        "id": 279600,
+        "name": "white snake"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14,
+          878
+        ],
+        "id": 1258925,
+        "original_language": "th",
+        "original_title": "นักรบมนตรา: สะพานสู่ลงกา",
+        "overview": "The war between the armies of Nram and the emperor Ravana That fought each other for a long time, endlessIn another universe, during which battle Rama was missed, was abducted by a monk, kidnapped Sita, and fled. And this is the path to help Sita's  “Age” and “Whale” Now that both of them have cracks in a small relationship... but the word “duty above life” causes them to join each other with something that comes to mind.",
+        "popularity": 0.3199,
+        "poster_path": "/vxeIk7UTixAt1CMEUukJozfxj54.jpg",
+        "release_date": "2024-03-30",
+        "title": "Mantra Warrior: The Bridge to Lanka",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jUIT2wLol4NGLevmNBi3O7h8cMH.jpg",
+        "genre_ids": [
+          16,
+          10749,
+          35
+        ],
+        "id": 1252371,
+        "original_language": "ko",
+        "original_title": "유미의 세포들 더 무비",
+        "overview": "In pursuit of her lifelong dream of becoming a writer, Yumi takes the bold step of quitting her job to focus on preparing for a novel contest. From the Schedule Cell meticulously planning her writing schedule to the Writer Cell tirelessly seeking inspiration and the Cheapskate Cell tightening the purse strings, every cell works diligently to support Yumi in her aspirations. Yet, as worries about the future begin to mount, Anxiety Cell looms larger, casting a shadow over Yumi’s determination. Even the Love Cell, once sweet and hopeful, turns bitter and skeptical as her relationship with Babi hits rough patches. With conflicts among the cells intensifying, the Cell Village finds itself confronting a crisis unlike any it has faced before…",
+        "popularity": 0.6928,
+        "poster_path": "/hmdaq86MzrRe93YHDG4aZ1QcsWt.jpg",
+        "release_date": "2024-04-03",
+        "title": "Yumi's Cells: The Movie",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3fdzuCntWILNaUwp0Vo5it2VB82.jpg",
+        "genre_ids": [
+          16,
+          35,
+          27
+        ],
+        "id": 476719,
+        "original_language": "fr",
+        "original_title": "Garden Party",
+        "overview": "In a deserted rich house, a couple of amphibians explore their surroundings and follow their primal instincts.",
+        "popularity": 0.9308,
+        "poster_path": "/uexgjEoNVXZPIRYsUMwofnIL9xr.jpg",
+        "release_date": "2017-01-28",
+        "title": "Garden Party",
+        "video": false,
+        "vote_average": 7.122,
+        "vote_count": 94
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sAwid2NijZMJ8GVvgPtEXkIYtLL.jpg",
+        "genre_ids": [
+          16,
+          878,
+          14,
+          12
+        ],
+        "id": 22500,
+        "original_language": "fr",
+        "original_title": "Gandahar",
+        "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat.",
+        "popularity": 2.5325,
+        "poster_path": "/lDM8fxNsu8oYRmM66kZrLQnPNyw.jpg",
+        "release_date": "1987-12-11",
+        "title": "Gandahar",
+        "video": false,
+        "vote_average": 6.944,
+        "vote_count": 135
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pzqgQ6xm4XaKqg3Z7JJt82UjY9r.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          14
+        ],
+        "id": 481583,
+        "original_language": "en",
+        "original_title": "Barbie: Dreamtopia Festival of Fun",
+        "overview": "With their friends, Chelsea and Barbie take us on a fantastical journey, embarking on amazing adventures and exploring new lands full of limitless possibilities.",
+        "popularity": 0.5022,
+        "poster_path": "/zybhquH38BMn55GIwMQ6E3mGabR.jpg",
+        "release_date": "2018-07-15",
+        "title": "Barbie: Dreamtopia Festival of Fun",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gVgpNGHkgK8iPfKnc89jL8kmKsD.jpg",
+        "genre_ids": [
+          35,
+          16,
+          28,
+          12,
+          53
+        ],
+        "id": 24528,
+        "original_language": "en",
+        "original_title": "Killer Bean Forever",
+        "overview": "When things go bad in Beantown, top assassin Killer Bean is called to clean-up the mess. Detective Cromwell finds himself in the middle between Killer Bean and mob boss Cappuccino.",
+        "popularity": 1.6966,
+        "poster_path": "/qZTCweihd6H8IM2W1Bgk7M3HKrf.jpg",
+        "release_date": "2008-09-05",
+        "title": "Killer Bean Forever",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 183
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bACImU2OK8iFwDIIRBzLX4KOPL1.jpg",
+        "genre_ids": [
+          10751,
+          16
+        ],
+        "id": 21705,
+        "original_language": "en",
+        "original_title": "The Barbie Diaries",
+        "overview": "Barbie is disheartened when Todd breaks her heart and goes back to his former girlfriend. But things change when she comes across a diary, which makes her wishes come true.",
+        "popularity": 1.5699,
+        "poster_path": "/yRlB6Mu1NLccp2UP6QHAxJ1ulwl.jpg",
+        "release_date": "2006-05-17",
+        "title": "The Barbie Diaries",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 387
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7azfW8hJFlayltIW2Mc1jC78smZ.jpg",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 23566,
+        "original_language": "en",
+        "original_title": "Barbie and the Three Musketeers",
+        "overview": "Corinne is a young country girl who heads to Paris to pursue her big dream – to become a female musketeer! Never could she imagine she would meet three other girls who secretly share the same dream! Using their special talents, the girls work together as a team to foil a plot and save the prince. It's all for one and one for all!",
+        "popularity": 3.275,
+        "poster_path": "/zR0ts7zL2P1kQIQXYlnS4KCqqmu.jpg",
+        "release_date": "2009-09-15",
+        "title": "Barbie and the Three Musketeers",
+        "video": false,
+        "vote_average": 7.281,
+        "vote_count": 715
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/71egHDJ8bl2K0t6oIJ9mGA7Xdhl.jpg",
+        "genre_ids": [
+          16,
+          12,
+          18,
+          14,
+          9648
+        ],
+        "id": 667717,
+        "original_language": "zh",
+        "original_title": "深海",
+        "overview": "Shenxiu has felt a deep sadness since her mother left. A storm plunges her into a dreamlike world of swirling colour. Led by the Hyjinx, and joined by inventive underwater chef Nanhe, she embarks on a quest to find solace in the Eye of the Deep Sea.",
+        "popularity": 1.9885,
+        "poster_path": "/znSKKjTpwnFmlieJtnlLoI6McKK.jpg",
+        "release_date": "2023-01-22",
+        "title": "Deep Sea",
+        "video": false,
+        "vote_average": 6.971,
+        "vote_count": 137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v4xnYIVz91OtUZKDdBvJjFhFXTU.jpg",
+        "genre_ids": [
+          12,
+          16,
+          10751
+        ],
+        "id": 681260,
+        "original_language": "en",
+        "original_title": "Maya the Bee: The Golden Orb",
+        "overview": "When Maya, a headstrong little bee, and her best friend Willy, rescue an ant princess, they find themselves in the middle of an epic bug battle that will take them to strange new worlds and test their friendship to its limits.",
+        "popularity": 1.383,
+        "poster_path": "/tMS2qcbhbkFpcwLnbUE9o9IK4HH.jpg",
+        "release_date": "2021-01-07",
+        "title": "Maya the Bee: The Golden Orb",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 102
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/poTFhNtA1kZa3Qb6ulCwa5HPEKb.jpg",
+        "genre_ids": [
+          16,
+          878,
+          28,
+          12
+        ],
+        "id": 304023,
+        "original_language": "ja",
+        "original_title": "楽園追放 -Expelled from Paradise-",
+        "overview": "A.D. 2400, DEVA's central council detects an incident of unauthorized access into their mainframe. Someone on Earth was trying to hack into the system. The only information DEVA was able to retrieve was that hacker referred to themselves as \"Frontier Setter.\"  To investigate the mysterious hacker's motives, the high officials of DEVA dispatch system Security Third Officer Angela Balzac to the Earth's surface. Equipped with a prosthetic \"material body,\" Angela attempts to make contact with a local agent Dingo, but what awaited her instead was a swarm of Sandworms now infesting the Earth's surface. Angela intercepts the gruesome pests with her exoskeleton powered suit Arhan.",
+        "popularity": 1.5294,
+        "poster_path": "/5TJ8ilNGZe6OyVaj4VMmT3lp2x4.jpg",
+        "release_date": "2014-11-15",
+        "title": "Expelled from Paradise",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 98
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 872559,
+        "original_language": "en",
+        "original_title": "A Warm Place",
+        "overview": "Short, experimental clip of tall buildings, lots of them, plenty of vacant apartments and cosy weather - a warm place.",
+        "popularity": 0.1699,
+        "poster_path": "/7avpX0ZAjNWq4o9i3FVWGh9vsgn.jpg",
+        "release_date": "2018-03-09",
+        "title": "A Warm Place",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/g0wyUA9Qo0OinHOrJ5s35JXRUKz.jpg",
+        "genre_ids": [
+          16,
+          878
+        ],
+        "id": 1464377,
+        "original_language": "en",
+        "original_title": "Forever",
+        "overview": "A young adult comes home to organize his father’s belongings and inadvertently finds his childhood VR goggles, which open up memories of the past. In his early childhood, his father died unexpectedly, leaving him without closure. Through the VR goggles, he discovers that he may have a second chance to say goodbye to his father.",
+        "popularity": 0.4163,
+        "poster_path": "/vJvQv4oR4d2NkDS37kpGLg8bRaq.jpg",
+        "release_date": "2025-03-12",
+        "title": "Forever",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "id": 34134,
+        "original_language": "en",
+        "original_title": "Barbie in A Mermaid Tale",
+        "overview": "Barbie stars as Merliah, a surfer who learns a shocking secret: she's a mermaid! She and her dolphin friend set out for an undersea adventure to rescue her mother, the queen of Oceana.",
+        "popularity": 2.8447,
+        "poster_path": "/jtOlo3AaXVBnqfMeKGFrZUMPFui.jpg",
+        "release_date": "2010-01-25",
+        "title": "Barbie in A Mermaid Tale",
+        "video": false,
+        "vote_average": 7.244,
+        "vote_count": 798
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ixMuQoXXUum7phceTha4mU0VgyV.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12,
+          28
+        ],
+        "id": 1467040,
+        "original_language": "zh",
+        "original_title": "凡人修仙传之瀚海迷踪",
+        "overview": "",
+        "popularity": 0.3168,
+        "poster_path": "/qL662k0eMY0QytybKjeZbjDIgMo.jpg",
+        "release_date": "",
+        "title": "凡人修仙传之瀚海迷踪",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          12
+        ],
+        "id": 38757,
+        "original_language": "en",
+        "original_title": "Tangled",
+        "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+        "popularity": 18.9911,
+        "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+        "release_date": "2010-11-24",
+        "title": "Tangled",
+        "video": false,
+        "vote_average": 7.61,
+        "vote_count": 12084
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gjEiHrj8dSsgL25XbIxT9o5qO3u.jpg",
+        "genre_ids": [
+          16,
+          35,
+          28,
+          12,
+          10751,
+          14,
+          878
+        ],
+        "id": 1059572,
+        "original_language": "ja",
+        "original_title": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～",
+        "overview": "40-years ago, there was a prophecy claiming that in the year of “20” and “23”, two emitting lights would come to the Earth from outer space. And the dark light with strong power will bring out a huge disaster. In the summer of 2023, as predicted, two mysterious lights approach Japan and descend on Kasukabe. The white light hits Shin-chan, which makes him get a superpower. Meanwhile, a man called Mitsuru Hiriya, has been bathed in dark light and has acquired psychic powers begins to run amok. A man who wants the destruction of the world, Hiriya VS A happy-go-lucky kindergarten child, Shinnosuke. A superpower battle is going to begin!",
+        "popularity": 3.6044,
+        "poster_path": "/a56Fm2YWrlnqlC3TIgDvCJdzlKI.jpg",
+        "release_date": "2023-08-04",
+        "title": "New Dimension! Crayon Shin-chan the Movie: Battle of Supernatural Powers ~Flying Sushi~",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lNKYhboQSVlIKe3ugwb0mG1tidc.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35
+        ],
+        "id": 15165,
+        "original_language": "en",
+        "original_title": "Barbie as The Princess & the Pauper",
+        "overview": "In her first animated musical featuring seven original songs, Barbie comes to life in this modern re-telling of a classic tale of mistaken identity and the power of friendship. Based on the story by Mark Twain.",
+        "popularity": 4.9093,
+        "poster_path": "/xHYsUwUe4MaNc6mbNBGTkqZSnPk.jpg",
+        "release_date": "2004-09-28",
+        "title": "Barbie as The Princess & the Pauper",
+        "video": false,
+        "vote_average": 7.475,
+        "vote_count": 1525
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/budvUJdSNKVzEkNdoh4qa4r7Vj1.jpg",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 15167,
+        "original_language": "en",
+        "original_title": "Barbie in the Nutcracker",
+        "overview": "The Mouse King casts an evil spell over Clara that causes her to shrink. Clara and the Nutcracker set out on an adventurous journey to find Sugarplum Princess, who has the power to undo the spell.",
+        "popularity": 4.5464,
+        "poster_path": "/eIkXJggVmzN4MyPgJ2kDjOy9lmQ.jpg",
+        "release_date": "2001-09-30",
+        "title": "Barbie in the Nutcracker",
+        "video": false,
+        "vote_average": 6.882,
+        "vote_count": 1096
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vYjZEw6g76pDXSoXTwtypr42Iyz.jpg",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 13459,
+        "original_language": "en",
+        "original_title": "Barbie in 'A Christmas Carol'",
+        "overview": "On Christmas Eve, Kelly is reluctant to go to a Christmas Eve ball, so Barbie tells her the story of Eden Starling, a glamorous singing diva in the Victorian England and the owner of a theatre house. However, Eden is self-centered and loves only herself. She is frequently accompanied by her snooty cat, Chuzzlewit. She does not believe in Christmas and orders all her employees to work on Christmas.",
+        "popularity": 3.3171,
+        "poster_path": "/fX9g1AE1JIqjX3LPPKVjcmHs6fd.jpg",
+        "release_date": "2008-11-03",
+        "title": "Barbie in 'A Christmas Carol'",
+        "video": false,
+        "vote_average": 7.174,
+        "vote_count": 577
+      }
+    ],
+    "total_pages": 7555,
+    "total_results": 151094
+  }
+}

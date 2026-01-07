@@ -1,0 +1,969 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.39yw4dp13gshxq5bt9fsl0o5y",
+    "id": 1022256,
+    "imdb_id": "tt21819250",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Selena Gomez: My Mind & Me",
+    "overview": "After years in the limelight, Selena Gomez achieves unimaginable stardom. But just as she reaches a new peak, an unexpected turn pulls her into darkness. This uniquely raw and intimate documentary spans her six-year journey into a new light.",
+    "popularity": 3.6073,
+    "poster_path": "/usJxHVxT70lAA7AynnZlmPth7R3.jpg",
+    "production_companies": [
+      {
+        "id": 91390,
+        "logo_path": "/asfiFPtyptv1qW7fvGPe95RtKr7.png",
+        "name": "Lighthouse Management + Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 118381,
+        "logo_path": "/jXGMxHQREYFoojxN9BaLBbdkglQ.png",
+        "name": "Interscope Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-11-04",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Every breath, a breakthrough.",
+    "title": "Selena Gomez: My Mind & Me",
+    "video": false,
+    "vote_average": 8.618,
+    "vote_count": 569
+  },
+  "credits": {
+    "id": 1022256,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77948,
+        "known_for_department": "Acting",
+        "name": "Selena Gomez",
+        "original_name": "Selena Gomez",
+        "popularity": 3.5971,
+        "profile_path": "/o6YXy5km1R41hRu7xzWB7fl8h8I.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "631a21920f0da5009b47ab39",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2748908,
+        "known_for_department": "Acting",
+        "name": "Raquelle Stevens",
+        "original_name": "Raquelle Stevens",
+        "popularity": 0.5701,
+        "profile_path": "/khe8Ag6GRAMaEqdNT614IOl301d.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "63a5c7e1c048a900d7f3588b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3768916,
+        "known_for_department": "Acting",
+        "name": "Ashley Cook",
+        "original_name": "Ashley Cook",
+        "popularity": 0.1558,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "63a5c811310325009322a791",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 557778,
+        "known_for_department": "Acting",
+        "name": "Liana Blackburn",
+        "original_name": "Liana Blackburn",
+        "popularity": 0.2667,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "693ab4fa71e3420fbb1ff36e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1290596,
+        "known_for_department": "Acting",
+        "name": "Brent L. Boxberger",
+        "original_name": "Brent L. Boxberger",
+        "popularity": 0.3027,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "693ab520dd97317ef6dfaa17",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5251601,
+        "known_for_department": "Acting",
+        "name": "Devyck Bull",
+        "original_name": "Devyck Bull",
+        "popularity": 0.1373,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "693ab5384b5267bec16904b1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871130,
+        "known_for_department": "Acting",
+        "name": "Mia Campagna",
+        "original_name": "Mia Campagna",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "693ab55da5b91cc28d690480",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871132,
+        "known_for_department": "Acting",
+        "name": "Rodney Chonia",
+        "original_name": "Rodney Chonia",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "693ab571d6e42daac5dfaa3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4763178,
+        "known_for_department": "Visual Effects",
+        "name": "Samantha Coatsworth",
+        "original_name": "Samantha Coatsworth",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "693ab58a69e1f0dc05aea35b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871134,
+        "known_for_department": "Acting",
+        "name": "Toshi Davidson",
+        "original_name": "Toshi Davidson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Self",
+        "credit_id": "693ab5a55ea90b57d7b840c2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871135,
+        "known_for_department": "Acting",
+        "name": "Priscilla Deleon",
+        "original_name": "Priscilla Deleon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Self",
+        "credit_id": "693ab5b99e69f7bfe0cdf2cf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4082307,
+        "known_for_department": "Acting",
+        "name": "Stevie Dore",
+        "original_name": "Stevie Dore",
+        "popularity": 0.134,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Self",
+        "credit_id": "693ab5d2d46e70d1e11d2a74",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50949,
+        "known_for_department": "Directing",
+        "name": "Alek Keshishian",
+        "original_name": "Alek Keshishian",
+        "popularity": 0.605,
+        "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg",
+        "credit_id": "631a21a9cf9ba3007987d57f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50949,
+        "known_for_department": "Directing",
+        "name": "Alek Keshishian",
+        "original_name": "Alek Keshishian",
+        "popularity": 0.605,
+        "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg",
+        "credit_id": "631a343f1d1bf400797ef543",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59702,
+        "known_for_department": "Production",
+        "name": "Aleen Keshishian",
+        "original_name": "Aleen Keshishian",
+        "popularity": 1.2631,
+        "profile_path": null,
+        "credit_id": "631a3484426ae80098299cab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2241696,
+        "known_for_department": "Production",
+        "name": "Zack Morgenroth",
+        "original_name": "Zack Morgenroth",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "631a348e62fcd3007cfb00e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2201266,
+        "known_for_department": "Production",
+        "name": "Michelle An",
+        "original_name": "Michelle An",
+        "popularity": 1.2974,
+        "profile_path": null,
+        "credit_id": "631a3498caef2d007e72e133",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617012,
+        "known_for_department": "Production",
+        "name": "Katherine LeBlond",
+        "original_name": "Katherine LeBlond",
+        "popularity": 0.2339,
+        "profile_path": null,
+        "credit_id": "631a34e81c6329007cc00ba4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1084980,
+        "known_for_department": "Production",
+        "name": "Stephanie Meurer",
+        "original_name": "Stephanie Meurer",
+        "popularity": 0.316,
+        "profile_path": null,
+        "credit_id": "631a34f0caef2d00794aff20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2419427,
+        "known_for_department": "Production",
+        "name": "Caitlin Daley",
+        "original_name": "Caitlin Daley",
+        "popularity": 0.3121,
+        "profile_path": null,
+        "credit_id": "631a34f81c6329007cc00baa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527329,
+        "known_for_department": "Production",
+        "name": "John Janick",
+        "original_name": "John Janick",
+        "popularity": 1.5535,
+        "profile_path": null,
+        "credit_id": "631a3502fac5020085cb1174",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2646405,
+        "known_for_department": "Production",
+        "name": "Steve Berman",
+        "original_name": "Steve Berman",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "631a3605caef2d007e72e178",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50949,
+        "known_for_department": "Directing",
+        "name": "Alek Keshishian",
+        "original_name": "Alek Keshishian",
+        "popularity": 0.605,
+        "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg",
+        "credit_id": "63f1a71352497800dc439287",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 551991,
+        "known_for_department": "Editing",
+        "name": "Paul Marchand",
+        "original_name": "Paul Marchand",
+        "popularity": 0.4206,
+        "profile_path": null,
+        "credit_id": "63f1a720caaca200a19b56d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2733680,
+        "known_for_department": "Camera",
+        "name": "David Paul Jacobson",
+        "original_name": "David Paul Jacobson",
+        "popularity": 0.2574,
+        "profile_path": null,
+        "credit_id": "63f1a755caaca200a19b56eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31230,
+        "known_for_department": "Camera",
+        "name": "Matthias Schubert",
+        "original_name": "Matthias Schubert",
+        "popularity": 0.1658,
+        "profile_path": null,
+        "credit_id": "63f1a764a67254007de8cfc9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3929163,
+        "known_for_department": "Camera",
+        "name": "Hunter Simmons",
+        "original_name": "Hunter Simmons",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "63f1a76ea67254007de8cfd3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1897021,
+        "known_for_department": "Editing",
+        "name": "Rodrigo Brazão",
+        "original_name": "Rodrigo Brazão",
+        "popularity": 0.3234,
+        "profile_path": null,
+        "credit_id": "63f1a77815376c00cb232bce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117762,
+        "known_for_department": "Editing",
+        "name": "David Brodie",
+        "original_name": "David Brodie",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "credit_id": "63f1a78315376c0083362fdf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2478152,
+        "known_for_department": "Editing",
+        "name": "Scott Evans",
+        "original_name": "Scott Evans",
+        "popularity": 0.1439,
+        "profile_path": "/tbxbGwcmxlgNOKElDllaHxJydfy.jpg",
+        "credit_id": "63f1a79152497800dc4392dd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2744570,
+        "known_for_department": "Editing",
+        "name": "Veronica Pinkham",
+        "original_name": "Veronica Pinkham",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63f1a79ca24c5000a13cc975",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2322728,
+        "known_for_department": "Directing",
+        "name": "Inaya Graciana Yusuf",
+        "original_name": "Inaya Graciana Yusuf",
+        "popularity": 0.8635,
+        "profile_path": null,
+        "credit_id": "63f1a7a615376c0095b19dae",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3459474,
+        "known_for_department": "Sound",
+        "name": "Mike James Gallagher",
+        "original_name": "Mike James Gallagher",
+        "popularity": 0.5762,
+        "profile_path": null,
+        "credit_id": "63f1a7b1a24c5000848cebe0",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348000,
+        "known_for_department": "Sound",
+        "name": "Jeffrey A. Pitts",
+        "original_name": "Jeffrey A. Pitts",
+        "popularity": 0.6527,
+        "profile_path": null,
+        "credit_id": "63f1a7cd15376c0095b19dc7",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92992,
+        "known_for_department": "Sound",
+        "name": "Matthew Olivo",
+        "original_name": "Matthew Olivo",
+        "popularity": 0.2411,
+        "profile_path": null,
+        "credit_id": "63f1a7d8a6725400865d6b88",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1919839,
+        "known_for_department": "Sound",
+        "name": "Anthony Vanchure",
+        "original_name": "Anthony Vanchure",
+        "popularity": 2.1836,
+        "profile_path": null,
+        "credit_id": "63f1a7ef4a4bfc008ece50cf",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1980964,
+        "known_for_department": "Sound",
+        "name": "Alex Altman",
+        "original_name": "Alex Altman",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "67aa8bd909b8551a04b09215",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1022256,
+    "keywords": [
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4aJ8qWazwP9Y9WDqztrMC4KmMWv.jpg",
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 2152,
+        "original_language": "en",
+        "original_title": "Dixie Chicks: Shut Up and Sing",
+        "overview": "Shut Up and Sing is a documentary about the country band from Texas called the Dixie Chicks and how one tiny comment against President Bush dropped their number one hit off the charts and caused fans to hate them, destroy their CD’s, and protest at their concerts. A film about freedom of speech gone out of control and the three girls lives that were forever changed by a small anti-Bush comment",
+        "popularity": 0.1622,
+        "poster_path": "/7aZ8uWvCckLTbalbiqut3Vrt33c.jpg",
+        "release_date": "2006-10-27",
+        "title": "Dixie Chicks: Shut Up and Sing",
+        "video": false,
+        "vote_average": 6.691,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 647800,
+        "original_language": "en",
+        "original_title": "R.E.M.: Rough Cut",
+        "overview": "A behind-the-scenes documentary of R.E.M. as they prepare to embark on their 1995 Monster World Tour.",
+        "popularity": 0.407,
+        "poster_path": "/5qyhUGeqNgKeZF49Uh2yQ7LiBha.jpg",
+        "release_date": "1995-10-24",
+        "title": "R.E.M.: Rough Cut",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10402,
+          99,
+          35
+        ],
+        "id": 1236419,
+        "original_language": "en",
+        "original_title": "Piece by Piece",
+        "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+        "popularity": 3.4231,
+        "poster_path": "/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+        "release_date": "2024-10-10",
+        "title": "Piece by Piece",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 134
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jMShbtTT0tlIqCNFhmLAzMElu7b.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 844141,
+        "original_language": "en",
+        "original_title": "Dionne Warwick: Don't Make Me Over",
+        "overview": "The story of the iconic singer's fascinating six-decade career in both music and Black and LGBTQ activism.",
+        "popularity": 0.1327,
+        "poster_path": "/rbmcLy4xhS55t3hBnWQtcAYkoFM.jpg",
+        "release_date": "2021-09-11",
+        "title": "Dionne Warwick: Don't Make Me Over",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3znTh8YsDXoMQo7O7OYCgGVyqw7.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1244487,
+        "original_language": "en",
+        "original_title": "ZEF - The Story of Die Antwoord",
+        "overview": "South African producer / director JON DAY spent the last 5 years making a documentary about the mysterious rap-rave group, DIE ANTWOORD. Art directed by surrealist photographer, ROGER BALLEN. Narrated by NINJA & ¥O-LANDI'S daughter, 16 JONES.",
+        "popularity": 0.6097,
+        "poster_path": "/eFPSEfNovs5ve1TTu0fRTQQ43sg.jpg",
+        "release_date": "2024-03-23",
+        "title": "ZEF - The Story of Die Antwoord",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zZEJu3db4Ld4urK5klPvQxkWzaX.jpg",
+        "genre_ids": [
+          12,
+          14,
+          18,
+          35,
+          10402
+        ],
+        "id": 6116,
+        "original_language": "en",
+        "original_title": "Spice World",
+        "overview": "World famous pop group the Spice Girls zip around London in their luxurious double decker tour bus having various adventures and performing for their fans.",
+        "popularity": 1.1603,
+        "poster_path": "/vKiAnV1QAGIJP38vatwCZp4dCrH.jpg",
+        "release_date": "1997-12-18",
+        "title": "Spice World",
+        "video": false,
+        "vote_average": 4.87,
+        "vote_count": 496
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/47tZ5EDrUEePs5DzQ30YsXecmk5.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 847692,
+        "original_language": "en",
+        "original_title": "SLY LIVES! (aka The Burden of Black Genius)",
+        "overview": "An examination of the life and legacy of Sly & The Family Stone – the groundbreaking band led by the charismatic Sly Stone – that captures the band's reign while shedding light on the burden that comes with success for Black artists in America.",
+        "popularity": 0.5288,
+        "poster_path": "/5aRjJdgFRxy3gQ0l7zgGARMansx.jpg",
+        "release_date": "2025-01-23",
+        "title": "SLY LIVES! (aka The Burden of Black Genius)",
+        "video": false,
+        "vote_average": 6.917,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lz1GZQGZ07kPEy6gGUYOWDrttEe.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 267811,
+        "original_language": "en",
+        "original_title": "Paul McCartney: In the World Tonight",
+        "overview": "Documenting the recording process for Paul's 1997 album Flaming Pie, In The World Tonight is a fascinating insight into how a studio album is constructed, following Paul around his home studio and Abbey Road as he creates what would go on to be his first studio album in four years. In many ways there are two Paul McCartneys, the legend and the man. In The World Tonight reveals the man behind the public face, intimately capturing him at work, at ease and as candid as ever.",
+        "popularity": 0.1828,
+        "poster_path": "/1TRwPQewsKJ4CrWSpU6oudeDol.jpg",
+        "release_date": "1997-05-02",
+        "title": "Paul McCartney: In the World Tonight",
+        "video": true,
+        "vote_average": 9.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6XE1UNVs7jkIa6fDBzBAqcCguxL.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 460124,
+        "original_language": "ja",
+        "original_title": "hide 50th anniversary FILM 「JUNK STORY」",
+        "overview": "A look back at the life and career of Japanese guitarist hide, who died under questionable circumstances in 1998.",
+        "popularity": 0.2112,
+        "poster_path": "/vsdmzYSDfmAfhVgSCJisD72oHvz.jpg",
+        "release_date": "2015-05-23",
+        "title": "Junk Story",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 649404,
+        "original_language": "en",
+        "original_title": "Country's Family Reunion: Volume One",
+        "overview": "Featuring everything from Old-Time Gospel to Honky Tonk and Bluegrass, the beloved performance show Country’s Family Reunion started all the way back in 1996,  Country music legends gathered in an informal setting to sing nostalgic songs, share their stories, and provide a fascinating behind-the-scenes glimpse into their histories.  The reunions soon became a favorite cable television show that ran for over two decades.",
+        "popularity": 0.166,
+        "poster_path": "/eSHj0FZbz89dYUkHm6jW4jCRW7H.jpg",
+        "release_date": "2005-06-22",
+        "title": "Country's Family Reunion: Volume One",
+        "video": true,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 649408,
+        "original_language": "en",
+        "original_title": "Country's Family Reunion 1: Volume Two",
+        "overview": "The original Country's Family Reunion taping that started it all! The first time our country's family reunion folk ever sat together to share stories and songs.",
+        "popularity": 0.3113,
+        "poster_path": "/rDQqpRZ1DlXOkQsaJ6VAYveOxwU.jpg",
+        "release_date": "2005-06-22",
+        "title": "Country's Family Reunion 1: Volume Two",
+        "video": true,
+        "vote_average": 4.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eXQSdTxHG3pVEyEURjUmBFahvn3.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1238223,
+        "original_language": "es",
+        "original_title": "Storm",
+        "overview": "",
+        "popularity": 0.2749,
+        "poster_path": "/aE1Stnzaa5mWfOIgCO4pK21lJCk.jpg",
+        "release_date": "2021-11-06",
+        "title": "Storm",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AjqtdmyNS4gqWJK8rJJx40yWzaW.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1043338,
+        "original_language": "ja",
+        "original_title": "ELLEGARDEN : Lost & Found",
+        "overview": "A sensation to indies rock scene since 2000s and actively present today among fans even during their breaks. The first full-length documentary in the band’s history starts from the production base in LA for the first album in 16 years, and navigates the stories from how they started, took break after breaking through, and reunited with nationwide fans awaited.",
+        "popularity": 0.192,
+        "poster_path": "/nP5FYTKHI1GBZ6Hmcn1Wbmqckbz.jpg",
+        "release_date": "2022-11-25",
+        "title": "ELLEGARDEN: Lost & Found",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 274080,
+        "original_language": "en",
+        "original_title": "Sound of the Soul",
+        "overview": "SOUND OF THE SOUL is a compelling portrait of an Arab country where Muslims, Christians, and Jews have lived together in relative peace for centuries. Beautifully photographed during the Fez Festival of World Sacred Music, the film presents unforgettable performances from groups from Morocco, Ireland, Russia, Afghanistan, Mauritania, the USA, Portugal and France, which carry viewers into what the film's Moroccan sufi guide calls \"the hearing of the heart\": the essential Oneness at the core of all religions and faiths.",
+        "popularity": 0.3948,
+        "poster_path": "/77jkGOMfgGbVSm7YbtUVBkHe1lG.jpg",
+        "release_date": "2005-10-07",
+        "title": "Sound of the Soul",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rYhpc1m3WaIzXDGkFUZEiDlAYCk.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1041956,
+        "original_language": "en",
+        "original_title": "Dusty & Stones",
+        "overview": "Dusty and Stones struggle to sustain a country music career in their tiny African Kingdom of Swaziland and yearn for greater recognition. When they are unexpectedly nominated to compete in a Texas battle of the bands, the two cousins journey to the heart of American country music, determined to win big and turn their careers around.",
+        "popularity": 1.2377,
+        "poster_path": "/y9DkVFii76lfpEA0XAb4MAcAKK9.jpg",
+        "release_date": "2022-11-17",
+        "title": "Dusty & Stones",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/byFaY4QazXpMEeVx6NlZEmOUi8D.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 268318,
+        "original_language": "pt",
+        "original_title": "A Farra do Circo",
+        "overview": "This documentary highlights the evolution of Brazil's Circo Voador venue from homespun artists' performance space to national cultural institution.",
+        "popularity": 2.0612,
+        "poster_path": "/89uJG6Cf714KjbC55XzHjxlCr27.jpg",
+        "release_date": "2013-11-30",
+        "title": "A Farra do Circo",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1233518,
+        "original_language": "en",
+        "original_title": "Mommy, What's a Funkadelic?",
+        "overview": "George Clinton's somewhat absurdist take on Parliament-Funkadelic history. Features never-before-granted access to his archive and spotlights his alter egos and friends",
+        "popularity": 0.2395,
+        "poster_path": "/wBHkVImdxWdgwlWbisGqkQsV2Sz.jpg",
+        "release_date": "",
+        "title": "Mommy, What's a Funkadelic?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 857800,
+        "original_language": "en",
+        "original_title": "Becoming Led Zeppelin",
+        "overview": "The individual journeys of the four members of the band, as they move through the music scene of the 1960s, playing small clubs throughout Britain and performing some of the biggest hits of the era, until their meeting in the summer of 1968 for a rehearsal that changes their lives forever.",
+        "popularity": 2.4979,
+        "poster_path": "/cAxteOtjaeQN045qNNbSEwu78c4.jpg",
+        "release_date": "2025-02-05",
+        "title": "Becoming Led Zeppelin",
+        "video": false,
+        "vote_average": 7.202,
+        "vote_count": 99
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p1XtUnWJrmVNqyhYJGIatMNt8C1.jpg",
+        "genre_ids": [
+          16,
+          878,
+          10402,
+          12
+        ],
+        "id": 11049,
+        "original_language": "en",
+        "original_title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "overview": "Four talented alien musicians are kidnapped by a record producer who disguises them as humans. Shep, a space pilot in love with bass player Stella, follows them to Earth. Reprogrammed to forget their real identities and renamed The Crescendolls, the group quickly becomes a huge success playing soulless corporate pop. At a concert, Shep manages to free all the musicians except Stella, and the band sets out to rediscover who they really are — and to rescue Stella.",
+        "popularity": 1.8743,
+        "poster_path": "/n0K6mjU8aVnag2mi93FuvJsjZi.jpg",
+        "release_date": "2003-05-28",
+        "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "video": false,
+        "vote_average": 7.796,
+        "vote_count": 501
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6DaakTMERMr805MLPh7DouHwkzS.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 20604,
+        "original_language": "en",
+        "original_title": "Metal: A Headbanger's Journey",
+        "overview": "The film discusses the traits and originators of some of metal's many subgenres, including the New Wave of British Heavy Metal, power metal, Nu metal, glam metal, thrash metal, black metal, and death metal. Dunn uses a family-tree-type flowchart to document some of the most popular metal subgenres. The film also explores various aspects of heavy metal culture.",
+        "popularity": 0.5182,
+        "poster_path": "/8e1q6wP5XVcjh3yLVU1WNdZnppm.jpg",
+        "release_date": "2005-09-14",
+        "title": "Metal: A Headbanger's Journey",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 164
+      }
+    ],
+    "total_pages": 13186,
+    "total_results": 263720
+  }
+}

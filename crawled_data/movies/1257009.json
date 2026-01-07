@@ -1,0 +1,973 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "https://primitivewarmovie.com/",
+    "id": 1257009,
+    "imdb_id": "tt18312380",
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_title": "Primitive War",
+    "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
+    "popularity": 22.8877,
+    "poster_path": "/7eKt7FpNgSGCKnwyeOnlC7usf2V.jpg",
+    "production_companies": [
+      {
+        "id": 135020,
+        "logo_path": "/wqj9mXcpTrWs7yW6lrjYu37G0FC.png",
+        "name": "Sparke Films",
+        "origin_country": "AU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2025-08-21",
+    "revenue": 217753,
+    "runtime": 133,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "This ain't no walk in the park.",
+    "title": "Primitive War",
+    "video": false,
+    "vote_average": 6.772,
+    "vote_count": 202
+  },
+  "credits": {
+    "id": 1257009,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12799,
+        "known_for_department": "Acting",
+        "name": "Jeremy Piven",
+        "original_name": "Jeremy Piven",
+        "popularity": 4.1038,
+        "profile_path": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg",
+        "cast_id": 4,
+        "character": "Colonel Jericho",
+        "credit_id": "660503d3f90b19017ca824ae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74423,
+        "known_for_department": "Acting",
+        "name": "Tricia Helfer",
+        "original_name": "Tricia Helfer",
+        "popularity": 3.5118,
+        "profile_path": "/cXwa8yT2Qv7EmCI8yjs5ldvMHmw.jpg",
+        "cast_id": 5,
+        "character": "Sofia",
+        "credit_id": "660503e3813cb6017b19322c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133212,
+        "known_for_department": "Acting",
+        "name": "Ryan Kwanten",
+        "original_name": "Ryan Kwanten",
+        "popularity": 1.8418,
+        "profile_path": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg",
+        "cast_id": 6,
+        "character": "Baker",
+        "credit_id": "6605040cd7f4650163db6587",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453100,
+        "known_for_department": "Acting",
+        "name": "Nick Wechsler",
+        "original_name": "Nick Wechsler",
+        "popularity": 1.2974,
+        "profile_path": "/vUkfhJc2x3jrO9WY7D1405g4amE.jpg",
+        "cast_id": 7,
+        "character": "Eli",
+        "credit_id": "6605041d15dea0018527bb23",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207282,
+        "known_for_department": "Acting",
+        "name": "Anthony Ingruber",
+        "original_name": "Anthony Ingruber",
+        "popularity": 0.8165,
+        "profile_path": "/fUTCd1jGGQHn912czglHg28v4gR.jpg",
+        "cast_id": 8,
+        "character": "Keyes",
+        "credit_id": "660504382811a10163da5c29",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203030,
+        "known_for_department": "Acting",
+        "name": "Aaron Glenane",
+        "original_name": "Aaron Glenane",
+        "popularity": 1.201,
+        "profile_path": "/4JjTJIgJ0GDTo4egADEn3nW79Zk.jpg",
+        "cast_id": 9,
+        "character": "Logan",
+        "credit_id": "6605044b813cb6017b1932a6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2643797,
+        "known_for_department": "Acting",
+        "name": "Carlos Sanson Jr.",
+        "original_name": "Carlos Sanson Jr.",
+        "popularity": 1.5588,
+        "profile_path": "/cta9cAYDh46lfDdt2sAtWD7GBmH.jpg",
+        "cast_id": 10,
+        "character": "Leon",
+        "credit_id": "6605046315dea0018527bb83",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4079346,
+        "known_for_department": "Acting",
+        "name": "Ana Thu Nguyen",
+        "original_name": "Ana Thu Nguyen",
+        "popularity": 1.1852,
+        "profile_path": "/cwGOgAoVgtEUVDeqW0OoPpcAYvU.jpg",
+        "cast_id": 11,
+        "character": "Con Nhen",
+        "credit_id": "660504742811a10186daa003",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364248,
+        "known_for_department": "Acting",
+        "name": "Adolphus Waylee",
+        "original_name": "Adolphus Waylee",
+        "popularity": 0.1959,
+        "profile_path": "/14jyy1SCiM2xQnG017gFCgyIaEI.jpg",
+        "cast_id": 12,
+        "character": "Xavier",
+        "credit_id": "6605048d15dea0018527bbd7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213070,
+        "known_for_department": "Acting",
+        "name": "Marcus Johnson",
+        "original_name": "Marcus Johnson",
+        "popularity": 1.3948,
+        "profile_path": "/fqAZqGw6fm6R3uBRSyCi0OvVWWO.jpg",
+        "cast_id": 14,
+        "character": "Ibex",
+        "credit_id": "66050563c5840d0184c4a03e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531206,
+        "known_for_department": "Acting",
+        "name": "Jake Ryan",
+        "original_name": "Jake Ryan",
+        "popularity": 0.7341,
+        "profile_path": "/3OO5qc1kj2ny7rCLjKYDdEzPBdJ.jpg",
+        "cast_id": 15,
+        "character": "Major Wallace",
+        "credit_id": "6605058ed7cd06014a87d38d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2570861,
+        "known_for_department": "Acting",
+        "name": "M.J. Kokolis",
+        "original_name": "M.J. Kokolis",
+        "popularity": 0.1564,
+        "profile_path": "/4X75ap3aX0gB1iH0prgzn5a8nFk.jpg",
+        "cast_id": 18,
+        "character": "Sergei",
+        "credit_id": "68ab4c17a47bc31188670376",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555945,
+        "known_for_department": "Acting",
+        "name": "Henry Nixon",
+        "original_name": "Henry Nixon",
+        "popularity": 0.383,
+        "profile_path": "/fQL3rtJbKL3ZTOEcoFK8Z6qYpHV.jpg",
+        "cast_id": 19,
+        "character": "Bishop",
+        "credit_id": "68c3c488bc5c44280a7ce532",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1893676,
+        "known_for_department": "Acting",
+        "name": "Ryan Panizza",
+        "original_name": "Ryan Panizza",
+        "popularity": 1.8891,
+        "profile_path": "/iniLzLEEkZ6lBqFp2A7lLFmqIAW.jpg",
+        "cast_id": 20,
+        "character": "Tolstoy",
+        "credit_id": "68c3c4952b37e9144e2a0666",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130322,
+        "known_for_department": "Acting",
+        "name": "Jeremy Lindsay Taylor",
+        "original_name": "Jeremy Lindsay Taylor",
+        "popularity": 1.6634,
+        "profile_path": "/bW3vqOPnIFgtps6bsaixGFnxIbj.jpg",
+        "cast_id": 21,
+        "character": "Borodin",
+        "credit_id": "68c3c4a0353114f8d2199e0e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2551333,
+        "known_for_department": "Acting",
+        "name": "Kawakawa Fox-Reo",
+        "original_name": "Kawakawa Fox-Reo",
+        "popularity": 0.17,
+        "profile_path": "/lNlDmoXmmZTwkeEDo2QUEhYI00Q.jpg",
+        "cast_id": 22,
+        "character": "Ricardo",
+        "credit_id": "68c3c4aae4c792b1693be017",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94798,
+        "known_for_department": "Acting",
+        "name": "Lincoln Lewis",
+        "original_name": "Lincoln Lewis",
+        "popularity": 0.5769,
+        "profile_path": "/icC8jrmgTcfZV41N5s1Bbw7McqY.jpg",
+        "cast_id": 23,
+        "character": "Zimmer",
+        "credit_id": "68c3c4b33307c5da78d26280",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5837275,
+        "known_for_department": "Acting",
+        "name": "Adam Fraser",
+        "original_name": "Adam Fraser",
+        "popularity": 0.1717,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "American Soldier",
+        "credit_id": "6924d1b5f40bb4e86e9dc080",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4583733,
+        "known_for_department": "Writing",
+        "name": "Ethan Pettus",
+        "original_name": "Ethan Pettus",
+        "popularity": 0.0672,
+        "profile_path": null,
+        "credit_id": "65ed77a4edeb430186c32f99",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 2.3472,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "65ed7781447f9c018760aa7e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 2.3472,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "65ed7776a9b9a40164d54557",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544355,
+        "known_for_department": "Sound",
+        "name": "Frederik Wiedmann",
+        "original_name": "Frederik Wiedmann",
+        "popularity": 0.3753,
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "credit_id": "68ab02281b66fbae3a781cb0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429364,
+        "known_for_department": "Camera",
+        "name": "Wade Muller",
+        "original_name": "Wade Muller",
+        "popularity": 0.3222,
+        "profile_path": null,
+        "credit_id": "68ab023d1001163fe36702fd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1737939,
+        "known_for_department": "Acting",
+        "name": "Alex Becconsall",
+        "original_name": "Alex Becconsall",
+        "popularity": 0.1727,
+        "profile_path": null,
+        "credit_id": "68c3c4c5aa620a8b15d26246",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1973574,
+        "known_for_department": "Production",
+        "name": "Carmel Imrie",
+        "original_name": "Carmel Imrie",
+        "popularity": 0.1772,
+        "profile_path": null,
+        "credit_id": "68c3c4d5e109cb9fbc2ceb49",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3574206,
+        "known_for_department": "Production",
+        "name": "Carly Sparke",
+        "original_name": "Carly Sparke",
+        "popularity": 0.1782,
+        "profile_path": null,
+        "credit_id": "68c3c4e2060e088c30cdc7fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 2.3472,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c4ece7201899887ce4fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 2.3472,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c4f36c830a8aff2a0680",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 2.3472,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c50580e2477e8a2ceae8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 2.3472,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c50cd48d9e9a777ce4c9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2134413,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tracey Rose Sparke",
+        "original_name": "Tracey Rose Sparke",
+        "popularity": 0.0997,
+        "profile_path": null,
+        "credit_id": "68c3c51a80e2477e8a2ceaeb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1737939,
+        "known_for_department": "Acting",
+        "name": "Alex Becconsall",
+        "original_name": "Alex Becconsall",
+        "popularity": 0.1727,
+        "profile_path": null,
+        "credit_id": "68c3c52780e2477e8a2ceaee",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5495786,
+        "known_for_department": "Directing",
+        "name": "Zoe Marxsen",
+        "original_name": "Zoe Marxsen",
+        "popularity": 0.1309,
+        "profile_path": null,
+        "credit_id": "68c3c531e66542feb9861024",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1257009,
+    "keywords": [
+      {
+        "id": 2957,
+        "name": "vietnam war"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 10506,
+        "name": "prehistory"
+      },
+      {
+        "id": 10789,
+        "name": "prehistoric creature"
+      },
+      {
+        "id": 12616,
+        "name": "dinosaur"
+      },
+      {
+        "id": 50009,
+        "name": "survival horror"
+      },
+      {
+        "id": 235266,
+        "name": "horror novel"
+      },
+      {
+        "id": 273967,
+        "name": "war"
+      },
+      {
+        "id": 286957,
+        "name": "adaptation"
+      },
+      {
+        "id": 325766,
+        "name": "antagonistic"
+      },
+      {
+        "id": 325773,
+        "name": "audacious"
+      },
+      {
+        "id": 325781,
+        "name": "celebratory"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27,
+          10770,
+          53
+        ],
+        "id": 293830,
+        "original_language": "en",
+        "original_title": "Terminal",
+        "overview": "A hospital in need of funds announces a cure for a form of brain cancer, having saved several wealthy men's lives. When a young girl with the cancer dies, one doctor notices that she and all the cured men had been treated with exactly the same medicine. Investigating further, she uncovers a plot by the administration to locate wealthy men already suffering from a serious condition, and give them the cancer, which can then be treated successfully.",
+        "popularity": 2.5403,
+        "poster_path": "/nGGnyrIr7bmD6etyruQJpKvQk27.jpg",
+        "release_date": "1996-02-12",
+        "title": "Terminal",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r4TIHnoLEucG5tgaqGtRhXv1bVJ.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752,
+          10751
+        ],
+        "id": 1069473,
+        "original_language": "en",
+        "original_title": "Het Huis in het Midden van de Zee",
+        "overview": "After the Germans flooded large parts of The Netherlands towards the end of WWII, the Brouwer family find themselves trapped in their attic surrounded by water. With their rations dwindling, tensions arise within the household.",
+        "popularity": 0.1186,
+        "poster_path": "/sy7gJNjxyRmb06xBrGEZLCW3Dqx.jpg",
+        "release_date": "2022-08-21",
+        "title": "The House in the Middle of the Sea",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7jnqgnLUgazXvTwpZgnGgYAgEiN.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 28189,
+        "original_language": "fr",
+        "original_title": "La Chute de la maison Usher",
+        "overview": "Convinced that his family is tainted by generations of evil, Roderick Usher is hellbent on stopping his sister Madeline’s wedding to prevent the cursed Usher bloodline from expanding. When her fiancé Allan arrives at the crumbling estate to claim his bride, Roderick goes to ruthless—even deadly—lengths to keep them apart.",
+        "popularity": 0.811,
+        "poster_path": "/gWpTehQgkkpMfxdCkr5CwU8vONR.jpg",
+        "release_date": "1928-10-04",
+        "title": "The Fall of the House of Usher",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 137
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sBcLY7JPs2PEGhfeiVZaU4HsCYK.jpg",
+        "genre_ids": [
+          27,
+          10749
+        ],
+        "id": 28261,
+        "original_language": "en",
+        "original_title": "Mad Love",
+        "overview": "An insane surgeon's obsession with an actress leads him to replace her wounded pianist husband's hands with those of a knife-throwing murderer.",
+        "popularity": 2.5798,
+        "poster_path": "/lDD8pKd6jSrFLV3RvE0eDGGGxR0.jpg",
+        "release_date": "1935-07-12",
+        "title": "Mad Love",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 122
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6sH1zc18D67CKE7Lyux2kyww0SC.jpg",
+        "genre_ids": [
+          53,
+          27,
+          80
+        ],
+        "id": 28295,
+        "original_language": "en",
+        "original_title": "I Saw What You Did",
+        "overview": "Teenage friends Kit and Libby make prank phone calls for fun but then find themselves involved in a brutal double murder committed by one of their targets.",
+        "popularity": 1.2507,
+        "poster_path": "/mliHs2Ii393vF0A3i73F6jAysdh.jpg",
+        "release_date": "1965-07-21",
+        "title": "I Saw What You Did",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9cWUpScrsnDxCBjnBoSePGI2XY5.jpg",
+        "genre_ids": [
+          18,
+          53,
+          27
+        ],
+        "id": 28298,
+        "original_language": "fr",
+        "original_title": "Eugénie",
+        "overview": "Eugenie, a beautiful but shy young girl, lives with her stepfather, a famous writer specializing in stories of erotica. One day she happens to read one of his \"erotic\" books and its power so affects her that begins to find herself sexually attracted to her stepfather. He notices this, and eventually brings her into his dark world of sexual perversion and murder.",
+        "popularity": 2.8955,
+        "poster_path": "/dvSaP5XUDb6hthxFwfrO2XGePih.jpg",
+        "release_date": "1973-04-05",
+        "title": "Eugenie de Sade",
+        "video": false,
+        "vote_average": 5.512,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2nqiZdWmVZ7jnDBtICF78mjMMJJ.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 29103,
+        "original_language": "en",
+        "original_title": "The Sadist",
+        "overview": "Three people driving into Los Angeles for a Dodgers game have car trouble and pull off into an old wrecking yard where they are held at bay by a bloodthirsty psycho and his crazy girlfriend.",
+        "popularity": 3.6788,
+        "poster_path": "/3m1pUOGi568pXGNO3pQYi9ko8JR.jpg",
+        "release_date": "1963-04-01",
+        "title": "The Sadist",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tK41nyg0bbAf9GEWfdMODXKo98l.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 29030,
+        "original_language": "en",
+        "original_title": "The Tomb of Ligeia",
+        "overview": "Verden Fell is shattered after the death of his lovely wife. But, after an unexpected encounter with Lady Rowena Trevanion, Fell soon finds himself married again. Nevertheless, his late wife's spirit seems to hang over the dilapidated abbey that Fell shares with his new bride. Lady Rowena senses that something is amiss and, when she investigates, makes a horrifying discovery -- learning that Fell's dead wife is closer than she ever imagined possible.",
+        "popularity": 0.8153,
+        "poster_path": "/j8gc33Q97xorBvnMUQLXs9Yla0H.jpg",
+        "release_date": "1964-11-01",
+        "title": "The Tomb of Ligeia",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 176
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yhSSPNQm9ngaousW5xY8zYK3VkE.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 29062,
+        "original_language": "en",
+        "original_title": "Day the World Ended",
+        "overview": "After a nuclear attack, an unlikely group of survivors, including a geologist, a crook and his moll, and a prospector,  find temporary shelter in the remote-valley home of a survivalist and his beautiful daughter, but soon have to deal with the spread of radioactivity - and its effects on animal life, including humans.",
+        "popularity": 0.5569,
+        "poster_path": "/whivmoD8QfIfJnO87l2juWY8uoW.jpg",
+        "release_date": "1955-12-01",
+        "title": "Day the World Ended",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xK3C4HHZRnJEK275WOl0mc4njrD.jpg",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "id": 29293,
+        "original_language": "en",
+        "original_title": "House of the Dead 2",
+        "overview": "At Guesta Verde University, deranged Professor Curien is trying to revive the dead, killing students for the experiment. As such, there's an outbreak of zombies, and the government sends a NSA medical research team, formed by Dr. Alexandra 'Nightingale' Morgan and Lt. Ellis, with a special force leaded by Lt. Dalton, trying to get the zero sample from the first generation zombie. The team has little time to accomplish and depart before missiles are sent to destroy the area.",
+        "popularity": 1.046,
+        "poster_path": "/r95UYIFeCjIVKZ1MPxZwEHITAhg.jpg",
+        "release_date": "2006-02-11",
+        "title": "House of the Dead 2",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 132
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h0WQobrkYMkUxtHamuOk5un3Ygy.jpg",
+        "genre_ids": [
+          99,
+          16,
+          36,
+          10752
+        ],
+        "id": 28816,
+        "original_language": "en",
+        "original_title": "Chicago 10",
+        "overview": "Archival footage, animation and music are used to look back at the eight anti-war protesters who were put on trial following the 1968 Democratic National Convention.",
+        "popularity": 3.4628,
+        "poster_path": "/5Do5BUtU3VNMJ5eKi3RXgortMLO.jpg",
+        "release_date": "2008-02-29",
+        "title": "Chicago 10",
+        "video": false,
+        "vote_average": 5.765,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/opESjJxA10pGES8hod8YK2Gi4ug.jpg",
+        "genre_ids": [
+          9648,
+          53,
+          27
+        ],
+        "id": 28902,
+        "original_language": "en",
+        "original_title": "In Dreams",
+        "overview": "A suburban housewife learns that she has psychic connections to a serial killer, and can predict this person's motives through her dreams.",
+        "popularity": 4.4236,
+        "poster_path": "/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg",
+        "release_date": "1999-01-15",
+        "title": "In Dreams",
+        "video": false,
+        "vote_average": 5.464,
+        "vote_count": 192
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sYth2pq1mpyeCMArt4xnHqapmHV.jpg",
+        "genre_ids": [
+          10752
+        ],
+        "id": 27521,
+        "original_language": "en",
+        "original_title": "The Boys in Company C",
+        "overview": "Disheartened by futile combat, appalled by the corruption of their South Vietnamese ally, and constantly endangered by the incompetence of their own company commander, the young men find a possible way out of the war. They are told that if they purposely lose a soccer game against a South Vietnamese team, they can spend the rest of their tour playing exhibition games behind the lines.",
+        "popularity": 0.9279,
+        "poster_path": "/9nZyHahR2yrXgkha9IrbAGr3Yni.jpg",
+        "release_date": "1978-02-02",
+        "title": "The Boys in Company C",
+        "video": false,
+        "vote_average": 6.481,
+        "vote_count": 78
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7XAh2bYGxEyS2Y3lK7DBRimwmMD.jpg",
+        "genre_ids": [
+          35,
+          878,
+          28
+        ],
+        "id": 27536,
+        "original_language": "en",
+        "original_title": "Repligator",
+        "overview": "Army experimentation with transporter devices accidentally turns people into alligators.",
+        "popularity": 2.9011,
+        "poster_path": "/ckQ0la2RgFphUr0oQJpwCvno56b.jpg",
+        "release_date": "1996-01-01",
+        "title": "Repligator",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mlrFQuAiEltbkiU4GuXWRaiJzkc.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14,
+          878
+        ],
+        "id": 27549,
+        "original_language": "en",
+        "original_title": "Beastmaster 2: Through the Portal of Time",
+        "overview": "The Beastmaster Dar is forced to travel to earth to stop his evil brother from stealing an atomic bomb, and turning their native land from a desert into... well... a desert!",
+        "popularity": 0.8732,
+        "poster_path": "/3bIxjt2uyyeinjU23k115YPhXe1.jpg",
+        "release_date": "1991-06-08",
+        "title": "Beastmaster 2: Through the Portal of Time",
+        "video": false,
+        "vote_average": 4.545,
+        "vote_count": 78
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gbVjmYtMZLIiq22SWtW7heRBPE4.jpg",
+        "genre_ids": [
+          18,
+          10752,
+          10770
+        ],
+        "id": 28730,
+        "original_language": "en",
+        "original_title": "Live from Baghdad",
+        "overview": "A group of CNN reporters wrestle with journalistic ethics and the life-and-death perils of reporting during the Gulf War.A Directors Guild Award-winning movie for director Mick Jackson, starring Michael Keaton and Helena Bonham Carter. In 1990, CNN was a 24-hour news network in search of a 24-hour story. They were about to find it in Baghdad. Veteran CNN producer Robert Wiener and his longtime producing partner Ingrid Formanek find themselves in Iraq on the eve of war. Up against the big three networks, Weiner and his team are rebels with a cause, willing to take risks to get the biggest stories and - unlike their rivals - take them live at a moment's notice. As Baghdad becomes an inevitable US target, one by one the networks pull out of the city until only the crew from CNN remains. With a full-scale war soon to be launched all around them, and CNN ready to broadcast whatever happens 24 hours a day, Wiener and Formanek are about to risk their lives for the story of a lifetime.",
+        "popularity": 0.5854,
+        "poster_path": "/dN5KeWVYJBqNJtscttaqHvLWmtZ.jpg",
+        "release_date": "2002-12-07",
+        "title": "Live from Baghdad",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 53
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9hKwjxCbHdDXtRdR2mRkrmfbBjh.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 28752,
+        "original_language": "en",
+        "original_title": "The Curse of the Werewolf",
+        "overview": "A child conceived by a mute servant girl transforms from an innocent youth to a killer beast at night with uncontrollable urges.",
+        "popularity": 0.7447,
+        "poster_path": "/eKQ6kovQVp2I7g1hJegOo8vRBhu.jpg",
+        "release_date": "1961-05-01",
+        "title": "The Curse of the Werewolf",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 172
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vb7hke97pbAsZcCG1C7vhDtAiMk.jpg",
+        "genre_ids": [
+          18,
+          27,
+          878,
+          53
+        ],
+        "id": 28774,
+        "original_language": "en",
+        "original_title": "Communion",
+        "overview": "A novelist's wife and son see him changed by an apparent encounter with aliens in the mountains.",
+        "popularity": 0.9758,
+        "poster_path": "/5WsMyE6wwY2QbM3fpAePOX3e7pZ.jpg",
+        "release_date": "1989-11-10",
+        "title": "Communion",
+        "video": false,
+        "vote_average": 5.322,
+        "vote_count": 183
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iHRX9b9DmVSvujxLK7CEi28CYrY.jpg",
+        "genre_ids": [
+          10752,
+          18
+        ],
+        "id": 1072798,
+        "original_language": "uk",
+        "original_title": "Мирний-21",
+        "overview": "The story of trust and its absence against the background of events unfolding in Eastern Ukraine in early 2014. The main topic is revealed through the prism of the Luhansk border base, whose fighters the separatists and Russian special services tried unsuccessfully force to betray their country.",
+        "popularity": 0.6091,
+        "poster_path": "/VlgOREyY8pPjbsG3NLLJgRE7nv.jpg",
+        "release_date": "2023-02-22",
+        "title": "Myrnyi-21",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vWByJ50Juy14JZJF6H5mbWtM3IU.jpg",
+        "genre_ids": [
+          12,
+          35,
+          27
+        ],
+        "id": 28440,
+        "original_language": "es",
+        "original_title": "Misterio en la isla de los monstruos",
+        "overview": "A young European boy living in San Francisco is reluctant to marry his long-term girlfriend because he wants to travel around the world first. His wealthy uncle agrees to send him on a global expedition aboard his ship, but en route the boy and his travelling companion are shipwrecked on a remote island, populated by countless prehistoric creatures as well as gold-hunting bandits.",
+        "popularity": 0.4797,
+        "poster_path": "/s8GKTE9fLFoVSPCQr0oXGfPFL2y.jpg",
+        "release_date": "1981-04-03",
+        "title": "Mystery on Monster Island",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 30
+      }
+    ],
+    "total_pages": 6772,
+    "total_results": 135435
+  }
+}

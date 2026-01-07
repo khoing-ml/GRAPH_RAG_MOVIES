@@ -1,0 +1,706 @@
+{
+  "category": "temporal_based",
+  "description": "Complex queries about time periods, release dates, career evolution, and temporal relationships",
+  "test_cases": [
+    {
+      "id": 1,
+      "query": "Which directors made their breakthrough films in the same year as Christopher Nolan's Memento?",
+      "entities": ["Christopher Nolan", "Memento", "breakthrough"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 2,
+      "query": "Find actors who appeared in both 1990s action films and 2010s superhero movies",
+      "entities": ["1990s", "2010s", "action", "superhero"],
+      "relations": ["ACTED_IN", "RELEASED_IN", "BELONGS_TO"],
+      "complexity": "high"
+    },
+    {
+      "id": 3,
+      "query": "Compare the evolution of CGI usage in science fiction films from the 1990s to 2020s",
+      "entities": ["CGI", "science fiction", "1990s", "2020s"],
+      "relations": ["USED_TECHNIQUE", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 4,
+      "query": "Which directors have consistently released films every 2-3 years since 2000?",
+      "entities": ["2000"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 5,
+      "query": "Find actors whose career spans from silent films to modern cinema",
+      "entities": ["silent film", "modern"],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 6,
+      "query": "What genres dominated each decade from the 1970s to 2020s based on award wins?",
+      "entities": ["1970s", "2020s"],
+      "relations": ["BELONGS_TO", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 7,
+      "query": "Which directors made films in the same genre across three different decades?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 8,
+      "query": "Find actors who won Oscars in different decades for different genres",
+      "entities": ["Oscar"],
+      "relations": ["ACTED_IN", "WON_AWARD", "RELEASED_IN", "BELONGS_TO"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 9,
+      "query": "Compare the horror film techniques used in the 1970s versus those in the 2010s",
+      "entities": ["horror", "1970s", "2010s"],
+      "relations": ["BELONGS_TO", "USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 10,
+      "query": "Which cinematographers have worked continuously from film to digital eras?",
+      "entities": ["film", "digital"],
+      "relations": ["CINEMATOGRAPHY_BY", "USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 11,
+      "query": "Find franchises that span more than three decades with different directors",
+      "entities": ["franchise"],
+      "relations": ["PART_OF_SERIES", "DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 12,
+      "query": "Which actors had the longest gap between their first and last Oscar nominations?",
+      "entities": ["Oscar"],
+      "relations": ["ACTED_IN", "NOMINATED_FOR", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 13,
+      "query": "Compare the box office patterns of summer blockbusters in the 1980s versus 2000s",
+      "entities": ["summer blockbuster", "1980s", "2000s"],
+      "relations": ["RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 14,
+      "query": "Find directors who changed their primary genre after a specific decade",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 15,
+      "query": "Which studios produced the most Best Picture winners per decade from 1960 to 2020?",
+      "entities": ["Best Picture", "1960", "2020"],
+      "relations": ["WON_AWARD", "PRODUCED_BY", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 16,
+      "query": "Find actors who worked with the same director in different decades",
+      "entities": [],
+      "relations": ["ACTED_IN", "DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 17,
+      "query": "Compare the evolution of action choreography from Jackie Chan's 1980s films to modern action cinema",
+      "entities": ["Jackie Chan", "action choreography", "1980s"],
+      "relations": ["ACTED_IN", "USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 18,
+      "query": "Which composers have scored films across five different decades?",
+      "entities": ["composer"],
+      "relations": ["MUSIC_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 19,
+      "query": "Find films set in the 1960s that were made in different decades",
+      "entities": ["1960s", "set in"],
+      "relations": ["SET_IN_YEAR", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 20,
+      "query": "Which actors transitioned from child roles in the 1990s to leading roles in the 2010s?",
+      "entities": ["1990s", "2010s", "child role"],
+      "relations": ["ACTED_IN", "RELEASED_IN", "ROLE_TYPE"],
+      "complexity": "high"
+    },
+    {
+      "id": 21,
+      "query": "Compare the average film length in different genres across decades",
+      "entities": [],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 22,
+      "query": "Find directors who made sequels decades after the original films",
+      "entities": ["sequel"],
+      "relations": ["DIRECTED_BY", "SEQUEL_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 23,
+      "query": "Which actors appeared in the highest-grossing film of three different decades?",
+      "entities": [],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 24,
+      "query": "Compare the portrayal of technology in science fiction films from the 1960s versus 2020s",
+      "entities": ["technology", "science fiction", "1960s", "2020s"],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 25,
+      "query": "Find cinematographers whose visual style evolved significantly between decades",
+      "entities": ["cinematographer", "visual style"],
+      "relations": ["CINEMATOGRAPHY_BY", "VISUAL_STYLE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 26,
+      "query": "Which directors made their debut in the 2000s and won major awards within their first decade?",
+      "entities": ["debut", "2000s"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN", "WON_AWARD"],
+      "complexity": "high"
+    },
+    {
+      "id": 27,
+      "query": "Compare romantic comedy trends in the 1990s versus the 2010s",
+      "entities": ["romantic comedy", "1990s", "2010s"],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 28,
+      "query": "Find actors who worked continuously from the 1970s through 2020s without career gaps",
+      "entities": ["1970s", "2020s"],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 29,
+      "query": "Which genres emerged in specific decades and later became mainstream?",
+      "entities": [],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 30,
+      "query": "Find directors who remade their own films decades later",
+      "entities": ["remake"],
+      "relations": ["DIRECTED_BY", "REMAKE_OF", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 31,
+      "query": "Compare the use of practical effects in the 1980s versus CGI dominance in the 2000s",
+      "entities": ["practical effects", "CGI", "1980s", "2000s"],
+      "relations": ["USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 32,
+      "query": "Which actors had career revivals after a decade-long hiatus?",
+      "entities": [],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 33,
+      "query": "Find films that took more than a decade from announcement to release",
+      "entities": [],
+      "relations": ["RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 34,
+      "query": "Which composers' scoring styles changed significantly across decades?",
+      "entities": ["composer"],
+      "relations": ["MUSIC_BY", "MUSICAL_STYLE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 35,
+      "query": "Compare the evolution of martial arts films from the 1970s through each decade to present",
+      "entities": ["martial arts", "1970s"],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 36,
+      "query": "Find actors who appeared in prequels released decades after the original films",
+      "entities": ["prequel"],
+      "relations": ["ACTED_IN", "PREQUEL_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 37,
+      "query": "Which directors have maintained the same cinematographer across multiple decades?",
+      "entities": ["cinematographer"],
+      "relations": ["DIRECTED_BY", "CINEMATOGRAPHY_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 38,
+      "query": "Compare the representation of women in action films across decades from 1980s to 2020s",
+      "entities": ["action", "women", "1980s", "2020s"],
+      "relations": ["BELONGS_TO", "ACTED_IN", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 39,
+      "query": "Find franchises where installments were released with more than 10 years between them",
+      "entities": ["franchise"],
+      "relations": ["PART_OF_SERIES", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 40,
+      "query": "Which actors won awards for the same character in different decades?",
+      "entities": [],
+      "relations": ["ACTED_IN", "PLAYED_ROLE", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 41,
+      "query": "Compare the budget trends of science fiction films in the 1970s versus 2010s",
+      "entities": ["science fiction", "1970s", "2010s"],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 42,
+      "query": "Find directors whose films became more critically acclaimed with each decade",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 43,
+      "query": "Which animated films from the 1990s influenced animation styles in the 2010s?",
+      "entities": ["animated", "1990s", "2010s"],
+      "relations": ["FILM_TYPE", "INFLUENCED", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 44,
+      "query": "Find actors who worked in both New Hollywood era and modern streaming era films",
+      "entities": ["New Hollywood", "streaming"],
+      "relations": ["ACTED_IN", "RELEASED_IN", "DISTRIBUTED_BY"],
+      "complexity": "high"
+    },
+    {
+      "id": 45,
+      "query": "Compare the average number of sequels per franchise in the 1980s versus 2010s",
+      "entities": ["franchise", "sequel", "1980s", "2010s"],
+      "relations": ["PART_OF_SERIES", "SEQUEL_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 46,
+      "query": "Which directors made period pieces set in the same era but released decades apart?",
+      "entities": ["period piece"],
+      "relations": ["DIRECTED_BY", "SET_IN_YEAR", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 47,
+      "query": "Find composers who transitioned from orchestral scores in early career to electronic music decades later",
+      "entities": ["composer", "orchestral", "electronic"],
+      "relations": ["MUSIC_BY", "MUSICAL_STYLE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 48,
+      "query": "Which actors appeared in both original films and their remakes released decades later?",
+      "entities": ["remake"],
+      "relations": ["ACTED_IN", "REMAKE_OF", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 49,
+      "query": "Compare the evolution of horror sub-genres across decades from 1970s to 2020s",
+      "entities": ["horror", "1970s", "2020s"],
+      "relations": ["BELONGS_TO", "SUB_GENRE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 50,
+      "query": "Find directors who made their longest films in their later decades of career",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 51,
+      "query": "Which cinematographers adopted digital cinematography earliest in their careers?",
+      "entities": ["cinematographer", "digital"],
+      "relations": ["CINEMATOGRAPHY_BY", "USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 52,
+      "query": "Compare the portrayal of artificial intelligence in films from the 1980s versus 2020s",
+      "entities": ["artificial intelligence", "1980s", "2020s"],
+      "relations": ["RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 53,
+      "query": "Find actors who transitioned from television to film in specific decades",
+      "entities": ["television", "film"],
+      "relations": ["ACTED_IN", "MEDIUM", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 54,
+      "query": "Which directors have the longest gaps between their first and most recent films?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 55,
+      "query": "Compare the evolution of superhero films from 1970s to each subsequent decade",
+      "entities": ["superhero", "1970s"],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 56,
+      "query": "Find actors whose career peaks occurred in different decades based on awards",
+      "entities": [],
+      "relations": ["ACTED_IN", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 57,
+      "query": "Which production companies have produced films continuously for more than five decades?",
+      "entities": [],
+      "relations": ["PRODUCED_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 58,
+      "query": "Compare the use of IMAX technology in films from its introduction to present day",
+      "entities": ["IMAX"],
+      "relations": ["USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 59,
+      "query": "Find directors who made documentaries early in their career and fiction films in later decades",
+      "entities": ["documentary", "fiction"],
+      "relations": ["DIRECTED_BY", "FILM_TYPE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 60,
+      "query": "Which actors appeared in the highest number of films per decade?",
+      "entities": [],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 61,
+      "query": "Compare the evolution of war film depictions from Vietnam War era to post-9/11 era",
+      "entities": ["war", "Vietnam", "9/11"],
+      "relations": ["BELONGS_TO", "BASED_ON", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 62,
+      "query": "Find cinematographers who worked on both black-and-white and color films across decades",
+      "entities": ["black-and-white", "color", "cinematographer"],
+      "relations": ["CINEMATOGRAPHY_BY", "VISUAL_STYLE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 63,
+      "query": "Which directors made films in the same franchise decades apart?",
+      "entities": ["franchise"],
+      "relations": ["DIRECTED_BY", "PART_OF_SERIES", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 64,
+      "query": "Compare the representation of LGBTQ+ themes in films across decades from 1990s to 2020s",
+      "entities": ["LGBTQ+", "1990s", "2020s"],
+      "relations": ["RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 65,
+      "query": "Find actors who won their first Oscar decades after their debut film",
+      "entities": ["Oscar", "debut"],
+      "relations": ["ACTED_IN", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 66,
+      "query": "Which composers scored films for the same director across multiple decades?",
+      "entities": ["composer"],
+      "relations": ["MUSIC_BY", "DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 67,
+      "query": "Compare the evolution of film noir from classic era to neo-noir across decades",
+      "entities": ["film noir", "neo-noir", "classic"],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 68,
+      "query": "Find actors who appeared in both silent films and talkies during the transition era",
+      "entities": ["silent film", "talkie"],
+      "relations": ["ACTED_IN", "FILM_TYPE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 69,
+      "query": "Which directors have maintained consistent release schedules across five decades?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 70,
+      "query": "Compare the average age of Best Actor winners across different decades",
+      "entities": ["Best Actor"],
+      "relations": ["WON_AWARD", "ACTED_IN", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 71,
+      "query": "Find films that were box office failures initially but became cult classics decades later",
+      "entities": ["cult classic"],
+      "relations": ["RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 72,
+      "query": "Which animated studios dominated different decades from 1990s to 2020s?",
+      "entities": ["animated", "1990s", "2020s"],
+      "relations": ["FILM_TYPE", "PRODUCED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 73,
+      "query": "Compare the evolution of comedy sub-genres across decades",
+      "entities": ["comedy"],
+      "relations": ["BELONGS_TO", "SUB_GENRE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 74,
+      "query": "Find directors whose visual style changed significantly between their first and fifth decade of work",
+      "entities": ["visual style"],
+      "relations": ["DIRECTED_BY", "VISUAL_STYLE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 75,
+      "query": "Which actors worked with the same co-star across multiple decades?",
+      "entities": [],
+      "relations": ["ACTED_IN", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 76,
+      "query": "Compare the rise and fall of specific genres in different decades",
+      "entities": [],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 77,
+      "query": "Find cinematographers who transitioned from assistant to lead across decades",
+      "entities": ["cinematographer", "assistant"],
+      "relations": ["CINEMATOGRAPHY_BY", "ASSISTANT_CINEMATOGRAPHER", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 78,
+      "query": "Which directors made their most commercially successful films in their later decades?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 79,
+      "query": "Compare the evolution of special effects in disaster films from 1970s to 2020s",
+      "entities": ["disaster", "special effects", "1970s", "2020s"],
+      "relations": ["BELONGS_TO", "USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 80,
+      "query": "Find actors who appeared in Academy Award Best Picture winners in three different decades",
+      "entities": ["Best Picture"],
+      "relations": ["ACTED_IN", "WON_AWARD", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 81,
+      "query": "Which composers' career spans match exactly with a specific era of filmmaking?",
+      "entities": ["composer"],
+      "relations": ["MUSIC_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 82,
+      "query": "Compare the portrayal of different historical periods across films made in various decades",
+      "entities": ["historical"],
+      "relations": ["SET_IN_YEAR", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 83,
+      "query": "Find directors who made films in emerging genres during their inception decades",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 84,
+      "query": "Which actors transitioned from leading roles to character roles across decades?",
+      "entities": ["leading role", "character role"],
+      "relations": ["ACTED_IN", "ROLE_TYPE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 85,
+      "query": "Compare the average runtime of films across genres in different decades",
+      "entities": [],
+      "relations": ["BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 86,
+      "query": "Find cinematographers who pioneered new techniques that became standard in later decades",
+      "entities": ["cinematographer"],
+      "relations": ["CINEMATOGRAPHY_BY", "USED_TECHNIQUE", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 87,
+      "query": "Which directors have made anthology films across multiple decades?",
+      "entities": ["anthology"],
+      "relations": ["DIRECTED_BY", "FILM_TYPE", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 88,
+      "query": "Compare the evolution of romance films from classic Hollywood to modern streaming era",
+      "entities": ["romance", "classic Hollywood", "streaming"],
+      "relations": ["BELONGS_TO", "RELEASED_IN", "DISTRIBUTED_BY"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 89,
+      "query": "Find actors who maintained leading man status for more than four decades",
+      "entities": ["leading man"],
+      "relations": ["ACTED_IN", "ROLE_TYPE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 90,
+      "query": "Which production companies shifted their focus between genres across decades?",
+      "entities": [],
+      "relations": ["PRODUCED_BY", "BELONGS_TO", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 91,
+      "query": "Compare the representation of different professions in films across decades",
+      "entities": [],
+      "relations": ["PLAYED_ROLE", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 92,
+      "query": "Find directors whose debut decade predicted their later career trajectory",
+      "entities": ["debut"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 93,
+      "query": "Which actors appeared in film adaptations released decades apart from the same source material?",
+      "entities": ["adaptation"],
+      "relations": ["ACTED_IN", "ADAPTED_FROM", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 94,
+      "query": "Compare the evolution of sound design in science fiction films across decades",
+      "entities": ["science fiction", "sound design"],
+      "relations": ["BELONGS_TO", "SOUND_BY", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 95,
+      "query": "Find composers who worked on the same franchise across multiple decades",
+      "entities": ["composer", "franchise"],
+      "relations": ["MUSIC_BY", "PART_OF_SERIES", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 96,
+      "query": "Which directors made films in the same location across different decades?",
+      "entities": [],
+      "relations": ["DIRECTED_BY", "FILMED_IN", "RELEASED_IN"],
+      "complexity": "medium"
+    },
+    {
+      "id": 97,
+      "query": "Compare the average age of directors making their debut films across different decades",
+      "entities": ["debut"],
+      "relations": ["DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 98,
+      "query": "Find actors who appeared in war films depicting conflicts from different eras released decades apart",
+      "entities": ["war"],
+      "relations": ["ACTED_IN", "BELONGS_TO", "BASED_ON", "RELEASED_IN"],
+      "complexity": "very_high"
+    },
+    {
+      "id": 99,
+      "query": "Which cinematographers maintained partnerships with specific directors across their entire careers spanning decades?",
+      "entities": ["cinematographer"],
+      "relations": ["CINEMATOGRAPHY_BY", "DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "high"
+    },
+    {
+      "id": 100,
+      "query": "Compare the evolution of film festival prominence across decades and its impact on director careers",
+      "entities": ["film festival"],
+      "relations": ["PREMIERED_AT", "DIRECTED_BY", "RELEASED_IN"],
+      "complexity": "very_high"
+    }
+  ]
+}

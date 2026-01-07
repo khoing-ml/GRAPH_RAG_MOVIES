@@ -1,0 +1,1014 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+    "belongs_to_collection": {
+      "id": 1449595,
+      "name": "Ne Zha Collection",
+      "poster_path": "/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
+      "backdrop_path": "/kazABXcuhF5AdpdjlWQQCH8iUyR.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "https://a24films.com/films/ne-zha-2",
+    "id": 980477,
+    "imdb_id": "tt34956443",
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "哪吒之魔童闹海",
+    "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+    "popularity": 59.6093,
+    "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+    "production_companies": [
+      {
+        "id": 167789,
+        "logo_path": null,
+        "name": "Chengdu Coco Cartoon",
+        "origin_country": "CN"
+      },
+      {
+        "id": 17818,
+        "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+        "name": "Beijing Enlight Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 161769,
+        "logo_path": null,
+        "name": "Beijing Enlight Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 273292,
+        "logo_path": null,
+        "name": "Chengdu Zizai Jingjie Culture Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 273293,
+        "logo_path": null,
+        "name": "Beijing Coloroom Technology",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2025-01-29",
+    "revenue": 2215690000,
+    "runtime": 144,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Witness a hero reborn.",
+    "title": "Ne Zha 2",
+    "video": false,
+    "vote_average": 8.108,
+    "vote_count": 537
+  },
+  "credits": {
+    "id": 980477,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2367355,
+        "known_for_department": "Acting",
+        "name": "Lu Yanting",
+        "original_name": "吕艳婷",
+        "popularity": 2.7617,
+        "profile_path": "/vKpOzPutTaPf03rWXiLuK8R2K3B.jpg",
+        "cast_id": 38,
+        "character": "Young Nezha (voice)",
+        "credit_id": "687f9999274b091f76529490",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367356,
+        "known_for_department": "Acting",
+        "name": "Joseph",
+        "original_name": "囧森瑟夫",
+        "popularity": 1.6841,
+        "profile_path": "/58Ytg6PBGpqB2s7DkHB82dRvdFO.jpg",
+        "cast_id": 4,
+        "character": "Youth Nezha / Jie Jie Shou Left (voice)",
+        "credit_id": "6789fbfaa64feb16c91d7752",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368846,
+        "known_for_department": "Acting",
+        "name": "Han Mo",
+        "original_name": "瀚墨",
+        "popularity": 2.6128,
+        "profile_path": "/6Ueom0Y4pjIG9B6zjQlfIbgcGhH.jpg",
+        "cast_id": 5,
+        "character": "Ao Bing (voice)",
+        "credit_id": "6789fc0729071c36ac9769b0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368848,
+        "known_for_department": "Acting",
+        "name": "Chen Hao",
+        "original_name": "陈浩",
+        "popularity": 2.1098,
+        "profile_path": "/eBZJW1NCBFDh3U3xImf0vCCnDpy.jpg",
+        "cast_id": 6,
+        "character": "Li Jing (voice)",
+        "credit_id": "6789fc1529071c36ac9769b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2368849,
+        "known_for_department": "Acting",
+        "name": "Lu Qi",
+        "original_name": "绿绮",
+        "popularity": 1.5324,
+        "profile_path": "/eGoSeaM1c6KCLiRIqM8LJq5S5L5.jpg",
+        "cast_id": 7,
+        "character": "Mrs. Yin (voice)",
+        "credit_id": "6789fc3eb9d1d10ef197a8cb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368857,
+        "known_for_department": "Acting",
+        "name": "Zhang Jiaming",
+        "original_name": "张珈铭",
+        "popularity": 1.289,
+        "profile_path": "/nFPxvqQLuDUpYgFiKRFkH0sX20P.jpg",
+        "cast_id": 8,
+        "character": "Taiyi Zhenren (voice)",
+        "credit_id": "67a2285ba45287b7fde2e4b0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574893,
+        "known_for_department": "Acting",
+        "name": "Yang Wei",
+        "original_name": "Yang Wei",
+        "popularity": 1.1115,
+        "profile_path": "/rTi0M7yePiL3NqEGg5pTL7x56De.jpg",
+        "cast_id": 9,
+        "character": "Shen Gongbao (voice)",
+        "credit_id": "67a228710abccc3b39262173",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129530,
+        "known_for_department": "Acting",
+        "name": "Wang Deshun",
+        "original_name": "王德顺",
+        "popularity": 1.3624,
+        "profile_path": "/yTmSmUH3CdEhU1zYd3maDg3ipBZ.jpg",
+        "cast_id": 10,
+        "character": "Wu Liang Xian Weng (voice)",
+        "credit_id": "67a22885eea89adf0902ff54",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4927413,
+        "known_for_department": "Acting",
+        "name": "Yu Chen",
+        "original_name": "雨辰",
+        "popularity": 1.2127,
+        "profile_path": "/zZ15ZOUpH7yNZ5Rz71l7YUhveMN.jpg",
+        "cast_id": 39,
+        "character": "Longwang of the East Sea Ao Guang / Seller (voice)",
+        "credit_id": "68f5c6055fa26d4115101c99",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4926013,
+        "known_for_department": "Acting",
+        "name": "Li Nan",
+        "original_name": "李南",
+        "popularity": 0.685,
+        "profile_path": "/oHz2xKSBwNddOuOr8oylMlo6LL5.jpg",
+        "cast_id": 40,
+        "character": "Longwang of the East Sea (voice)",
+        "credit_id": "68f5c61273140968cb69146f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5224789,
+        "known_for_department": "Acting",
+        "name": "Zhou Yongxi",
+        "original_name": "Zhou Yongxi",
+        "popularity": 0.1694,
+        "profile_path": "/8wjA8e2JOk4C11cGwqCo7uRLPem.jpg",
+        "cast_id": 41,
+        "character": "Xi Hai Long Wang Ao Run (voice)",
+        "credit_id": "68f5c61fa883fbefa297f6e6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4360810,
+        "known_for_department": "Acting",
+        "name": "Yuze Han",
+        "original_name": "韩雨泽",
+        "popularity": 0.5449,
+        "profile_path": "/aqiJdoNXynr72i9548Hrb1QdBRb.jpg",
+        "cast_id": 42,
+        "character": "Ao Shun, Beihai Longwang / Marmot  / Muzha (voice)",
+        "credit_id": "68f5c62c79e07a8921101d40",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5224795,
+        "known_for_department": "Acting",
+        "name": "Nan Yu",
+        "original_name": "Nan Yu",
+        "popularity": 0.1538,
+        "profile_path": "/eXmIbypDrXnLDmSvafPrADghAR2.jpg",
+        "cast_id": 43,
+        "character": "Nan Hai Long Wang Ao Qin (voice)",
+        "credit_id": "68f5c63bbeb84b26b369144e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5224799,
+        "known_for_department": "Acting",
+        "name": "Zhang Yunqi",
+        "original_name": "Zhang Yunqi",
+        "popularity": 0.9034,
+        "profile_path": "/12BKdubMrQrrHlDPCc2DnPpkwRs.jpg",
+        "cast_id": 44,
+        "character": "Deer Child (voice)",
+        "credit_id": "68f5c648c8a4bb8115cd0d0e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3254572,
+        "known_for_department": "Acting",
+        "name": "Xingliner",
+        "original_name": "Xingliner",
+        "popularity": 0.3921,
+        "profile_path": "/kAwo90XvibPmibd0XyWgR48tJBA.jpg",
+        "cast_id": 45,
+        "character": "Crane Child (voice)",
+        "credit_id": "68f5c6551375ce5bfe3a34b9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224801,
+        "known_for_department": "Acting",
+        "name": "Wang Zhixing",
+        "original_name": "Wang Zhixing",
+        "popularity": 0.1774,
+        "profile_path": "/lx712Gy38uJHkkkdYuKKizagYDg.jpg",
+        "cast_id": 46,
+        "character": "Shen Xiaobao (voice)",
+        "credit_id": "68f5c66414a78f95ae97f768",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224803,
+        "known_for_department": "Acting",
+        "name": "Zhang Ji",
+        "original_name": "Zhang Ji",
+        "popularity": 0.2377,
+        "profile_path": "/9Fqf1PxiG3R30sOK78ZLJSmnwQN.jpg",
+        "cast_id": 47,
+        "character": "Shen Zhengdao (voice)",
+        "credit_id": "68f5c67a8f281e122e97f707",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224804,
+        "known_for_department": "Acting",
+        "name": "Liang Sheng",
+        "original_name": "Liang Sheng",
+        "popularity": 0.2846,
+        "profile_path": "/otx91zWoMSRExzDrPhLesXvwpON.jpg",
+        "cast_id": 48,
+        "character": "Mouse / Dao Xing Xian Zun (voice)",
+        "credit_id": "68f5c69014a78f95ae97f76c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3791131,
+        "known_for_department": "Acting",
+        "name": "Huan Ting",
+        "original_name": "幻听",
+        "popularity": 0.4586,
+        "profile_path": "/iIZokkC5evrUievNheuvjD2qx8K.jpg",
+        "cast_id": 49,
+        "character": "Mirror / Ci Hang Dao Ren (voice)",
+        "credit_id": "68f5c6a049b44a7ba669147d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3791123,
+        "known_for_department": "Acting",
+        "name": "Ling Qi",
+        "original_name": "零柒",
+        "popularity": 0.5478,
+        "profile_path": "/3G6kVzgzio83HXpgwoEoynsCYIo.jpg",
+        "cast_id": 50,
+        "character": "Jie Jie Shou Right / Huanglong Zhenren (voice)",
+        "credit_id": "68f5c6aec7e31f1409cd0d02",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191795,
+        "known_for_department": "Acting",
+        "name": "Gong Geer",
+        "original_name": "Gong Geer",
+        "popularity": 0.6631,
+        "profile_path": "/iefh3KyxdBx4RWYaolg7z2ZD3iK.jpg",
+        "cast_id": 51,
+        "character": "Fish Monster / Uncle Picking Lotus Roots / Aunt Picking Lotus Roots (voice)",
+        "credit_id": "68f5c6cec8a4bb8115cd0d11",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224806,
+        "known_for_department": "Acting",
+        "name": "Chen Houlin",
+        "original_name": "Chen Houlin",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Shark Monster / Qingxu Daode Zhenjun (voice)",
+        "credit_id": "68f5c6dd3c672d758bf5c1de",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5760328,
+        "known_for_department": "Acting",
+        "name": "Xiao Wei",
+        "original_name": "小薇",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Shiji Niangniang (voice)",
+        "credit_id": "68f5c6f6495a4c93d9101cad",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "饺子",
+        "popularity": 1.6196,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "cast_id": 54,
+        "character": "Rat Boss (voice)",
+        "credit_id": "68f5c713ddaa20cc3e32117d",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "饺子",
+        "popularity": 1.6196,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "629010549a643500aa037480",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "饺子",
+        "popularity": 1.6196,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "6290105ba6fdaa0065fdc145",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3380497,
+        "known_for_department": "Production",
+        "name": "Liu Wenzhang",
+        "original_name": "Liu Wenzhang",
+        "popularity": 0.4454,
+        "profile_path": "/7BLmmFhYDN7MyKVui5qJ590qgi9.jpg",
+        "credit_id": "67a22bd9716bfd74ece2d38e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4244140,
+        "known_for_department": "Acting",
+        "name": "Chen Zhe",
+        "original_name": "陳喆",
+        "popularity": 1.1068,
+        "profile_path": null,
+        "credit_id": "67a22bf4a74d8ee23b26c0ef",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323173,
+        "known_for_department": "Sound",
+        "name": "Roc Chen",
+        "original_name": "阿鲲",
+        "popularity": 1.1153,
+        "profile_path": "/zaAmLbksc4bxTr21dhveZ6I7WRr.jpg",
+        "credit_id": "67ac8c3a9d346d3ef49bd1bb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2623147,
+        "known_for_department": "Sound",
+        "name": "Wan Pin-Chu",
+        "original_name": "朱藝編",
+        "popularity": 2.5167,
+        "profile_path": "/r8Fixl6Mbv9SsjM7z4lLGTyTOgg.jpg",
+        "credit_id": "67ac8c41dd9b7d2eaab0cc23",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5210591,
+        "known_for_department": "Sound",
+        "name": "Rui Yang",
+        "original_name": "杨芮",
+        "popularity": 0.4266,
+        "profile_path": null,
+        "credit_id": "67ac8c6bdd9b7d2eaab0cc34",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "饺子",
+        "popularity": 1.6196,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "67b1e359be1135c1d86dbbb3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5831271,
+        "known_for_department": "Production",
+        "name": "Wang Jing",
+        "original_name": "Wang Jing",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6920d0a3d5863c198105926e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2500007,
+        "known_for_department": "Visual Effects",
+        "name": "Jung Sung-jin",
+        "original_name": "정성진",
+        "popularity": 1.7725,
+        "profile_path": "/iOlzedKr4E870tLNIvl4mxw80Nw.jpg",
+        "credit_id": "6947ed26c0569d5cb3fb1029",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 980477,
+    "keywords": [
+      {
+        "id": 1721,
+        "name": "fight"
+      },
+      {
+        "id": 2343,
+        "name": "magic"
+      },
+      {
+        "id": 185343,
+        "name": "based on myths, legends or folklore"
+      },
+      {
+        "id": 278823,
+        "name": "3d animation"
+      },
+      {
+        "id": 290656,
+        "name": "nezha"
+      },
+      {
+        "id": 297031,
+        "name": "chinese mythology"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          36
+        ],
+        "id": 1434296,
+        "original_language": "zh",
+        "original_title": "阳明先生传奇",
+        "overview": "",
+        "popularity": 0.2751,
+        "poster_path": null,
+        "release_date": "2018-05-13",
+        "title": "阳明先生传奇",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mbYgPNb48yGSX8i7UeTck3QRAkS.jpg",
+        "genre_ids": [
+          28,
+          12,
+          10749
+        ],
+        "id": 2926,
+        "original_language": "en",
+        "original_title": "The Three Musketeers",
+        "overview": "In 17th century France, young D'Artagnan wants to join the King's Musketeers, but instead befriends three legendary musketeers—Athos, Porthos, and Aramis—and together, they become embroiled in the political intrigue surrounding King Louis XIII and his adversaries, particularly the powerful Cardinal Richelieu.",
+        "popularity": 2.696,
+        "poster_path": "/6qjW1e31k2XhcWpzGz6lgHcRt5W.jpg",
+        "release_date": "1973-12-11",
+        "title": "The Three Musketeers",
+        "video": false,
+        "vote_average": 6.746,
+        "vote_count": 342
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tgHO1DdnaS0xHcRxBHxE4kOQeIm.jpg",
+        "genre_ids": [
+          35,
+          14
+        ],
+        "id": 2978,
+        "original_language": "en",
+        "original_title": "Ghostbusters II",
+        "overview": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+        "popularity": 13.9821,
+        "poster_path": "/yObYPMA58DnTMvJooFW7GG6jWAt.jpg",
+        "release_date": "1989-06-16",
+        "title": "Ghostbusters II",
+        "video": false,
+        "vote_average": 6.594,
+        "vote_count": 4698
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2f6La6ZJDIQTNPcn2WSR6qdXy8Q.jpg",
+        "genre_ids": [
+          14,
+          28,
+          53
+        ],
+        "id": 3040,
+        "original_language": "ru",
+        "original_title": "Ночной дозор",
+        "overview": "Among normal humans live the \"Others\" possessing various supernatural powers. They are divided up into the forces of light and the forces of the dark, who signed a truce several centuries ago to end a devastating battle. Ever since, the forces of light govern the day while the night belongs to their dark opponents. In modern day Moscow the dark Others actually roam the night as vampires while a \"Night Watch\" of light forces, among them Anton, the movie's protagonist, try to control them and limit their outrage",
+        "popularity": 2.6811,
+        "poster_path": "/hRDJRgb7wEubLhPWFrl6sS816Tm.jpg",
+        "release_date": "2004-07-08",
+        "title": "Night Watch",
+        "video": false,
+        "vote_average": 6.234,
+        "vote_count": 777
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m0v7i83W74eARdO7oMTWGDw0FS1.jpg",
+        "genre_ids": [
+          28,
+          12,
+          10751
+        ],
+        "id": 460609,
+        "original_language": "en",
+        "original_title": "Tales of Robin Hood",
+        "overview": "The story of Robin Hood, how he met his Merry Men and Maid Marian, and saved England from Sir Guy de Clairmont and his henchman.  Compiled from the few filmed episodes of an unsold TV series.",
+        "popularity": 1.0466,
+        "poster_path": "/bZEZz0gi4W0wusWaCjALhc84hl9.jpg",
+        "release_date": "1951-12-21",
+        "title": "Tales of Robin Hood",
+        "video": false,
+        "vote_average": 4.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zxIXvhF5PSZwQ9tvlLIzhcwi7IO.jpg",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          35
+        ],
+        "id": 844075,
+        "original_language": "zh",
+        "original_title": "新神榜：杨戬",
+        "overview": "Fifteen hundred years after the war of gods, the heaven declined. Yang Jian, the God of Erlang, made a living by working as a catcher. One day, Yang Jian was ordered to hunt down a young man, his own nephew.",
+        "popularity": 2.1493,
+        "poster_path": "/tW5dFOemV4d7hxTcVI2bu4u0C9z.jpg",
+        "release_date": "2022-08-19",
+        "title": "New Gods: Yang Jian",
+        "video": false,
+        "vote_average": 7.46,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1Cuaush5VwesuZJzJRy2ptfalCh.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          35,
+          12
+        ],
+        "id": 2899,
+        "original_language": "fr",
+        "original_title": "Astérix & Obélix : Mission Cléopâtre",
+        "overview": "History's favorite Gauls assist Queen Cleopatra when she wagers that the Egyptian people can build a palace for Julius Caesar in just three months.",
+        "popularity": 6.7254,
+        "poster_path": "/5gMmVSkY7RAxb5xRk7ej7JVhXyl.jpg",
+        "release_date": "2002-01-30",
+        "title": "Asterix & Obelix: Mission Cleopatra",
+        "video": false,
+        "vote_average": 7.374,
+        "vote_count": 3704
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3A7Nau6YBzD43gw4pC45Psp9Z0Q.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1239022,
+        "original_language": "zh",
+        "original_title": "良辰有梦",
+        "overview": "People go through their day to day lives through the city alongside their Pokémon as they all try to get home to reunite with their family for the New Year.",
+        "popularity": 0.2758,
+        "poster_path": "/5ZRlhyra1sNA9TqjgxnmHgfqATi.jpg",
+        "release_date": "2024-02-12",
+        "title": "Pokémon Original Short Animation: Homecoming",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
+        "genre_ids": [
+          16,
+          35,
+          878
+        ],
+        "id": 1239251,
+        "original_language": "en",
+        "original_title": "Megamind vs. the Doom Syndicate",
+        "overview": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+        "popularity": 5.4714,
+        "poster_path": "/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+        "release_date": "2024-03-01",
+        "title": "Megamind vs. the Doom Syndicate",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 318
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AknsmgqjjDtzH5bPMCjKYoiEwAg.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 10350,
+        "original_language": "en",
+        "original_title": "Wing Commander",
+        "overview": "In the mid-27th century, the Terran Confederation is at war with the vicious alien Kilrathi Empire. When the Kilrathi capture a crucial navigational device that could lead them to Earth, the Confederation’s only hope rests with a small group of young fighter pilots. Lieutenant Christopher Blair, along with his wingman Todd 'Maniac' Marshall and Commander Jeanette 'Angel' Deveraux, must intercept the alien fleet and prevent the destruction of mankind. Battling overwhelming odds and racing against time, they face not only external threats but also inner fears and rivalries as they fight to save Earth from annihilation.",
+        "popularity": 3.8994,
+        "poster_path": "/e3p2vkA4mnFaBlyAIntkZWkzOJW.jpg",
+        "release_date": "1999-03-11",
+        "title": "Wing Commander",
+        "video": false,
+        "vote_average": 4.792,
+        "vote_count": 277
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y5uIU4LMXPpINIpTDT6ry1lu9P4.jpg",
+        "genre_ids": [
+          27,
+          14
+        ],
+        "id": 10351,
+        "original_language": "en",
+        "original_title": "Wishmaster",
+        "overview": "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+        "popularity": 5.082,
+        "poster_path": "/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg",
+        "release_date": "1997-09-19",
+        "title": "Wishmaster",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 676
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aG28XkeOiIzopeQsiFaiU8Q4HNa.jpg",
+        "genre_ids": [
+          14,
+          16,
+          12,
+          10751
+        ],
+        "id": 466000,
+        "original_language": "ja",
+        "original_title": "グリム童話 金の鳥",
+        "overview": "\"Kin no Tori\" is an adaptation of the homonymous fairy tale \"The Golden Bird\" by Brothers Grimm.  A golden apple is stolen from the King's garden. The King orders his three sons to guard the apples in turn and to find out who is the thief. When the youngest son, Hans, presents a feather that he got from the golden bird that stole the apple the king sends his three sons to bring this bird to him and so Hans' journey begins.",
+        "popularity": 0.7834,
+        "poster_path": "/iUI9TKDCLFFsea54DoKERbSzANw.jpg",
+        "release_date": "1987-03-14",
+        "title": "The Golden Bird",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/19EpgKZDkLIwY1TI1pjBJtQ5qdr.jpg",
+        "genre_ids": [
+          28,
+          14,
+          878
+        ],
+        "id": 9823,
+        "original_language": "en",
+        "original_title": "Mortal Kombat: Annihilation",
+        "overview": "A group of heroic warriors has only six days to save the planet in \"Mortal Kombat Annihilation.\" To succeed they must survive the most spectacular series of challenges any human, or god, has ever encountered as they battle an evil warlord bent on taking control of Earth.",
+        "popularity": 4.5446,
+        "poster_path": "/ttryglcY2osWZE3sRYBf3ewTZsW.jpg",
+        "release_date": "1997-11-11",
+        "title": "Mortal Kombat: Annihilation",
+        "video": false,
+        "vote_average": 4.511,
+        "vote_count": 1281
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+        "genre_ids": [
+          28,
+          53,
+          18
+        ],
+        "id": 10222,
+        "original_language": "en",
+        "original_title": "Kickboxer",
+        "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
+        "popularity": 5.8155,
+        "poster_path": "/tzEOkUn5708fQvF0bOPB5bLLRNk.jpg",
+        "release_date": "1989-04-20",
+        "title": "Kickboxer",
+        "video": false,
+        "vote_average": 6.841,
+        "vote_count": 1517
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/61cz8dZkyIo9m5bVwwfrYcvVZiK.jpg",
+        "genre_ids": [
+          12,
+          18
+        ],
+        "id": 10243,
+        "original_language": "en",
+        "original_title": "The Flight of the Phoenix",
+        "overview": "A cargo aircraft crashes in a sandstorm in the Sahara with less than a dozen men on board. One of the passengers is an airplane designer who comes up with the idea of ripping off the undamaged wing and using it as the basis for a replacement aircraft they need to build before their food and water run out.",
+        "popularity": 1.9033,
+        "poster_path": "/zrzLl7NWdjwGhVE7bqpOAxMVtF.jpg",
+        "release_date": "1965-12-15",
+        "title": "The Flight of the Phoenix",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 351
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/87nsrUeRZJClvOe4oAZjqpMf2D9.jpg",
+        "genre_ids": [
+          28,
+          35,
+          80
+        ],
+        "id": 10295,
+        "original_language": "it",
+        "original_title": "Miami Supercops",
+        "overview": "In 1978, $20 million was stolen from a Detroit bank. One of the robbers was caught, one was found dead, and the third disappeared. The money was never found. Seven years later, the robber who was caught was released from jail. He immediately went to Miami, only to be found dead the next day. Now FBI agents Doug Bennet and Steve Forest have been called in to investigate the case while posing as Miami police officers. Somewhere in Miami the third robber is hiding with his $20 million, and he has a seven-year head start on the authorities.",
+        "popularity": 2.0471,
+        "poster_path": "/j0zfJkOfQr4DfcxjjeCVFjirKpu.jpg",
+        "release_date": "1985-12-11",
+        "title": "Miami Supercops",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 451
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7CLxxoZXmVf1iKAY9xn5DpsNMQ.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "id": 10550,
+        "original_language": "en",
+        "original_title": "Ballistic: Ecks vs. Sever",
+        "overview": "Jeremiah Ecks, an FBI agent, realizes that he must join with his lifelong enemy, Agent Sever, a rogue DIA agent with whom he is in mortal combat, in order to defeat a common enemy. That enemy has developed a \"micro-device\" that can be injected into victims in order to kill them at will.",
+        "popularity": 3.1919,
+        "poster_path": "/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg",
+        "release_date": "2002-09-20",
+        "title": "Ballistic: Ecks vs. Sever",
+        "video": false,
+        "vote_average": 4.322,
+        "vote_count": 385
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bYaSV1JD9f1FBPrCDTQvFl0wcgb.jpg",
+        "genre_ids": [
+          53,
+          27,
+          28,
+          14
+        ],
+        "id": 10577,
+        "original_language": "en",
+        "original_title": "Dracula 2000",
+        "overview": "When a team of techno-savvy thieves break into a high-security vault, they don't discover priceless works of art... they find a crypt unopened for 100 years.",
+        "popularity": 5.6578,
+        "poster_path": "/jnAfl6GSZbBMigL98RJGbOSk4V1.jpg",
+        "release_date": "2000-12-22",
+        "title": "Dracula 2000",
+        "video": false,
+        "vote_average": 5.236,
+        "vote_count": 729
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/au236RSArVTOMXM6AXVNBPZEKNb.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          14
+        ],
+        "id": 10588,
+        "original_language": "en",
+        "original_title": "The Cat in the Hat",
+        "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+        "popularity": 7.4433,
+        "poster_path": "/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+        "release_date": "2003-11-21",
+        "title": "The Cat in the Hat",
+        "video": false,
+        "vote_average": 5.29,
+        "vote_count": 1750
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y0ludgr1EvyXcT1lv2M0m621LQ6.jpg",
+        "genre_ids": [
+          10751,
+          12,
+          14,
+          10770,
+          10402
+        ],
+        "id": 277217,
+        "original_language": "en",
+        "original_title": "Descendants",
+        "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
+        "popularity": 5.8866,
+        "poster_path": "/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+        "release_date": "2015-07-31",
+        "title": "Descendants",
+        "video": false,
+        "vote_average": 7.147,
+        "vote_count": 2457
+      }
+    ],
+    "total_pages": 7611,
+    "total_results": 152203
+  }
+}

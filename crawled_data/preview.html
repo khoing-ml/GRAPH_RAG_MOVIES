@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Collection - Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .stats {
+            display: flex;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+
+        .stat span {
+            font-size: 1.5rem;
+            display: block;
+            margin-top: 5px;
+        }
+
+        .filters {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .filters input,
+        .filters select {
+            padding: 12px;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            font-size: 1rem;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .filters input {
+            width: 300px;
+        }
+
+        .movies-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+
+        .movie-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .movie-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .movie-poster {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .movie-info {
+            padding: 15px;
+        }
+
+        .movie-title {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .movie-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .rating {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.85rem;
+        }
+
+        .genres {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+        }
+
+        .genre-tag {
+            background: #f0f0f0;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            color: #666;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.5rem;
+            padding: 50px;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 50px 20px;
+        }
+
+        .modal-content {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255, 255, 255, 0.9);
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            font-size: 1.5rem;
+            cursor: pointer;
+            z-index: 10;
+            transition: background 0.3s;
+        }
+
+        .modal-close:hover {
+            background: white;
+        }
+
+        .modal-backdrop {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+
+        .modal-body {
+            padding: 30px;
+        }
+
+        .modal-title {
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .modal-overview {
+            line-height: 1.6;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .modal-section {
+            margin-bottom: 20px;
+        }
+
+        .modal-section h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.2rem;
+        }
+
+        .cast-list,
+        .keyword-list {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .cast-item,
+        .keyword-item {
+            background: #f5f5f5;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎬 Movie Collection</h1>
+            <p>Crawled data preview - Ready for UI/UX development</p>
+            <div class="stats">
+                <div class="stat">
+                    Total Movies
+                    <span id="total-count">-</span>
+                </div>
+                <div class="stat">
+                    Avg Rating
+                    <span id="avg-rating">-</span>
+                </div>
+                <div class="stat">
+                    Latest Crawl
+                    <span id="crawl-date">-</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="filters">
+            <input type="text" id="search" placeholder="Search movies...">
+            <select id="genre-filter">
+                <option value="">All Genres</option>
+            </select>
+            <select id="year-filter">
+                <option value="">All Years</option>
+            </select>
+            <select id="sort-filter">
+                <option value="rating">Sort by Rating</option>
+                <option value="year">Sort by Year</option>
+                <option value="title">Sort by Title</option>
+            </select>
+        </div>
+
+        <div id="movies-container" class="movies-grid">
+            <div class="loading">Loading movies...</div>
+        </div>
+    </div>
+
+    <!-- Movie Detail Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">×</button>
+            <img id="modal-backdrop" class="modal-backdrop" src="" alt="">
+            <div class="modal-body">
+                <h2 id="modal-title" class="modal-title"></h2>
+                <div id="modal-meta" class="movie-meta"></div>
+                <p id="modal-overview" class="modal-overview"></p>
+                
+                <div class="modal-section">
+                    <h3>Cast</h3>
+                    <div id="modal-cast" class="cast-list"></div>
+                </div>
+
+                <div class="modal-section">
+                    <h3>Keywords</h3>
+                    <div id="modal-keywords" class="keyword-list"></div>
+                </div>
+
+                <div class="modal-section" id="modal-similar-section">
+                    <h3>Similar Movies</h3>
+                    <div id="modal-similar" class="cast-list"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let moviesData = [];
+        let allMovies = [];
+        let allGenres = new Set();
+        let allYears = new Set();
+
+        // Load movies index
+        fetch('../crawled_data/movies_index.json')
+            .then(res => res.json())
+            .then(data => {
+                moviesData = data.movies;
+                allMovies = [...moviesData];
+
+                // Update stats
+                document.getElementById('total-count').textContent = data.total_movies;
+                document.getElementById('avg-rating').textContent = 
+                    (moviesData.reduce((sum, m) => sum + m.rating, 0) / moviesData.length).toFixed(1);
+                document.getElementById('crawl-date').textContent = data.crawl_date.split(' ')[0];
+
+                // Collect genres and years
+                moviesData.forEach(movie => {
+                    movie.genres.forEach(g => allGenres.add(g));
+                    allYears.add(movie.year);
+                });
+
+                // Populate filters
+                const genreSelect = document.getElementById('genre-filter');
+                [...allGenres].sort().forEach(genre => {
+                    const option = document.createElement('option');
+                    option.value = genre;
+                    option.textContent = genre;
+                    genreSelect.appendChild(option);
+                });
+
+                const yearSelect = document.getElementById('year-filter');
+                [...allYears].sort((a, b) => b - a).forEach(year => {
+                    const option = document.createElement('option');
+                    option.value = year;
+                    option.textContent = year;
+                    yearSelect.appendChild(option);
+                });
+
+                // Display movies
+                displayMovies(moviesData);
+
+                // Add event listeners
+                document.getElementById('search').addEventListener('input', filterMovies);
+                document.getElementById('genre-filter').addEventListener('change', filterMovies);
+                document.getElementById('year-filter').addEventListener('change', filterMovies);
+                document.getElementById('sort-filter').addEventListener('change', filterMovies);
+            })
+            .catch(err => {
+                document.getElementById('movies-container').innerHTML = 
+                    '<div class="loading">Error loading movies. Make sure crawled_data/movies_index.json exists.</div>';
+            });
+
+        function displayMovies(movies) {
+            const container = document.getElementById('movies-container');
+            
+            if (movies.length === 0) {
+                container.innerHTML = '<div class="loading">No movies found</div>';
+                return;
+            }
+
+            container.innerHTML = movies.map(movie => `
+                <div class="movie-card" onclick="showMovieDetail(${movie.id})">
+                    <img class="movie-poster" 
+                         src="${movie.poster_url || 'https://via.placeholder.com/200x300?text=No+Poster'}" 
+                         alt="${movie.title}"
+                         onerror="this.src='https://via.placeholder.com/200x300?text=No+Poster'">
+                    <div class="movie-info">
+                        <div class="movie-title">${movie.title}</div>
+                        <div class="movie-meta">
+                            <span>${movie.year}</span>
+                            <span class="rating">⭐ ${movie.rating.toFixed(1)}</span>
+                        </div>
+                        <div class="genres">
+                            ${movie.genres.slice(0, 2).map(g => 
+                                `<span class="genre-tag">${g}</span>`
+                            ).join('')}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function filterMovies() {
+            const search = document.getElementById('search').value.toLowerCase();
+            const genreFilter = document.getElementById('genre-filter').value;
+            const yearFilter = document.getElementById('year-filter').value;
+            const sortBy = document.getElementById('sort-filter').value;
+
+            let filtered = [...allMovies];
+
+            // Apply search
+            if (search) {
+                filtered = filtered.filter(m => 
+                    m.title.toLowerCase().includes(search)
+                );
+            }
+
+            // Apply genre filter
+            if (genreFilter) {
+                filtered = filtered.filter(m => m.genres.includes(genreFilter));
+            }
+
+            // Apply year filter
+            if (yearFilter) {
+                filtered = filtered.filter(m => m.year === yearFilter);
+            }
+
+            // Apply sorting
+            if (sortBy === 'rating') {
+                filtered.sort((a, b) => b.rating - a.rating);
+            } else if (sortBy === 'year') {
+                filtered.sort((a, b) => b.year.localeCompare(a.year));
+            } else if (sortBy === 'title') {
+                filtered.sort((a, b) => a.title.localeCompare(b.title));
+            }
+
+            displayMovies(filtered);
+        }
+
+        function showMovieDetail(movieId) {
+            fetch(`../crawled_data/movies/${movieId}.json`)
+                .then(res => res.json())
+                .then(data => {
+                    const movie = data.movie;
+                    const credits = data.credits;
+                    const keywords = data.keywords.keywords || [];
+                    const similar = data.similar.results || [];
+
+                    // Set backdrop
+                    const backdropUrl = movie.backdrop_path 
+                        ? `https://image.tmdb.org/t/p/w1280${movie.backdrop_path}`
+                        : movie.poster_path 
+                        ? `https://image.tmdb.org/t/p/w1280${movie.poster_path}`
+                        : 'https://via.placeholder.com/900x400?text=No+Image';
+                    document.getElementById('modal-backdrop').src = backdropUrl;
+
+                    // Set title and meta
+                    document.getElementById('modal-title').textContent = movie.title;
+                    document.getElementById('modal-meta').innerHTML = `
+                        <span>${movie.release_date ? movie.release_date.split('-')[0] : 'N/A'}</span>
+                        <span>${movie.runtime ? movie.runtime + ' min' : ''}</span>
+                        <span class="rating">⭐ ${movie.vote_average.toFixed(1)}</span>
+                    `;
+
+                    // Set overview
+                    document.getElementById('modal-overview').textContent = movie.overview;
+
+                    // Set cast
+                    document.getElementById('modal-cast').innerHTML = credits.cast
+                        .slice(0, 10)
+                        .map(c => `<span class="cast-item">${c.name}</span>`)
+                        .join('');
+
+                    // Set keywords
+                    document.getElementById('modal-keywords').innerHTML = keywords
+                        .slice(0, 15)
+                        .map(k => `<span class="keyword-item">${k.name}</span>`)
+                        .join('');
+
+                    // Set similar movies
+                    if (similar.length > 0) {
+                        document.getElementById('modal-similar-section').style.display = 'block';
+                        document.getElementById('modal-similar').innerHTML = similar
+                            .slice(0, 5)
+                            .map(s => `<span class="cast-item">${s.title}</span>`)
+                            .join('');
+                    } else {
+                        document.getElementById('modal-similar-section').style.display = 'none';
+                    }
+
+                    // Show modal
+                    document.getElementById('modal').style.display = 'block';
+                });
+        }
+
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+
+        // Close modal on background click
+        document.getElementById('modal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>

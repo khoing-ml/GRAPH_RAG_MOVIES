@@ -1,0 +1,694 @@
+{
+  "movie": {
+    "adult": false,
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "homepage": "https://www.sololevelingreawakening.com",
+    "id": 1357633,
+    "imdb_id": "tt33428606",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "俺だけレベルアップな件 -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "popularity": 14.0248,
+    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+    "production_companies": [
+      {
+        "id": 2883,
+        "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+        "name": "Aniplex",
+        "origin_country": "JP"
+      },
+      {
+        "id": 13113,
+        "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+        "name": "A-1 Pictures",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2024-11-26",
+    "revenue": 6331827,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Solo Leveling -ReAwakening-",
+    "video": false,
+    "vote_average": 7.042,
+    "vote_count": 249
+  },
+  "credits": {
+    "id": 1357633,
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106489,
+        "known_for_department": "Acting",
+        "name": "Taito Ban",
+        "original_name": "坂泰斗",
+        "popularity": 1.5108,
+        "profile_path": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+        "cast_id": 1,
+        "character": "Shun Mizushino (voice) (archive footage)",
+        "credit_id": "66ec855919e6f27f0546cd63",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2784795,
+        "known_for_department": "Acting",
+        "name": "Genta Nakamura",
+        "original_name": "中村源太",
+        "popularity": 1.7761,
+        "profile_path": "/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg",
+        "cast_id": 2,
+        "character": "Kenta Morobishi (voice) (archive footage)",
+        "credit_id": "66ec856619e6f27f0546cd90",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3279626,
+        "known_for_department": "Acting",
+        "name": "Haruna Mikawa",
+        "original_name": "三川華月",
+        "popularity": 1.9499,
+        "profile_path": "/nsrFjmDDzo4FDMhxyvuVk4mPEH3.jpg",
+        "cast_id": 3,
+        "character": "Aoi Mizushino (voice) (archive footage)",
+        "credit_id": "66ec8572373c0ccc9cfa90f1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1452028,
+        "known_for_department": "Acting",
+        "name": "Reina Ueda",
+        "original_name": "上田麗奈",
+        "popularity": 3.4302,
+        "profile_path": "/cddK6dQtVCg6ToQRpETbRYRJK4G.jpg",
+        "cast_id": 4,
+        "character": "Shizuku Kousaka (voice) (archive footage)",
+        "credit_id": "66ec857ce08b18d3aafa8d82",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096528,
+        "known_for_department": "Acting",
+        "name": "Daisuke Hirakawa",
+        "original_name": "平川大輔",
+        "popularity": 1.856,
+        "profile_path": "/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg",
+        "cast_id": 5,
+        "character": "Shin Mogami (voice) (archive footage)",
+        "credit_id": "66ec858619e6f27f0546cdc5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89832,
+        "known_for_department": "Acting",
+        "name": "Hiroki Touchi",
+        "original_name": "東地宏樹",
+        "popularity": 2.2425,
+        "profile_path": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg",
+        "cast_id": 6,
+        "character": "Taiga Shirakawa (voice) (archive footage)",
+        "credit_id": "66ec8593065b70b542326e61",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122481,
+        "known_for_department": "Acting",
+        "name": "Banjo Ginga",
+        "original_name": "銀河万丈",
+        "popularity": 2.2679,
+        "profile_path": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+        "cast_id": 7,
+        "character": "Kiyoomi Goto (voice) (archive footage)",
+        "credit_id": "66ec859e373c0ccc9cfa90f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1319218,
+        "known_for_department": "Acting",
+        "name": "Makoto Furukawa",
+        "original_name": "古川慎",
+        "popularity": 2.6967,
+        "profile_path": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg",
+        "cast_id": 8,
+        "character": "Akira Inukai (voice) (archive footage)",
+        "credit_id": "66ec85aa3d29e1389646cd7e",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1627340,
+        "known_for_department": "Directing",
+        "name": "Shunsuke Nakashige",
+        "original_name": "中重俊祐",
+        "popularity": 1.19,
+        "profile_path": "/6HX5nrn8uClBQpgqvtm3V3KzmVb.jpg",
+        "credit_id": "672307b8003c4b5b5b644005",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1025557,
+        "known_for_department": "Writing",
+        "name": "Chugong",
+        "original_name": "추공",
+        "popularity": 0.6505,
+        "profile_path": null,
+        "credit_id": "677a8174816b2810d166e82a",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972284,
+        "known_for_department": "Writing",
+        "name": "Jang Sung-rak",
+        "original_name": "장성락",
+        "popularity": 0.4067,
+        "profile_path": null,
+        "credit_id": "677a817e38d26a2a6372aef7",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3972281,
+        "known_for_department": "Writing",
+        "name": "h-goon",
+        "original_name": "현군",
+        "popularity": 0.369,
+        "profile_path": null,
+        "credit_id": "677a818982cce15a7674f4f5",
+        "department": "Writing",
+        "job": "Comic Book"
+      }
+    ]
+  },
+  "keywords": {
+    "id": 1357633,
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 12197,
+        "name": "compilation"
+      },
+      {
+        "id": 194008,
+        "name": "edited from tv series"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 288474,
+        "name": "based on webcomic or webtoon"
+      },
+      {
+        "id": 364081,
+        "name": "dungeon crawling"
+      },
+      {
+        "id": 364185,
+        "name": "modern dungeon"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9MPCVBgyPkcWDw91mOfVQjygPGx.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          878
+        ],
+        "id": 479248,
+        "original_language": "ja",
+        "original_title": "CHAOS;CHILD SILENT SKY",
+        "overview": "Silent Sky is a movie that combines the Special episodes 13 and 14. It consists of the story in the future, three months after the incident that was similar to \"New Generation Madness\" and the disease Chaos Child Syndrome that brought by the past earthquake in Shibuya.",
+        "popularity": 0.3089,
+        "poster_path": "/mf8M4r8Xipe2BIraIEZnnsU2i09.jpg",
+        "release_date": "2017-06-17",
+        "title": "ChäoS;Child: Silent Sky",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/woMqcz0ZDL9HuPQIWSZ7BrWWqLR.jpg",
+        "genre_ids": [
+          53,
+          10752,
+          12
+        ],
+        "id": 294992,
+        "original_language": "zh",
+        "original_title": "智取威虎山",
+        "overview": "Yang Zirong disguises himself as a bandit to infiltrate and destroy a bandit group. He joins hands with a hostage, and together, they fight against the warlord, Hawk.",
+        "popularity": 2.4671,
+        "poster_path": "/7seDCoxCBa3O4bUbA4xlKtRfs2U.jpg",
+        "release_date": "2014-12-24",
+        "title": "The Taking of Tiger Mountain",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 204
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kutJSe40frpnOIwZdovN197F6be.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14
+        ],
+        "id": 674588,
+        "original_language": "ja",
+        "original_title": "デスティニーチャイルド",
+        "overview": "The devil king Lucifero suddenly declares he's going to retire, and must choose a successor. The Devil King Cadets gather one after another, and go to the human world to participate in the succession contest. But only the devil king's own descendant Osamu has no interest whatsoever in the contest. Compared to the fate of the world, Osamu is more interested in his part-time job at a convenience store. Osamu has no choice, however, but to start collecting familiars called \"Child,\" which are born from human souls. Osamu still only has an interest in his part-time job, and he's a few steps behind the rest of the Cadets.",
+        "popularity": 0.5731,
+        "poster_path": "/gnuCjqTVRd855RolzKep1VGZ8I4.jpg",
+        "release_date": "2018-05-01",
+        "title": "Destiny Child",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vmzJix9GgPSFyvxD25WIkXGEpHU.jpg",
+        "genre_ids": [
+          16,
+          10749,
+          878,
+          53
+        ],
+        "id": 28214,
+        "original_language": "ja",
+        "original_title": "11人いる!",
+        "overview": "A group of students from the Cosmo Academy are about to take their final exam: surviving for over fifty days in a derelict ship. But when they arrive, they discover that instead of ten students, there are eleven. One of them doesn't belong there...",
+        "popularity": 1.0034,
+        "poster_path": "/pvjfW8ugP3Z3jjr4F8ANieuNBZg.jpg",
+        "release_date": "1986-11-01",
+        "title": "They Were Eleven",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c3vNU1AAuSVNhWIthjigmycK6J1.jpg",
+        "genre_ids": [
+          10402,
+          14
+        ],
+        "id": 26598,
+        "original_language": "en",
+        "original_title": "Cats",
+        "overview": "\"Jellicle\" cats join for a Jellicle ball where they rejoice with their leader, Old Deuteronomy. One cat will be chosen to go to the \"Heavyside Layer\" and be reborn.",
+        "popularity": 4.8299,
+        "poster_path": "/lT8V3oJS50LAtsz3Mb1oJB6ofTC.jpg",
+        "release_date": "1998-10-05",
+        "title": "Cats",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 175
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/indT0Jfms3lN4nDFuRSSSdpCQ6s.jpg",
+        "genre_ids": [
+          35,
+          14
+        ],
+        "id": 26603,
+        "original_language": "en",
+        "original_title": "Vice Versa",
+        "overview": "A mysterious oriental skull transforms a father into his son, and vice versa.",
+        "popularity": 3.5993,
+        "poster_path": "/pAKK3wMLWCKgOtBlKw7s6TCzbg2.jpg",
+        "release_date": "1988-02-25",
+        "title": "Vice Versa",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tbZO6k6JXMAhCv9NLXS1lGYxxiy.jpg",
+        "genre_ids": [
+          10770,
+          28,
+          14,
+          878
+        ],
+        "id": 26623,
+        "original_language": "en",
+        "original_title": "Generation X",
+        "overview": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
+        "popularity": 3.6875,
+        "poster_path": "/oaM0RTIkhw0lCK9JowsIvdsJ1Pn.jpg",
+        "release_date": "1996-02-20",
+        "title": "Generation X",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 64
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
+        "genre_ids": [
+          9648,
+          14,
+          18
+        ],
+        "id": 26644,
+        "original_language": "en",
+        "original_title": "Photographing Fairies",
+        "overview": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
+        "popularity": 3.0709,
+        "poster_path": "/95rYK0G003rj8WDavXslmTO4pRE.jpg",
+        "release_date": "1997-09-19",
+        "title": "Photographing Fairies",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oR2P7RxYntNnxkdhQNUo71wQXCy.jpg",
+        "genre_ids": [
+          16,
+          35,
+          12,
+          10751
+        ],
+        "id": 293245,
+        "original_language": "ja",
+        "original_title": "ピカチュウのドキドキかくれんぼ",
+        "overview": "At a giant beachside mansion, Pikachu and some of its buddies decide to play a game of hide-and-seek. Pikachu is “it,” and it goes off in search of its friends. Meanwhile, Larvitar, sick of being all by itself, kicks a rock in anger. The rock hurtles through the air—and hits a lawnmower, turning it on and sending it tearing off after Pikachu and its friends! The group draws the lawnmower into a maze and even gets it into the water, but the lawnmower just keeps on chasing. The Pokémon build a road out of logs, hoping to get the lawnmower into a shack, but Psyduck trips and ruins the whole setup. How will the friends ever escape the lawnmower? This fantasy will have you on the edge of your seat!",
+        "popularity": 0.9978,
+        "poster_path": "/kpwwkLkkamAQIfxMj68gghHU7S1.jpg",
+        "release_date": "2001-07-07",
+        "title": "Pikachu's PikaBoo",
+        "video": false,
+        "vote_average": 6.706,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z80RWUg5fs0wxx43jDSkaJvln0m.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 293271,
+        "original_language": "fi",
+        "original_title": "Muumit Rivieralla",
+        "overview": "The Moomins along with Little My and Snorkmaiden had a sea journey that after storms and desert island dangers leads the family to Riviera, the place that takes their unity to the test.",
+        "popularity": 2.5845,
+        "poster_path": "/qwPeBYrEuLuNrYSZvp7vIpeBKEs.jpg",
+        "release_date": "2014-10-10",
+        "title": "Moomins on the Riviera",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cU9HXBinAA0Q67pWlsj0kpKfsG3.jpg",
+        "genre_ids": [
+          878,
+          16,
+          18,
+          28
+        ],
+        "id": 477776,
+        "original_language": "ja",
+        "original_title": "コードギアス 反逆のルルーシュⅠ 興道",
+        "overview": "The world is at war. Lelouch Lamperouge, an exiled prince, encounters a strange girl known as C.C., who gifts him with a great power. With this ability, Lelouch can get anyone to do as he wills. But the power of Geass: is it a blessing…or a curse?",
+        "popularity": 2.245,
+        "poster_path": "/lRfTNdwfcXnECZXeZswMOSV3q36.jpg",
+        "release_date": "2017-10-21",
+        "title": "Code Geass: Lelouch of the Rebellion I - Initiation",
+        "video": false,
+        "vote_average": 7.118,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/de94egii0q7C6GZu6gFTJS6MeMB.jpg",
+        "genre_ids": [
+          878,
+          16,
+          18,
+          28
+        ],
+        "id": 477777,
+        "original_language": "ja",
+        "original_title": "コードギアス 反逆のルルーシュⅡ 叛道",
+        "overview": "Having achieved miraculous victories in a series of battles against the Britannian Army, Lelouch Lamperouge has brought the Black Knights, his paramilitary organization, to a more powerful state than ever before. Nothing seems impossible for him when he utilizes his military strength, intellect, and Geass power of absolute obedience. However, obstacles in the face of the uprising never cease, putting Lelouch in a difficult predicament. Most worryingly, Kururugi Suzaku's combat prowess and the appearance of a mysterious child named V.V. threaten to put an end Lelouch's great rebellion.",
+        "popularity": 1.5051,
+        "poster_path": "/wENcjUrDmCj6gyhSSdA39U8RbIQ.jpg",
+        "release_date": "2018-02-10",
+        "title": "Code Geass: Lelouch of the Rebellion II - Transgression",
+        "video": false,
+        "vote_average": 7.143,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jjlHf9ruKb0BMpR1sobMONIYKcy.jpg",
+        "genre_ids": [
+          878,
+          16,
+          18,
+          28
+        ],
+        "id": 477779,
+        "original_language": "ja",
+        "original_title": "コードギアス 反逆のルルーシュⅢ 皇道",
+        "overview": "With his spell of impressive successes seemingly behind him, Lelouch Lamperouge's hopes of destroying the Brittanian Empire presided over by his father are crumbling at an alarming rate. With his sister kidnapped, his former friend Suzaku ignoring his pleas for help, and his organisation The Black Knights losing their faith in him, the man behind Zero's mask is left with nowhere to turn.",
+        "popularity": 1.7083,
+        "poster_path": "/qGoOP4VWAMQifbCRJkDPVSAkSi2.jpg",
+        "release_date": "2018-05-01",
+        "title": "Code Geass: Lelouch of the Rebellion III - Glorification",
+        "video": false,
+        "vote_average": 7.479,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wvuGYsFgkhCWTELcKa7qqc1k4zI.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14,
+          53
+        ],
+        "id": 1064869,
+        "original_language": "id",
+        "original_title": "Panji Tengkorak",
+        "overview": "Panji, who sold his soul to black magic to avenge his wife's death, intended to end his life, but found his body now shackled by black magic that controlled his soul. After wandering aimlessly, Panji met an old warrior who asked for his help to chase a bandit who had seized a sacred heirloom that was said to be able to eliminate the power of black magic. Panji accepted the offer that dragged him into a long war between two kingdoms and revealed the reality of his dark past.",
+        "popularity": 6.5713,
+        "poster_path": "/7Eq5mcSKVXBhclnaFNA4880mqOX.jpg",
+        "release_date": "2025-08-28",
+        "title": "Panji Tengkorak",
+        "video": false,
+        "vote_average": 6.833,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wlK3OUI676ozMOkSsnU6bQNOZLB.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          16
+        ],
+        "id": 26728,
+        "original_language": "en",
+        "original_title": "Garfield's Fun Fest",
+        "overview": "Garfield's 29-year winning streak in the annual Fun Fest talent competition is threatened by a dashing new entrant, Ramone, who possesses great charm. Concerned about losing his touch, Garfield goes on a quest to seek Freddy Frog's mythical pond, where it is said that anyone who drinks from it is certain to be funny.",
+        "popularity": 0.9256,
+        "poster_path": "/vsCHc3vb5xdS9nJ5YdFSY8p2ujO.jpg",
+        "release_date": "2008-08-30",
+        "title": "Garfield's Fun Fest",
+        "video": false,
+        "vote_average": 4.973,
+        "vote_count": 55
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5pDoHPXtrCBy7Ol0TyWkITKO7b8.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          12,
+          10402
+        ],
+        "id": 26730,
+        "original_language": "en",
+        "original_title": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+        "overview": "If Bugs Bunny were to direct his signature inquiry--\"What's up, doc?\"--toward the modern-day Warner Bros. creative team, he wouldn't be far off. For 1001 Rabbit Tales, they've doctored up a batch of classic cartoons featuring the carrot muncher and his bumbling comrades and bundled them, near seamlessly, into a feature-length film. Here's the premise: Bugs and Daffy, both book salesmen, are competing to sell the most copies of a kids' book. Instead of burrowing a beeline to his sales territory (he should have made a left at Albuquerque), Bugs ends up in the castle of Yosemite Sam, here a harem-leading honcho. Sam's pain-in-the-spurs son, Prince Abalaba, needs somebody to read him stories; Bugs, who'd sooner take the job than suffer the alternative, that involving being boiled in oil, signs on.",
+        "popularity": 0.947,
+        "poster_path": "/wDXqtMTh88qCY0afA6JSXTxYHn3.jpg",
+        "release_date": "1982-11-19",
+        "title": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 193
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nmS3S14NJQv3RhoAjZaKB7KjAEh.jpg",
+        "genre_ids": [
+          28,
+          12
+        ],
+        "id": 26845,
+        "original_language": "en",
+        "original_title": "Tarzan the Ape Man",
+        "overview": "James Parker and Harry Holt are on an expedition in Africa in search of the elephant burial grounds that will provide enough ivory to make them rich. Parker's beautiful daughter Jane arrives unexpectedly to join them. Jane is terrified when Tarzan and his ape friends abduct her, but when she returns to her father's expedition she has second thoughts about leaving Tarzan.",
+        "popularity": 1.6545,
+        "poster_path": "/sqtdNAktAI3p1iXmaEooaHjMmWd.jpg",
+        "release_date": "1932-03-22",
+        "title": "Tarzan the Ape Man",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 221
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mCGShJgv4H5mx60YDOldnMmfKcQ.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 477899,
+        "original_language": "ja",
+        "original_title": "あいつとララバイ 水曜日のシンデレラ",
+        "overview": "On a Wednesday morning, Kenji goes touring with his girlfriend when he spots some other riders waiting and stops his bike. One of them explains that a legendary female driver nicknamed Wednesday Cinderella passes this place every Wednesday in her white Porsche. Kenji becomes interested in this mysterious driver; however, racing with her proves more dangerous than it first seems to be.",
+        "popularity": 0.5387,
+        "poster_path": "/t0OYWU4dwyEQFXCoQ4wLlpScL9S.jpg",
+        "release_date": "1987-08-01",
+        "title": "Lullaby for Wednesday's Cinderella",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6SFrBoiuioqljN42pbTmyRKccTp.jpg",
+        "genre_ids": [
+          16,
+          28,
+          14
+        ],
+        "id": 28609,
+        "original_language": "ja",
+        "original_title": "ドラゴンボールＺ オラの悟飯をかえせッ!!",
+        "overview": "In order to wish for immortality and avenge his father, Garlic Jr. collects the dragon balls, kidnapping Goku's son Gohan in the process. Goku, Kami, Piccolo, and Krillin unite to rescue Gohan and save the world from being sucked into a dead zone.",
+        "popularity": 4.4591,
+        "poster_path": "/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg",
+        "release_date": "1989-07-15",
+        "title": "Dragon Ball Z: Dead Zone",
+        "video": false,
+        "vote_average": 6.844,
+        "vote_count": 598
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/scfBpNaw7LZIV6NtDlC01HCjEpT.jpg",
+        "genre_ids": [
+          12,
+          18
+        ],
+        "id": 28638,
+        "original_language": "ja",
+        "original_title": "中国の鳥人",
+        "overview": "Wada, a salary man, is enlisted to venture off to China to investigate a potential Jade mine. After his arrival, Wada encounters a violent, yet sentimental, yakuza, who takes the liberty of joining his adventure through China. Led on their long and disastrous journey to the mine by Shen, the three men come across something even more magical and enticing.",
+        "popularity": 1.1397,
+        "poster_path": "/civu1OxSYyxywfEOeMyCZoAOt7H.jpg",
+        "release_date": "1998-06-10",
+        "title": "The Bird People in China",
+        "video": false,
+        "vote_average": 7.186,
+        "vote_count": 86
+      }
+    ],
+    "total_pages": 7889,
+    "total_results": 157778
+  }
+}
